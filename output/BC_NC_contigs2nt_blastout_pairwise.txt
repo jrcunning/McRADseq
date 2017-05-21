@@ -1,0 +1,1478 @@
+BLASTN 2.6.0+
+
+
+Reference: Zheng Zhang, Scott Schwartz, Lukas Wagner, and Webb
+Miller (2000), "A greedy algorithm for aligning DNA sequences", J
+Comput Biol 2000; 7(1-2):203-14.
+
+
+
+Database: Nucleotide collection (nt)
+           41,670,128 sequences; 140,620,651,272 total letters
+
+
+
+Query= NC_6063307_1_2_3_4
+
+Length=1024
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 137631412627288
+
+
+Query= BC_5418779_1_2_3_4
+
+Length=1024
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+XM_015912804.1  PREDICTED: Acropora digitifera uncharacterized LO...  132     2e-26
+XM_015912802.1  PREDICTED: Acropora digitifera sorting nexin-14-l...  132     2e-26
+
+
+>XM_015912804.1 PREDICTED: Acropora digitifera uncharacterized LOC107346938 (LOC107346938), 
+mRNA
+Length=2504
+
+ Score = 132 bits (71),  Expect = 2e-26
+ Identities = 106/123 (86%), Gaps = 1/123 (1%)
+ Strand=Plus/Plus
+
+Query  395   TGTTCATCTGGGCCCGGTTGTTCGAAAGCAGATTAACTTAATCCAGGATTAGCATATAct  454
+             ||| || |||||||| |||||| |||||||||||||||||||||||||||||| || |||
+Sbjct  1603  TGTCCACCTGGGCCCAGTTGTTTGAAAGCAGATTAACTTAATCCAGGATTAGCCTAAACT  1662
+
+Query  455   tttatttgaagttt-taacttttcggtgaaagtttcttttgcttatttttgtttttcaag  513
+             ||  ||| | |||| || ||| | ||||||| |||||||  |||||||||||||||||||
+Sbjct  1663  TTGGTTTCATGTTTCTACCTTGTTGGTGAAAATTTCTTTCTCTTATTTTTGTTTTTCAAG  1722
+
+Query  514   att  516
+             |||
+Sbjct  1723  ATT  1725
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 137631412627288
+
+
+Query= NC_1016405_1_2_3_4
+
+Length=1024
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 137631412627288
+
+
+Query= NC_235035_1_2_3_4
+
+Length=983
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 137631412627288
+
+
+Query= BC_5422577_1_2_3_4
+
+Length=1022
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 137631412627288
+
+
+Query= ND_6136479_1_2_3_4
+
+Length=1024
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 137631412627288
+
+
+Query= ND_4370893_1_2_3_4
+
+Length=611
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+XM_015900189.1  PREDICTED: Acropora digitifera uncharacterized LO...  257     2e-64
+GU137059.1  Montipora capitata clone Mc0862 microsatellite sequence   93.5    6e-15
+
+
+>XM_015900189.1 PREDICTED: Acropora digitifera uncharacterized LOC107335200 (LOC107335200), 
+mRNA
+Length=1882
+
+ Score = 257 bits (139),  Expect = 2e-64
+ Identities = 191/216 (88%), Gaps = 4/216 (2%)
+ Strand=Plus/Minus
+
+Query  336   AAAGATAAAGTCACTTTATTTAACGTCGGTAGTTTCTTCAGCTACGAGGCTGGTATCAAT  395
+             |||| ||||||||||||||||||||||||||||| ||||||||| |||||||||||||||
+Sbjct  1288  AAAGGTAAAGTCACTTTATTTAACGTCGGTAGTTCCTTCAGCTAGGAGGCTGGTATCAAT  1229
+
+Query  396   GGAAGCCAATGGTGCGCCCTTTACCCCCCTC--CCTCTGTCAGTGCTCCGTTTTAAGGGG  453
+             ||||||| | |||||||||| |||||||| |  |||||||||||||||||||||| ||| 
+Sbjct  1228  GGAAGCCGACGGTGCGCCCTCTACCCCCCCCTGCCTCTGTCAGTGCTCCGTTTTACGGGT  1169
+
+Query  454   ATTTAAAGCTATAGCCACACACGGGTCAGAGGAAAGTCGAAACAGACGTTGAAGTCACCG  513
+             ||| |||||||| || ||||  ||  ||||||||||||||| |||||||||||||||| |
+Sbjct  1168  ATTCAAAGCTATGGCTACAC--GGAACAGAGGAAAGTCGAAGCAGACGTTGAAGTCACTG  1111
+
+Query  514   AGGATCAAACCGGGGAACTCTCGCTCCGAAAGCTGC  549
+             | |||| |||||| || ||||||||| |||||||||
+Sbjct  1110  AAGATCGAACCGGAGACCTCTCGCTCAGAAAGCTGC  1075
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 137631412627288
+
+
+Query= BC_7969249_1_2_3_4
+
+Length=724
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 137631412627288
+
+
+Query= BC_3115287_1_2_3_4
+
+Length=1024
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+XR_001566564.1  PREDICTED: Acropora digitifera uncharacterized LO...  1827    0.0  
+XR_001566565.1  PREDICTED: Acropora digitifera uncharacterized LO...  1663    0.0  
+XM_015919632.1  PREDICTED: Acropora digitifera uncharacterized LO...  1663    0.0  
+XR_001566563.1  PREDICTED: Acropora digitifera uncharacterized LO...  1663    0.0  
+XR_001566562.1  PREDICTED: Acropora digitifera uncharacterized LO...  1663    0.0  
+XR_001566561.1  PREDICTED: Acropora digitifera uncharacterized LO...  1663    0.0  
+
+
+>XR_001566564.1 PREDICTED: Acropora digitifera uncharacterized LOC107353291 (LOC107353291), 
+transcript variant X5, misc_RNA
+Length=2380
+
+ Score = 1827 bits (989),  Expect = 0.0
+ Identities = 1013/1024 (99%), Gaps = 3/1024 (0%)
+ Strand=Plus/Plus
+
+Query  1     GATCCTCAAAGCTCAGGGTCTAATTATGTATGGGTGTGAGAAAAAAAATACTTTGAAACA  60
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30    GATCCTCAAAGCTCAGGGTCTAATTATGTATGGGTGTGAGAAAAAAAATACTTTGAAACA  89
+
+Query  61    AGAGATTTATAGATCCTTGTCTCTCTATCAGATGGATTTCCAGGCAATATCAATGAGCTC  120
+             ||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||
+Sbjct  90    AGAGATTTATAGATCCTTGTCTCTCTATCAGATGGTTTTCCAGGCAATATCAATGAGCTC  149
+
+Query  121   AGCTGAGGAACTGCAAGAGTTGGGCTTAGTTAGAGGTGATGCAATGAATTTGAAGCATTT  180
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  150   AGCTGAGGAACTGCAAGAGTTGGGCTTAGTTAGAGGTGATGCAATGAATTTGAAGCATTT  209
+
+Query  181   TGCCCAGACTAGACTACAGGCTCAGAAGAAAGTTTCTGGAAAAGATGAGAAAAAGCGCCT  240
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  210   TGCCCAGACTAGACTACAGGCTCAGAAGAAAGTTTCTGGAAAAGATGAGAAAAAGCGCCT  269
+
+Query  241   TCTGGAAGAAGTGTTGAGCCAAGGAGGTAAAGACAGAAAAAAAGCGCCTTCAAAGGTGAA  300
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  270   TCTGGAAGAAGTGTTGAGCCAAGGAGGTAAAGACAGAAAAAAAGCGCCTTCAAAGGTGAA  329
+
+Query  301   TACATCAAGAAAGAAGGCTGTCCGTAAAGTTAACTTAGGATGGCTCCATTTCCATGAGTC  360
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  330   TACATCAAGAAAGAAGGCTGTCCGTAAAGTTAACTTAGGATGGCTCCATTTCCATGAGTC  389
+
+Query  361   AACACAAACATATGTACAAGTCAAAAGCCAAAAAGGGGGAGGAACCCGAGTTGCAGATTT  420
+             ||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||
+Sbjct  390   AACACAAACATATGTACAAGTCAAAAGCCCAAAAGGGGGAGGAACCCGAGTTGCAGATTT  449
+
+Query  421   GCCAATGCTCTCCACCAGAGACATCATTATCAGTACAGGGATAAACTTTTTTTTTCCAAA  480
+             ||||||||||||||||||||||||||||||||||||||||||||||| |||||||||| |
+Sbjct  450   GCCAATGCTCTCCACCAGAGACATCATTATCAGTACAGGGATAAACTGTTTTTTTCCATA  509
+
+Query  481   AGGATCCAGCACCTTTGGCCCCTCAAATGAGATGGAATTCTCACTTTCTAATTTTCAGCA  540
+              |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  510   TGGATCCAGCACCTTTGGCCCCTCAAATGAGATGGAATTCTCACTTTCTAATTTTCAGCA  569
+
+Query  541   ACAAGAAATCCCTGACTCTGACAAATTCACATTGCAACAATATGTAGAAGAATATAAGCT  600
+             ||||||||||||||||||||||||| | ||||||||||||||||||||||||||||||||
+Sbjct  570   ACAAGAAATCCCTGACTCTGACAAAATTACATTGCAACAATATGTAGAAGAATATAAGCT  629
+
+Query  601   AAACAGAATAACTCTCTACTTGTTAAGCAGAAGAAAGGAAAGTTCTGATCATCCAGACAT  660
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  630   AAACAGAATAACTCTCTACTTGTTAAGCAGAAGAAAGGAAAGTTCTGATCATCCAGACAT  689
+
+Query  661   TGCTGACAGTGAATTAGAGAAGCCAGTGTTTTCCCCTGCAGAAACGGTTCACCATGCAAG  720
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  690   TGCTGACAGTGAATTAGAGAAGCCAGTGTTTTCCCCTGCAGAAACGGTTCACCATGCAAG  749
+
+Query  721   TGAAGCTGAAGTGTTAACAGAGAGTCTAGATGACAGACGACAGCTCATTTCTGAGCAAAA  780
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  750   TGAAGCTGAAGTGTTAACAGAGAGTCTAGATGACAGACGACAGCTCATTTCTGAGCAAAA  809
+
+Query  781   TGAGGAGTACTGGAAATCACTGGAAACTGACAGGGAGTTGGAGAGGAGAAAGAGGGCAAA  840
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  810   TGAGGAGTACTGGAAATCACTGGAAACTGACAGGGAGTTGGAGAGGAGAAAGAGGGCAAA  869
+
+Query  841   GCTTTCAGAAGAAGCCAGTTTAGTCAAGAGACAAGTTGAAATCATGTTGGCTAGGAAAGA  900
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  870   GCTTTCAGAAGAAGCCAGTTTAGTCAAGAGACAAGTTGAAATCATGTTGGCTAGGAAAGA  929
+
+Query  901   TAGAGTTCCTGGAGAACCTTGTCAAGGAGAGGACAGAGTGGTGGTAGTGAGAGTTCGCCA  960
+             ||||||||||| |||||||||||||||||||||||||   ||||||||||||||||||||
+Sbjct  930   TAGAGTTCCTGAAGAACCTTGTCAAGGAGAGGACAGA---GTGGTAGTGAGAGTTCGCCA  986
+
+Query  961   TTTAACATTCGGTGTTGTCGAAAGATTCTTCAGGCCAGACACTATGCTGGCTTCAATCTA  1020
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  987   TTTAACATTCGGTGTTGTCGAAAGATTCTTCAGGCCAGACACTATGCTGGCTTCAATCTA  1046
+
+Query  1021  TGAC  1024
+             ||||
+Sbjct  1047  TGAC  1050
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 137631412627288
+
+
+Query= BC_3577569_1_2_3_4
+
+Length=657
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 137631412627288
+
+
+Query= ND_2090286_1_2_3_4
+
+Length=508
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+AJ884899.1  Symbiodinium sp. ex Scolymia sp. chloroplast psbA gen...  429     3e-116
+HG515020.1  Symbiodinium sp. C3 chloroplast minicircle DNA, psbD ...  427     1e-115
+HG515027.1  Symbiodinium sp. C3 chloroplast partial 16S rRNA gene...  418     7e-113
+HG515022.1  Symbiodinium sp. C3 chloroplast minicircle DNA, petB ...  414     9e-112
+HG515015.1  Symbiodinium sp. C3 chloroplast minicircle DNA, psaA ...  412     3e-111
+HG515017.1  Symbiodinium sp. C3 chloroplast minicircle DNA, psbA ...  411     1e-110
+HG515018.1  Symbiodinium sp. C3 chloroplast minicircle DNA, psbB ...  405     6e-109
+HG515019.1  Symbiodinium sp. C3 chloroplast minicircle DNA, psbC ...  401     7e-108
+HG515025.1  Symbiodinium sp. C3 chloroplast minicircle DNA, atpB ...  399     3e-107
+HG515028.1  Symbiodinium sp. C3 chloroplast partial 23S rRNA gene...  396     3e-106
+HG515016.1  Symbiodinium sp. C3 chloroplast minicircle DNA, psaB ...  387     2e-103
+HG515024.1  Symbiodinium sp. C3 chloroplast minicircle DNA, atpA ...  381     9e-102
+AY160086.1  Symbiodinium sp. Gt2 psbA minicircle non-coding regio...  331     9e-87 
+KT156648.1  Symbiodinium sp. C39 voucher OMD036 psbA minicircle n...  327     1e-85 
+KT156647.1  Symbiodinium sp. C39 voucher ADD036 psbA minicircle n...  313     3e-81 
+KF572183.1  Symbiodinium sp. DJT-2013a isolate RB38 psbA minicirc...  303     2e-78 
+KF572182.1  Symbiodinium sp. DJT-2013a isolate Bar05_84 psbA mini...  303     2e-78 
+KT630859.1  Symbiodinium goreaui isolate pg5x chloroplast psbA mi...  300     3e-77 
+KF572175.1  Symbiodinium goreaui isolate JPB08_48 psbA minicircle...  300     3e-77 
+KF572174.1  Symbiodinium goreaui isolate JPB08_63 psbA minicircle...  300     3e-77 
+KF572170.1  Symbiodinium goreaui isolate JPB08_34 psbA minicircle...  300     3e-77 
+KF572169.1  Symbiodinium goreaui isolate JPB08_55 psbA minicircle...  300     3e-77 
+KF572167.1  Symbiodinium goreaui isolate PM99_73 psbA minicircle ...  300     3e-77 
+KF572166.1  Symbiodinium goreaui isolate Be02_29 psbA minicircle ...  300     3e-77 
+KF572162.1  Symbiodinium goreaui isolate Culture RT152 psbA minic...  300     3e-77 
+KF572161.1  Symbiodinium goreaui isolate Culture RT113 psbA minic...  300     3e-77 
+KF572159.1  Symbiodinium goreaui isolate FGB05_90 psbA minicircle...  300     3e-77 
+KF572157.1  Symbiodinium goreaui isolate FGB05_34 psbA minicircle...  300     3e-77 
+KF572156.1  Symbiodinium goreaui isolate FGB05_89 psbA minicircle...  300     3e-77 
+KF572172.1  Symbiodinium goreaui isolate A03_198 psbA minicircle ...  298     1e-76 
+KF572168.1  Symbiodinium goreaui isolate FL01_81 psbA minicircle ...  298     1e-76 
+KF572165.1  Symbiodinium goreaui isolate Be02_30 psbA minicircle ...  298     1e-76 
+KF572164.1  Symbiodinium goreaui isolate Be02_118 psbA minicircle...  298     1e-76 
+KF572163.1  Symbiodinium goreaui isolate Be02_139 psbA minicircle...  298     1e-76 
+KF572160.1  Symbiodinium goreaui isolate FGB_70 psbA minicircle n...  298     1e-76 
+KF572158.1  Symbiodinium goreaui isolate FGB05_69 psbA minicircle...  298     1e-76 
+KF572153.1  Symbiodinium goreaui isolate FLKeys_6298 psbA minicir...  298     1e-76 
+KF572171.1  Symbiodinium goreaui isolate JPB08_42 psbA minicircle...  294     1e-75 
+AY160089.1  Symbiodinium sp. Pd psbA minicircle non-coding region...  294     1e-75 
+AY160088.1  Symbiodinium sp. Lp psbA minicircle non-coding region...  294     1e-75 
+AY160087.1  Symbiodinium sp. Ha psbA minicircle non-coding region...  292     4e-75 
+HQ336248.1  Symbiodinium sp. Panama11_C1bc psbA minicircle, parti...  289     6e-74 
+HQ336236.1  Symbiodinium sp. GAL1060_C1d psbA minicircle, partial...  289     6e-74 
+KF572212.1  Symbiodinium sp. DJT-2013f isolate BB07_240 psbA mini...  287     2e-73 
+KF572211.1  Symbiodinium sp. DJT-2013f isolate BB07_250 psbA mini...  287     2e-73 
+KF572198.1  Symbiodinium sp. DJT-2013d isolate JPB08_75 psbA mini...  287     2e-73 
+KF572190.1  Symbiodinium sp. DJT-2013d isolate A03_138 psbA minic...  287     2e-73 
+KT630857.1  Symbiodinium goreaui isolate pgB6 chloroplast psbA mi...  285     7e-73 
+KF572193.1  Symbiodinium sp. DJT-2013d isolate BE02_135 psbA mini...  285     7e-73 
+KF572200.1  Symbiodinium sp. DJT-2013d isolate JPB08_177 psbA min...  283     3e-72 
+KF572197.1  Symbiodinium sp. DJT-2013d isolate JPB08_17 psbA mini...  283     3e-72 
+KF572196.1  Symbiodinium sp. DJT-2013d isolate JPB08_84 psbA mini...  283     3e-72 
+KF572173.1  Symbiodinium goreaui isolate A03_56 psbA minicircle n...  283     3e-72 
+KF572194.1  Symbiodinium sp. DJT-2013d isolate A03_98 psbA minici...  281     1e-71 
+KF572191.1  Symbiodinium sp. DJT-2013d isolate JPB08_92 psbA mini...  281     1e-71 
+KF572189.1  Symbiodinium sp. DJT-2013d isolate A03_50 psbA minici...  281     1e-71 
+KF572302.1  Symbiodinium sp. DJT-2013s isolate Bar07_10 psbA mini...  279     3e-71 
+KF572219.1  Symbiodinium sp. DJT-2013g isolate Haw02_6 psbA minic...  279     3e-71 
+KF572218.1  Symbiodinium sp. DJT-2013g isolate Haw02_51 psbA mini...  279     3e-71 
+KF572216.1  Symbiodinium sp. DJT-2013g isolate BB07_201 psbA mini...  279     3e-71 
+KF572213.1  Symbiodinium sp. DJT-2013g isolate Baja04_135 psbA mi...  279     3e-71 
+KF572206.1  Symbiodinium sp. DJT-2013d isolate Zam03 psbA minicir...  279     3e-71 
+KF572199.1  Symbiodinium sp. DJT-2013d isolate PM99_72 psbA minic...  279     3e-71 
+KF572195.1  Symbiodinium sp. DJT-2013d isolate A02_71 psbA minici...  279     3e-71 
+KF572192.1  Symbiodinium sp. DJT-2013d isolate JPB08_61 psbA mini...  279     3e-71 
+KF572220.1  Symbiodinium sp. DJT-2013g isolate Haw02_63 psbA mini...  278     1e-70 
+HQ336230.1  Symbiodinium sp. BB07_293_C1ee psbA minicircle, parti...  278     1e-70 
+HQ336229.1  Symbiodinium sp. BB07_295_C1ee psbA minicircle, parti...  278     1e-70 
+HQ336228.1  Symbiodinium sp. BB07_303_C1ee psbA minicircle, parti...  278     1e-70 
+HQ336226.1  Symbiodinium sp. BB07_304_C1ee psbA minicircle, parti...  278     1e-70 
+KF572204.1  Symbiodinium sp. DJT-2013d isolate A02_136 psbA minic...  276     5e-70 
+HQ336250.1  Symbiodinium sp. Panama27_C1bc psbA minicircle, parti...  276     5e-70 
+HQ336249.1  Symbiodinium sp. Panama15_C1bc psbA minicircle, parti...  276     5e-70 
+HQ336242.1  Symbiodinium sp. LAP08_154_C1bc psbA minicircle, part...  276     5e-70 
+HQ336235.1  Symbiodinium sp. Panama25_C1d psbA minicircle, partia...  276     5e-70 
+HQ336232.1  Symbiodinium sp. Panama13_C1d psbA minicircle, partia...  276     5e-70 
+HQ336231.1  Symbiodinium sp. Panama16_C1d psbA minicircle, partia...  276     5e-70 
+KF572215.1  Symbiodinium sp. DJT-2013g isolate BB07_190 psbA mini...  274     2e-69 
+HQ336245.1  Symbiodinium sp. BB07_307_C1bc psbA minicircle, parti...  274     2e-69 
+HQ336227.1  Symbiodinium sp. BB07_305_C1ee psbA minicircle, parti...  274     2e-69 
+KT630858.1  Symbiodinium goreaui isolate pgB11 chloroplast psbA m...  272     6e-69 
+KF572207.1  Symbiodinium sp. DJT-2013d isolate Baja04_34 psbA min...  272     6e-69 
+KF572186.1  Symbiodinium sp. DJT-2013b isolate PM99_36 psbA minic...  272     6e-69 
+KF572181.1  Symbiodinium sp. DJT-2013a isolate FL01_63 psbA minic...  272     6e-69 
+KF572180.1  Symbiodinium sp. DJT-2013a isolate Be02_90 psbA minic...  270     2e-68 
+HQ336246.1  Symbiodinium sp. BB07_308_C1bc psbA minicircle, parti...  270     2e-68 
+HQ336241.1  Symbiodinium sp. LAP08_147_C1bc psbA minicircle, part...  270     2e-68 
+KF572185.1  Symbiodinium sp. DJT-2013b isolate PM99_35 psbA minic...  268     8e-68 
+KF572178.1  Symbiodinium sp. DJT-2013a isolate FL01_35 psbA minic...  268     8e-68 
+HQ336233.1  Symbiodinium sp. Panama8_C1d psbA minicircle, partial...  268     8e-68 
+KF572210.1  Symbiodinium sp. DJT-2013e isolate Baja04_14 psbA min...  267     3e-67 
+KF572209.1  Symbiodinium sp. DJT-2013e isolate Baja04_30 psbA min...  267     3e-67 
+KF572179.1  Symbiodinium sp. DJT-2013a isolate Bar05_45 psbA mini...  267     3e-67 
+HQ336234.1  Symbiodinium sp. Panama17_C1d psbA minicircle, partia...  267     3e-67 
+HG515023.1  Symbiodinium sp. C3 chloroplast minicircle DNA, petD ...  265     1e-66 
+KF572372.1  Symbiodinium sp. DJT-2013ab isolate A02_36 photosyste...  265     1e-66 
+KF572208.1  Symbiodinium sp. DJT-2013e isolate Baja04_124 psbA mi...  265     1e-66 
+KF572187.1  Symbiodinium sp. DJT-2013b isolate Be02_98 psbA minic...  265     1e-66 
+HQ336247.1  Symbiodinium sp. BB07_309_C1bc psbA minicircle, parti...  265     1e-66 
+HQ336240.1  Symbiodinium sp. LAP08_167_C1bc psbA minicircle, part...  263     4e-66 
+HQ336252.1  Symbiodinium sp. GAL_dt1037_C1bc psbA minicircle, par...  259     5e-65 
+KT156650.1  Symbiodinium sp. C41 voucher ALB012 psbA minicircle n...  255     6e-64 
+KT156649.1  Symbiodinium sp. C41 voucher ALB028 psbA minicircle n...  255     6e-64 
+HG515021.1  Symbiodinium sp. C3 chloroplast minicircle DNA, psbE ...  250     3e-62 
+KF572340.1  Symbiodinium sp. DJT-2013t isolate Bar07_132 psbA min...  250     3e-62 
+KF572184.1  Symbiodinium sp. DJT-2013a isolate CVX09_01 psbA mini...  250     3e-62 
+KF572366.1  Symbiodinium sp. DJT-2013z isolate WA112 photosystem ...  246     4e-61 
+KF572364.1  Symbiodinium sp. DJT-2013z isolate WA10 psbA minicirc...  246     4e-61 
+KF572320.1  Symbiodinium sp. DJT-2013s isolate Cur09_107A psbA mi...  243     5e-60 
+KF572365.1  Symbiodinium sp. DJT-2013z isolate WA99 psbA minicirc...  241     2e-59 
+KF572233.1  Symbiodinium sp. DJT-2013h isolate Cur11_44 psbA mini...  241     2e-59 
+KF572232.1  Symbiodinium sp. DJT-2013h isolate Cur11_47 psbA mini...  241     2e-59 
+KF572337.1  Symbiodinium sp. DJT-2013t isolate Bar05_119 photosys...  239     6e-59 
+KF572336.1  Symbiodinium sp. DJT-2013t isolate Bar05_89 psbA mini...  239     6e-59 
+KF572338.1  Symbiodinium sp. DJT-2013t isolate Bar07_130 psbA min...  237     2e-58 
+KF572328.1  Symbiodinium sp. DJT-2013s isolate Cur09_45A psbA min...  237     2e-58 
+KF572367.1  Symbiodinium sp. DJT-2013z isolate WA29 photosystem I...  235     8e-58 
+KF572363.1  Symbiodinium sp. DJT-2013z isolate A03_379 photosyste...  235     8e-58 
+KF572362.1  Symbiodinium sp. DJT-2013z isolate WA908 photosystem ...  235     8e-58 
+KF572358.1  Symbiodinium sp. DJT-2013z isolate A03_333 photosyste...  235     8e-58 
+KF572357.1  Symbiodinium sp. DJT-2013z isolate A03_326 photosyste...  235     8e-58 
+KF572282.1  Symbiodinium sp. DJT-2013k isolate FGB05_64a photosys...  235     8e-58 
+KF572279.1  Symbiodinium sp. DJT-2013k isolate FGB05_65 photosyst...  235     8e-58 
+KF572278.1  Symbiodinium sp. DJT-2013k isolate FGB05_66 psbA mini...  235     8e-58 
+KF572227.1  Symbiodinium sp. DJT-2013h isolate Bar05_80 photosyst...  235     8e-58 
+KF572375.1  Symbiodinium sp. DJT-2013ad isolate JPB08_24 psbA min...  233     3e-57 
+KF572314.1  Symbiodinium sp. DJT-2013s isolate CB32_02 photosyste...  231     1e-56 
+KF572393.1  Symbiodinium sp. DJT-2013ae isolate JPB08_35 psbA min...  230     4e-56 
+KF572281.1  Symbiodinium sp. DJT-2013k isolate FGB05_17 photosyst...  230     4e-56 
+KF572240.1  Symbiodinium sp. DJT-2013h isolate Bah_442 psbA minic...  230     4e-56 
+KF572239.1  Symbiodinium sp. DJT-2013h isolate Bah_428 psbA minic...  230     4e-56 
+KF572237.1  Symbiodinium sp. DJT-2013h isolate Bah_725 psbA minic...  230     4e-56 
+KF572222.1  Symbiodinium sp. DJT-2013h isolate Bar05_104 photosys...  230     4e-56 
+HQ336225.1  Symbiodinium sp. BB07_282_C1ee psbA minicircle, parti...  230     4e-56 
+KF572397.1  Symbiodinium sp. DJT-2013ae isolate Cur09_106 psbA mi...  226     5e-55 
+KF572377.1  Symbiodinium sp. DJT-2013ad isolate JPB08_6 psbA mini...  226     5e-55 
+KF572339.1  Symbiodinium sp. DJT-2013t isolate Bar07_131 psbA min...  226     5e-55 
+KF572236.1  Symbiodinium sp. DJT-2013h isolate YB98_83 photosyste...  226     5e-55 
+KF572235.1  Symbiodinium sp. DJT-2013h isolate YB98_84 photosyste...  226     5e-55 
+KF572415.1  Symbiodinium sp. DJT-2013ag isolate FGB05_87 psbA min...  224     2e-54 
+KF572416.1  Symbiodinium sp. DJT-2013ag isolate FGB05_39 photosys...  224     2e-54 
+KF572411.1  Symbiodinium sp. DJT-2013ae isolate STX04_58 psbA min...  224     2e-54 
+KF572394.1  Symbiodinium sp. DJT-2013ae isolate JPB08_08 psbA min...  224     2e-54 
+KF572390.1  Symbiodinium sp. DJT-2013ae isolate JPB08_19 photosys...  224     2e-54 
+KF572371.1  Symbiodinium sp. DJT-2013aa isolate Haw02_45b photosy...  224     2e-54 
+KF572296.1  Symbiodinium sp. DJT-2013q isolate FGB05_76 photosyst...  224     2e-54 
+KF572285.1  Symbiodinium sp. DJT-2013m isolate BR16 photosystem I...  224     2e-54 
+KF572225.1  Symbiodinium sp. DJT-2013h isolate Bar05_135 photosys...  224     2e-54 
+KF572379.1  Symbiodinium sp. DJT-2013ae isolate Bah02_62 photosys...  222     6e-54 
+KF572370.1  Symbiodinium sp. DJT-2013z isolate 21_C40 photosystem...  222     6e-54 
+KF572369.1  Symbiodinium sp. DJT-2013z isolate SW37 psbA minicirc...  222     6e-54 
+KF572368.1  Symbiodinium sp. DJT-2013z isolate WA93 photosystem I...  222     6e-54 
+KF572300.1  Symbiodinium sp. DJT-2013r isolate Be02_193 photosyst...  222     6e-54 
+KF572292.1  Symbiodinium sp. DJT-2013p isolate Bah02_43 psbA mini...  222     6e-54 
+KF572277.1  Symbiodinium sp. DJT-2013j isolate F1380 psbA minicir...  222     6e-54 
+KF572231.1  Symbiodinium sp. DJT-2013h isolate STX04_35 photosyst...  222     6e-54 
+KF572395.1  Symbiodinium sp. DJT-2013ae isolate Cur09_109 psbA mi...  220     2e-53 
+KF572332.1  Symbiodinium sp. DJT-2013s isolate ABA06_28 psbA mini...  220     2e-53 
+KF572359.1  Symbiodinium sp. DJT-2013z isolate A03_337 photosyste...  219     8e-53 
+KF572333.1  Symbiodinium sp. DJT-2013t isolate FGB05_32 photosyst...  219     8e-53 
+KF572284.1  Symbiodinium sp. DJT-2013l isolate PM99_20 photosyste...  219     8e-53 
+KF572229.1  Symbiodinium sp. DJT-2013h isolate STX04_32 photosyst...  217     3e-52 
+KF572228.1  Symbiodinium sp. DJT-2013h isolate STX04_31 photosyst...  217     3e-52 
+KF572316.1  Symbiodinium sp. DJT-2013s isolate CB13_02 photosyste...  215     1e-51 
+KF572276.1  Symbiodinium sp. DJT-2013j isolate F1363 psbA minicir...  215     1e-51 
+KF572413.1  Symbiodinium sp. DJT-2013ae isolate Bar05_113 photosy...  213     4e-51 
+KF572385.1  Symbiodinium sp. DJT-2013ae isolate Bah01_08 photosys...  213     4e-51 
+KF572230.1  Symbiodinium sp. DJT-2013h isolate STX04_34 photosyst...  213     4e-51 
+KF572224.1  Symbiodinium sp. DJT-2013h isolate Bar05_134 psbA min...  213     4e-51 
+KF572421.1  Symbiodinium sp. DJT-2013ah isolate PM99_31 photosyst...  211     1e-50 
+KF572361.1  Symbiodinium sp. DJT-2013z isolate A03_331 photosyste...  211     1e-50 
+KF572360.1  Symbiodinium sp. DJT-2013z isolate A03_127 psbA minic...  211     1e-50 
+KF572313.1  Symbiodinium sp. DJT-2013s isolate CB14_02 psbA minic...  211     1e-50 
+KF572311.1  Symbiodinium sp. DJT-2013s isolate STX04_54b photosys...  211     1e-50 
+KF572310.1  Symbiodinium sp. DJT-2013s isolate STX04_55a psbA min...  211     1e-50 
+KF572223.1  Symbiodinium sp. DJT-2013h isolate Bar05_133 photosys...  211     1e-50 
+KF572392.1  Symbiodinium sp. DJT-2013ae isolate JPB08_52 psbA min...  209     5e-50 
+KF572331.1  Symbiodinium sp. DJT-2013s isolate ABA06_26 psbA mini...  209     5e-50 
+KF572286.1  Symbiodinium sp. DJT-2013n isolate Be02_178 photosyst...  209     5e-50 
+KF572244.1  Symbiodinium sp. DJT-2013h isolate Cur11_27a psbA min...  209     5e-50 
+KF572241.1  Symbiodinium sp. DJT-2013h isolate Cur11_25 psbA mini...  209     5e-50 
+KF572374.1  Symbiodinium sp. DJT-2013ac isolate A03_64 photosyste...  207     2e-49 
+KF572373.1  Symbiodinium sp. DJT-2013ac isolate A03_2 photosystem...  207     2e-49 
+KF572312.1  Symbiodinium sp. DJT-2013s isolate STX04_55b photosys...  207     2e-49 
+KF572309.1  Symbiodinium sp. DJT-2013s isolate STX04_54a psbA min...  207     2e-49 
+KF572246.1  Symbiodinium sp. DJT-2013h isolate Cur11_23 psbA mini...  207     2e-49 
+KF572242.1  Symbiodinium sp. DJT-2013h isolate Cur11_20 psbA mini...  207     2e-49 
+KF572420.1  Symbiodinium sp. DJT-2013ah isolate PM99_30 photosyst...  206     6e-49 
+KF572419.1  Symbiodinium sp. DJT-2013ah isolate PM99_29 photosyst...  206     6e-49 
+KF572293.1  Symbiodinium sp. DJT-2013p isolate Bar05_114 photosys...  206     6e-49 
+KF572422.1  Symbiodinium sp. DJT-2013ah isolate PM99_33 photosyst...  204     2e-48 
+KF572407.1  Symbiodinium sp. DJT-2013ae isolate PM99_22 photosyst...  202     8e-48 
+KF572343.1  Symbiodinium sp. DJT-2013t isolate Be02_97 photosyste...  202     8e-48 
+KF572299.1  Symbiodinium sp. DJT-2013r isolate Be02_192 photosyst...  202     8e-48 
+KF572243.1  Symbiodinium sp. DJT-2013h isolate Cur11_22 psbA mini...  202     8e-48 
+KF572203.1  Symbiodinium sp. DJT-2013d isolate A02_47 psbA minici...  202     8e-48 
+KF572334.1  Symbiodinium sp. DJT-2013t isolate FGB05_31 photosyst...  200     3e-47 
+KF572226.1  Symbiodinium sp. DJT-2013h isolate Bar05_75 photosyst...  200     3e-47 
+KF572287.1  Symbiodinium sp. DJT-2013n isolate PM99_74 photosyste...  198     1e-46 
+KF572412.1  Symbiodinium sp. DJT-2013ae isolate STX04_59 psbA min...  196     4e-46 
+KF572404.1  Symbiodinium sp. DJT-2013ae isolate Be02_81 photosyst...  196     4e-46 
+KF572344.1  Symbiodinium sp. DJT-2013u isolate Be02_170 photosyst...  196     4e-46 
+KF572335.1  Symbiodinium sp. DJT-2013t isolate FGB05_30 photosyst...  196     4e-46 
+KF572303.1  Symbiodinium sp. DJT-2013s isolate Bar07_03 psbA mini...  196     4e-46 
+KF572304.1  Symbiodinium sp. DJT-2013s isolate Bar07_23 psbA mini...  195     1e-45 
+KF572274.1  Symbiodinium sp. DJT-2013j isolate F1362 psbA minicir...  195     1e-45 
+KF572345.1  Symbiodinium sp. DJT-2013u isolate Be02_171 photosyst...  193     5e-45 
+KF572409.1  Symbiodinium sp. DJT-2013ae isolate Cur09_26 psbA min...  191     2e-44 
+KF572408.1  Symbiodinium sp. DJT-2013ae isolate Cur09_28 photosys...  191     2e-44 
+KF572406.1  Symbiodinium sp. DJT-2013ae isolate Be02_51 photosyst...  191     2e-44 
+KF572355.1  Symbiodinium sp. DJT-2013x isolate Cur09_40C psbA min...  191     2e-44 
+KF572342.1  Symbiodinium sp. DJT-2013t isolate Be02_91 photosyste...  191     2e-44 
+KF572398.1  Symbiodinium sp. DJT-2013ae isolate Cur09_47B psbA mi...  189     6e-44 
+KF572401.1  Symbiodinium sp. DJT-2013ae isolate Be02_61 photosyst...  187     2e-43 
+KF572399.1  Symbiodinium sp. DJT-2013ae isolate FL01_6 photosyste...  187     2e-43 
+KF572353.1  Symbiodinium sp. DJT-2013w isolate PM99_32 photosyste...  187     2e-43 
+KF572221.1  Symbiodinium sp. DJT-2013g isolate Haw02_7 psbA minic...  187     2e-43 
+KF572414.1  Symbiodinium sp. DJT-2013af isolate Bar05_91 photosys...  185     8e-43 
+KF572405.1  Symbiodinium sp. DJT-2013ae isolate Be02_110 photosys...  185     8e-43 
+KF572354.1  Symbiodinium sp. DJT-2013x isolate Cur09_34A psbA min...  185     8e-43 
+KF572291.1  Symbiodinium sp. DJT-2013o isolate FL01_31 photosyste...  183     3e-42 
+KF572272.1  Symbiodinium sp. DJT-2013j isolate F1378 psbA minicir...  183     3e-42 
+KF572253.1  Symbiodinium sp. DJT-2013i isolate Cur11_72 psbA gene...  183     3e-42 
+KF572252.1  Symbiodinium sp. DJT-2013i isolate Cur11_68 psbA mini...  183     3e-42 
+KF572250.1  Symbiodinium sp. DJT-2013i isolate Cur11_66 psbA mini...  183     3e-42 
+KT156665.1  Symbiodinium sp. C3 voucher EU4 psbA minicircle non-c...  182     1e-41 
+KT156664.1  Symbiodinium sp. C3 voucher EU3 psbA minicircle non-c...  182     1e-41 
+KF572400.1  Symbiodinium sp. DJT-2013ae isolate Be02_26 photosyst...  182     1e-41 
+KF572356.1  Symbiodinium sp. DJT-2013y isolate Bar05_100 psbA min...  182     1e-41 
+KF572308.1  Symbiodinium sp. DJT-2013s isolate STX04_15 psbA mini...  178     1e-40 
+KF572307.1  Symbiodinium sp. DJT-2013s isolate AB27 psbA minicirc...  178     1e-40 
+KF572306.1  Symbiodinium sp. DJT-2013s isolate AB28 psbA minicirc...  178     1e-40 
+KF572290.1  Symbiodinium sp. DJT-2013o isolate Be02_187 photosyst...  178     1e-40 
+KF572251.1  Symbiodinium sp. DJT-2013i isolate Cur11_67 psbA mini...  178     1e-40 
+KF572254.1  Symbiodinium sp. DJT-2013i isolate Be02_111 photosyst...  176     5e-40 
+KF572205.1  Symbiodinium sp. DJT-2013d isolate A02_70 psbA minici...  176     5e-40 
+KF572317.1  Symbiodinium sp. DJT-2013s isolate B705_NNP5 psbA min...  174     2e-39 
+KF572301.1  Symbiodinium sp. DJT-2013s isolate Bah02_77 psbA mini...  174     2e-39 
+KF572396.1  Symbiodinium sp. DJT-2013ae isolate Cur09_111 psbA mi...  172     6e-39 
+KF572341.1  Symbiodinium sp. DJT-2013t isolate Bar07_133 psbA min...  172     6e-39 
+KF572255.1  Symbiodinium sp. DJT-2013i isolate YB98_78 photosyste...  171     2e-38 
+KF572315.1  Symbiodinium sp. DJT-2013s isolate CB33_02 photosyste...  169     8e-38 
+KF572248.1  Symbiodinium sp. DJT-2013i isolate 30B psbA minicircl...  167     3e-37 
+KF572294.1  Symbiodinium sp. DJT-2013p isolate Bah02_43 photosyst...  165     1e-36 
+KF572258.1  Symbiodinium sp. DJT-2013i isolate YBD59 photosystem ...  165     1e-36 
+KF572352.1  Symbiodinium sp. DJT-2013v isolate Be03_25 psbA minic...  163     4e-36 
+KF572289.1  Symbiodinium sp. DJT-2013o isolate Be02_116 photosyst...  163     4e-36 
+KF572350.1  Symbiodinium sp. DJT-2013v isolate Be03_21 psbA minic...  158     2e-34 
+KF572259.1  Symbiodinium sp. DJT-2013i isolate YBD3 photosystem I...  158     2e-34 
+KF572351.1  Symbiodinium sp. DJT-2013v isolate Be03_22 photosyste...  154     2e-33 
+KF572261.1  Symbiodinium sp. DJT-2013i isolate Cur11_31 psbA mini...  154     2e-33 
+AY160085.1  Symbiodinium sp. Gt1 psbA minicircle non-coding regio...  154     2e-33 
+KF572410.1  Symbiodinium sp. DJT-2013ae isolate STX04_61 psbA min...  152     8e-33 
+KF572288.1  Symbiodinium sp. DJT-2013o isolate Bar05_102 photosys...  152     8e-33 
+KF572247.1  Symbiodinium sp. DJT-2013i isolate Belize3_303 psbA m...  150     3e-32 
+KT156662.1  Symbiodinium cf. thermophilum voucher ADD014 psbA min...  145     1e-30 
+KF572348.1  Symbiodinium sp. DJT-2013v isolate STX04_36 photosyst...  145     1e-30 
+KP280287.1  Symbiodinium thermophilum isolate B21549 psbA minicir...  143     5e-30 
+KF572217.1  Symbiodinium sp. DJT-2013g isolate Haw02_86 psbA mini...  143     5e-30 
+KP280233.1  Symbiodinium thermophilum isolate BH1641 psbA minicir...  141     2e-29 
+KF572403.1  Symbiodinium sp. DJT-2013ae isolate Be02_74 photosyst...  141     2e-29 
+KT156658.1  Symbiodinium cf. thermophilum voucher OMD054 psbA min...  137     2e-28 
+KP280282.1  Symbiodinium thermophilum isolate BH1497 psbA minicir...  135     8e-28 
+KP280248.1  Symbiodinium thermophilum isolate BH1631 psbA minicir...  135     8e-28 
+KP280232.1  Symbiodinium thermophilum isolate BH1696 psbA minicir...  135     8e-28 
+KF572386.1  Symbiodinium sp. DJT-2013ae isolate RB9 psbA minicirc...  134     3e-27 
+KP280295.1  Symbiodinium thermophilum isolate B21554 psbA minicir...  132     1e-26 
+KF572389.1  Symbiodinium sp. DJT-2013ae isolate FL01_8 photosyste...  132     1e-26 
+KF572269.1  Symbiodinium sp. DJT-2013i isolate Belize3_224 psbA m...  130     4e-26 
+HQ336238.1  Symbiodinium sp. LAP08_187_C1bc psbA minicircle, part...  130     4e-26 
+KP280261.1  Symbiodinium thermophilum isolate BH1457 psbA minicir...  128     1e-25 
+KP280249.1  Symbiodinium thermophilum isolate BH1633 psbA minicir...  128     1e-25 
+KP280235.1  Symbiodinium thermophilum isolate BH1642 psbA minicir...  128     1e-25 
+KF572402.1  Symbiodinium sp. DJT-2013ae isolate Be02_25 photosyst...  128     1e-25 
+KF572323.1  Symbiodinium sp. DJT-2013s isolate Cur09_27A psbA min...  128     1e-25 
+KF572387.1  Symbiodinium sp. DJT-2013ae isolate RB31 photosystem ...  126     5e-25 
+KF572383.1  Symbiodinium sp. DJT-2013ae isolate FGB05_53 photosys...  124     2e-24 
+KF572380.1  Symbiodinium sp. DJT-2013ae isolate FGB05_81 psbA min...  124     2e-24 
+KP280262.1  Symbiodinium thermophilum isolate BH1660 psbA minicir...  122     6e-24 
+KP280234.1  Symbiodinium thermophilum isolate BH1703 psbA minicir...  122     6e-24 
+KP280222.1  Symbiodinium thermophilum isolate BH1708 psbA minicir...  122     6e-24 
+KP280289.1  Symbiodinium thermophilum isolate BH1652 psbA minicir...  121     2e-23 
+KP280288.1  Symbiodinium thermophilum isolate B21550 psbA minicir...  121     2e-23 
+KP280259.1  Symbiodinium thermophilum isolate BH1626 psbA minicir...  121     2e-23 
+KP280252.1  Symbiodinium thermophilum isolate BH1662 psbA minicir...  121     2e-23 
+KP280227.1  Symbiodinium thermophilum isolate BH1699 psbA minicir...  121     2e-23 
+KP280220.1  Symbiodinium thermophilum isolate BH1702 psbA minicir...  121     2e-23 
+KP280212.1  Symbiodinium thermophilum isolate BH1690 psbA minicir...  121     2e-23 
+KM458288.1  Symbiodinium thermophilum isolate BH1450 psbA minicir...  121     2e-23 
+KF572327.1  Symbiodinium sp. DJT-2013s isolate Cur09_31C psbA min...  121     2e-23 
+KF572325.1  Symbiodinium sp. DJT-2013s isolate Cur09_31A photosys...  121     2e-23 
+KF572322.1  Symbiodinium sp. DJT-2013s isolate Cur09_114 psbA min...  121     2e-23 
+KF572321.1  Symbiodinium sp. DJT-2013s isolate Cur09_47B photosys...  121     2e-23 
+HQ336243.1  Symbiodinium sp. BB07_302_C1bc psbA minicircle, parti...  121     2e-23 
+HQ336239.1  Symbiodinium sp. LAP08_196_C1bc psbA minicircle, part...  121     2e-23 
+HQ336237.1  Symbiodinium sp. BB07_287_C1bc psbA minicircle, parti...  121     2e-23 
+KP280291.1  Symbiodinium thermophilum isolate BH1617 psbA minicir...  119     8e-23 
+KP280267.1  Symbiodinium thermophilum isolate BH1675 psbA minicir...  119     8e-23 
+KM458278.1  Symbiodinium thermophilum isolate BH1419 psbA minicir...  119     8e-23 
+KT736132.1  Symbiodinium sp. C3 psbA minicircle non-coding region...  117     3e-22 
+KP280281.1  Symbiodinium thermophilum isolate BH1683 psbA minicir...  115     1e-21 
+KP280280.1  Symbiodinium thermophilum isolate BH1677 psbA minicir...  115     1e-21 
+KP280277.1  Symbiodinium thermophilum isolate BH1673 psbA minicir...  115     1e-21 
+KP280260.1  Symbiodinium thermophilum isolate BH1669 psbA minicir...  115     1e-21 
+KP280258.1  Symbiodinium thermophilum isolate BH1668 psbA minicir...  115     1e-21 
+KP280229.1  Symbiodinium thermophilum isolate BH1705 psbA minicir...  115     1e-21 
+KP280221.1  Symbiodinium thermophilum isolate BH1704 psbA minicir...  115     1e-21 
+KP280211.1  Symbiodinium thermophilum isolate BH1692 psbA minicir...  115     1e-21 
+KM458293.1  Symbiodinium thermophilum isolate BH1356 psbA minicir...  115     1e-21 
+KM458291.1  Symbiodinium thermophilum isolate BH1456 psbA minicir...  115     1e-21 
+KM458287.1  Symbiodinium thermophilum isolate BH1449 psbA minicir...  115     1e-21 
+KM458282.1  Symbiodinium thermophilum isolate BH1425 psbA minicir...  115     1e-21 
+KM458280.1  Symbiodinium thermophilum isolate BH1423 psbA minicir...  115     1e-21 
+KM458277.1  Symbiodinium thermophilum isolate BH1417 psbA minicir...  115     1e-21 
+KP280283.1  Symbiodinium thermophilum isolate BH1625 psbA minicir...  113     4e-21 
+KP280278.1  Symbiodinium thermophilum isolate BH1678 psbA minicir...  113     4e-21 
+KP280271.1  Symbiodinium thermophilum isolate BH1676 psbA minicir...  113     4e-21 
+KP280270.1  Symbiodinium thermophilum isolate BH1672 psbA minicir...  113     4e-21 
+KP280255.1  Symbiodinium thermophilum isolate BH1628 psbA minicir...  113     4e-21 
+KM458283.1  Symbiodinium thermophilum isolate BH1426 psbA minicir...  113     4e-21 
+KM458276.1  Symbiodinium thermophilum isolate BH1415 psbA minicir...  113     4e-21 
+KT156663.1  Symbiodinium sp. C3 voucher EU2 psbA minicircle non-c...  111     1e-20 
+KP280279.1  Symbiodinium thermophilum isolate BH1680 psbA minicir...  111     1e-20 
+KP280247.1  Symbiodinium thermophilum isolate BH1548 psbA minicir...  111     1e-20 
+KP280236.1  Symbiodinium thermophilum isolate BH1698 psbA minicir...  111     1e-20 
+KP280269.1  Symbiodinium thermophilum isolate BH1671 psbA minicir...  110     5e-20 
+KP280230.1  Symbiodinium thermophilum isolate BH1706 psbA minicir...  110     5e-20 
+KP280213.1  Symbiodinium thermophilum isolate BH1643 psbA minicir...  110     5e-20 
+KM458290.1  Symbiodinium thermophilum isolate BH1453 psbA minicir...  110     5e-20 
+KM458279.1  Symbiodinium thermophilum isolate BH1422 psbA minicir...  110     5e-20 
+KP280290.1  Symbiodinium thermophilum isolate BH1616 psbA minicir...  108     2e-19 
+KP280275.1  Symbiodinium thermophilum isolate BH1624 psbA minicir...  108     2e-19 
+KP280272.1  Symbiodinium thermophilum isolate BH1623 psbA minicir...  108     2e-19 
+KP280231.1  Symbiodinium thermophilum isolate B315 psbA minicircl...  108     2e-19 
+KP280228.1  Symbiodinium thermophilum isolate BH1701 psbA minicir...  108     2e-19 
+KM458281.1  Symbiodinium thermophilum isolate BH1424 psbA minicir...  108     2e-19 
+KP280284.1  Symbiodinium thermophilum isolate BH1682 psbA minicir...  106     6e-19 
+KP280263.1  Symbiodinium thermophilum isolate BH1661 psbA minicir...  106     6e-19 
+KM458294.1  Symbiodinium thermophilum isolate BH1392 psbA minicir...  106     6e-19 
+KM458292.1  Symbiodinium thermophilum isolate BH1458 psbA minicir...  106     6e-19 
+KT156653.1  Symbiodinium sp. C3 voucher YBA008 psbA minicircle no...  100     3e-17 
+KM458284.1  Symbiodinium thermophilum isolate BH1427 psbA minicir...  100     3e-17 
+KP280296.1  Symbiodinium thermophilum isolate BH1649 psbA minicir...  99.0    1e-16 
+KP280294.1  Symbiodinium thermophilum isolate B21553 psbA minicir...  99.0    1e-16 
+KP280293.1  Symbiodinium thermophilum isolate B21552 psbA minicir...  99.0    1e-16 
+KP280292.1  Symbiodinium thermophilum isolate B21551 psbA minicir...  99.0    1e-16 
+KP280273.1  Symbiodinium thermophilum isolate BH1620 psbA minicir...  97.1    4e-16 
+KP280265.1  Symbiodinium thermophilum isolate BH1679 psbA minicir...  97.1    4e-16 
+KF572155.1  Symbiodinium goreaui isolate Be02_185 psbA minicircle...  97.1    4e-16 
+KP280310.1  Symbiodinium thermophilum isolate B334 psbA minicircl...  93.5    5e-15 
+KM458285.1  Symbiodinium thermophilum isolate BH1428 psbA minicir...  91.6    2e-14 
+KP280286.1  Symbiodinium thermophilum isolate BH1674 psbA minicir...  89.8    6e-14 
+KP280311.1  Symbiodinium thermophilum isolate B335 psbA minicircl...  87.9    2e-13 
+KT156660.1  Symbiodinium cf. thermophilum voucher ALB030 psbA min...  86.1    8e-13 
+KP280274.1  Symbiodinium thermophilum isolate BH1622 psbA minicir...  84.2    3e-12 
+KT156661.1  Symbiodinium cf. thermophilum voucher OMA071 psbA min...  82.4    1e-11 
+KP280308.1  Symbiodinium thermophilum isolate BH1550 psbA minicir...  65.8    1e-06 
+
+
+>AJ884899.1 Symbiodinium sp. ex Scolymia sp. chloroplast psbA gene for photosystem 
+II protein D1
+Length=1832
+
+ Score = 429 bits (232),  Expect = 3e-116
+ Identities = 290/315 (92%), Gaps = 15/315 (5%)
+ Strand=Plus/Minus
+
+Query  72    TTTTTATTTTTTGAAGCCCGAAGGGCGTTATGGGCCCCACGAAGTGTGGGCCCATATGGG  131
+             |||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1579  TTTTTA-TTTTTGAAGCCCGAAGGGCGTTATGGGCCCCACGAAGTGTGGGCCCATATGGG  1521
+
+Query  132   CTGGGTAGGGCACCCAGCCCATTAATGCATGCCCC-TGTGGGGGCATGCATATGGGTGCC  190
+             ||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||
+Sbjct  1520  CTGGGTAGGGCACCCAGCCCATTAATGCATGCCCCCTGTGGGGGCATGCATATGGGTGCC  1461
+
+Query  191   CCGTAGGGGCACCCATTATAGGTCGCGATTTCTTTTTTATTTTTCGTAGTCGCACGTCCA  250
+             ||| |||||||||||||  ||||||||||||||||||| |||| ||| ||||||||||||
+Sbjct  1460  CCGCAGGGGCACCCATTTAAGGTCGCGATTTCTTTTTTCTTTT-CGTGGTCGCACGTCCA  1402
+
+Query  251   CTCGCCTTCGGCTCGTTCCCGGCGCCTGTAATACACCCC-TACGGGGTGCATATGGGTAC  309
+             ||||||||||||||||||||||| |||||||| |||||| || |||||||||||||||||
+Sbjct  1401  CTCGCCTTCGGCTCGTTCCCGGCTCCTGTAATGCACCCCGTA-GGGGTGCATATGGGTAC  1343
+
+Query  310   CCC-TACGGGGTACCCATTA-A-TGGGTGC-CC-TAAAGGGCA-CCCATATGTGCACCC-  362
+             ||| || ||||||||||||| | |||| || || |||||||   ||||||||||||||| 
+Sbjct  1342  CCCGTA-GGGGTACCCATTATAATGGG-GCACCCTAAAGGGTGCCCCATATGTGCACCCC  1285
+
+Query  363   -TATGGGTGCACATT  376
+              || |||||||||||
+Sbjct  1284  GTAGGGGTGCACATT  1270
+
+
+ Score = 108 bits (58),  Expect = 2e-19
+ Identities = 63/65 (97%), Gaps = 1/65 (2%)
+ Strand=Plus/Minus
+
+Query  441   TTTTCTTTTTCGTAGTCGCACGTCCACTCGCCTTCGGCTCGTTCCCGGCTCCTGTAATGC  500
+             ||||| ||||||| ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1426  TTTTC-TTTTCGTGGTCGCACGTCCACTCGCCTTCGGCTCGTTCCCGGCTCCTGTAATGC  1368
+
+Query  501   ACCCC  505
+             |||||
+Sbjct  1367  ACCCC  1363
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 137631412627288
+
+
+Query= BC_104482_1_2_3_4
+
+Length=593
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 137631412627288
+
+
+Query= BC_4960688_1_2_3_4
+
+Length=591
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+GU137132.1  Montipora capitata clone Mc1484 microsatellite sequence   302     9e-78
+GU137113.1  Montipora capitata clone Mc1288 microsatellite sequence   147     4e-31
+
+
+>GU137132.1 Montipora capitata clone Mc1484 microsatellite sequence
+Length=414
+
+ Score = 302 bits (163),  Expect = 9e-78
+ Identities = 184/193 (95%), Gaps = 5/193 (3%)
+ Strand=Plus/Minus
+
+Query  3    TCCTGGTAGTCCCTGGTTCAACTTCCCAGCTGCACTTGTAAATAGCCAACTGGTTTGCCT  62
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  321  TCCTGGTAGTCCCTGGTTCAACTTCCCAGCTGCACTTGTAAATAGCCAACTGGTTTGCCT  262
+
+Query  63   CCGGCCAGTTGGGATTCTTAACAGTTGTAGTTGTTGTGTTCTGTTGTTTCGTTGATT---  119
+            ||||||||||||||| |||||||||||| ||||||||||||||||||||||||||||   
+Sbjct  261  CCGGCCAGTTGGGATCCTTAACAGTTGTTGTTGTTGTGTTCTGTTGTTTCGTTGATTGTT  202
+
+Query  120  -CATTGGCCCTGAAAAGCCCCTATGGGGAGAGGTCAATTAAGTATGTATGTATGTATGTA  178
+             ||||||||||||||||||||||||||||| ||||||||| |||||||||||||||||||
+Sbjct  201  TCATTGGCCCTGAAAAGCCCCTATGGGGAGCGGTCAATTATGTATGTATGTATGTATGTA  142
+
+Query  179  TGTATGTA-GGTA  190
+            |||||||| ||||
+Sbjct  141  TGTATGTATGGTA  129
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 137631412627288
+
+
+Query= NC_3717387_1_2_3_4
+
+Length=566
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 137631412627288
+
+
+Query= ND_2199726_1_2_3_4
+
+Length=447
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 137631412627288
+
+
+Query= BC_6313949_1_2_3_4
+
+Length=728
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+XM_015891756.1  PREDICTED: Acropora digitifera uncharacterized LO...  281     1e-71
+XM_015891754.1  PREDICTED: Acropora digitifera uncharacterized LO...  281     1e-71
+XR_001561688.1  PREDICTED: Acropora digitifera uncharacterized LO...  257     2e-64
+
+
+>XM_015891756.1 PREDICTED: Acropora digitifera uncharacterized LOC107327011 (LOC107327011), 
+transcript variant X2, mRNA
+Length=7449
+
+ Score = 281 bits (152),  Expect = 1e-71
+ Identities = 223/256 (87%), Gaps = 10/256 (4%)
+ Strand=Plus/Plus
+
+Query  259   CACCCTGCCAGCAGAGCTATTCTTAACTTGACGAGAAAGAAAGGACTCTGCAGAAATCGT  318
+             ||||||||||||||||| |||| ||||| || ||||| ||||||||||||||||||||  
+Sbjct  6586  CACCCTGCCAGCAGAGCCATTCATAACTCGATGAGAAGGAAAGGACTCTGCAGAAATC--  6643
+
+Query  319   GTCAAGTCTTTATTGAGAATGCGCAAACCGTTGCTTAGAGACAGTTTCAAACCCAGGCCA  378
+                  ||||||||||||  ||||||| ||||| ||| |||||||| ||||||||||||||
+Sbjct  6644  -----GTCTTTATTGAGTCTGCGCAAGCCGTTTCTTGGAGACAGTGTCAAACCCAGGCCA  6698
+
+Query  379   AGTCTCG--ATCGCACTCCTAGTCGCCATAATGATTTTCGTACTGAAGGCTCGATTTTGA  436
+             || ||||  || |||||||||| ||||||| |||||||||||||||||||||||||||||
+Sbjct  6699  AGGCTCGATATAGCACTCCTAGACGCCATATTGATTTTCGTACTGAAGGCTCGATTTTGA  6758
+
+Query  437   CCTTCGCCTTGTCAAAAATATGATGCGCGCGCTGCCTAAAACGGTTTGACCGGAGTGACT  496
+             |||| || || ||||| ||||||||||| ||||||||||| |||||||||||||||||||
+Sbjct  6759  CCTTGGCTTTTTCAAAGATATGATGCGCACGCTGCCTAAACCGGTTTGACCGGAGTGACT  6818
+
+Query  497   AGCCCCGAAACTATGG  512
+             |||||  ||||| |||
+Sbjct  6819  AGCCCAAAAACT-TGG  6833
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 137631412627288
+
+
+Query= BC_2102217_1_2_3_4
+
+Length=493
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 137631412627288
+
+
+Query= BC_6396372_1_2_3_4
+
+Length=488
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 137631412627288
+
+
+Query= NC_3840521_1_2_3_4
+
+Length=484
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+XR_001561740.1  PREDICTED: Acropora digitifera uncharacterized LO...  137     2e-28
+XR_001561739.1  PREDICTED: Acropora digitifera uncharacterized LO...  137     2e-28
+
+
+>XR_001561740.1 PREDICTED: Acropora digitifera uncharacterized LOC107332452 (LOC107332452), 
+transcript variant X2, ncRNA
+Length=455
+
+ Score = 137 bits (74),  Expect = 2e-28
+ Identities = 177/221 (80%), Gaps = 29/221 (13%)
+ Strand=Plus/Minus
+
+Query  134  CTTG-CTAC-GGTAGCTCCTCTATTAGTGTAATGAAAACTAGGGATAGTCTATAGTTCTG  191
+            |||| ||||  |||||||||||||||||||| | ||||  | ||||||||||||||||||
+Sbjct  266  CTTGACTACTCGTAGCTCCTCTATTAGTGTA-TTAAAAAAAAGGATAGTCTATAGTTCTG  208
+
+Query  192  AATTTTTTTCCTTGCCCTTGTTCATGTGGTAAGCATACTAGTACAGAACGACAGAACGCA  251
+            |||||| ||| || | ||||||||||||||||||| |||||||||||||      |  ||
+Sbjct  207  AATTTTCTTCTTTCCTCTTGTTCATGTGGTAAGCACACTAGTACAGAAC------A--CA  156
+
+Query  252  TGCGCATTCGTAAAATACGTATTAAG---AGAA-A--AA-AA-AA-AT----T---GCAA  295
+            |||||||||||||||||| |||||||   | || |  || || || ||    |     ||
+Sbjct  155  TGCGCATTCGTAAAATACCTATTAAGGAAAAAATATTAATAATAAGATAAAATAAAAAAA  96
+
+Query  296  AAA-CTCGGTTTGGGGTCCCCCGTGCTACTTTCGATC-AGA  334
+            ||| ||| ||||||||||||||||||||||||||||| |||
+Sbjct  95   AAATCTCTGTTTGGGGTCCCCCGTGCTACTTTCGATCCAGA  55
+
+
+ Score = 67.6 bits (36),  Expect = 3e-07
+ Identities = 118/152 (78%), Gaps = 27/152 (18%)
+ Strand=Plus/Minus
+
+Query  202  CTTGCC-CTTGTTCATGTGGTAAGCATACTAGTACAGAACGACAGAACGCATGCGCATTC  260
+            ||| || ||||||||||||||||||| |||||||||||||      |  |||||||||||
+Sbjct  453  CTTTCCTCTTGTTCATGTGGTAAGCACACTAGTACAGAAC------A--CATGCGCATTC  402
+
+Query  261  GTAAAATACGTATTAAG---AGAA-A--AA-AA-AA-AT----T---GCAAAAA-CTCGG  303
+            ||||||||| |||||||   | || |  || || || ||    |     ||||| ||| |
+Sbjct  401  GTAAAATACCTATTAAGGAAAAAATATTAATAATAAGATAAAATAAAAAAAAAATCTCTG  342
+
+Query  304  TTTGGGGTCCCCCGTGCTACTTTCGATC-AGA  334
+            |||||||||||||||||||||||||||| |||
+Sbjct  341  TTTGGGGTCCCCCGTGCTACTTTCGATCCAGA  310
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 137631412627288
+
+
+Query= BC_6957170_1_2_3_4
+
+Length=488
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 137631412627288
+
+
+Query= NC_617433_1_2_3_4
+
+Length=464
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 137631412627288
+
+
+Query= BC_1111080_1_2_3_4
+
+Length=459
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 137631412627288
+
+
+Query= BC_4896473_1_2_3_4
+
+Length=455
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 137631412627288
+
+
+Query= BC_8062978_1_2_3_4
+
+Length=452
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 137631412627288
+
+
+Query= BC_2620071_1_2_3_4
+
+Length=450
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 137631412627288
+
+
+Query= BC_4498293_1_2_3_4
+
+Length=419
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 137631412627288
+
+
+Query= ND_1371207_1_2_3_4
+
+Length=407
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 137631412627288
+
+
+Query= BC_1154956_1_2_3_4
+
+Length=393
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 137631412627288
+
+
+Query= BC_6062481_1_2_3_4
+
+Length=392
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 137631412627288
+
+
+Query= BC_7719059_1_2_3_4
+
+Length=385
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 137631412627288
+
+
+Query= BC_5359563_1_2_3_4
+
+Length=380
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 137631412627288
+
+
+Query= BC_1989334_1_2_3_4
+
+Length=376
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 137631412627288
+
+
+Query= BC_2991770_1_2_3_4
+
+Length=371
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 137631412627288
+
+
+Query= NC_6034022_1_2_3_4
+
+Length=366
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 137631412627288
+
+
+Query= ND_5552730_1_2_3_4
+
+Length=355
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 137631412627288
+
+
+Query= BC_1666634_1_2_3_4
+
+Length=348
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 137631412627288
+
+
+Query= ND_2079243_1_2_3_4
+
+Length=387
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 137631412627288
+
+
+Query= ND_4661417_1_2_3_4
+
+Length=339
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 137631412627288
+
+
+Query= BC_1531619_1_2_3_4
+
+Length=313
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 137631412627288
+
+
+Query= BC_1123747_1_2_3_4
+
+Length=308
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+XM_015904555.1  PREDICTED: Acropora digitifera uncharacterized LO...  501     4e-138
+
+
+>XM_015904555.1 PREDICTED: Acropora digitifera uncharacterized LOC107339291 (LOC107339291), 
+mRNA
+Length=1883
+
+ Score = 501 bits (271),  Expect = 4e-138
+ Identities = 296/308 (96%), Gaps = 1/308 (0%)
+ Strand=Plus/Plus
+
+Query  1    TTGATCAGTGTGCTCTTTACTTAAATTTTTGGACAACAGGATGTCTACCAGGCTGCTATT  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||
+Sbjct  357  TTGATCAGTGTGCTCTTTACTTAAATTTTTGGACAACAGGATGTCTACCAGGCTGTTATT  416
+
+Query  61   TACTTTGTTTGTTTGTTTTTTTAATTTAAAAAATTCTCTCTTTGAAGGCAAACCTTAACA  120
+            |  ||||||| ||  |||||||||||||||||||||| ||||||||||||||||||||||
+Sbjct  417  TTTTTTGTTT-TTGTTTTTTTTAATTTAAAAAATTCTTTCTTTGAAGGCAAACCTTAACA  475
+
+Query  121  GACTGTGCAAGCTTAAACTGACATGCTCAAATACATCCACTTTGAGCAAGCTGGATATCC  180
+            ||||||||||||||||| |||||||||||||||||||||||||||| ||| |||||||||
+Sbjct  476  GACTGTGCAAGCTTAAATTGACATGCTCAAATACATCCACTTTGAGGAAGTTGGATATCC  535
+
+Query  181  TTGGAGCTCATCACAATGAGGTACTTATAACTGCCAAGGAAAGAATATCCCAAGAGCAGG  240
+            ||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||
+Sbjct  536  TTGGAGCTCATCACAATGAGGTACTTACAACTGCCAAGGAAAGAATATCCCAAGAGCAGG  595
+
+Query  241  TCAAACTGAAAGAGCTTACAGAGAGGGTAACTGATCAAGTTCATGCTTGTTCTGGCAATT  300
+            |||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||
+Sbjct  596  TCAAACTGAAAGAGCTTACACAGAGGGTAACTGATCAAGTTCATGCTTGTTCTGGCAATT  655
+
+Query  301  GTTTGGAG  308
+            ||||||||
+Sbjct  656  GTTTGGAG  663
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 137631412627288
+
+
+Query= BC_4612952_1_2_3_4
+
+Length=314
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 137631412627288
+
+
+  Database: Nucleotide collection (nt)
+    Posted date:  Feb 28, 2017  6:21 PM
+  Number of letters in database: 140,620,651,272
+  Number of sequences in database:  41,670,128
+
+
+
+Matrix: blastn matrix 1 -2
+Gap Penalties: Existence: 0, Extension: 2.5
