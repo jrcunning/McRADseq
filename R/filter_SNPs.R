@@ -38,7 +38,7 @@ BCNC.f <- BCNC.f[BCNC.f$contig %in% real[real$visual_assess=="real", "contig"], 
 # Write filtered SNP information to file
 x <- as.matrix(format(BCNC.f))
 write.table(x, file="output/BC_NC_snps.txt", sep="\t", row.names=F, quote=F)
-save(BCNC, file="output/BC_NC_snps.RData")
+save(BCNC.f, file="output/BC_NC_snps.RData")
 
 # Write contigs containing filtered SNPs to file
 contigs.f <- subset(CSR92, names(CSR92) %in% BCNC.f$contig)
