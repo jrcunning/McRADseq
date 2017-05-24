@@ -13,113 +13,9 @@ Database: data/ref/all_coral.faa
 
 
 
-Query= NC_6063307_1_2_3_4
-
-Length=1024
-                                                                      Score     E
-Sequences producing significant alignments:                          (Bits)  Value
-
-  Seriatopora_hystrix_18303                                           175     3e-54
-  Porites_lobata_21204                                                128     5e-35
-  Stylophora_pistillata_72                                            120     3e-32
-  Astreopora_sp_34796                                                 117     5e-31
-  Seriatopora_sp_30036                                                116     5e-30
-  Pocillopora_damicornis_24074                                        103     3e-25
-  Madracis_auretenra_55144                                            81.6    1e-17
-  Fungia_scutaria_22810                                               77.4    8e-16
-  Acropora_millepora_32472 cds.Cluster041958|m.4676                   63.5    4e-11
-  Porites_australiensis_22003 cds.Porites_autraliensis_31092|m.56230  60.1    5e-10
-  Stylophora_pistillata_20196                                         52.8    9e-08
-  Seriatopora_sp_2713                                                 55.5    1e-07
-  Montastraea_cavernosa_14071                                         52.8    2e-07
-  Astreopora_sp_31058                                                 52.4    6e-07
-  Seriatopora_sp_10171                                                45.4    5e-05
-  Fungia_scutaria_72183                                               43.9    4e-04
-  Seriatopora_hystrix_36805                                           42.0    9e-04
-
-
-> Seriatopora_hystrix_18303
-Length=101
-
- Score = 175 bits (444),  Expect = 3e-54, Method: Compositional matrix adjust.
- Identities = 84/101 (83%), Positives = 94/101 (93%), Gaps = 1/101 (1%)
- Frame = +2
-
-Query  137  MVKKARSTYGVTHSESRLLDIIVYTEENRVVRDLSRLCDVNREAILEYFSKTFQGPRKGN  316
-            MV+KARSTYGVTH ESR L+IIVYT+EN++VRD+SRLCDVN+EAIL+YF KTFQGPRKG 
-Sbjct  1    MVEKARSTYGVTHLESRFLNIIVYTKENQLVRDISRLCDVNQEAILQYFPKTFQGPRKGK  60
-
-Query  317  ARVVISAQKPFTLSYSRKGSYVVIDCYYKFTNE-YGYIFES  436
-            ARVV+SAQKPFTLSYSRKGSYVV+ CYYKFTN  YGYIFES
-Sbjct  61   ARVVVSAQKPFTLSYSRKGSYVVLKCYYKFTNNAYGYIFES  101
-
-
-
-Lambda      K        H
-   0.318    0.134    0.401 
-
-Gapped
-Lambda      K        H
-   0.267   0.0410    0.140 
-
-Effective search space used: 17416762729
-
-
-Query= BC_5418779_1_2_3_4
-
-Length=1024
-                                                                      Score     E
-Sequences producing significant alignments:                          (Bits)  Value
-
-  Acropora_palmata_5634                                               56.2    2e-09
-  Acropora_millepora_8424 cds.Cluster005960|m.5476                    55.8    2e-09
-  Acropora_digitifera_3501                                            54.3    6e-09
-  Acropora_tenuis_5164                                                53.5    1e-08
-  Madracis_auretenra_29335                                            44.3    5e-06
-  Porites_lobata_22881                                                50.4    1e-05
-  Astreopora_sp_33319                                                 43.1    1e-05
-  Porites_australiensis_47519 cds.Porites_autraliensis_59491|m.98117  39.7    7e-05
-
-
-> Acropora_palmata_5634
-Length=201
-
- Score = 56.2 bits (134),  Expect(2) = 2e-09, Method: Compositional matrix adjust.
- Identities = 33/72 (46%), Positives = 42/72 (58%), Gaps = 16/72 (22%)
- Frame = +3
-
-Query  744  KEVDVSAITEYFKLLYDWMKKQRTEIGDAPLG*DEYPTMTST*LQTEQVKAGPTSGIPFL  923
-            K +DVSAITEYFK L DW+ KQR EIG  P G DE PT               T+G+P L
-Sbjct  137  KVLDVSAITEYFKPLNDWLVKQRQEIGYYPPGWDESPT---------------TAGVPSL  181
-
-Query  924  IPVMFYFNVMVL  959
-            +P + + N++V 
-Sbjct  182  VPAL-WLNIVVF  192
-
-
- Score = 26.6 bits (57),  Expect(2) = 2e-09, Method: Compositional matrix adjust.
- Identities = 12/16 (75%), Positives = 13/16 (81%), Gaps = 0/16 (0%)
- Frame = +2
-
-Query  698  KRKPWTYALEKMTGSK  745
-            K KPW  ALEK+TGSK
-Sbjct  122  KSKPWPEALEKLTGSK  137
-
-
-
-Lambda      K        H
-   0.318    0.134    0.401 
-
-Gapped
-Lambda      K        H
-   0.267   0.0410    0.140 
-
-Effective search space used: 17416762729
-
-
 Query= NC_1016405_1_2_3_4
 
-Length=1024
+Length=1146
 
 
 ***** No hits found *****
@@ -133,7 +29,7 @@ Gapped
 Lambda      K        H
    0.267   0.0410    0.140 
 
-Effective search space used: 17416762729
+Effective search space used: 20142010770
 
 
 Query= NC_235035_1_2_3_4
@@ -152,381 +48,28 @@ Gapped
 Lambda      K        H
    0.267   0.0410    0.140 
 
-Effective search space used: 17416762729
-
-
-Query= BC_5422577_1_2_3_4
-
-Length=1022
-                                                                      Score     E
-Sequences producing significant alignments:                          (Bits)  Value
-
-  Acropora_tenuis_8190                                                99.8    5e-41
-  Porites_lobata_135                                                  103     2e-40
-  Porites_australiensis_8424 cds.Porites_autraliensis_18776|m.31553   102     9e-40
-  Porites_lobata_20366                                                95.9    1e-38
-  Porites_australiensis_41330 cds.Porites_autraliensis_5227|m.10139   95.9    1e-38
-  Porites_australiensis_3906 cds.Porites_autraliensis_1378|m.2511     86.7    2e-38
-  Porites_australiensis_12964 cds.Porites_autraliensis_22806|m.39351  94.7    2e-37
-  Platygyra_carnosus_19134                                            105     1e-33
-  Pocillopora_damicornis_11934                                        95.5    1e-32
-  Pocillopora_damicornis_12625                                        111     4e-32
-  Montastraea_cavernosa_19275                                         109     5e-32
-  Porites_astreoides_3963                                             97.8    2e-31
-  Platygyra_carnosus_196                                              104     1e-30
-  Montastraea_cavernosa_101940                                        95.5    9e-28
-  Madracis_auretenra_35656                                            95.9    8e-27
-  Platygyra_carnosus_17073                                            103     8e-26
-  Platygyra_carnosus_41640                                            77.4    7e-24
-  Seriatopora_hystrix_52116                                           59.7    7e-23
-  Platygyra_carnosus_19761                                            62.8    3e-20
-  Montastraea_cavernosa_45299                                         46.6    4e-19
-  Madracis_auretenra_32436                                            84.0    1e-18
-  Montastraea_cavernosa_101942                                        63.9    2e-18
-  Pseudodiploria_strigosa_21776                                       77.0    2e-16
-  Seriatopora_hystrix_73385                                           55.5    7e-16
-  Platygyra_carnosus_38001                                            56.6    3e-15
-  Acropora_palmata_6746                                               54.3    9e-15
-  Madracis_auretenra_26022                                            73.9    3e-14
-  Porites_lobata_17033                                                52.8    3e-14
-  Fungia_scutaria_30155                                               58.2    1e-13
-  Platygyra_carnosus_3390                                             53.5    1e-12
-  Porites_australiensis_26540 cds.Porites_autraliensis_3564|m.6922    53.5    2e-12
-  Pocillopora_damicornis_6402                                         52.8    9e-12
-  Stylophora_pistillata_8196                                          50.1    1e-10
-  Montastraea_cavernosa_81449                                         48.9    1e-10
-  Stylophora_pistillata_12668                                         62.0    3e-10
-  Porites_lobata_20019                                                58.5    1e-09
-  Porites_astreoides_3808                                             46.6    2e-09
-  Fungia_scutaria_30118                                               57.0    3e-09
-  Stylophora_pistillata_5777                                          51.6    5e-09
-  Pocillopora_damicornis_1253                                         38.9    3e-08
-  Porites_lobata_14979                                                53.5    7e-08
-  Porites_australiensis_5746 cds.Porites_autraliensis_15650|m.27497   39.7    2e-07
-  Porites_lobata_4365                                                 38.9    3e-07
-  Seriatopora_hystrix_94828                                           38.5    7e-07
-  Acropora_millepora_12445 cds.Cluster009409|m.11219                  37.4    7e-07
-  Porites_lobata_1155                                                 51.2    2e-06
-  Porites_australiensis_18141 cds.Porites_autraliensis_27388|m.49068  37.0    2e-06
-  Acropora_millepora_2598 cds.Cluster001580|m.2829                    40.0    2e-06
-  Platygyra_carnosus_19488                                            40.4    2e-06
-  Porites_lobata_20923                                                40.4    3e-06
-  Porites_lobata_3637                                                 37.0    3e-06
-  Astreopora_sp_30213                                                 37.7    4e-06
-  Platygyra_carnosus_13961                                            49.7    5e-06
-  Porites_australiensis_8506 cds.Porites_autraliensis_18876|m.31674   35.8    6e-06
-  Madracis_auretenra_3951                                             33.1    6e-06
-  Madracis_auretenra_8915                                             46.6    7e-06
-  Porites_lobata_24247                                                39.7    9e-06
-  Platygyra_carnosus_40773                                            38.1    1e-05
-  Acropora_millepora_6998 cds.Cluster004814|m.33725                   37.0    2e-05
-  Porites_australiensis_25680 cds.Porites_autraliensis_34775|m.62534  45.1    5e-05
-  Acropora_millepora_27362 cds.Cluster028238|m.29096                  35.8    7e-05
-  Porites_astreoides_6780                                             37.7    8e-05
-  Porites_australiensis_1351 cds.Porites_autraliensis_11426|m.20326   35.4    1e-04
-  Porites_lobata_5854                                                 35.4    1e-04
-  Acropora_tenuis_8660                                                34.3    1e-04
-  Porites_australiensis_45836 cds.Porites_autraliensis_5754|m.11181   33.5    1e-04
-  Seriatopora_hystrix_102171                                          45.8    1e-04
-  Favia_sp_15335                                                      43.5    2e-04
-  Platygyra_carnosus_15561                                            44.7    2e-04
-  Acropora_millepora_24423 cds.Cluster023088|m.8754                   33.5    2e-04
-  Porites_australiensis_48935 cds.Porites_autraliensis_61547|m.10...  38.9    2e-04
-  Pseudodiploria_strigosa_13606                                       33.9    3e-04
-  Seriatopora_hystrix_92345                                           33.5    4e-04
-  Platygyra_carnosus_22206                                            35.8    4e-04
-  Acropora_millepora_24043 cds.Cluster022507|m.45025                  34.3    4e-04
-  Acropora_tenuis_7522                                                34.7    4e-04
-  Fungia_scutaria_55035                                               34.7    4e-04
-  Favia_sp_51892                                                      38.5    5e-04
-  Seriatopora_hystrix_92341                                           33.5    6e-04
-
-
-> Acropora_tenuis_8190
-Length=323
-
- Score = 99.8 bits (247),  Expect(3) = 5e-41, Method: Compositional matrix adjust.
- Identities = 48/66 (73%), Positives = 54/66 (82%), Gaps = 0/66 (0%)
- Frame = -2
-
-Query  598  VTYCHIVWNFCRSSDNRKLERIQERALRAIYNRKSGTYDELLKLAKLPTLKNRRLQDIAI  419
-            +TYC  VW+FCRSSD RKLERIQERALRA+Y     TY+ELL+ AKLPTL  RRLQ IAI
-Sbjct  218  LTYCQTVWHFCRSSDARKLERIQERALRAVYCDNKSTYEELLQRAKLPTLHTRRLQAIAI  277
-
-Query  418  LMYKVK  401
-            +MYKVK
-Sbjct  278  IMYKVK  283
-
-
- Score = 67.0 bits (162),  Expect(3) = 5e-41, Method: Compositional matrix adjust.
- Identities = 31/71 (44%), Positives = 47/71 (66%), Gaps = 0/71 (0%)
- Frame = -1
-
-Query  1022  DLNIFANEHNLTMYPDNHQLY*AGQMVKEVQDTLNKEGEIISK*YESNLLKGNYEKYQIM  843
-             DL+   +E+ L MY D+HQL+   +   E +  L +EG  IS+ Y +NLL+GN+ KYQ+M
-Sbjct  78    DLHFSTDENRLFMYADDHQLFSVAKTTNEAECFLTEEGNNISQWYNNNLLQGNFSKYQVM  137
-
-Query  842   SMGPKDKTKDL  810
-              +GP++  KDL
-Sbjct  138   CLGPRNYHKDL  148
-
-
- Score = 43.5 bits (101),  Expect(3) = 5e-41, Method: Compositional matrix adjust.
- Identities = 20/48 (42%), Positives = 28/48 (58%), Gaps = 0/48 (0%)
- Frame = -3
-
-Query  741  NQNLDFSKHVSEVCKRAGREVGVITRLRNILSARAKLITYKSVILPKL  598
-            +  L FS HV  +C++   + GV+ RLRN++   AKL   K  ILP L
-Sbjct  171  DDQLSFSSHVRNICRKVSCQTGVLLRLRNLIPTSAKLHIVKFAILPYL  218
-
-
-
-Lambda      K        H
-   0.318    0.134    0.401 
-
-Gapped
-Lambda      K        H
-   0.267   0.0410    0.140 
-
-Effective search space used: 17416762729
-
-
-Query= ND_6136479_1_2_3_4
-
-Length=1024
-
-
-***** No hits found *****
-
-
-
-Lambda      K        H
-   0.318    0.134    0.401 
-
-Gapped
-Lambda      K        H
-   0.267   0.0410    0.140 
-
-Effective search space used: 17416762729
-
-
-Query= ND_4370893_1_2_3_4
-
-Length=611
-                                                                      Score     E
-Sequences producing significant alignments:                          (Bits)  Value
-
-  Seriatopora_sp_369                                                  96.7    7e-25
-  Porites_lobata_16444                                                91.3    2e-21
-  Porites_lobata_8669                                                 87.0    6e-21
-  Seriatopora_sp_25744                                                89.0    1e-19
-  Seriatopora_sp_3118                                                 83.6    3e-19
-  Stylophora_pistillata_18283                                         86.7    3e-19
-  Stylophora_pistillata_10384                                         81.6    5e-18
-  Porites_astreoides_1956                                             79.0    7e-18
-  Seriatopora_hystrix_22436                                           78.2    4e-17
-  Pocillopora_damicornis_17403                                        75.1    1e-16
-  Acropora_millepora_32265 cds.Cluster041051|m.41207                  76.3    1e-16
-  Seriatopora_sp_24701                                                74.7    2e-16
-  Seriatopora_hystrix_51973                                           75.9    5e-16
-  Porites_lobata_24387                                                77.8    1e-15
-  Montastraea_cavernosa_7788                                          76.6    1e-15
-  Acropora_tenuis_16422                                               71.6    6e-15
-  Stylophora_pistillata_12513                                         75.5    6e-15
-  Acropora_millepora_25693 cds.Cluster025193|m.45052                  71.6    7e-15
-  Acropora_millepora_28454 cds.Cluster030160|m.45463                  73.2    2e-14
-  Platygyra_carnosus_32422                                            73.6    3e-14
-  Acropora_millepora_6500 cds.Cluster004422|m.45637                   72.8    5e-14
-  Acropora_millepora_8790 cds.Cluster006278|m.18964                   72.8    6e-14
-  Stylophora_pistillata_275                                           68.6    8e-14
-  Acropora_millepora_18071 cds.Cluster014902|m.9050                   70.5    4e-13
-  Madracis_auretenra_56411                                            65.9    5e-13
-  Porites_australiensis_19175 cds.Porites_autraliensis_28341|m.51011  68.6    2e-12
-  Acropora_millepora_30946 cds.Cluster036535|m.32032                  65.1    3e-12
-  Madracis_auretenra_3155                                             63.2    4e-12
-  Seriatopora_sp_18338                                                67.4    4e-12
-  Montastraea_cavernosa_82451                                         62.0    1e-11
-  Seriatopora_hystrix_28274                                           62.0    2e-11
-  Porites_australiensis_10794 cds.Porites_autraliensis_21073|m.35457  64.7    3e-11
-  Astreopora_sp_12984                                                 62.4    4e-11
-  Acropora_millepora_32909 cds.Cluster043782|m.3719                   60.8    6e-11
-  Seriatopora_hystrix_59377                                           59.3    1e-10
-  Favia_sp_54746                                                      61.6    2e-10
-  Platygyra_carnosus_24536                                            57.0    1e-09
-  Montastraea_cavernosa_89499                                         59.7    1e-09
-  Astreopora_sp_3821                                                  59.7    1e-09
-  Acropora_millepora_13560 cds.Cluster010409|m.37992                  55.5    3e-09
-  Fungia_scutaria_62577                                               58.5    4e-09
-  Montastraea_cavernosa_94971                                         55.1    6e-09
-  Seriatopora_hystrix_13635                                           55.8    7e-09
-  Acropora_hyacinthus_1363                                            55.1    1e-08
-  Porites_lobata_16816                                                57.0    1e-08
-  Seriatopora_hystrix_13636                                           53.9    2e-08
-  Porites_australiensis_44455 cds.Porites_autraliensis_56303|m.93355  55.5    4e-08
-  Seriatopora_hystrix_49206                                           52.8    6e-08
-  Porites_astreoides_6571                                             54.3    1e-07
-  Acropora_tenuis_1523                                                51.2    1e-07
-  Pocillopora_damicornis_4548                                         54.3    1e-07
-  Acropora_millepora_12480 cds.Cluster009442|m.35469                  52.4    1e-07
-  Acropora_tenuis_11373                                               52.8    2e-07
-  Seriatopora_hystrix_56319                                           50.8    3e-07
-  Porites_astreoides_11950                                            49.3    6e-07
-  Stylophora_pistillata_16907                                         50.4    7e-07
-  Porites_australiensis_33364 cds.Porites_autraliensis_43385|m.74869  49.7    7e-07
-  Acropora_hyacinthus_1326                                            50.1    7e-07
-  Porites_australiensis_8608 cds.Porites_autraliensis_19072|m.31853   51.6    8e-07
-  Acropora_millepora_28379 cds.Cluster030015|m.42571                  48.1    3e-06
-  Porites_australiensis_31506 cds.Porites_autraliensis_41067|m.72005  48.5    3e-06
-  Porites_australiensis_29984 cds.Porites_autraliensis_39377|m.69614  49.7    3e-06
-  Acropora_digitifera_7284                                            48.1    4e-06
-  Favia_sp_5543                                                       46.2    9e-06
-  Acropora_tenuis_15165                                               46.6    1e-05
-  Acropora_tenuis_17686                                               44.7    5e-05
-  Acropora_tenuis_1265                                                44.3    6e-05
-  Astreopora_sp_29504                                                 46.2    6e-05
-  Porites_australiensis_44818 cds.Porites_autraliensis_56626|m.93899  46.2    7e-05
-  Acropora_tenuis_1246                                                43.5    7e-05
-  Acropora_millepora_8398 cds.Cluster005937|m.12745                   45.4    7e-05
-  Pocillopora_damicornis_5565                                         45.4    1e-04
-  Seriatopora_hystrix_88657                                           43.1    1e-04
-  Montastraea_cavernosa_28787                                         42.0    2e-04
-  Fungia_scutaria_17936                                               42.7    3e-04
-  Porites_australiensis_12007 cds.Porites_autraliensis_22021|m.37634  43.9    3e-04
-  Acropora_millepora_25608 cds.Cluster025027|m.20442                  43.5    3e-04
-  Montastraea_cavernosa_29766                                         43.1    3e-04
-  Acropora_millepora_17065 cds.Cluster013820|m.5919                   43.5    4e-04
-  Porites_australiensis_33688 cds.Porites_autraliensis_43772|m.75338  41.6    4e-04
-  Acropora_millepora_4071 cds.Cluster002607|m.38230                   42.7    4e-04
-  Fungia_scutaria_59396                                               43.5    5e-04
-  Porites_astreoides_13762                                            40.8    6e-04
-  Seriatopora_hystrix_1103093 cds.comp223141_c0_seq1|m.127733         40.8    7e-04
-  Acropora_tenuis_996                                                 40.8    7e-04
-  Seriatopora_sp_4495                                                 42.7    8e-04
-  Stylophora_pistillata_11851                                         42.7    8e-04
-
-
-> Seriatopora_sp_369
-Length=120
-
- Score = 96.7 bits (239),  Expect = 7e-25, Method: Compositional matrix adjust.
- Identities = 48/105 (46%), Positives = 70/105 (67%), Gaps = 2/105 (2%)
- Frame = -2
-
-Query  316  IRNDIESTCAISSDLHEVPPDPKVECAKVVRSFKQLSEGDISAIVKKAAKQSCNLDPMPT  137
-            I + I+ST  + +D+  VP DP V  AK++  FK LS+ DI A+++K +K++C LDPMPT
-Sbjct  3    ISDQIDST--VIADMDAVPDDPMVSDAKILLEFKPLSKADILALIQKLSKRTCTLDPMPT  60
-
-Query  136  QLVVGCLDQLLPIITTIVNCLLSQGVFPEAWKDAYVKPLLKNSGL  2
-            +LVV  +D LLP+IT ++N  L  G F + WKDA + P  K  G+
-Sbjct  61   KLVVESVDHLLPVITNMINSSLLGGHFLKVWKDALIDPRYKKDGI  105
-
-
-
-Lambda      K        H
-   0.318    0.134    0.401 
-
-Gapped
-Lambda      K        H
-   0.267   0.0410    0.140 
-
-Effective search space used: 17416762729
+Effective search space used: 20142010770
 
 
 Query= BC_7969249_1_2_3_4
 
 Length=724
-
-
-***** No hits found *****
-
-
-
-Lambda      K        H
-   0.318    0.134    0.401 
-
-Gapped
-Lambda      K        H
-   0.267   0.0410    0.140 
-
-Effective search space used: 17416762729
-
-
-Query= BC_3115287_1_2_3_4
-
-Length=1024
                                                                       Score     E
 Sequences producing significant alignments:                          (Bits)  Value
 
-  Montastraea_cavernosa_59488                                         283     2e-95
-  Seriatopora_sp_11281                                                154     4e-42
-  Seriatopora_sp_18134                                                152     1e-41
-  Stylophora_pistillata_7044                                          153     1e-40
-  Acropora_millepora_3614 cds.Cluster002276|m.48052                   148     3e-38
-  Seriatopora_sp_9642                                                 142     6e-38
-  Montastraea_cavernosa_4100                                          143     5e-37
-  Seriatopora_sp_25497                                                135     1e-35
-  Seriatopora_sp_25026                                                127     3e-31
-  Seriatopora_sp_11285                                                119     8e-30
-  Seriatopora_sp_11292                                                109     2e-27
-  Seriatopora_sp_11290                                                111     3e-27
-  Porites_australiensis_16150 cds.Porites_autraliensis_25573|m.45360  114     1e-26
-  Porites_lobata_9627                                                 111     8e-26
-  Seriatopora_hystrix_40497                                           104     3e-25
-  Seriatopora_sp_6235                                                 101     4e-24
-  Seriatopora_hystrix_45951                                           98.2    9e-24
-  Acropora_tenuis_18167                                               96.7    2e-23
-  Seriatopora_sp_3734                                                 98.6    2e-22
-  Seriatopora_hystrix_6854                                            95.9    8e-22
-  Seriatopora_sp_11287                                                93.2    9e-22
-  Seriatopora_sp_3617                                                 95.5    3e-21
-  Acropora_millepora_8064 cds.Cluster005666|m.46224                   94.7    2e-20
-  Seriatopora_sp_342                                                  92.4    3e-20
-  Seriatopora_sp_27780                                                88.6    3e-19
-  Fungia_scutaria_24097                                               87.0    1e-18
-  Montastraea_cavernosa_31988                                         82.4    1e-17
-  Seriatopora_sp_3616                                                 82.0    1e-16
-  Acropora_hyacinthus_7422                                            79.7    1e-16
-  Seriatopora_sp_29797                                                79.3    1e-15
-  Seriatopora_sp_13780                                                74.7    4e-15
-  Porites_astreoides_11719                                            75.1    4e-15
-  Favia_sp_24560                                                      73.2    6e-15
-  Acropora_tenuis_23                                                  67.0    7e-13
-  Stylophora_pistillata_16689                                         71.2    2e-12
-  Acropora_millepora_21267 cds.Cluster018611|m.20484                  70.5    3e-12
-  Platygyra_carnosus_23128                                            66.6    3e-12
-  Favia_sp_47732                                                      66.6    3e-12
-  Acropora_digitifera_10727                                           65.5    6e-12
-  Acropora_millepora_25216 cds.Cluster024403|m.46559                  61.2    2e-09
-  Acropora_millepora_13718 cds.Cluster010563|m.40866                  61.6    2e-09
-  Seriatopora_sp_9950                                                 59.3    8e-09
-  Seriatopora_sp_3201                                                 59.7    1e-08
-  Seriatopora_hystrix_74143                                           53.5    2e-07
-  Seriatopora_sp_25442                                                48.1    6e-06
-  Madracis_auretenra_56096                                            47.4    7e-06
-  Montastraea_cavernosa_19397                                         43.9    1e-04
-  Seriatopora_sp_8845                                                 47.0    1e-04
-  Favia_sp_41467                                                      46.2    2e-04
-  Pseudodiploria_strigosa_16188                                       43.1    3e-04
+  Acropora_digitifera_6722                                            33.5    0.96 
 
 
-> Montastraea_cavernosa_59488
-Length=166
+> Acropora_digitifera_6722
+Length=279
 
- Score = 283 bits (724),  Expect = 2e-95, Method: Compositional matrix adjust.
- Identities = 142/156 (91%), Positives = 147/156 (94%), Gaps = 1/156 (1%)
+ Score = 33.5 bits (75),  Expect = 0.96, Method: Compositional matrix adjust.
+ Identities = 15/39 (38%), Positives = 23/39 (59%), Gaps = 1/39 (3%)
  Frame = +2
 
-Query  557   SDKFTLQQYVEEYKLNRITLYLLSRRKESSDHPDIADSELEKPVFSPAETVHHASEAEVL  736
-             SD FTLQQYVEEYKLNRITLYLLSRRK+SSDHPDIA SELEK VFSP ETVHHASEAEVL
-Sbjct  1     SDNFTLQQYVEEYKLNRITLYLLSRRKQSSDHPDIAGSELEKSVFSPTETVHHASEAEVL  60
-
-Query  737   TESLDDRRQLISEQNEEYWKSLETDRELERRKRAKLSEEASLVKRQVEIMLARKDRVPGE  916
-             T++LDDRRQLI+EQNEE+WKSLETDRELERRKRAKLSEEASLVKRQVEIMLARKDRVP E
-Sbjct  61    TQNLDDRRQLIAEQNEEFWKSLETDRELERRKRAKLSEEASLVKRQVEIMLARKDRVPEE  120
-
-Query  917   PCQGEDRVVVVRVRHLTFGVVERFFRPDTMLASIYD  1024
-             P QGEDR VV RVRHLTFGVVER FRPDTMLASIYD
-Sbjct  121   PRQGEDR-VVARVRHLTFGVVERSFRPDTMLASIYD  155
+Query  5    PQCLCVHFQR*LIDDTSVTSKSHLFI-FQRVGSVETFVF  118
+            PQCLC+H QR    +  +  K++LFI F     +E F++
+Sbjct  176  PQCLCIHIQRTYWRNNGIPYKNNLFIKFPEFLDMEPFLY  214
 
 
 
@@ -537,7 +80,7 @@ Gapped
 Lambda      K        H
    0.267   0.0410    0.140 
 
-Effective search space used: 17416762729
+Effective search space used: 20142010770
 
 
 Query= BC_3577569_1_2_3_4
@@ -556,7 +99,7 @@ Gapped
 Lambda      K        H
    0.267   0.0410    0.140 
 
-Effective search space used: 17416762729
+Effective search space used: 20142010770
 
 
 Query= ND_2090286_1_2_3_4
@@ -575,7 +118,7 @@ Gapped
 Lambda      K        H
    0.267   0.0410    0.140 
 
-Effective search space used: 17416762729
+Effective search space used: 20142010770
 
 
 Query= BC_104482_1_2_3_4
@@ -594,86 +137,7 @@ Gapped
 Lambda      K        H
    0.267   0.0410    0.140 
 
-Effective search space used: 17416762729
-
-
-  Database: data/ref/all_coral.faa
-    Posted date:  May 16, 2017  3:25 PM
-  Number of letters in database: 133,952,801
-  Number of sequences in database:  501,991
-
-
-
-Matrix: BLOSUM62
-Gap Penalties: Existence: 11, Extension: 1
-Neighboring words threshold: 12
-Window for multiple hits: 40
-BLASTX 2.6.0+
-
-
-Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
-Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
-Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
-protein database search programs", Nucleic Acids Res. 25:3389-3402.
-
-
-
-Database: data/ref/all_coral.faa
-           501,991 sequences; 133,952,801 total letters
-
-
-
-Query= BC_4960688_1_2_3_4
-
-Length=591
-                                                                      Score     E
-Sequences producing significant alignments:                          (Bits)  Value
-
-  Acropora_hyacinthus_5573                                            42.4    2e-04
-  Acropora_millepora_2072 cds.Cluster001232p|m.2443                   42.7    6e-04
-  Acropora_digitifera_3694                                            42.4    7e-04
-
-
-> Acropora_hyacinthus_5573
-Length=110
-
- Score = 42.4 bits (98),  Expect = 2e-04, Method: Compositional matrix adjust.
- Identities = 18/23 (78%), Positives = 20/23 (87%), Gaps = 0/23 (0%)
- Frame = +1
-
-Query  523  NSLGCIHVHPSALKKINELLDKM  591
-            NS GCIHVHP  LKKINE+LD+M
-Sbjct  60   NSEGCIHVHPKDLKKINEILDEM  82
-
-
-
-Lambda      K        H
-   0.318    0.134    0.401 
-
-Gapped
-Lambda      K        H
-   0.267   0.0410    0.140 
-
-Effective search space used: 7096661797
-
-
-Query= NC_3717387_1_2_3_4
-
-Length=566
-
-
-***** No hits found *****
-
-
-
-Lambda      K        H
-   0.318    0.134    0.401 
-
-Gapped
-Lambda      K        H
-   0.267   0.0410    0.140 
-
-Effective search space used: 7096661797
+Effective search space used: 20142010770
 
 
 Query= ND_2199726_1_2_3_4
@@ -692,26 +156,7 @@ Gapped
 Lambda      K        H
    0.267   0.0410    0.140 
 
-Effective search space used: 7096661797
-
-
-Query= BC_6313949_1_2_3_4
-
-Length=728
-
-
-***** No hits found *****
-
-
-
-Lambda      K        H
-   0.318    0.134    0.401 
-
-Gapped
-Lambda      K        H
-   0.267   0.0410    0.140 
-
-Effective search space used: 7096661797
+Effective search space used: 20142010770
 
 
 Query= BC_2102217_1_2_3_4
@@ -955,14 +400,113 @@ Sequences producing significant alignments:                          (Bits)  Val
   Favia_sp_45651                                                      44.7    1e-04
   Platygyra_carnosus_3584                                             43.5    2e-04
   Fungia_scutaria_17830                                               43.5    2e-04
+  Acropora_tenuis_15735                                               42.4    2e-04
   Favia_sp_50031                                                      41.6    2e-04
   Fungia_scutaria_24363                                               42.0    3e-04
   Fungia_scutaria_17548                                               41.6    3e-04
   Favia_sp_32776                                                      41.6    4e-04
   Montastraea_cavernosa_18611                                         41.2    4e-04
+  Montastraea_cavernosa_71974                                         41.6    4e-04
   Acropora_tenuis_1043                                                41.2    4e-04
   Acropora_millepora_1801 cds.Cluster001057|m.6361                    42.4    6e-04
   Montastraea_cavernosa_18609                                         40.8    7e-04
+  Madracis_auretenra_1357                                             40.0    0.001
+  Montastraea_cavernosa_94756                                         39.7    0.001
+  Favia_sp_24547                                                      39.7    0.001
+  Montastraea_cavernosa_45849                                         40.0    0.001
+  Montastraea_cavernosa_95648                                         41.2    0.001
+  Platygyra_carnosus_16433                                            41.2    0.001
+  Acropora_tenuis_5330                                                40.8    0.001
+  Stylophora_pistillata_11241                                         40.0    0.002
+  Favia_sp_44573                                                      40.4    0.002
+  Montastraea_cavernosa_25031                                         40.0    0.002
+  Fungia_scutaria_49928                                               40.0    0.002
+  Acropora_millepora_18346 cds.Cluster015212|m.3632                   40.4    0.003
+  Porites_australiensis_6113 cds.Porites_autraliensis_160|m.160       38.5    0.003
+  Montastraea_cavernosa_40401                                         40.0    0.003
+  Platygyra_carnosus_41841                                            38.9    0.003
+  Stylophora_pistillata_2364                                          40.0    0.004
+  Madracis_auretenra_35810                                            38.9    0.004
+  Acropora_tenuis_16938                                               38.9    0.004
+  Acropora_hyacinthus_3380                                            38.9    0.004
+  Madracis_auretenra_54395                                            38.5    0.004
+  Platygyra_carnosus_43652                                            39.3    0.004
+  Madracis_auretenra_15626                                            38.9    0.005
+  Stylophora_pistillata_12391                                         39.3    0.006
+  Pseudodiploria_strigosa_22930                                       37.4    0.007
+  Pseudodiploria_strigosa_20636                                       38.1    0.007
+  Montastraea_cavernosa_1733                                          38.9    0.008
+  Seriatopora_hystrix_41857                                           37.4    0.008
+  Favia_sp_61870                                                      37.7    0.008
+  Montastraea_cavernosa_72509                                         38.5    0.010
+  Montastraea_cavernosa_118371                                        37.4    0.010
+  Porites_lobata_3877                                                 38.5    0.011
+  Montastraea_cavernosa_72508                                         38.5    0.012
+  Acropora_millepora_2523 cds.Cluster001531|m.45421                   38.5    0.012
+  Acropora_millepora_16165 cds.Cluster012885|m.2177                   38.5    0.013
+  Montastraea_cavernosa_40012                                         37.4    0.013
+  Favia_sp_26119                                                      37.7    0.013
+  Fungia_scutaria_70892                                               38.1    0.016
+  Seriatopora_hystrix_43466                                           36.2    0.016
+  Montastraea_cavernosa_30198                                         36.6    0.017
+  Fungia_scutaria_70263                                               37.4    0.018
+  Fungia_scutaria_16697                                               37.7    0.018
+  Seriatopora_sp_12083                                                37.7    0.018
+  Montastraea_cavernosa_40007                                         37.4    0.018
+  Platygyra_carnosus_43707                                            37.7    0.023
+  Favia_sp_54138                                                      37.0    0.023
+  Porites_australiensis_43682 cds.Porites_autraliensis_5467|m.10621   37.4    0.027
+  Fungia_scutaria_54832                                               37.4    0.029
+  Montastraea_cavernosa_69983                                         36.2    0.029
+  Porites_australiensis_34944 cds.Porites_autraliensis_4533|m.8804    37.0    0.029
+  Montastraea_cavernosa_30258                                         36.2    0.033
+  Seriatopora_hystrix_44405                                           35.4    0.033
+  Acropora_millepora_28311 cds.Cluster029876|m.29892                  36.6    0.037
+  Montastraea_cavernosa_69410                                         35.4    0.039
+  Acropora_millepora_5650 cds.Cluster003774|m.47225                   37.0    0.040
+  Acropora_millepora_8714 cds.Cluster006205p|m.24834                  36.6    0.040
+  Favia_sp_50342                                                      35.0    0.047
+  Acropora_millepora_21646 cds.Cluster019130|m.26556                  36.6    0.050
+  Madracis_auretenra_60276                                            36.6    0.055
+  Platygyra_carnosus_39811                                            35.4    0.055
+  Pseudodiploria_strigosa_29841                                       35.4    0.055
+  Madracis_auretenra_27067                                            35.8    0.059
+  Fungia_scutaria_41176                                               35.0    0.060
+  Acropora_hyacinthus_5221                                            35.0    0.089
+  Pseudodiploria_strigosa_22233                                       34.3    0.089
+  Acropora_hyacinthus_5668                                            34.3    0.089
+  Favia_sp_45386                                                      35.4    0.098
+  Porites_lobata_23955                                                35.4    0.11 
+  Seriatopora_hystrix_84197                                           34.3    0.13 
+  Fungia_scutaria_6462                                                34.3    0.14 
+  Montastraea_cavernosa_31212                                         33.9    0.15 
+  Fungia_scutaria_56887                                               35.0    0.15 
+  Fungia_scutaria_39779                                               33.5    0.16 
+  Montastraea_cavernosa_93717                                         34.7    0.17 
+  Acropora_millepora_15432 cds.Cluster012128|m.39372                  35.0    0.18 
+  Montastraea_cavernosa_80211                                         34.7    0.18 
+  Montastraea_cavernosa_105579                                        33.5    0.25 
+  Acropora_millepora_13451 cds.Cluster010309|m.3132                   34.7    0.25 
+  Montastraea_cavernosa_20499                                         34.3    0.26 
+  Acropora_tenuis_5403                                                34.3    0.28 
+  Seriatopora_hystrix_35715                                           34.3    0.28 
+  Platygyra_carnosus_107                                              32.7    0.33 
+  Acropora_hyacinthus_3381                                            33.5    0.35 
+  Platygyra_carnosus_1040                                             33.9    0.37 
+  Fungia_scutaria_21619                                               32.7    0.38 
+  Stylophora_pistillata_598                                           33.9    0.39 
+  Montastraea_cavernosa_38395                                         32.7    0.39 
+  Montastraea_cavernosa_97342                                         33.5    0.41 
+  Porites_australiensis_9359 cds.Porites_autraliensis_19926|m.32990   33.5    0.42 
+  Platygyra_carnosus_12318                                            33.1    0.44 
+  Acropora_tenuis_7405                                                33.5    0.48 
+  Platygyra_carnosus_15841                                            33.5    0.49 
+  Platygyra_carnosus_3617                                             33.5    0.52 
+  Platygyra_carnosus_28819                                            32.0    0.70 
+  Acropora_millepora_24911 cds.Cluster023904|m.33020                  32.7    0.72 
+  Platygyra_carnosus_17953                                            32.0    0.82 
+  Acropora_millepora_31234 cds.Cluster037526|m.15948                  31.6    0.82 
+  Acropora_tenuis_14232                                               31.6    0.90 
 
 
 > Porites_lobata_1679
@@ -976,7 +520,7 @@ Query  471  FLYKTLQNFEFGPSLINWIKVFYTDIESFTLNNGWTSNFFQLR*GVRQGCPLSPYLF---  301
             F+ KTLQ+F FGPSL+NWI++FY +IES  LNNGW +NFF+L  GVRQGCPLSPYLF   
 Sbjct  20   FISKTLQHFGFGPSLLNWIELFYCNIESCILNNGWANNFFKLSRGVRQGCPLSPYLFILS  79
 
-Query  300  --VFPEAFSKNARVKGIVINGKEIKLSQYADDASFVlddse*slkeslnllDTFCKASGL  127
+Query  300  --VFPEAFSKNARVKGIVINGKEIKLSQYADDASFVLDDSE*SLKESLNLLDTFCKASGL  127
               +  +A  K  R+KGI ING + KLSQYADD + +LD SE S  ES+ L++TF   SGL
 Sbjct  80   AEILADAIRKKQRIKGIEINGIDFKLSQYADDTTLILDGSEESFLESVILIETFGNISGL  139
 
@@ -993,45 +537,7 @@ Gapped
 Lambda      K        H
    0.267   0.0410    0.140 
 
-Effective search space used: 7096661797
-
-
-Query= BC_6396372_1_2_3_4
-
-Length=488
-
-
-***** No hits found *****
-
-
-
-Lambda      K        H
-   0.318    0.134    0.401 
-
-Gapped
-Lambda      K        H
-   0.267   0.0410    0.140 
-
-Effective search space used: 7096661797
-
-
-Query= NC_3840521_1_2_3_4
-
-Length=484
-
-
-***** No hits found *****
-
-
-
-Lambda      K        H
-   0.318    0.134    0.401 
-
-Gapped
-Lambda      K        H
-   0.267   0.0410    0.140 
-
-Effective search space used: 7096661797
+Effective search space used: 20142010770
 
 
 Query= BC_6957170_1_2_3_4
@@ -1048,6 +554,8 @@ Sequences producing significant alignments:                          (Bits)  Val
   Acropora_millepora_12692 cds.Cluster009640|m.3099                   52.8    6e-08
   Acropora_millepora_23046 cds.Cluster020993|m.49579                  43.9    4e-05
   Acropora_millepora_22961 cds.Cluster020862|m.706                    41.6    2e-04
+  Montastraea_cavernosa_88820                                         35.8    0.079
+  Stylophora_pistillata_17500                                         32.3    0.51 
 
 
 > Acropora_millepora_13064 cds.Cluster009971|m.20766
@@ -1078,26 +586,7 @@ Gapped
 Lambda      K        H
    0.267   0.0410    0.140 
 
-Effective search space used: 7096661797
-
-
-Query= NC_617433_1_2_3_4
-
-Length=464
-
-
-***** No hits found *****
-
-
-
-Lambda      K        H
-   0.318    0.134    0.401 
-
-Gapped
-Lambda      K        H
-   0.267   0.0410    0.140 
-
-Effective search space used: 7096661797
+Effective search space used: 20142010770
 
 
 Query= BC_1111080_1_2_3_4
@@ -1126,6 +615,11 @@ Sequences producing significant alignments:                          (Bits)  Val
   Fungia_scutaria_7986                                                54.3    4e-09
   Porites_lobata_21247                                                46.6    4e-06
   Montastraea_cavernosa_60939                                         44.7    2e-05
+  Porites_lobata_23980                                                38.1    0.008
+  Acropora_millepora_10372 cds.Cluster007612|m.15718                  36.2    0.048
+  Montastraea_cavernosa_75631                                         32.3    0.44 
+  Acropora_millepora_33485 cds.Cluster046351|m.17110                  32.0    0.57 
+  Pseudodiploria_strigosa_1141                                        32.0    0.68 
 
 
 > Stylophora_pistillata_13596
@@ -1161,565 +655,7 @@ Gapped
 Lambda      K        H
    0.267   0.0410    0.140 
 
-Effective search space used: 7096661797
-
-
-Query= BC_4896473_1_2_3_4
-
-Length=455
-                                                                      Score     E
-Sequences producing significant alignments:                          (Bits)  Value
-
-  Astreopora_sp_33734                                                 84.0    5e-19
-  Porites_lobata_24187                                                84.0    9e-19
-  Favia_sp_54360                                                      80.1    4e-18
-  Acropora_tenuis_6395                                                72.8    4e-17
-  Favia_sp_50201                                                      77.0    2e-16
-  Platygyra_carnosus_5758                                             72.8    7e-15
-  Acropora_millepora_16188 cds.Cluster012904|m.35416                  65.5    1e-12
-  Favia_sp_51743                                                      64.3    2e-12
-  Acropora_tenuis_14232                                               59.7    3e-11
-  Seriatopora_hystrix_73331                                           60.1    5e-11
-  Favia_sp_51947                                                      58.9    1e-10
-  Madracis_auretenra_26050                                            56.6    1e-10
-  Madracis_auretenra_8201                                             59.7    3e-10
-  Seriatopora_hystrix_34703                                           52.8    3e-10
-  Favia_sp_26944                                                      56.2    5e-10
-  Favia_sp_33306                                                      56.2    6e-10
-  Pseudodiploria_strigosa_22862                                       58.5    6e-10
-  Acropora_hyacinthus_4022                                            58.2    6e-10
-  Astreopora_sp_25074                                                 54.3    8e-10
-  Favia_sp_54163                                                      53.9    1e-09
-  Porites_lobata_4365                                                 51.6    1e-09
-  Acropora_tenuis_15816                                               56.2    1e-09
-  Acropora_tenuis_13371                                               53.9    1e-09
-  Platygyra_carnosus_13578                                            54.7    2e-09
-  Acropora_hyacinthus_4025                                            55.8    2e-09
-  Acropora_tenuis_5047                                                55.8    2e-09
-  Astreopora_sp_4745                                                  55.1    2e-09
-  Acropora_hyacinthus_7078                                            56.6    2e-09
-  Porites_australiensis_44895 cds.Porites_autraliensis_5670|m.11023   57.8    2e-09
-  Acropora_millepora_13451 cds.Cluster010309|m.3132                   52.8    2e-09
-  Madracis_auretenra_34944                                            57.4    2e-09
-  Platygyra_carnosus_39217                                            55.8    3e-09
-  Pocillopora_damicornis_4548                                         57.4    3e-09
-  Platygyra_carnosus_19488                                            57.4    3e-09
-  Acropora_millepora_17250 cds.Cluster014027|m.43150                  55.1    3e-09
-  Pocillopora_damicornis_18709                                        54.7    4e-09
-  Acropora_tenuis_18736                                               54.3    4e-09
-  Astreopora_sp_28422                                                 55.1    4e-09
-  Astreopora_sp_23689                                                 55.8    4e-09
-  Montastraea_cavernosa_97937                                         55.1    6e-09
-  Platygyra_carnosus_9994                                             54.3    6e-09
-  Porites_lobata_3994                                                 54.3    6e-09
-  Porites_australiensis_44841 cds.Porites_autraliensis_56649|m.93932  56.6    6e-09
-  Acropora_tenuis_8469                                                52.4    6e-09
-  Favia_sp_23421                                                      51.6    6e-09
-  Seriatopora_hystrix_56310                                           55.8    7e-09
-  Pocillopora_damicornis_11712                                        52.4    7e-09
-  Favia_sp_51892                                                      56.2    8e-09
-  Favia_sp_30648                                                      54.3    9e-09
-  Montastraea_cavernosa_110527                                        54.3    9e-09
-  Seriatopora_hystrix_19377                                           53.1    1e-08
-  Platygyra_carnosus_34616                                            48.5    1e-08
-  Madracis_auretenra_46571                                            52.8    1e-08
-  Acropora_tenuis_11449                                               53.1    1e-08
-  Acropora_hyacinthus_9312                                            53.9    1e-08
-  Platygyra_carnosus_27592                                            52.8    1e-08
-  Favia_sp_47806                                                      54.3    1e-08
-  Porites_astreoides_432                                              52.8    1e-08
-  Montastraea_cavernosa_63485                                         55.5    1e-08
-  Porites_astreoides_4186                                             53.1    1e-08
-  Acropora_millepora_31813 cds.Cluster039370|m.26865                  53.5    1e-08
-  Favia_sp_49816                                                      54.3    1e-08
-  Seriatopora_hystrix_89466                                           52.4    2e-08
-  Acropora_tenuis_13172                                               52.8    2e-08
-  Favia_sp_60164                                                      52.4    2e-08
-  Acropora_hyacinthus_10771                                           52.8    2e-08
-  Acropora_millepora_2598 cds.Cluster001580|m.2829                    55.1    2e-08
-  Favia_sp_43563                                                      53.5    2e-08
-  Seriatopora_hystrix_14845                                           54.7    2e-08
-  Acropora_hyacinthus_8220                                            52.8    3e-08
-  Montastraea_cavernosa_31638                                         52.8    3e-08
-  Platygyra_carnosus_11310                                            52.0    3e-08
-  Platygyra_carnosus_14976                                            51.6    3e-08
-  Porites_australiensis_10794 cds.Porites_autraliensis_21073|m.35457  52.4    3e-08
-  Acropora_hyacinthus_1483                                            52.4    3e-08
-  Porites_lobata_24247                                                52.4    4e-08
-  Acropora_millepora_31085 cds.Cluster037033|m.3301                   52.8    4e-08
-  Seriatopora_hystrix_46260                                           53.9    4e-08
-  Acropora_digitifera_4870                                            53.5    4e-08
-  Pseudodiploria_strigosa_16177                                       51.6    4e-08
-  Montastraea_cavernosa_79776                                         52.0    4e-08
-  Astreopora_sp_28173                                                 53.9    5e-08
-  Acropora_tenuis_10711                                               48.1    5e-08
-  Porites_australiensis_8608 cds.Porites_autraliensis_19072|m.31853   53.9    5e-08
-  Favia_sp_50199                                                      40.0    5e-08
-  Favia_sp_54746                                                      53.5    5e-08
-  Acropora_millepora_23746 cds.Cluster022054|m.31365                  52.4    5e-08
-  Favia_sp_48886                                                      52.0    5e-08
-  Porites_lobata_2340                                                 53.9    5e-08
-  Platygyra_carnosus_22206                                            53.5    5e-08
-  Porites_lobata_16816                                                51.6    6e-08
-  Favia_sp_49400                                                      50.4    8e-08
-  Porites_astreoides_6571                                             53.1    8e-08
-  Porites_astreoides_6780                                             52.8    8e-08
-  Pseudodiploria_strigosa_22233                                       50.4    8e-08
-  Acropora_millepora_17064 cds.Cluster013819|m.259                    52.8    9e-08
-  Montastraea_cavernosa_92240                                         52.8    1e-07
-  Astreopora_sp_3821                                                  52.8    1e-07
-  Montastraea_cavernosa_79775                                         52.4    1e-07
-  Porites_australiensis_9989 cds.Porites_autraliensis_20430|m.34087   52.8    1e-07
-  Acropora_millepora_22634 cds.Cluster020414|m.25247                  52.8    1e-07
-  Acropora_tenuis_11265                                               52.4    1e-07
-  Porites_lobata_11574                                                52.4    1e-07
-  Pocillopora_damicornis_13561                                        50.4    2e-07
-  Favia_sp_53071                                                      48.5    2e-07
-  Acropora_millepora_24892 cds.Cluster023876|m.28168                  50.1    2e-07
-  Acropora_tenuis_8324                                                52.0    2e-07
-  Montastraea_cavernosa_29490                                         50.8    2e-07
-  Seriatopora_hystrix_89465                                           50.4    2e-07
-  Porites_australiensis_12196 cds.Porites_autraliensis_22173|m.37959  52.0    2e-07
-  Acropora_millepora_31707 cds.Cluster038961|m.7965                   47.4    2e-07
-  Porites_australiensis_45836 cds.Porites_autraliensis_5754|m.11181   52.0    2e-07
-  Seriatopora_hystrix_33677                                           49.7    2e-07
-  Madracis_auretenra_9978                                             51.6    2e-07
-  Madracis_auretenra_26079                                            51.6    2e-07
-  Astreopora_sp_29504                                                 51.6    2e-07
-  Acropora_millepora_8790 cds.Cluster006278|m.18964                   51.6    3e-07
-  Porites_australiensis_5746 cds.Porites_autraliensis_15650|m.27497   51.6    3e-07
-  Montastraea_cavernosa_43965                                         51.6    3e-07
-  Montastraea_cavernosa_60108                                         50.4    3e-07
-  Stylophora_pistillata_12659                                         49.3    3e-07
-  Acropora_millepora_22885 cds.Cluster020753|m.34099                  49.7    3e-07
-  Acropora_digitifera_7756                                            48.9    3e-07
-  Stylophora_pistillata_333                                           50.1    3e-07
-  Seriatopora_hystrix_84603                                           42.0    3e-07
-  Platygyra_carnosus_44295                                            50.8    3e-07
-  Acropora_hyacinthus_11673                                           43.1    4e-07
-  Pseudodiploria_strigosa_19856                                       48.5    4e-07
-  Favia_sp_51878                                                      49.3    4e-07
-  Acropora_millepora_30298 cds.Cluster034451|m.37326                  49.7    4e-07
-  Porites_australiensis_19175 cds.Porites_autraliensis_28341|m.51011  51.2    4e-07
-  Acropora_millepora_6500 cds.Cluster004422|m.45637                   51.2    4e-07
-  Acropora_millepora_24145 cds.Cluster022660|m.9834                   49.7    5e-07
-  Porites_australiensis_4677 cds.Porites_autraliensis_14780|m.25882   50.8    5e-07
-  Montastraea_cavernosa_97342                                         49.7    5e-07
-  Acropora_millepora_31916 cds.Cluster039753|m.49139                  49.3    5e-07
-  Seriatopora_hystrix_23724                                           49.3    5e-07
-  Porites_australiensis_48935 cds.Porites_autraliensis_61547|m.10...  50.8    5e-07
-  Fungia_scutaria_22541                                               48.5    6e-07
-  Favia_sp_47333                                                      49.3    6e-07
-  Porites_lobata_5492                                                 50.8    6e-07
-  Acropora_millepora_31767 cds.Cluster039170|m.33305                  49.3    6e-07
-  Acropora_millepora_31824 cds.Cluster039411|m.721                    49.3    7e-07
-  Acropora_millepora_25092 cds.Cluster024206|m.23263                  50.4    7e-07
-  Acropora_millepora_29137 cds.Cluster031549|m.36347                  48.9    7e-07
-  Acropora_hyacinthus_10903                                           48.1    7e-07
-  Porites_lobata_16798                                                50.1    7e-07
-  Porites_australiensis_46808 cds.Porites_autraliensis_58543|m.97060  49.7    8e-07
-  Favia_sp_27836                                                      49.7    8e-07
-  Favia_sp_51882                                                      49.3    8e-07
-  Astreopora_sp_8386                                                  50.1    9e-07
-  Porites_australiensis_29984 cds.Porites_autraliensis_39377|m.69614  49.3    9e-07
-  Porites_lobata_8432                                                 50.1    9e-07
-  Acropora_millepora_32796 cds.Cluster043277|m.33654                  47.8    9e-07
-  Pseudodiploria_strigosa_13606                                       49.7    9e-07
-  Platygyra_carnosus_44050                                            49.3    1e-06
-  Porites_australiensis_24007 cds.Porites_autraliensis_33065|m.59675  49.7    1e-06
-  Porites_australiensis_37537 cds.Porites_autraliensis_48293|m.81585  50.1    1e-06
-  Acropora_tenuis_1566                                                47.4    1e-06
-  Favia_sp_35631                                                      47.8    1e-06
-  Porites_lobata_19878                                                49.7    1e-06
-  Stylophora_pistillata_2337                                          48.1    1e-06
-  Acropora_millepora_26952 cds.Cluster027504|m.12213                  49.7    1e-06
-  Fungia_scutaria_66446                                               47.4    1e-06
-  Stylophora_pistillata_5836                                          48.5    1e-06
-  Acropora_millepora_35140 cds.Cluster054953|m.28103                  47.0    1e-06
-  Acropora_millepora_12413 cds.Cluster009384|m.16822                  49.7    1e-06
-  Pocillopora_damicornis_11599                                        47.4    1e-06
-  Acropora_millepora_28454 cds.Cluster030160|m.45463                  49.3    1e-06
-  Acropora_millepora_19508 cds.Cluster016520|m.31354                  49.3    1e-06
-  Porites_lobata_1228                                                 47.8    1e-06
-  Acropora_millepora_6349 cds.Cluster004309p|m.20856                  49.3    1e-06
-  Porites_lobata_3798                                                 48.9    2e-06
-  Acropora_millepora_17040 cds.Cluster013797|m.15765                  49.3    2e-06
-  Porites_lobata_10376                                                48.1    2e-06
-  Madracis_auretenra_3951                                             49.3    2e-06
-  Favia_sp_50241                                                      47.8    2e-06
-  Acropora_millepora_23846 cds.Cluster022206|m.44381                  48.9    2e-06
-  Porites_astreoides_9770                                             48.5    2e-06
-  Acropora_millepora_34559 cds.Cluster051643|m.20866                  46.6    2e-06
-  Acropora_tenuis_8429                                                48.5    2e-06
-  Stylophora_pistillata_13737                                         47.0    2e-06
-  Stylophora_pistillata_5228                                          47.0    3e-06
-  Acropora_millepora_23907 cds.Cluster022304|m.9293                   47.4    3e-06
-  Fungia_scutaria_55035                                               48.5    3e-06
-  Astreopora_sp_6045                                                  48.5    3e-06
-  Platygyra_carnosus_25154                                            47.0    3e-06
-  Favia_sp_4393                                                       46.6    3e-06
-  Acropora_millepora_8399 cds.Cluster005937|m.12744                   48.5    3e-06
-  Pseudodiploria_strigosa_23669                                       46.2    3e-06
-  Acropora_hyacinthus_11196                                           46.2    4e-06
-  Acropora_millepora_12949 cds.Cluster009864|m.28861                  48.1    4e-06
-  Porites_lobata_3637                                                 48.1    4e-06
-  Seriatopora_hystrix_77243                                           48.1    4e-06
-  Porites_australiensis_46648 cds.Porites_autraliensis_58372|m.96823  48.1    4e-06
-  Fungia_scutaria_24169                                               47.8    4e-06
-  Acropora_hyacinthus_1286                                            45.8    4e-06
-  Astreopora_sp_28879                                                 48.1    4e-06
-  Astreopora_sp_4123                                                  48.1    4e-06
-  Acropora_millepora_30294 cds.Cluster034442|m.18685                  45.8    4e-06
-  Astreopora_sp_28533                                                 47.8    4e-06
-  Seriatopora_hystrix_68104                                           46.2    4e-06
-  Acropora_tenuis_2257                                                46.2    5e-06
-  Pocillopora_damicornis_11958                                        47.4    5e-06
-  Favia_sp_6458                                                       47.0    5e-06
-  Acropora_millepora_13066 cds.Cluster009974|m.20770                  46.6    5e-06
-  Porites_lobata_16907                                                48.1    5e-06
-  Pseudodiploria_strigosa_10987                                       46.2    5e-06
-  Acropora_tenuis_7521                                                47.0    5e-06
-  Porites_astreoides_4188                                             46.2    5e-06
-  Seriatopora_hystrix_51962                                           47.4    6e-06
-  Montastraea_cavernosa_11581                                         47.0    6e-06
-  Acropora_millepora_29924 cds.Cluster033536|m.31643                  47.0    6e-06
-  Acropora_millepora_17409 cds.Cluster014200p|m.49525                 46.6    6e-06
-  Favia_sp_46173                                                      47.8    6e-06
-  Seriatopora_sp_2624                                                 47.8    7e-06
-  Porites_lobata_9741                                                 47.4    7e-06
-  Acropora_millepora_19739 cds.Cluster016781|m.46951                  47.4    7e-06
-  Acropora_tenuis_18628                                               45.4    8e-06
-  Porites_australiensis_27112 cds.Porites_autraliensis_36235|m.65041  47.4    8e-06
-  Seriatopora_hystrix_10569                                           47.0    8e-06
-  Platygyra_carnosus_5849                                             47.4    8e-06
-  Seriatopora_hystrix_16899                                           43.9    8e-06
-  Acropora_millepora_6917 cds.Cluster004745|m.6262                    47.4    8e-06
-  Acropora_millepora_27793 cds.Cluster028938|m.13145                  47.0    9e-06
-  Seriatopora_hystrix_15957                                           45.1    9e-06
-  Acropora_millepora_24043 cds.Cluster022507|m.45025                  47.0    9e-06
-  Seriatopora_sp_25744                                                47.4    9e-06
-  Astreopora_sp_16254                                                 45.1    1e-05
-  Seriatopora_hystrix_71263                                           46.2    1e-05
-  Acropora_hyacinthus_10448                                           45.4    1e-05
-  Porites_australiensis_25322 cds.Porites_autraliensis_34410|m.61951  47.0    1e-05
-  Montastraea_faveolata_2941                                          45.8    1e-05
-  Stylophora_pistillata_226                                           46.6    1e-05
-  Acropora_tenuis_3859                                                46.6    1e-05
-  Seriatopora_hystrix_50835                                           45.1    1e-05
-  Astreopora_sp_2871                                                  40.8    1e-05
-  Acropora_tenuis_10198                                               46.6    1e-05
-  Pocillopora_damicornis_27632                                        44.7    1e-05
-  Acropora_tenuis_19209                                               44.7    1e-05
-  Astreopora_sp_16618                                                 45.8    1e-05
-  Acropora_tenuis_436                                                 44.3    1e-05
-  Porites_australiensis_1351 cds.Porites_autraliensis_11426|m.20326   46.6    1e-05
-  Porites_australiensis_42540 cds.Porites_autraliensis_53484|m.90184  44.7    1e-05
-  Platygyra_carnosus_39071                                            44.7    1e-05
-  Favia_sp_53051                                                      46.6    1e-05
-  Acropora_hyacinthus_6143                                            45.4    1e-05
-  Montastraea_cavernosa_89499                                         46.6    2e-05
-  Porites_lobata_2194                                                 44.3    2e-05
-  Porites_australiensis_21281 cds.Porites_autraliensis_30398|m.54897  46.6    2e-05
-  Seriatopora_hystrix_24306                                           45.4    2e-05
-  Seriatopora_hystrix_59888                                           44.3    2e-05
-  Acropora_tenuis_18498                                               44.7    2e-05
-  Fungia_scutaria_4477                                                44.3    2e-05
-  Stylophora_pistillata_16890                                         45.4    2e-05
-  Acropora_millepora_32152 cds.Cluster040649|m.14569                  45.1    2e-05
-  Seriatopora_hystrix_27803                                           46.2    2e-05
-  Montastraea_cavernosa_29474                                         44.3    2e-05
-  Porites_lobata_17811                                                46.2    2e-05
-  Seriatopora_hystrix_1321                                            45.1    2e-05
-  Astreopora_sp_18989                                                 44.7    2e-05
-  Acropora_tenuis_15600                                               45.1    2e-05
-  Stylophora_pistillata_1646                                          44.7    2e-05
-  Montastraea_cavernosa_113219                                        44.7    3e-05
-  Stylophora_pistillata_10907                                         45.8    3e-05
-  Acropora_tenuis_8153                                                45.1    3e-05
-  Acropora_millepora_28993 cds.Cluster031229|m.24701                  45.4    3e-05
-  Favia_sp_41784                                                      43.9    3e-05
-  Astreopora_sp_31258                                                 45.8    3e-05
-  Acropora_tenuis_9893                                                45.1    3e-05
-  Stylophora_pistillata_13081                                         45.4    3e-05
-  Porites_australiensis_43682 cds.Porites_autraliensis_5467|m.10621   45.4    3e-05
-  Porites_lobata_9794                                                 45.4    3e-05
-  Pocillopora_damicornis_4072                                         45.4    3e-05
-  Acropora_millepora_18071 cds.Cluster014902|m.9050                   45.4    3e-05
-  Porites_lobata_10475                                                43.9    3e-05
-  Acropora_tenuis_4112                                                44.3    3e-05
-  Acropora_millepora_4072 cds.Cluster002607|m.38229                   45.1    4e-05
-  Seriatopora_hystrix_36942                                           44.3    4e-05
-  Fungia_scutaria_12459                                               45.1    4e-05
-  Astreopora_sp_23618                                                 45.1    4e-05
-  Acropora_millepora_23624 cds.Cluster021865|m.39861                  45.1    4e-05
-  Seriatopora_hystrix_87234                                           45.1    4e-05
-  Favia_sp_4817                                                       44.3    4e-05
-  Stylophora_pistillata_6382                                          45.1    4e-05
-  Acropora_hyacinthus_1383                                            43.9    4e-05
-  Acropora_tenuis_7180                                                43.9    5e-05
-  Seriatopora_hystrix_29961                                           42.7    5e-05
-  Fungia_scutaria_15108                                               43.1    5e-05
-  Acropora_hyacinthus_10605                                           42.7    6e-05
-  Porites_lobata_5854                                                 44.7    6e-05
-  Favia_sp_55290                                                      43.1    6e-05
-  Porites_lobata_868                                                  43.5    7e-05
-  Acropora_millepora_22065 cds.Cluster019684|m.26587                  44.3    8e-05
-  Fungia_scutaria_35903                                               37.7    8e-05
-  Favia_sp_16755                                                      43.1    9e-05
-  Pocillopora_damicornis_7671                                         43.1    9e-05
-  Acropora_millepora_23801 cds.Cluster022143|m.9446                   40.8    9e-05
-  Porites_lobata_24387                                                44.3    9e-05
-  Pseudodiploria_strigosa_12088                                       42.7    9e-05
-  Porites_astreoides_4308                                             43.1    9e-05
-  Porites_australiensis_11585 cds.Porites_autraliensis_21685|m.36893  44.3    1e-04
-  Acropora_millepora_15831 cds.Cluster012541|m.40759                  44.3    1e-04
-  Pseudodiploria_strigosa_8745                                        43.1    1e-04
-  Porites_lobata_3877                                                 43.9    1e-04
-  Porites_australiensis_44455 cds.Porites_autraliensis_56303|m.93355  43.9    1e-04
-  Astreopora_sp_35055                                                 42.0    1e-04
-  Pseudodiploria_strigosa_2326                                        38.9    1e-04
-  Seriatopora_hystrix_13100                                           42.7    1e-04
-  Porites_australiensis_10139 cds.Porites_autraliensis_20550|m.34329  43.1    1e-04
-  Stylophora_pistillata_11847                                         43.9    1e-04
-  Favia_sp_51801                                                      43.1    1e-04
-  Porites_lobata_9039                                                 43.5    1e-04
-  Stylophora_pistillata_12513                                         43.9    1e-04
-  Acropora_hyacinthus_5841                                            43.5    1e-04
-  Astreopora_sp_24527                                                 43.1    1e-04
-  Acropora_millepora_17065 cds.Cluster013820|m.5919                   43.5    1e-04
-  Seriatopora_hystrix_100237                                          43.1    1e-04
-  Platygyra_carnosus_41467                                            42.0    1e-04
-  Pocillopora_damicornis_1328                                         43.1    2e-04
-  Porites_lobata_18335                                                42.0    2e-04
-  Porites_australiensis_25301 cds.Porites_autraliensis_34387|m.61922  42.0    2e-04
-  Acropora_millepora_6998 cds.Cluster004814|m.33725                   43.5    2e-04
-  Pocillopora_damicornis_14423                                        42.7    2e-04
-  Porites_australiensis_9016 cds.Porites_autraliensis_19619|m.32419   43.1    2e-04
-  Seriatopora_hystrix_30337                                           41.6    2e-04
-  Stylophora_pistillata_20140                                         43.1    2e-04
-  Montastraea_cavernosa_20884                                         42.0    2e-04
-  Astreopora_sp_27647                                                 41.6    2e-04
-  Seriatopora_hystrix_68655                                           43.1    2e-04
-  Pseudodiploria_strigosa_24999                                       42.4    2e-04
-  Favia_sp_42522                                                      42.7    2e-04
-  Stylophora_pistillata_13992                                         41.2    2e-04
-  Astreopora_sp_23624                                                 43.1    2e-04
-  Porites_australiensis_34944 cds.Porites_autraliensis_4533|m.8804    42.7    3e-04
-  Acropora_millepora_24072 cds.Cluster022558|m.38020                  42.4    3e-04
-  Stylophora_pistillata_15859                                         40.0    3e-04
-  Madracis_auretenra_8915                                             42.4    3e-04
-  Favia_sp_8733                                                       40.8    3e-04
-  Platygyra_carnosus_13524                                            42.7    3e-04
-  Acropora_millepora_22013 cds.Cluster019617|m.5851                   41.6    3e-04
-  Seriatopora_hystrix_34699                                           31.6    4e-04
-  Stylophora_pistillata_9968                                          42.4    4e-04
-  Porites_lobata_1090                                                 41.6    4e-04
-  Seriatopora_hystrix_70446                                           40.8    4e-04
-  Porites_australiensis_13317 cds.Porites_autraliensis_23109|m.39971  42.0    4e-04
-  Acropora_millepora_16345 cds.Cluster013072|m.45457                  42.4    5e-04
-  Astreopora_sp_7576                                                  40.8    5e-04
-  Porites_lobata_7394                                                 42.0    5e-04
-  Acropora_tenuis_15153                                               39.3    5e-04
-  Porites_lobata_16150                                                42.0    5e-04
-  Acropora_tenuis_6685                                                42.0    5e-04
-  Acropora_millepora_35077 cds.Cluster054520|m.37104                  40.0    5e-04
-  Astreopora_sp_30213                                                 42.0    5e-04
-  Porites_australiensis_47503 cds.Porites_autraliensis_59472|m.98094  41.2    6e-04
-  Pocillopora_damicornis_2581                                         42.0    6e-04
-  Seriatopora_hystrix_31106                                           40.0    6e-04
-  Fungia_scutaria_62577                                               42.0    6e-04
-  Porites_australiensis_12005 cds.Porites_autraliensis_22021|m.37635  41.2    6e-04
-  Seriatopora_hystrix_72874                                           40.4    6e-04
-  Platygyra_carnosus_35439                                            40.0    6e-04
-  Platygyra_carnosus_8162                                             40.8    6e-04
-  Favia_sp_52067                                                      40.4    6e-04
-  Stylophora_pistillata_6237                                          41.6    8e-04
-  Montastraea_cavernosa_7301                                          41.6    8e-04
-  Seriatopora_hystrix_94828                                           41.2    8e-04
-  Seriatopora_hystrix_21469                                           39.7    8e-04
-  Acropora_millepora_31336 cds.Cluster037806|m.17270                  39.7    8e-04
-  Acropora_millepora_26372 cds.Cluster026392|m.17473                  41.2    9e-04
-  Astreopora_sp_33679                                                 40.4    9e-04
-  Stylophora_pistillata_2364                                          41.2    0.001
-
-
-> Astreopora_sp_33734
-Length=316
-
- Score = 84.0 bits (206),  Expect = 5e-19, Method: Compositional matrix adjust.
- Identities = 38/53 (72%), Positives = 45/53 (85%), Gaps = 0/53 (0%)
- Frame = -2
-
-Query  448  LPLQWFTN*LKNRQRCVSVAGTVSSRQTMVCGVPQGSSLGPLLFLIFLTALKN  290
-            LPLQWFT+ L NRQ+ VS+AG  SSRQTMVCG+PQGSSLGPLLFLI++  + N
-Sbjct  221  LPLQWFTSYLTNRQQYVSMAGNESSRQTMVCGIPQGSSLGPLLFLIYINDIPN  273
-
-
- Score = 50.1 bits (118),  Expect = 8e-07, Method: Compositional matrix adjust.
- Identities = 24/43 (56%), Positives = 31/43 (72%), Gaps = 0/43 (0%)
- Frame = -1
-
-Query  350  SPG*FAWALAVPHIPNCSQKHCYIIFADDTNIFASSSNAIQLE  222
-            S G   + + +  IPNCS+K  + IFADDTNIFASSSNA +L+
-Sbjct  258  SLGPLLFLIYINDIPNCSEKLSFRIFADDTNIFASSSNATELQ  300
-
-
-
-Lambda      K        H
-   0.318    0.134    0.401 
-
-Gapped
-Lambda      K        H
-   0.267   0.0410    0.140 
-
-Effective search space used: 7096661797
-
-
-Query= BC_8062978_1_2_3_4
-
-Length=452
-
-
-***** No hits found *****
-
-
-
-Lambda      K        H
-   0.318    0.134    0.401 
-
-Gapped
-Lambda      K        H
-   0.267   0.0410    0.140 
-
-Effective search space used: 7096661797
-
-
-Query= BC_2620071_1_2_3_4
-
-Length=450
-                                                                      Score     E
-Sequences producing significant alignments:                          (Bits)  Value
-
-  Porites_lobata_6437                                                 50.8    6e-08
-
-
-> Porites_lobata_6437
-Length=104
-
- Score = 50.8 bits (120),  Expect = 6e-08, Method: Compositional matrix adjust.
- Identities = 24/41 (59%), Positives = 34/41 (83%), Gaps = 2/41 (5%)
- Frame = -3
-
-Query  442  ILGLGSRLYPGNMQRIFNKDLTRFMQSLSRERQIEQAKERL  320
-            +LGLGS+LYP ++Q + +KDLT+F+QSLS +  I+Q KERL
-Sbjct  53   LLGLGSKLYPSDIQCMLSKDLTQFVQSLSSK--IKQVKERL  91
-
-
-
-Lambda      K        H
-   0.318    0.134    0.401 
-
-Gapped
-Lambda      K        H
-   0.267   0.0410    0.140 
-
-Effective search space used: 7096661797
-
-
-Query= BC_4498293_1_2_3_4
-
-Length=419
-
-
-***** No hits found *****
-
-
-
-Lambda      K        H
-   0.318    0.134    0.401 
-
-Gapped
-Lambda      K        H
-   0.267   0.0410    0.140 
-
-Effective search space used: 7096661797
-
-
-Query= ND_1371207_1_2_3_4
-
-Length=407
-                                                                      Score     E
-Sequences producing significant alignments:                          (Bits)  Value
-
-  Acropora_millepora_17881 cds.Cluster014711|m.27442                  162     7e-51
-  Pocillopora_damicornis_11461                                        135     3e-40
-  Acropora_digitifera_13408                                           133     9e-38
-  Acropora_millepora_20704 cds.Cluster017955|m.14263                  132     7e-37
-  Stylophora_pistillata_4993                                          132     1e-35
-  Montastraea_cavernosa_53242                                         129     2e-35
-  Montastraea_cavernosa_105574                                        125     3e-35
-  Acropora_millepora_20331 cds.Cluster017515|m.41401                  125     5e-34
-  Acropora_tenuis_19154                                               115     2e-33
-  Seriatopora_sp_77                                                   119     3e-33
-  Acropora_millepora_34948 cds.Cluster053772|m.7332                   113     1e-32
-  Pseudodiploria_strigosa_14733                                       105     2e-28
-  Seriatopora_hystrix_27926                                           102     6e-28
-  Seriatopora_hystrix_17518                                           102     4e-27
-  Acropora_millepora_33191 cds.Cluster044992|m.23849                  97.4    3e-26
-  Montastraea_cavernosa_43543                                         104     7e-26
-  Montastraea_cavernosa_7404                                          100     2e-25
-  Stylophora_pistillata_11477                                         101     6e-25
-  Seriatopora_sp_6361                                                 94.4    1e-24
-  Montastraea_cavernosa_45555                                         96.3    2e-24
-  Seriatopora_sp_19117                                                95.1    3e-24
-  Acropora_millepora_11230 cds.Cluster008337m|m.17049                 93.6    6e-24
-  Madracis_auretenra_31952                                            94.4    7e-24
-  Fungia_scutaria_38121                                               90.1    6e-23
-  Fungia_scutaria_55642                                               81.3    7e-20
-  Seriatopora_sp_9840                                                 81.3    7e-20
-  Seriatopora_hystrix_41369                                           77.8    1e-18
-  Acropora_millepora_33308 cds.Cluster045521|m.45627                  77.8    3e-18
-  Pseudodiploria_strigosa_30472                                       72.4    8e-16
-  Stylophora_pistillata_13556                                         68.6    2e-13
-  Pseudodiploria_strigosa_7471                                        60.8    3e-11
-  Acropora_millepora_25788 cds.Cluster025364|m.23970                  61.6    4e-11
-  Favia_sp_47926                                                      59.3    4e-11
-  Acropora_millepora_28565 cds.Cluster030419|m.23853                  58.9    4e-11
-  Acropora_millepora_34677 cds.Cluster052260|m.12445                  51.6    2e-08
-  Stylophora_pistillata_16078                                         49.7    9e-07
-  Stylophora_pistillata_16077                                         47.8    1e-06
-  Fungia_scutaria_16498                                               45.8    4e-06
-  Acropora_millepora_32785 cds.Cluster043230|m.9296                   45.4    9e-06
-  Platygyra_carnosus_23777                                            44.3    2e-05
-  Seriatopora_hystrix_59466                                           44.7    3e-05
-  Madracis_auretenra_32967                                            42.4    7e-05
-
-
-> Acropora_millepora_17881 cds.Cluster014711|m.27442
-Length=178
-
- Score = 162 bits (409),  Expect = 7e-51, Method: Compositional matrix adjust.
- Identities = 73/105 (70%), Positives = 90/105 (86%), Gaps = 0/105 (0%)
- Frame = +2
-
-Query  92   MPSKSLQTSRPAPRPERRPLVQVEVPNVNANICYRTFSEFCKRINNLKSLTEWSLKVLSD  271
-            MPSKS+QTS+PAPR ERRP+  +E  NVN N+CY+TFSE C+R +NLKSL  W++KV+S+
-Sbjct  1    MPSKSIQTSKPAPRQERRPVQALEATNVNRNVCYKTFSELCQRTHNLKSLNAWNIKVMSE  60
-
-Query  272  RVVLKKEEDPYLIPKLEIVVDESLAYTVKVYGAYLVEDHPVYTVN  406
-            RVVLKKE +P LIPK EIVVDESL +TVKV+GAYLV+DHP+YT N
-Sbjct  61   RVVLKKEAEPXLIPKFEIVVDESLGFTVKVFGAYLVDDHPLYTGN  105
-
-
-
-Lambda      K        H
-   0.318    0.134    0.401 
-
-Gapped
-Lambda      K        H
-   0.267   0.0410    0.140 
-
-Effective search space used: 7096661797
+Effective search space used: 20142010770
 
 
 Query= BC_1154956_1_2_3_4
@@ -1738,492 +674,7 @@ Gapped
 Lambda      K        H
    0.267   0.0410    0.140 
 
-Effective search space used: 7096661797
-
-
-Query= BC_6062481_1_2_3_4
-
-Length=392
-                                                                      Score     E
-Sequences producing significant alignments:                          (Bits)  Value
-
-  Astreopora_sp_26326                                                 51.2    8e-10
-  Stylophora_pistillata_13440                                         54.7    1e-09
-  Fungia_scutaria_65423                                               54.3    2e-09
-  Favia_sp_50761                                                      50.8    3e-09
-  Seriatopora_hystrix_92304                                           52.4    6e-09
-  Pseudodiploria_strigosa_2537                                        46.2    2e-08
-  Madracis_auretenra_25735                                            48.5    5e-08
-  Stylophora_pistillata_10437                                         49.3    1e-07
-  Pseudodiploria_strigosa_22755                                       50.4    4e-07
-  Porites_lobata_21884                                                39.7    4e-07
-  Fungia_scutaria_8786                                                49.7    4e-07
-  Montastraea_cavernosa_117065                                        50.1    5e-07
-  Madracis_auretenra_53538                                            43.5    7e-07
-  Madracis_auretenra_51938                                            47.4    7e-07
-  Fungia_scutaria_176853 cds.comp371600_c0_seq1|m.9082                46.6    8e-07
-  Fungia_scutaria_49228                                               48.1    2e-06
-  Montastraea_cavernosa_91656                                         42.7    3e-06
-  Fungia_scutaria_73832                                               47.8    3e-06
-  Pseudodiploria_strigosa_23069                                       45.4    4e-06
-  Montastraea_cavernosa_88820                                         35.0    5e-06
-  Pseudodiploria_strigosa_22756                                       45.4    5e-06
-  Favia_sp_48878                                                      45.4    6e-06
-  Fungia_scutaria_45277                                               43.9    7e-06
-  Montastraea_cavernosa_32927                                         44.7    9e-06
-  Acropora_tenuis_1038                                                44.7    1e-05
-  Montastraea_cavernosa_55053                                         42.4    3e-05
-  Montastraea_cavernosa_88419                                         41.6    4e-05
-  Montastraea_cavernosa_45856                                         43.1    4e-05
-  Madracis_auretenra_20236                                            43.9    6e-05
-  Fungia_scutaria_37837                                               42.4    6e-05
-  Madracis_auretenra_20237                                            43.5    8e-05
-  Favia_sp_61775                                                      40.8    2e-04
-  Porites_astreoides_2896                                             36.6    2e-04
-  Fungia_scutaria_16295                                               42.0    3e-04
-  Seriatopora_hystrix_18502                                           39.7    5e-04
-  Porites_astreoides_13010                                            40.4    5e-04
-  Pseudodiploria_strigosa_21483                                       35.8    6e-04
-  Porites_lobata_6441                                                 40.8    8e-04
-  Porites_australiensis_18062 cds.Porites_autraliensis_2732|m.5268    40.8    0.001
-
-
-> Astreopora_sp_26326
-Length=813
-
- Score = 51.2 bits (121),  Expect(3) = 8e-10, Method: Composition-based stats.
- Identities = 24/41 (59%), Positives = 29/41 (71%), Gaps = 1/41 (2%)
- Frame = -1
-
-Query  239  SLVFRLVLTQLGLRSLDVCG-GDCFFKAVSHQLYGTPD*HF  120
-            +++  L L QLGL  +DV G GDCFF+AVSHQLYG P  H 
-Sbjct  326  TMLLNLRLGQLGLTPVDVGGEGDCFFRAVSHQLYGDPSHHL  366
-
-
- Score = 29.3 bits (64),  Expect(3) = 8e-10, Method: Composition-based stats.
- Identities = 15/34 (44%), Positives = 19/34 (56%), Gaps = 9/34 (26%)
- Frame = -2
-
-Query  76   FIESNIANSWLEFLNTM---------LIVSTVSD  2
-            FIESN  +SW E++N M         LIV  V+D
-Sbjct  383  FIESNTEHSWNEYINNMSMQGTWCDALIVQAVAD  416
-
-
- Score = 20.4 bits (41),  Expect(3) = 8e-10, Method: Composition-based stats.
- Identities = 10/18 (56%), Positives = 11/18 (61%), Gaps = 0/18 (0%)
- Frame = -2
-
-Query  382  VMQRKNLISDDFELN*GP  329
-            V + K L S D ELN GP
-Sbjct  297  VSRMKLLTSGDIELNPGP  314
-
-
-
-Lambda      K        H
-   0.318    0.134    0.401 
-
-Gapped
-Lambda      K        H
-   0.267   0.0410    0.140 
-
-Effective search space used: 7096661797
-
-
-Query= BC_7719059_1_2_3_4
-
-Length=385
-
-
-***** No hits found *****
-
-
-
-Lambda      K        H
-   0.318    0.134    0.401 
-
-Gapped
-Lambda      K        H
-   0.267   0.0410    0.140 
-
-Effective search space used: 7096661797
-
-
-Query= BC_5359563_1_2_3_4
-
-Length=380
-
-
-***** No hits found *****
-
-
-
-Lambda      K        H
-   0.318    0.134    0.401 
-
-Gapped
-Lambda      K        H
-   0.267   0.0410    0.140 
-
-Effective search space used: 7096661797
-
-
-Query= BC_1989334_1_2_3_4
-
-Length=376
-
-
-***** No hits found *****
-
-
-
-Lambda      K        H
-   0.318    0.134    0.401 
-
-Gapped
-Lambda      K        H
-   0.267   0.0410    0.140 
-
-Effective search space used: 7096661797
-
-
-Query= BC_2991770_1_2_3_4
-
-Length=371
-                                                                      Score     E
-Sequences producing significant alignments:                          (Bits)  Value
-
-  Acropora_hyacinthus_2162                                            80.1    5e-19
-  Acropora_tenuis_119596 cds.isotig15363_gene=isogroup10037|m.15307   45.8    2e-06
-  Acropora_hyacinthus_3200                                            44.7    7e-06
-
-
-> Acropora_hyacinthus_2162
-Length=160
-
- Score = 80.1 bits (196),  Expect = 5e-19, Method: Compositional matrix adjust.
- Identities = 45/72 (63%), Positives = 51/72 (71%), Gaps = 0/72 (0%)
- Frame = +3
-
-Query  93   RNNSSRIMH*GPICSAPNSELGTIGSTLTLKDHFVPYFKKKKTRSHVIKRNTFLGTIVLE  272
-            ++NSS+I H    CSA NSE GTIGSTLTLKDHFVPYF  K T     K + FLGTIV +
-Sbjct  11   KHNSSQIAHKELNCSARNSERGTIGSTLTLKDHFVPYFFNKNTFPCYQKEHIFLGTIVPK  70
-
-Query  273  SSIKVQFVLLGI  308
-            SSI+ QFV L I
-Sbjct  71   SSIRDQFVPLQI  82
-
-
- Score = 43.1 bits (100),  Expect = 6e-05, Method: Compositional matrix adjust.
- Identities = 22/33 (67%), Positives = 24/33 (73%), Gaps = 0/33 (0%)
- Frame = +1
-
-Query  76   KGSTFLGTIVLESCIEDQFVPLLIRNSERLVPL  174
-            K   FLGTIV +S I DQFVPL IR  E+LVPL
-Sbjct  59   KEHIFLGTIVPKSSIRDQFVPLQIRKLEQLVPL  91
-
-
-
-Lambda      K        H
-   0.318    0.134    0.401 
-
-Gapped
-Lambda      K        H
-   0.267   0.0410    0.140 
-
-Effective search space used: 7096661797
-
-
-Query= NC_6034022_1_2_3_4
-
-Length=366
-                                                                      Score     E
-Sequences producing significant alignments:                          (Bits)  Value
-
-  Stylophora_pistillata_6160                                          116     4e-31
-  Stylophora_pistillata_10907                                         104     4e-26
-  Seriatopora_hystrix_13353                                           97.4    1e-24
-  Fungia_scutaria_45799                                               92.8    3e-24
-  Acropora_millepora_17240 cds.Cluster014015|m.48792                  84.7    2e-20
-  Porites_astreoides_8005                                             79.0    2e-19
-  Seriatopora_hystrix_97678                                           77.4    5e-17
-  Porites_australiensis_11585 cds.Porites_autraliensis_21685|m.36893  76.3    3e-16
-  Porites_lobata_9039                                                 74.7    4e-16
-  Porites_lobata_6371                                                 75.9    4e-16
-  Pocillopora_damicornis_5620                                         74.7    4e-16
-  Seriatopora_hystrix_40276                                           73.2    5e-16
-  Pocillopora_damicornis_11666                                        70.5    7e-16
-  Stylophora_pistillata_6237                                          72.8    2e-15
-  Acropora_tenuis_16610                                               68.9    6e-15
-  Stylophora_pistillata_16218                                         69.7    2e-14
-  Seriatopora_hystrix_16940                                           66.2    7e-14
-  Stylophora_pistillata_6382                                          68.9    9e-14
-  Porites_australiensis_1351 cds.Porites_autraliensis_11426|m.20326   68.9    1e-13
-  Stylophora_pistillata_20186                                         66.6    2e-13
-  Fungia_scutaria_17936                                               64.7    3e-13
-  Acropora_tenuis_10198                                               66.2    6e-13
-  Acropora_millepora_23833 cds.Cluster022192|m.3818                   62.8    2e-12
-  Seriatopora_hystrix_70452                                           63.9    3e-12
-  Montastraea_cavernosa_7302                                          62.0    4e-12
-  Seriatopora_hystrix_58372                                           60.1    1e-11
-  Acropora_tenuis_849                                                 60.1    1e-11
-  Favia_sp_47077                                                      59.7    2e-11
-  Seriatopora_hystrix_34703                                           62.0    2e-11
-  Acropora_tenuis_2980                                                60.5    4e-11
-  Stylophora_pistillata_10280                                         58.9    5e-11
-  Montastraea_cavernosa_7301                                          60.8    6e-11
-  Stylophora_pistillata_7578                                          60.5    6e-11
-  Favia_sp_52308                                                      58.5    8e-11
-  Porites_australiensis_45836 cds.Porites_autraliensis_5754|m.11181   58.9    4e-10
-  Porites_australiensis_29984 cds.Porites_autraliensis_39377|m.69614  58.5    4e-10
-  Porites_australiensis_8608 cds.Porites_autraliensis_19072|m.31853   58.5    5e-10
-  Porites_australiensis_27112 cds.Porites_autraliensis_36235|m.65041  57.8    8e-10
-  Seriatopora_hystrix_86902                                           55.8    1e-09
-  Porites_australiensis_32824 cds.Porites_autraliensis_42740|m.74012  55.8    1e-09
-  Porites_lobata_2340                                                 57.0    2e-09
-  Favia_sp_51892                                                      57.0    2e-09
-  Seriatopora_hystrix_87677                                           53.9    2e-09
-  Platygyra_carnosus_10183                                            53.5    2e-09
-  Pocillopora_damicornis_17468                                        54.7    2e-09
-  Acropora_tenuis_6685                                                56.2    3e-09
-  Porites_lobata_17789                                                53.5    3e-09
-  Seriatopora_hystrix_27117                                           53.5    3e-09
-  Stylophora_pistillata_5004                                          53.9    5e-09
-  Acropora_tenuis_14953                                               53.1    5e-09
-  Acropora_millepora_2598 cds.Cluster001580|m.2829                    55.5    5e-09
-  Montastraea_cavernosa_33518                                         53.1    6e-09
-  Pseudodiploria_strigosa_11134                                       53.5    6e-09
-  Acropora_tenuis_11265                                               54.7    7e-09
-  Porites_lobata_2194                                                 54.7    8e-09
-  Porites_lobata_26365                                                52.0    1e-08
-  Montastraea_cavernosa_82451                                         51.6    2e-08
-  Porites_australiensis_46273 cds.Porites_autraliensis_57985|m.96248  51.2    2e-08
-  Platygyra_carnosus_23094                                            52.0    2e-08
-  Acropora_millepora_33899 cds.Cluster048305|m.38793                  51.6    2e-08
-  Porites_australiensis_44841 cds.Porites_autraliensis_56649|m.93932  53.5    2e-08
-  Montastraea_cavernosa_72579                                         51.6    2e-08
-  Seriatopora_hystrix_86501                                           53.5    2e-08
-  Pseudodiploria_strigosa_12884                                       52.4    2e-08
-  Favia_sp_43961                                                      52.8    3e-08
-  Fungia_scutaria_3445                                                53.1    3e-08
-  Montastraea_cavernosa_88869                                         51.2    4e-08
-  Stylophora_pistillata_9894                                          53.1    4e-08
-  Stylophora_pistillata_12513                                         52.8    4e-08
-  Porites_lobata_4365                                                 52.8    5e-08
-  Stylophora_pistillata_16729                                         51.2    6e-08
-  Seriatopora_hystrix_70228                                           50.1    7e-08
-  Acropora_millepora_30078 cds.Cluster033873|m.49266                  51.2    7e-08
-  Acropora_millepora_2329 cds.Cluster001399|m.7104                    51.6    7e-08
-  Platygyra_carnosus_44050                                            51.2    8e-08
-  Montastraea_cavernosa_79779                                         50.4    8e-08
-  Acropora_tenuis_4877                                                52.0    8e-08
-  Acropora_millepora_31070 cds.Cluster036989|m.39040                  50.8    8e-08
-  Acropora_millepora_6998 cds.Cluster004814|m.33725                   52.0    1e-07
-  Astreopora_sp_23689                                                 50.8    1e-07
-  Astreopora_sp_8386                                                  51.6    1e-07
-  Montastraea_cavernosa_73114                                         49.3    1e-07
-  Acropora_millepora_7284 cds.Cluster005036p|m.30640                  50.4    1e-07
-  Acropora_millepora_8398 cds.Cluster005937|m.12745                   50.8    2e-07
-  Montastraea_cavernosa_7788                                          50.8    2e-07
-  Montastraea_cavernosa_43965                                         50.8    2e-07
-  Porites_australiensis_44895 cds.Porites_autraliensis_5670|m.11023   50.8    2e-07
-  Platygyra_carnosus_15841                                            50.4    3e-07
-  Seriatopora_hystrix_13635                                           49.3    3e-07
-  Seriatopora_hystrix_13508                                           48.1    4e-07
-  Stylophora_pistillata_11851                                         50.1    4e-07
-  Astreopora_sp_7744                                                  50.1    4e-07
-  Porites_australiensis_42366 cds.Porites_autraliensis_53312|m.89896  49.3    4e-07
-  Pseudodiploria_strigosa_10734                                       47.8    4e-07
-  Astreopora_sp_30100                                                 50.1    5e-07
-  Pocillopora_damicornis_8321                                         48.9    5e-07
-  Astreopora_sp_31258                                                 49.7    5e-07
-  Montastraea_cavernosa_52938                                         49.7    5e-07
-  Acropora_millepora_25608 cds.Cluster025027|m.20442                  49.3    5e-07
-  Madracis_auretenra_34944                                            49.7    6e-07
-  Acropora_millepora_4071 cds.Cluster002607|m.38230                   48.9    6e-07
-  Porites_australiensis_30052 cds.Porites_autraliensis_39459|m.69721  47.4    6e-07
-  Favia_sp_46173                                                      49.7    6e-07
-  Porites_australiensis_46808 cds.Porites_autraliensis_58543|m.97060  49.7    6e-07
-  Porites_lobata_19878                                                49.7    6e-07
-  Astreopora_sp_15094                                                 47.8    7e-07
-  Seriatopora_hystrix_10569                                           49.3    7e-07
-  Favia_sp_53051                                                      49.3    7e-07
-  Acropora_millepora_28993 cds.Cluster031229|m.24701                  48.9    8e-07
-  Montastraea_cavernosa_29766                                         48.1    1e-06
-  Porites_lobata_21004                                                46.6    1e-06
-  Porites_astreoides_9083                                             48.5    1e-06
-  Porites_lobata_16700                                                47.0    1e-06
-  Acropora_tenuis_3257                                                47.0    1e-06
-  Astreopora_sp_28533                                                 48.5    1e-06
-  Porites_astreoides_10223                                            47.4    1e-06
-  Seriatopora_hystrix_51823                                           47.8    2e-06
-  Porites_lobata_14891                                                46.2    2e-06
-  Montastraea_cavernosa_63485                                         48.1    2e-06
-  Astreopora_sp_4123                                                  48.1    2e-06
-  Acropora_millepora_12618 cds.Cluster009569|m.33112                  47.8    2e-06
-  Porites_lobata_16907                                                48.1    2e-06
-  Astreopora_sp_28879                                                 47.8    2e-06
-  Acropora_millepora_32265 cds.Cluster041051|m.41207                  46.2    3e-06
-  Seriatopora_hystrix_23179                                           46.6    3e-06
-  Seriatopora_hystrix_35715                                           47.4    3e-06
-  Porites_lobata_16444                                                47.4    3e-06
-  Acropora_hyacinthus_1199                                            45.8    4e-06
-  Porites_lobata_5854                                                 47.4    4e-06
-  Acropora_millepora_17893 cds.Cluster014722|m.8487                   47.0    4e-06
-  Acropora_tenuis_13490                                               45.4    4e-06
-  Stylophora_pistillata_7136                                          47.0    5e-06
-  Acropora_tenuis_12998                                               46.6    5e-06
-  Porites_astreoides_1669                                             45.4    5e-06
-  Acropora_millepora_15831 cds.Cluster012541|m.40759                  47.0    5e-06
-  Stylophora_pistillata_16907                                         45.8    6e-06
-  Platygyra_carnosus_32669                                            45.8    6e-06
-  Porites_astreoides_2165                                             45.1    7e-06
-  Fungia_scutaria_59396                                               46.6    7e-06
-  Madracis_auretenra_26050                                            46.6    7e-06
-  Porites_australiensis_44818 cds.Porites_autraliensis_56626|m.93899  46.6    7e-06
-  Pocillopora_damicornis_5565                                         46.2    8e-06
-  Pocillopora_damicornis_6395                                         46.2    8e-06
-  Porites_australiensis_47468 cds.Porites_autraliensis_59421|m.98046  45.1    8e-06
-  Seriatopora_hystrix_74538                                           46.2    9e-06
-  Porites_australiensis_3906 cds.Porites_autraliensis_1378|m.2511     46.2    1e-05
-  Acropora_hyacinthus_1440                                            43.9    1e-05
-  Porites_lobata_24387                                                45.8    1e-05
-  Acropora_tenuis_15463                                               45.1    1e-05
-  Acropora_tenuis_16834                                               44.7    1e-05
-  Porites_australiensis_41330 cds.Porites_autraliensis_5227|m.10139   45.8    1e-05
-  Fungia_scutaria_65004                                               44.7    1e-05
-  Acropora_millepora_16889 cds.Cluster013635|m.28313                  45.4    1e-05
-  Astreopora_sp_18725                                                 45.4    2e-05
-  Porites_lobata_8432                                                 45.4    2e-05
-  Stylophora_pistillata_18283                                         45.4    2e-05
-  Porites_australiensis_37537 cds.Porites_autraliensis_48293|m.81585  45.4    2e-05
-  Platygyra_carnosus_5849                                             45.4    2e-05
-  Platygyra_carnosus_32422                                            45.4    2e-05
-  Stylophora_pistillata_142                                           43.5    2e-05
-  Acropora_tenuis_7521                                                44.3    2e-05
-  Acropora_tenuis_2059                                                43.9    2e-05
-  Seriatopora_hystrix_88657                                           43.5    3e-05
-  Acropora_millepora_32913 cds.Cluster043791|m.12872                  43.5    3e-05
-  Seriatopora_hystrix_77243                                           44.7    3e-05
-  Seriatopora_hystrix_86503                                           44.3    3e-05
-  Pocillopora_damicornis_17403                                        42.7    3e-05
-  Porites_astreoides_11950                                            42.7    4e-05
-  Porites_lobata_8546                                                 43.5    4e-05
-  Seriatopora_sp_3118                                                 43.5    4e-05
-  Montastraea_cavernosa_29767                                         43.1    4e-05
-  Acropora_millepora_20031 cds.Cluster017112|m.24517                  43.9    5e-05
-  Acropora_millepora_29924 cds.Cluster033536|m.31643                  43.5    6e-05
-  Porites_australiensis_7229 cds.Porites_autraliensis_17224|m.29779   43.5    6e-05
-  Porites_australiensis_48095 cds.Porites_autraliensis_60272|m.98974  42.7    6e-05
-  Porites_australiensis_8647 cds.Porites_autraliensis_19135|m.31895   42.7    7e-05
-  Pocillopora_damicornis_2581                                         43.5    7e-05
-  Platygyra_carnosus_5758                                             43.5    7e-05
-  Favia_sp_31792                                                      42.7    7e-05
-  Porites_australiensis_17274 cds.Porites_autraliensis_2659|m.5120    42.4    7e-05
-  Pocillopora_damicornis_9011                                         43.1    8e-05
-  Porites_lobata_7108                                                 43.1    8e-05
-  Acropora_tenuis_5330                                                43.1    9e-05
-  Porites_australiensis_33688 cds.Porites_autraliensis_43772|m.75338  42.0    1e-04
-  Fungia_scutaria_22733                                               41.6    1e-04
-  Acropora_millepora_15432 cds.Cluster012128|m.39372                  43.1    1e-04
-  Astreopora_sp_29504                                                 43.1    1e-04
-  Seriatopora_hystrix_88972                                           42.7    1e-04
-  Fungia_scutaria_24337                                               41.2    1e-04
-  Porites_lobata_134                                                  42.4    1e-04
-  Stylophora_pistillata_1118                                          41.2    1e-04
-  Acropora_hyacinthus_8220                                            42.0    1e-04
-  Acropora_tenuis_996                                                 41.2    2e-04
-  Acropora_millepora_5739 cds.Cluster003844|m.26845                   41.6    2e-04
-  Porites_astreoides_11548                                            41.6    2e-04
-  Seriatopora_hystrix_22436                                           41.6    2e-04
-  Porites_lobata_16798                                                42.0    3e-04
-  Acropora_tenuis_241                                                 40.8    3e-04
-  Acropora_tenuis_10195                                               41.6    3e-04
-  Porites_australiensis_30433 cds.Porites_autraliensis_39858|m.70331  42.0    3e-04
-  Montastraea_cavernosa_24164                                         40.4    3e-04
-  Seriatopora_hystrix_46260                                           41.6    4e-04
-  Acropora_hyacinthus_10754                                           40.0    4e-04
-  Acropora_millepora_6500 cds.Cluster004422|m.45637                   41.6    4e-04
-  Porites_australiensis_46699 cds.Porites_autraliensis_58432|m.96906  41.6    4e-04
-  Acropora_millepora_8790 cds.Cluster006278|m.18964                   41.6    4e-04
-  Montastraea_cavernosa_114266                                        40.0    4e-04
-  Pseudodiploria_strigosa_6793                                        41.2    4e-04
-  Acropora_millepora_28379 cds.Cluster030015|m.42571                  40.4    4e-04
-  Montastraea_cavernosa_114265                                        39.7    5e-04
-  Favia_sp_53069                                                      40.4    5e-04
-  Porites_australiensis_46480 cds.Porites_autraliensis_582|m.834      40.8    5e-04
-  Acropora_millepora_28454 cds.Cluster030160|m.45463                  41.2    5e-04
-  Porites_lobata_9794                                                 41.2    5e-04
-  Montastraea_cavernosa_63610                                         40.4    5e-04
-  Seriatopora_hystrix_14845                                           41.2    5e-04
-  Acropora_millepora_16345 cds.Cluster013072|m.45457                  41.2    6e-04
-  Stylophora_pistillata_275                                           40.0    6e-04
-  Porites_lobata_8669                                                 40.0    7e-04
-  Acropora_tenuis_1349                                                39.7    7e-04
-  Seriatopora_hystrix_90061                                           40.8    7e-04
-  Montastraea_cavernosa_100671                                        40.4    7e-04
-  Porites_australiensis_47508 cds.Porites_autraliensis_59477|m.98103  39.7    8e-04
-  Acropora_millepora_20960 cds.Cluster018250|m.5793                   40.4    8e-04
-  Favia_sp_54163                                                      40.8    8e-04
-  Seriatopora_sp_18338                                                40.4    8e-04
-  Acropora_millepora_13652 cds.Cluster010491|m.8044                   40.0    9e-04
-  Stylophora_pistillata_10384                                         40.4    9e-04
-  Acropora_millepora_17710 cds.Cluster014516|m.29380                  40.4    9e-04
-  Pseudodiploria_strigosa_22087                                       39.3    9e-04
-  Montastraea_cavernosa_44918                                         39.3    0.001
-  Seriatopora_hystrix_50051                                           39.3    0.001
-
-
-> Stylophora_pistillata_6160
-Length=386
-
- Score = 116 bits (290),  Expect = 4e-31, Method: Compositional matrix adjust.
- Identities = 63/114 (55%), Positives = 77/114 (68%), Gaps = 15/114 (13%)
- Frame = -3
-
-Query  322  LVNKSFLLGHLPEDWRSADIVPLHKKGSKHLRENYRPISLTSMICKISEK-------NCT  164
-            ++NKSF  G LP++W+ ADI PLHKKG K  RENYRPISLTS+ CKI EK       N  
-Sbjct  1    MLNKSFSAGLLPDEWKHADITPLHKKGPKSSRENYRPISLTSIPCKIGEKIVFDRMFNFW  60
-
-Query  163  R*VNVILARP*RDKQKPNFVFLQGRSTVTQLLSTFHDFARSRNSSVATDVVFLD  2
-            R +++I            F FL+GRST TQLLSTF+D+A+SRN S  TDV+FLD
-Sbjct  61   REIDLI--------NNNQFGFLRGRSTATQLLSTFNDWAKSRNLSTPTDVIFLD  106
-
-
-
-Lambda      K        H
-   0.318    0.134    0.401 
-
-Gapped
-Lambda      K        H
-   0.267   0.0410    0.140 
-
-Effective search space used: 7096661797
-
-
-  Database: data/ref/all_coral.faa
-    Posted date:  May 16, 2017  3:25 PM
-  Number of letters in database: 133,952,801
-  Number of sequences in database:  501,991
-
-
-
-Matrix: BLOSUM62
-Gap Penalties: Existence: 11, Extension: 1
-Neighboring words threshold: 12
-Window for multiple hits: 40
-BLASTX 2.6.0+
-
-
-Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
-Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
-Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
-protein database search programs", Nucleic Acids Res. 25:3389-3402.
-
-
-
-Database: data/ref/all_coral.faa
-           501,991 sequences; 133,952,801 total letters
-
+Effective search space used: 20142010770
 
 
 Query= ND_5552730_1_2_3_4
@@ -2238,6 +689,7 @@ Sequences producing significant alignments:                          (Bits)  Val
   Acropora_tenuis_5541                                                58.9    3e-10
   Acropora_millepora_13323 cds.Cluster010198|m.13687                  57.0    1e-09
   Acropora_tenuis_730                                                 45.8    4e-06
+  Astreopora_sp_21520                                                 31.6    0.84 
 
 
 > Acropora_millepora_1944 cds.Cluster001151|m.3849
@@ -2264,7 +716,7 @@ Gapped
 Lambda      K        H
    0.267   0.0410    0.140 
 
-Effective search space used: 3340423404
+Effective search space used: 20142010770
 
 
 Query= BC_1666634_1_2_3_4
@@ -2283,7 +735,7 @@ Gapped
 Lambda      K        H
    0.267   0.0410    0.140 
 
-Effective search space used: 3340423404
+Effective search space used: 20142010770
 
 
 Query= ND_2079243_1_2_3_4
@@ -2348,6 +800,7 @@ Sequences producing significant alignments:                          (Bits)  Val
   Montastraea_cavernosa_32852                                         50.8    3e-07
   Seriatopora_hystrix_77576                                           50.8    3e-07
   Porites_astreoides_5109                                             49.7    4e-07
+  Porites_astreoides_4573                                             50.4    4e-07
   Porites_australiensis_18185 cds.Porites_autraliensis_27427|m.49140  50.4    4e-07
   Seriatopora_hystrix_77574                                           50.1    5e-07
   Acropora_digitifera_1511                                            50.1    6e-07
@@ -2359,6 +812,7 @@ Sequences producing significant alignments:                          (Bits)  Val
   Fungia_scutaria_62611                                               48.5    1e-06
   Platygyra_carnosus_30658                                            48.9    2e-06
   Acropora_millepora_3302 cds.Cluster002082|m.26745                   48.9    2e-06
+  Seriatopora_hystrix_51157                                           48.5    2e-06
   Porites_lobata_4471                                                 48.1    2e-06
   Porites_lobata_15230                                                48.1    2e-06
   Porites_australiensis_45799 cds.Porites_autraliensis_57506|m.95462  48.1    3e-06
@@ -2370,8 +824,6 @@ Sequences producing significant alignments:                          (Bits)  Val
   Porites_lobata_8538                                                 47.4    4e-06
   Montastraea_cavernosa_115451                                        47.0    5e-06
   Porites_australiensis_8944 cds.Porites_autraliensis_19536|m.32311   47.4    6e-06
-  Seriatopora_hystrix_51157                                           47.4    6e-06
-  Porites_astreoides_4573                                             47.0    6e-06
   Seriatopora_hystrix_47837                                           46.2    8e-06
   Seriatopora_sp_7569                                                 46.6    9e-06
   Porites_lobata_3403                                                 44.3    1e-05
@@ -2440,6 +892,285 @@ Sequences producing significant alignments:                          (Bits)  Val
   Stylophora_pistillata_14862                                         40.8    8e-04
   Porites_lobata_16731                                                39.7    0.001
   Astreopora_sp_30056                                                 40.8    0.001
+  Fungia_scutaria_57062                                               40.4    0.001
+  Porites_lobata_6405                                                 40.4    0.001
+  Seriatopora_hystrix_35902                                           40.4    0.001
+  Astreopora_sp_1009                                                  40.4    0.001
+  Fungia_scutaria_42244                                               40.4    0.001
+  Acropora_millepora_23006 cds.Cluster020936|m.34955                  40.4    0.001
+  Montastraea_cavernosa_28284                                         40.0    0.002
+  Platygyra_carnosus_32460                                            39.7    0.002
+  Platygyra_carnosus_12966                                            39.3    0.002
+  Stylophora_pistillata_15706                                         39.7    0.002
+  Acropora_millepora_8811 cds.Cluster006298|m.4119                    39.7    0.002
+  Porites_australiensis_33377 cds.Porites_autraliensis_4340|m.8420    39.7    0.002
+  Stylophora_pistillata_6599                                          39.7    0.002
+  Fungia_scutaria_59153                                               39.7    0.002
+  Porites_lobata_4764                                                 38.9    0.003
+  Platygyra_carnosus_5145                                             39.7    0.003
+  Seriatopora_hystrix_71919                                           39.3    0.003
+  Montastraea_cavernosa_34101                                         38.5    0.003
+  Acropora_millepora_4804 cds.Cluster003151|m.3483                    39.3    0.003
+  Fungia_scutaria_47559                                               39.3    0.003
+  Porites_astreoides_5169                                             39.3    0.003
+  Favia_sp_48572                                                      39.3    0.003
+  Favia_sp_44357                                                      39.3    0.003
+  Madracis_auretenra_8725                                             38.9    0.004
+  Montastraea_cavernosa_65296                                         38.9    0.004
+  Acropora_millepora_28377 cds.Cluster030012|m.42574                  38.5    0.004
+  Stylophora_pistillata_10805                                         38.9    0.004
+  Montastraea_cavernosa_103035                                        38.9    0.004
+  Montastraea_cavernosa_71470                                         38.9    0.004
+  Madracis_auretenra_34395                                            37.7    0.005
+  Favia_sp_21818                                                      38.5    0.005
+  Stylophora_pistillata_8832                                          38.9    0.005
+  Seriatopora_hystrix_5626                                            38.5    0.005
+  Astreopora_sp_32745                                                 38.5    0.005
+  Stylophora_pistillata_11364                                         38.5    0.005
+  Acropora_millepora_637 cds.Cluster000343|m.10828                    38.5    0.005
+  Pocillopora_damicornis_10609                                        38.1    0.005
+  Fungia_scutaria_40054                                               38.5    0.005
+  Madracis_auretenra_27139                                            38.5    0.005
+  Favia_sp_53298                                                      38.5    0.005
+  Fungia_scutaria_14528                                               38.1    0.006
+  Astreopora_sp_4998                                                  38.5    0.006
+  Fungia_scutaria_40091                                               37.7    0.006
+  Favia_sp_59444                                                      37.0    0.007
+  Favia_sp_43650                                                      38.1    0.007
+  Pseudodiploria_strigosa_25336                                       38.1    0.007
+  Platygyra_carnosus_43685                                            37.7    0.008
+  Pseudodiploria_strigosa_25337                                       38.1    0.008
+  Seriatopora_hystrix_96263                                           38.1    0.008
+  Acropora_millepora_18783 cds.Cluster015679|m.49450                  38.1    0.008
+  Porites_australiensis_4445 cds.Porites_autraliensis_14576|m.25530   38.1    0.009
+  Fungia_scutaria_8498                                                37.7    0.009
+  Seriatopora_hystrix_71894                                           37.7    0.009
+  Seriatopora_sp_20530                                                37.7    0.011
+  Astreopora_sp_852                                                   37.7    0.011
+  Acropora_millepora_8123 cds.Cluster005708|m.28878                   37.7    0.011
+  Favia_sp_55562                                                      37.7    0.011
+  Acropora_millepora_5096 cds.Cluster003362|m.5992                    37.7    0.012
+  Astreopora_sp_16662                                                 37.0    0.012
+  Fungia_scutaria_293                                                 37.4    0.012
+  Acropora_millepora_31875 cds.Cluster039571|m.14096                  37.0    0.012
+  Montastraea_cavernosa_103037                                        37.4    0.013
+  Seriatopora_sp_17387                                                37.4    0.013
+  Acropora_millepora_23489 cds.Cluster021673|m.33117                  37.4    0.013
+  Favia_sp_47156                                                      37.4    0.013
+  Fungia_scutaria_57063                                               37.4    0.014
+  Porites_australiensis_21123 cds.Porites_autraliensis_30239|m.54598  37.4    0.014
+  Madracis_auretenra_10074                                            35.8    0.016
+  Pseudodiploria_strigosa_18310                                       36.2    0.016
+  Porites_australiensis_48082 cds.Porites_autraliensis_60251|m.98953  37.0    0.016
+  Montastraea_cavernosa_15868                                         37.0    0.018
+  Pocillopora_damicornis_24799                                        36.6    0.018
+  Porites_lobata_8609                                                 35.8    0.018
+  Stylophora_pistillata_21779                                         37.0    0.018
+  Stylophora_pistillata_7341                                          37.0    0.018
+  Acropora_digitifera_12561                                           37.0    0.019
+  Fungia_scutaria_23575                                               37.0    0.021
+  Madracis_auretenra_57034                                            35.4    0.022
+  Platygyra_carnosus_1592                                             37.0    0.022
+  Porites_lobata_23201                                                36.6    0.023
+  Montastraea_cavernosa_15869                                         37.0    0.023
+  Acropora_tenuis_12251                                               36.6    0.024
+  Fungia_scutaria_53344                                               35.8    0.025
+  Acropora_digitifera_9107                                            36.6    0.025
+  Montastraea_cavernosa_97487                                         36.6    0.026
+  Acropora_digitifera_3795                                            36.6    0.027
+  Acropora_digitifera_13369                                           36.6    0.027
+  Acropora_millepora_3634 cds.Cluster002291|m.38760                   36.6    0.027
+  Montastraea_cavernosa_83538                                         36.6    0.028
+  Porites_lobata_15133                                                36.2    0.029
+  Montastraea_cavernosa_87617                                         36.6    0.029
+  Favia_sp_23676                                                      35.4    0.032
+  Stylophora_pistillata_1812                                          36.2    0.033
+  Acropora_millepora_8167 cds.Cluster005744|m.2490                    36.2    0.033
+  Astreopora_sp_2946                                                  36.2    0.034
+  Acropora_tenuis_802                                                 35.0    0.035
+  Montastraea_cavernosa_5958                                          36.2    0.036
+  Stylophora_pistillata_6429                                          36.2    0.040
+  Pocillopora_damicornis_18029                                        34.7    0.040
+  Montastraea_cavernosa_60124                                         36.2    0.041
+  Porites_australiensis_34537 cds.Porites_autraliensis_44834|m.76616  35.8    0.041
+  Porites_australiensis_47608 cds.Porites_autraliensis_59606|m.98252  35.8    0.042
+  Stylophora_pistillata_5518                                          36.2    0.042
+  Montastraea_cavernosa_75229                                         35.8    0.043
+  Acropora_millepora_15411 cds.Cluster012107|m.26579                  35.8    0.043
+  Porites_australiensis_35899 cds.Porites_autraliensis_46529|m.78589  35.8    0.044
+  Stylophora_pistillata_2131                                          35.8    0.044
+  Porites_australiensis_17911 cds.Porites_autraliensis_27175|m.48605  35.8    0.048
+  Fungia_scutaria_29852                                               35.8    0.049
+  Montastraea_cavernosa_95117                                         35.0    0.049
+  Seriatopora_hystrix_2126                                            35.0    0.050
+  Porites_australiensis_21168 cds.Porites_autraliensis_30287|m.54687  35.8    0.051
+  Acropora_millepora_4762 cds.Cluster003114|m.29759                   35.8    0.053
+  Montastraea_cavernosa_8241                                          35.8    0.053
+  Acropora_millepora_2426 cds.Cluster001466|m.28083                   35.8    0.053
+  Porites_australiensis_1840 cds.Porites_autraliensis_1185|m.2100     35.8    0.053
+  Stylophora_pistillata_16818                                         35.8    0.054
+  Stylophora_pistillata_19588                                         35.8    0.056
+  Seriatopora_hystrix_75677                                           35.4    0.056
+  Stylophora_pistillata_9462                                          35.8    0.056
+  Acropora_millepora_8782 cds.Cluster006269|m.37498                   35.4    0.059
+  Seriatopora_hystrix_18157                                           34.7    0.066
+  Pocillopora_damicornis_15323                                        35.0    0.072
+  Fungia_scutaria_72774                                               35.0    0.075
+  Porites_australiensis_13318 cds.Porites_autraliensis_2311|m.4462    35.0    0.080
+  Seriatopora_hystrix_18159                                           34.7    0.082
+  Fungia_scutaria_54462                                               34.3    0.082
+  Platygyra_carnosus_44211                                            35.0    0.088
+  Montastraea_cavernosa_65858                                         35.0    0.090
+  Montastraea_cavernosa_51717                                         35.0    0.090
+  Stylophora_pistillata_12718                                         35.0    0.090
+  Madracis_auretenra_8937                                             34.7    0.091
+  Acropora_hyacinthus_6465                                            33.9    0.093
+  Montastraea_cavernosa_95634                                         34.7    0.093
+  Astreopora_sp_8383                                                  34.7    0.093
+  Pocillopora_damicornis_13217                                        34.7    0.094
+  Porites_lobata_25170                                                35.0    0.097
+  Acropora_millepora_11159 cds.Cluster008275|m.14619                  34.7    0.099
+  Porites_australiensis_4199 cds.Porites_autraliensis_14317|m.25166   35.0    0.10 
+  Astreopora_sp_31275                                                 35.0    0.10 
+  Porites_australiensis_44779 cds.Porites_autraliensis_56589|m.93843  35.0    0.10 
+  Porites_lobata_25712                                                34.7    0.10 
+  Porites_astreoides_10393                                            34.3    0.10 
+  Seriatopora_sp_5516                                                 35.0    0.10 
+  Favia_sp_43651                                                      33.9    0.10 
+  Platygyra_carnosus_17743                                            33.9    0.11 
+  Montastraea_cavernosa_75236                                         34.7    0.11 
+  Stylophora_pistillata_6568                                          34.7    0.11 
+  Favia_sp_23602                                                      33.9    0.11 
+  Porites_lobata_10004                                                34.3    0.12 
+  Montastraea_cavernosa_100798                                        34.7    0.12 
+  Astreopora_sp_30270                                                 34.7    0.12 
+  Porites_lobata_127595 cds.Locus_87959_Transcript_1/1_Confidence...  33.5    0.12 
+  Favia_sp_36211                                                      34.3    0.13 
+  Fungia_scutaria_31154                                               33.9    0.13 
+  Pseudodiploria_strigosa_28581                                       34.3    0.13 
+  Astreopora_sp_20951                                                 34.3    0.13 
+  Seriatopora_hystrix_12398                                           34.3    0.13 
+  Acropora_millepora_793 cds.Cluster000443|m.14694                    34.7    0.14 
+  Acropora_millepora_32239 cds.Cluster040936|m.12017                  33.9    0.14 
+  Porites_australiensis_16031 cds.Porites_autraliensis_25463|m.45117  34.7    0.14 
+  Stylophora_pistillata_10359                                         34.3    0.14 
+  Favia_sp_54012                                                      34.3    0.14 
+  Acropora_digitifera_1325                                            34.7    0.15 
+  Acropora_millepora_1887 cds.Cluster001113|m.28437                   34.7    0.15 
+  Favia_sp_43652                                                      33.5    0.15 
+  Favia_sp_55240                                                      34.3    0.15 
+  Favia_sp_51761                                                      34.3    0.15 
+  Madracis_auretenra_41029                                            33.9    0.15 
+  Acropora_millepora_34023 cds.Cluster048826|m.12639                  33.5    0.15 
+  Acropora_digitifera_3106                                            34.3    0.16 
+  Favia_sp_49860                                                      33.9    0.16 
+  Platygyra_carnosus_41703                                            33.9    0.16 
+  Astreopora_sp_6136                                                  34.3    0.18 
+  Seriatopora_hystrix_12401                                           33.5    0.18 
+  Seriatopora_hystrix_20464                                           33.9    0.18 
+  Acropora_millepora_22480 cds.Cluster020227|m.15565                  33.9    0.18 
+  Acropora_millepora_5098 cds.Cluster003364|m.5988                    33.9    0.19 
+  Stylophora_pistillata_12002                                         33.9    0.20 
+  Acropora_digitifera_7049                                            33.5    0.20 
+  Montastraea_cavernosa_116935                                        33.1    0.21 
+  Fungia_scutaria_40108                                               33.1    0.21 
+  Seriatopora_hystrix_49784                                           33.9    0.22 
+  Madracis_auretenra_15520                                            33.9    0.23 
+  Madracis_auretenra_54691                                            33.5    0.23 
+  Fungia_scutaria_26340                                               33.9    0.24 
+  Seriatopora_hystrix_46377                                           33.5    0.24 
+  Montastraea_cavernosa_19025                                         33.5    0.24 
+  Favia_sp_30600                                                      33.5    0.26 
+  Pseudodiploria_strigosa_16344                                       33.5    0.26 
+  Porites_lobata_916                                                  33.5    0.26 
+  Porites_lobata_17934                                                33.1    0.26 
+  Fungia_scutaria_11381                                               33.9    0.27 
+  Porites_australiensis_12216 cds.Porites_autraliensis_22192|m.37990  33.5    0.27 
+  Platygyra_carnosus_44422                                            33.5    0.28 
+  Montastraea_cavernosa_4515                                          33.5    0.29 
+  Fungia_scutaria_1765                                                33.5    0.29 
+  Montastraea_cavernosa_95095                                         32.7    0.29 
+  Fungia_scutaria_58359                                               33.5    0.30 
+  Madracis_auretenra_730                                              33.5    0.30 
+  Montastraea_cavernosa_95109                                         33.1    0.30 
+  Platygyra_carnosus_38983                                            32.3    0.32 
+  Stylophora_pistillata_5965                                          33.5    0.32 
+  Fungia_scutaria_14980                                               33.5    0.33 
+  Platygyra_carnosus_44643                                            33.5    0.33 
+  Porites_lobata_16515                                                33.5    0.33 
+  Acropora_digitifera_10047                                           33.5    0.34 
+  Favia_sp_17097                                                      32.0    0.34 
+  Favia_sp_38512                                                      33.1    0.35 
+  Seriatopora_sp_23058                                                33.1    0.36 
+  Acropora_millepora_9100 cds.Cluster006543|m.30783                   33.1    0.36 
+  Montastraea_cavernosa_12822                                         33.1    0.36 
+  Acropora_hyacinthus_1524                                            32.7    0.36 
+  Pseudodiploria_strigosa_15708                                       32.3    0.38 
+  Platygyra_carnosus_10354                                            33.1    0.38 
+  Favia_sp_54592                                                      33.1    0.39 
+  Platygyra_carnosus_19028                                            33.1    0.39 
+  Acropora_palmata_5014                                               32.7    0.39 
+  Stylophora_pistillata_15624                                         33.1    0.40 
+  Astreopora_sp_12028                                                 32.7    0.40 
+  Platygyra_carnosus_64714                                            32.7    0.41 
+  Acropora_millepora_6010 cds.Cluster004047|m.10013                   33.1    0.41 
+  Montastraea_cavernosa_114954                                        33.1    0.42 
+  Acropora_millepora_11592 cds.Cluster008654|m.49037                  32.7    0.42 
+  Seriatopora_sp_2344                                                 33.1    0.42 
+  Porites_astreoides_8639                                             32.7    0.44 
+  Montastraea_cavernosa_25851                                         32.3    0.45 
+  Porites_australiensis_7005 cds.Porites_autraliensis_1696|m.3191     32.7    0.47 
+  Seriatopora_hystrix_65002                                           33.1    0.47 
+  Montastraea_cavernosa_28297                                         33.1    0.48 
+  Montastraea_cavernosa_112520                                        32.3    0.48 
+  Madracis_auretenra_53876                                            32.7    0.49 
+  Porites_astreoides_9059                                             31.6    0.50 
+  Seriatopora_hystrix_12406                                           32.3    0.50 
+  Acropora_millepora_3148 cds.Cluster001970|m.22993                   32.7    0.51 
+  Porites_australiensis_14175 cds.Porites_autraliensis_23844|m.41584  32.7    0.52 
+  Seriatopora_hystrix_16739                                           32.7    0.52 
+  Montastraea_cavernosa_90049                                         32.7    0.53 
+  Favia_sp_38514                                                      32.7    0.54 
+  Favia_sp_50637                                                      32.3    0.56 
+  Pseudodiploria_strigosa_29003                                       32.7    0.56 
+  Stylophora_pistillata_2310                                          32.7    0.57 
+  Madracis_auretenra_30494                                            32.7    0.57 
+  Montastraea_cavernosa_36353                                         32.7    0.58 
+  Montastraea_cavernosa_115618                                        32.7    0.58 
+  Acropora_millepora_22352 cds.Cluster020049|m.29365                  32.7    0.58 
+  Porites_lobata_127559 cds.Locus_69816_Transcript_1/1_Confidence...  31.6    0.59 
+  Porites_astreoides_15113                                            31.6    0.61 
+  Stylophora_pistillata_9007                                          32.7    0.64 
+  Fungia_scutaria_38804                                               32.0    0.64 
+  Porites_australiensis_26216 cds.Porites_autraliensis_35319|m.63496  32.0    0.65 
+  Acropora_millepora_19415 cds.Cluster016403|m.33640                  32.3    0.67 
+  Acropora_tenuis_12299                                               31.6    0.68 
+  Acropora_hyacinthus_6838                                            31.6    0.69 
+  Pocillopora_damicornis_12375                                        31.2    0.69 
+  Acropora_digitifera_10148                                           32.3    0.70 
+  Acropora_millepora_2716 cds.Cluster001666|m.34587                   32.3    0.70 
+  Acropora_digitifera_13150                                           32.3    0.74 
+  Seriatopora_hystrix_102490                                          32.3    0.75 
+  Acropora_millepora_34392 cds.Cluster050768|m.9387                   31.2    0.75 
+  Madracis_auretenra_50196                                            31.2    0.76 
+  Seriatopora_sp_2888                                                 32.3    0.76 
+  Astreopora_sp_30998                                                 32.3    0.76 
+  Acropora_digitifera_9338                                            32.3    0.78 
+  Acropora_millepora_26248 cds.Cluster026167|m.40135                  32.0    0.78 
+  Montastraea_cavernosa_71604                                         32.3    0.78 
+  Montastraea_cavernosa_110605                                        32.0    0.79 
+  Acropora_digitifera_12908                                           32.0    0.82 
+  Acropora_millepora_17370 cds.Cluster014159|m.20700                  32.0    0.84 
+  Porites_astreoides_11076                                            31.6    0.85 
+  Madracis_auretenra_8263                                             32.0    0.89 
+  Madracis_auretenra_46643                                            31.6    0.89 
+  Madracis_auretenra_8265                                             32.0    0.90 
+  Astreopora_sp_20875                                                 32.0    0.91 
+  Acropora_palmata_2963                                               31.6    0.92 
+  Acropora_digitifera_14738                                           32.0    0.94 
+  Acropora_digitifera_11162                                           31.6    0.95 
+  Porites_lobata_27260                                                31.2    0.96 
+  Montastraea_cavernosa_104387                                        32.0    0.96 
 
 
 > Acropora_millepora_15070 cds.Cluster011788|m.46894
@@ -2517,7 +1248,7 @@ Gapped
 Lambda      K        H
    0.267   0.0410    0.140 
 
-Effective search space used: 3340423404
+Effective search space used: 20142010770
 
 
 Query= ND_4661417_1_2_3_4
@@ -2816,6 +1547,190 @@ Sequences producing significant alignments:                          (Bits)  Val
   Montastraea_cavernosa_63699                                         40.0    8e-04
   Fungia_scutaria_27459                                               40.0    0.001
   Seriatopora_sp_24948                                                40.0    0.001
+  Acropora_millepora_10992 cds.Cluster008134|m.24159                  39.7    0.001
+  Porites_lobata_16072                                                39.7    0.001
+  Pocillopora_damicornis_13758                                        39.7    0.001
+  Pocillopora_damicornis_7458                                         39.7    0.001
+  Acropora_millepora_803 cds.Cluster000450|m.46076                    39.7    0.001
+  Pocillopora_damicornis_2006                                         39.3    0.002
+  Porites_australiensis_7745 cds.Porites_autraliensis_1795|m.3404     39.7    0.002
+  Montastraea_cavernosa_42735                                         39.3    0.002
+  Acropora_digitifera_4286                                            38.5    0.002
+  Fungia_scutaria_54341                                               39.3    0.002
+  Stylophora_pistillata_2127                                          39.3    0.002
+  Fungia_scutaria_45184                                               37.7    0.002
+  Pocillopora_damicornis_14946                                        38.9    0.002
+  Montastraea_cavernosa_90083                                         38.9    0.003
+  Astreopora_sp_30671                                                 38.9    0.003
+  Pseudodiploria_strigosa_19144                                       38.5    0.003
+  Porites_lobata_4128                                                 38.9    0.003
+  Porites_astreoides_13773                                            37.7    0.003
+  Acropora_millepora_30601 cds.Cluster035391|m.34656                  38.1    0.003
+  Favia_sp_45139                                                      38.5    0.003
+  Platygyra_carnosus_22361                                            38.5    0.003
+  Porites_lobata_25048                                                38.5    0.004
+  Porites_astreoides_3533                                             38.5    0.004
+  Madracis_auretenra_37547                                            38.1    0.004
+  Fungia_scutaria_36122                                               38.5    0.004
+  Madracis_auretenra_37540                                            38.1    0.004
+  Acropora_hyacinthus_3590                                            37.0    0.005
+  Stylophora_pistillata_14890                                         38.1    0.005
+  Fungia_scutaria_26866                                               38.1    0.005
+  Pseudodiploria_strigosa_17482                                       37.4    0.005
+  Porites_astreoides_5535                                             37.7    0.005
+  Seriatopora_hystrix_33198                                           37.0    0.006
+  Porites_australiensis_9260 cds.Porites_autraliensis_19840|m.32818   38.1    0.006
+  Montastraea_cavernosa_88960                                         37.7    0.006
+  Seriatopora_sp_12728                                                37.4    0.007
+  Fungia_scutaria_39346                                               36.2    0.008
+  Porites_lobata_10577                                                37.4    0.009
+  Madracis_auretenra_42175                                            37.0    0.009
+  Pseudodiploria_strigosa_25352                                       37.0    0.009
+  Stylophora_pistillata_18423                                         37.4    0.009
+  Acropora_digitifera_9291                                            36.6    0.009
+  Seriatopora_hystrix_208                                             37.4    0.009
+  Porites_lobata_5393                                                 37.0    0.011
+  Acropora_digitifera_15587                                           37.0    0.012
+  Porites_lobata_2845                                                 35.8    0.012
+  Astreopora_sp_23912                                                 37.0    0.012
+  Montastraea_cavernosa_41555                                         36.6    0.013
+  Seriatopora_hystrix_39633                                           37.0    0.013
+  Seriatopora_hystrix_39571                                           37.0    0.014
+  Madracis_auretenra_47719                                            35.8    0.014
+  Porites_lobata_8770                                                 36.6    0.015
+  Porites_lobata_1400                                                 36.6    0.015
+  Acropora_millepora_25217 cds.Cluster024404|m.46563                  36.6    0.016
+  Acropora_millepora_17556 cds.Cluster014350|m.41451                  36.6    0.017
+  Porites_lobata_22871                                                36.6    0.017
+  Stylophora_pistillata_4654                                          36.6    0.018
+  Seriatopora_sp_24077                                                36.2    0.019
+  Montastraea_cavernosa_114438                                        35.4    0.020
+  Seriatopora_hystrix_94607                                           36.2    0.021
+  Seriatopora_sp_31316                                                35.4    0.023
+  Pseudodiploria_strigosa_19876                                       35.0    0.024
+  Astreopora_sp_22742                                                 35.8    0.024
+  Madracis_auretenra_3550                                             35.8    0.025
+  Acropora_millepora_20959 cds.Cluster018249|m.37385                  35.8    0.026
+  Fungia_scutaria_10556                                               35.8    0.027
+  Montastraea_cavernosa_23044                                         35.0    0.028
+  Acropora_millepora_2823 cds.Cluster001749|m.7789                    36.2    0.028
+  Montastraea_cavernosa_9266                                          35.0    0.029
+  Pseudodiploria_strigosa_27466                                       35.0    0.030
+  Seriatopora_hystrix_54238                                           35.4    0.031
+  Seriatopora_hystrix_52106                                           34.7    0.033
+  Porites_astreoides_10445                                            35.4    0.034
+  Seriatopora_hystrix_82244                                           35.8    0.035
+  Pseudodiploria_strigosa_27465                                       35.8    0.036
+  Porites_astreoides_419                                              34.3    0.037
+  Porites_lobata_24362                                                35.4    0.038
+  Acropora_millepora_11249 cds.Cluster008352|m.3999                   35.4    0.040
+  Fungia_scutaria_12724                                               35.4    0.041
+  Fungia_scutaria_6989                                                35.4    0.046
+  Pseudodiploria_strigosa_12210                                       34.3    0.050
+  Stylophora_pistillata_7026                                          35.4    0.050
+  Montastraea_cavernosa_44281                                         34.3    0.051
+  Favia_sp_53251                                                      34.7    0.055
+  Madracis_auretenra_29349                                            35.0    0.056
+  Seriatopora_hystrix_66703                                           34.3    0.057
+  Platygyra_carnosus_783                                              34.3    0.058
+  Acropora_digitifera_3553                                            34.7    0.062
+  Fungia_scutaria_26828                                               33.9    0.062
+  Madracis_auretenra_46417                                            35.0    0.067
+  Seriatopora_sp_3188                                                 34.7    0.084
+  Favia_sp_53559                                                      34.3    0.095
+  Platygyra_carnosus_16617                                            33.5    0.10 
+  Fungia_scutaria_29146                                               34.3    0.11 
+  Porites_astreoides_3572                                             33.9    0.12 
+  Acropora_hyacinthus_6641                                            33.9    0.12 
+  Acropora_millepora_13531 cds.Cluster010381|m.5031                   34.3    0.12 
+  Acropora_millepora_32244 cds.Cluster040965|m.1060                   33.5    0.13 
+  Acropora_tenuis_7538                                                33.9    0.13 
+  Pocillopora_damicornis_24636                                        33.9    0.13 
+  Platygyra_carnosus_36069                                            33.1    0.14 
+  Porites_australiensis_13159 cds.Porites_autraliensis_2297|m.4433    33.9    0.14 
+  Pocillopora_damicornis_6356                                         33.9    0.14 
+  Madracis_auretenra_46416                                            33.9    0.15 
+  Pocillopora_damicornis_15539                                        33.5    0.15 
+  Favia_sp_53252                                                      33.5    0.15 
+  Acropora_millepora_1140 cds.Cluster000661|m.48650                   33.9    0.16 
+  Astreopora_sp_34756                                                 33.9    0.16 
+  Seriatopora_hystrix_20638                                           33.5    0.16 
+  Acropora_millepora_1141 cds.Cluster000661|m.48651                   33.9    0.17 
+  Astreopora_sp_30774                                                 33.9    0.17 
+  Montastraea_cavernosa_26131                                         33.5    0.17 
+  Pseudodiploria_strigosa_13014                                       33.1    0.18 
+  Porites_australiensis_4407 cds.Porites_autraliensis_14540|m.25475   33.5    0.18 
+  Seriatopora_sp_4179                                                 33.5    0.18 
+  Madracis_auretenra_31665                                            33.5    0.18 
+  Astreopora_sp_28473                                                 33.5    0.20 
+  Acropora_palmata_4147                                               33.5    0.20 
+  Favia_sp_50483                                                      33.5    0.20 
+  Montastraea_cavernosa_32295                                         33.5    0.20 
+  Pocillopora_damicornis_12155                                        32.7    0.20 
+  Madracis_auretenra_13784                                            33.1    0.20 
+  Fungia_scutaria_54017                                               32.7    0.20 
+  Porites_astreoides_5739                                             33.5    0.22 
+  Montastraea_cavernosa_97508                                         33.5    0.22 
+  Acropora_digitifera_14346                                           33.1    0.22 
+  Montastraea_cavernosa_80532                                         33.1    0.23 
+  Stylophora_pistillata_10019                                         33.1    0.23 
+  Madracis_auretenra_7462                                             33.1    0.24 
+  Madracis_auretenra_15234                                            33.1    0.24 
+  Platygyra_carnosus_39096                                            33.1    0.24 
+  Pseudodiploria_strigosa_9521                                        33.1    0.25 
+  Favia_sp_37192                                                      32.7    0.25 
+  Montastraea_cavernosa_66738                                         33.1    0.26 
+  Montastraea_cavernosa_63708                                         33.1    0.26 
+  Favia_sp_43900                                                      32.0    0.27 
+  Pocillopora_damicornis_6370                                         33.1    0.28 
+  Platygyra_carnosus_25292                                            32.3    0.29 
+  Seriatopora_hystrix_41034                                           32.7    0.30 
+  Stylophora_pistillata_5081                                          32.7    0.31 
+  Favia_sp_42712                                                      33.1    0.31 
+  Porites_astreoides_15018                                            32.0    0.31 
+  Madracis_auretenra_29348                                            32.7    0.31 
+  Pocillopora_damicornis_5866                                         32.0    0.31 
+  Seriatopora_hystrix_94893                                           32.7    0.35 
+  Montastraea_cavernosa_111109                                        32.7    0.37 
+  Seriatopora_hystrix_94894                                           32.7    0.37 
+  Montastraea_cavernosa_87424                                         32.7    0.38 
+  Porites_australiensis_4865 cds.Porites_autraliensis_14915|m.26166   32.7    0.41 
+  Porites_lobata_4969                                                 32.3    0.41 
+  Stylophora_pistillata_4424                                          32.7    0.42 
+  Acropora_millepora_33416 cds.Cluster046037|m.21245                  32.0    0.43 
+  Porites_lobata_24556                                                32.7    0.44 
+  Porites_australiensis_19692 cds.Porites_autraliensis_28845|m.51991  32.7    0.45 
+  Platygyra_carnosus_17851                                            32.3    0.45 
+  Acropora_digitifera_10504                                           31.6    0.45 
+  Seriatopora_hystrix_9750                                            32.3    0.45 
+  Astreopora_sp_11597                                                 32.3    0.46 
+  Fungia_scutaria_20069                                               31.6    0.49 
+  Porites_australiensis_49289 cds.Porites_autraliensis_622|m.896      32.3    0.51 
+  Stylophora_pistillata_12110                                         32.3    0.51 
+  Favia_sp_56544                                                      32.3    0.51 
+  Montastraea_cavernosa_30553                                         32.3    0.52 
+  Favia_sp_22881                                                      32.0    0.52 
+  Porites_australiensis_8586 cds.Porites_autraliensis_19023|m.31813   32.0    0.53 
+  Astreopora_sp_1540                                                  32.3    0.55 
+  Acropora_millepora_30290 cds.Cluster034426|m.31932                  31.2    0.57 
+  Platygyra_carnosus_33514                                            31.6    0.58 
+  Acropora_tenuis_10019                                               32.0    0.60 
+  Porites_lobata_8209                                                 32.0    0.60 
+  Astreopora_sp_19403                                                 31.6    0.63 
+  Porites_australiensis_41664 cds.Porites_autraliensis_52682|m.88496  32.0    0.66 
+  Porites_lobata_11810                                                32.0    0.68 
+  Porites_astreoides_13754                                            31.2    0.69 
+  Seriatopora_hystrix_64476                                           31.6    0.69 
+  Pseudodiploria_strigosa_9107                                        31.2    0.71 
+  Stylophora_pistillata_581                                           31.2    0.73 
+  Stylophora_pistillata_2533                                          31.6    0.77 
+  Montastraea_cavernosa_31198                                         31.6    0.80 
+  Astreopora_sp_27583                                                 31.6    0.80 
+  Stylophora_pistillata_8413                                          31.6    0.87 
+  Pocillopora_damicornis_8418                                         31.2    0.90 
+  Montastraea_faveolata_3359                                          31.2    0.95 
+  Platygyra_carnosus_17742                                            30.8    0.96 
+  Acropora_palmata_3418                                               31.2    0.96 
 
 
 > Seriatopora_sp_31163
@@ -2838,15 +1753,32 @@ Gapped
 Lambda      K        H
    0.267   0.0410    0.140 
 
-Effective search space used: 3340423404
+Effective search space used: 20142010770
 
 
 Query= BC_1531619_1_2_3_4
 
 Length=313
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  Pocillopora_damicornis_19775                                        33.9    0.098
 
 
-***** No hits found *****
+> Pocillopora_damicornis_19775
+Length=192
+
+ Score = 33.9 bits (76),  Expect = 0.098, Method: Compositional matrix adjust.
+ Identities = 23/65 (35%), Positives = 35/65 (54%), Gaps = 9/65 (14%)
+ Frame = -2
+
+Query  198  VKSQVALRKVITI-SMTFWLNVFAIINFTLTEVSLALYSSKEIMMEVV-TRNTWDFTPCG  25
+            +K QVAL+   TI S+T  LN +           + LY+   +M ++V T N WDF  CG
+Sbjct  1    MKRQVALKSKNTICSLTIXLNFYXX-------GQIELYTHMPVMRQLVQTLNQWDFRVCG  53
+
+Query  24   GYLLE  10
+             +L++
+Sbjct  54   VFLID  58
 
 
 
@@ -2857,7 +1789,7 @@ Gapped
 Lambda      K        H
    0.267   0.0410    0.140 
 
-Effective search space used: 3340423404
+Effective search space used: 20142010770
 
 
 Query= BC_1123747_1_2_3_4
@@ -2874,6 +1806,13 @@ Sequences producing significant alignments:                          (Bits)  Val
   Montastraea_faveolata_487                                           40.4    4e-04
   Stylophora_pistillata_6228                                          40.4    4e-04
   Seriatopora_sp_19265                                                38.9    5e-04
+  Seriatopora_sp_9745                                                 37.4    0.006
+  Seriatopora_sp_27270                                                37.4    0.006
+  Porites_australiensis_43362 cds.Porites_autraliensis_54330|m.91587  36.2    0.011
+  Montastraea_cavernosa_58141                                         35.8    0.022
+  Seriatopora_hystrix_39927                                           33.5    0.086
+  Seriatopora_sp_11889                                                32.0    0.42 
+  Acropora_palmata_4220                                               30.8    0.95 
 
 
 > Seriatopora_sp_3101
@@ -2896,26 +1835,7 @@ Gapped
 Lambda      K        H
    0.267   0.0410    0.140 
 
-Effective search space used: 3340423404
-
-
-Query= BC_4612952_1_2_3_4
-
-Length=314
-
-
-***** No hits found *****
-
-
-
-Lambda      K        H
-   0.318    0.134    0.401 
-
-Gapped
-Lambda      K        H
-   0.267   0.0410    0.140 
-
-Effective search space used: 3340423404
+Effective search space used: 20142010770
 
 
   Database: data/ref/all_coral.faa

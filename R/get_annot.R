@@ -1,3 +1,5 @@
+require(seqinr)
+
 summ.f <- read.table("output/BC_NC_summary.txt", header=T)
 
 # Create columns for uniprot accession numbers
@@ -68,12 +70,9 @@ all$nt.annot <- rep(NA, nrow(all))
 all$nt.annot[which(!is.na(all$nt.hit))] <- gbannot
 
 # Subset columns...
-all <- all[,c("contig", "nsnp", "meancov", "nt.hit", "nt.evalue", "nt.annot",
-              "co.hit", "co.evalue", "sp.hit", "sp.evalue", "sp.Protein.names",
-              "sp.GO", "sp.Organism", "tr.hit", "tr.evalue", 
-              "tr.Protein.names", "tr.GO", "tr.Organism")]
-all <- all[with(all, order(tr.evalue, -meancov)), ]
+all.f <- all[,c(1:4,24,5:23)]
+all.f <- all.f[with(all.f, order(contig)), ]
 
 
-save(all, file="output/BC_NC_summary_plus.RData")
-write.table(all, file="output/BC_NC_summary_plus.txt", row.names=F, quote=F)
+save(all.f, file="output/BC_NC_summary_plus.RData")
+write.table(all.f, file="output/BC_NC_summary_plus.txt", sep="\t", row.names=F, quote=F)

@@ -12,54 +12,114 @@ Database: Nucleotide collection (nt)
 
 
 
-Query= NC_6063307_1_2_3_4
+Query= NC_1016405_1_2_3_4
 
-Length=1024
-
-
-***** No hits found *****
-
-
-
-Lambda      K        H
-    1.33    0.621     1.12 
-
-Gapped
-Lambda      K        H
-    1.28    0.460    0.850 
-
-Effective search space used: 137631412627288
-
-
-Query= BC_5418779_1_2_3_4
-
-Length=1024
+Length=1146
                                                                       Score     E
 Sequences producing significant alignments:                          (Bits)  Value
 
-XM_015912804.1  PREDICTED: Acropora digitifera uncharacterized LO...  132     2e-26
-XM_015912802.1  PREDICTED: Acropora digitifera sorting nexin-14-l...  132     2e-26
+XM_015914456.1  PREDICTED: Acropora digitifera melanocyte-stimula...  54.5    0.006
+XR_001564945.1  PREDICTED: Acropora digitifera uncharacterized LO...  54.5    0.006
+XR_001563961.1  PREDICTED: Acropora digitifera uncharacterized LO...  54.5    0.006
+XM_015901416.1  PREDICTED: Acropora digitifera nucleotide-binding...  54.5    0.006
+XM_015898047.1  PREDICTED: Acropora digitifera neurogenic locus n...  54.5    0.006
+XM_015915143.1  PREDICTED: Acropora digitifera caltractin (LOC107...  54.5    0.006
+XM_015903109.1  PREDICTED: Acropora digitifera methenyltetrahydro...  54.5    0.006
+XM_015897834.1  PREDICTED: Acropora digitifera uncharacterized LO...  54.5    0.006
+JQ970521.1  Acropora millepora red fluorescent protein FP597 (FP5...  54.5    0.006
+KM101116.1  Acropora millepora red fluorescent protein FP597 (FP5...  54.5    0.006
+KM101115.1  Acropora millepora red fluorescent protein FP597 (FP5...  54.5    0.006
+KC818413.1  Acropora millepora red fluorescent protein FP597 (FP5...  54.5    0.006
+EU814629.1  Acropora millepora isolate LDH lactate dehydrogenase-...  54.5    0.006
+XM_015894895.1  PREDICTED: Acropora digitifera sushi, nidogen and...  54.5    0.006
+XM_015923470.1  PREDICTED: Acropora digitifera uncharacterized LO...  54.5    0.006
+XM_015923051.1  PREDICTED: Acropora digitifera uncharacterized LO...  54.5    0.006
+XM_015922015.1  PREDICTED: Acropora digitifera D-inositol 3-phosp...  54.5    0.006
+XM_015918572.1  PREDICTED: Acropora digitifera leukocyte tyrosine...  54.5    0.006
+XM_015913042.1  PREDICTED: Acropora digitifera fibronectin-like (...  54.5    0.006
+XM_015909828.1  PREDICTED: Acropora digitifera soluble guanylate ...  54.5    0.006
+XM_015909827.1  PREDICTED: Acropora digitifera soluble guanylate ...  54.5    0.006
+XM_015909826.1  PREDICTED: Acropora digitifera soluble guanylate ...  54.5    0.006
+XM_015909825.1  PREDICTED: Acropora digitifera soluble guanylate ...  54.5    0.006
+XM_015901682.1  PREDICTED: Acropora digitifera uncharacterized LO...  54.5    0.006
+XM_015901681.1  PREDICTED: Acropora digitifera uncharacterized LO...  54.5    0.006
+XM_015897531.1  PREDICTED: Acropora digitifera activating transcr...  54.5    0.006
+XM_015921739.1  PREDICTED: Acropora digitifera probable ATP-depen...  52.6    0.023
+XM_015921214.1  PREDICTED: Acropora digitifera uncharacterized LO...  52.6    0.023
+XM_015920155.1  PREDICTED: Acropora digitifera heme-binding prote...  52.6    0.023
+XM_015914200.1  PREDICTED: Acropora digitifera biliverdin reducta...  52.6    0.023
+XM_015914188.1  PREDICTED: Acropora digitifera monocarboxylate tr...  52.6    0.023
+XR_001563663.1  PREDICTED: Acropora digitifera uncharacterized LO...  50.7    0.087
+XM_015898669.1  PREDICTED: Acropora digitifera dnaJ homolog subfa...  50.7    0.087
+XM_015898668.1  PREDICTED: Acropora digitifera dnaJ homolog subfa...  50.7    0.087
+XM_015914503.1  PREDICTED: Acropora digitifera calcyphosin-like p...  50.7    0.087
+LN590714.1  Cyprinus carpio genome assembly common carp genome, s...  50.7    0.087
+XM_017847357.1  PREDICTED: Rhinopithecus bieti RUNX1 translocatio...  50.7    0.087
+XM_017847356.1  PREDICTED: Rhinopithecus bieti RUNX1 translocatio...  50.7    0.087
+XM_017847355.1  PREDICTED: Rhinopithecus bieti RUNX1 translocatio...  50.7    0.087
+XM_017847353.1  PREDICTED: Rhinopithecus bieti RUNX1 translocatio...  50.7    0.087
+XM_017847352.1  PREDICTED: Rhinopithecus bieti RUNX1 translocatio...  50.7    0.087
+XM_017847351.1  PREDICTED: Rhinopithecus bieti RUNX1 translocatio...  50.7    0.087
+XM_017847350.1  PREDICTED: Rhinopithecus bieti RUNX1 translocatio...  50.7    0.087
+XM_017847349.1  PREDICTED: Rhinopithecus bieti RUNX1 translocatio...  50.7    0.087
+XM_017847348.1  PREDICTED: Rhinopithecus bieti RUNX1 translocatio...  50.7    0.087
+XM_015922060.1  PREDICTED: Acropora digitifera cytidine and dCMP ...  50.7    0.087
+XM_015906140.1  PREDICTED: Acropora digitifera dual specificity m...  50.7    0.087
+LT635624.1  Plasmodium vivax genome assembly, chromosome: 13          48.8    0.33 
+LT615268.1  Plasmodium vivax genome assembly, chromosome: 13          48.8    0.33 
+LT615251.1  Plasmodium vivax genome assembly, chromosome: 13          48.8    0.33 
+XM_015924801.1  PREDICTED: Acropora digitifera codanin-1-like (LO...  48.8    0.33 
+XR_001567659.1  PREDICTED: Acropora digitifera uncharacterized LO...  48.8    0.33 
+XM_015922357.1  PREDICTED: Acropora digitifera sulfite oxidase-li...  48.8    0.33 
+XR_001566917.1  PREDICTED: Acropora digitifera uncharacterized LO...  48.8    0.33 
+XM_015919544.1  PREDICTED: Acropora digitifera uncharacterized LO...  48.8    0.33 
+XM_015919543.1  PREDICTED: Acropora digitifera uncharacterized LO...  48.8    0.33 
+XM_015919542.1  PREDICTED: Acropora digitifera uncharacterized LO...  48.8    0.33 
+XM_015919272.1  PREDICTED: Acropora digitifera tachykinin-like pe...  48.8    0.33 
+XM_015919271.1  PREDICTED: Acropora digitifera tachykinin-like pe...  48.8    0.33 
+XM_015918429.1  PREDICTED: Acropora digitifera uncharacterized LO...  48.8    0.33 
+XM_015918428.1  PREDICTED: Acropora digitifera uncharacterized LO...  48.8    0.33 
+XM_015917025.1  PREDICTED: Acropora digitifera uncharacterized LO...  48.8    0.33 
+XM_015913404.1  PREDICTED: Acropora digitifera uncharacterized LO...  48.8    0.33 
+XM_015913403.1  PREDICTED: Acropora digitifera uncharacterized LO...  48.8    0.33 
+XM_015913401.1  PREDICTED: Acropora digitifera uncharacterized LO...  48.8    0.33 
+XM_015913400.1  PREDICTED: Acropora digitifera uncharacterized LO...  48.8    0.33 
+XM_015913399.1  PREDICTED: Acropora digitifera uncharacterized LO...  48.8    0.33 
+XR_001564611.1  PREDICTED: Acropora digitifera uncharacterized LO...  48.8    0.33 
+XR_001564610.1  PREDICTED: Acropora digitifera uncharacterized LO...  48.8    0.33 
+XM_015910260.1  PREDICTED: Acropora digitifera uncharacterized LO...  48.8    0.33 
+XR_001563861.1  PREDICTED: Acropora digitifera uncharacterized LO...  48.8    0.33 
+XM_015898825.1  PREDICTED: Acropora digitifera patched domain-con...  48.8    0.33 
+XM_015924139.1  PREDICTED: Acropora digitifera uncharacterized LO...  48.8    0.33 
+XM_015924130.1  PREDICTED: Acropora digitifera uncharacterized LO...  48.8    0.33 
+AP014960.1  Oryza sativa Japonica Group DNA, chromosome 4, cultiv...  48.8    0.33 
+XM_012013432.1  PREDICTED: Vollenhovia emeryi uncharacterized LOC...  48.8    0.33 
+XM_012013431.1  PREDICTED: Vollenhovia emeryi uncharacterized LOC...  48.8    0.33 
+KM104184.1  Primnoa pacifica microsatellite Ppac048 sequence          48.8    0.33 
+LN000024.1  Spirometra erinaceieuropaei genome assembly S_erinace...  48.8    0.33 
+CP007754.1  Prochlorococcus sp. MIT 0801, complete genome             48.8    0.33 
+LK984160.1  Thelazia callipaeda genome assembly T_callipaeda_Tici...  48.8    0.33 
+LK983327.1  Thelazia callipaeda genome assembly T_callipaeda_Tici...  48.8    0.33 
+LN594938.1  Cyprinus carpio genome assembly common carp genome, s...  48.8    0.33 
+JQ009183.1  Acropora millepora red fluorescent protein FP597 (FP5...  48.8    0.33 
+APGK01054230.1  Dendroctonus ponderosae Seq01054240, whole genome...  48.8    0.33 
+GU137128.1  Montipora capitata clone Mc1420 microsatellite sequence   48.8    0.33 
+XM_001616530.1  Plasmodium vivax SaI-1 hypothetical protein parti...  48.8    0.33 
+AL606690.3  Oryza sativa genomic DNA, chromosome 4, BAC clone: OS...  48.8    0.33 
+AC092134.4  Homo sapiens chromosome 16 clone RP11-264M12, complet...  48.8    0.33 
 
 
->XM_015912804.1 PREDICTED: Acropora digitifera uncharacterized LOC107346938 (LOC107346938), 
-mRNA
-Length=2504
+>XM_015914456.1 PREDICTED: Acropora digitifera melanocyte-stimulating hormone 
+receptor-like (LOC107348416), mRNA
+Length=1905
 
- Score = 132 bits (71),  Expect = 2e-26
- Identities = 106/123 (86%), Gaps = 1/123 (1%)
+ Score = 54.5 bits (28),  Expect = 0.006
+ Identities = 32/34 (94%), Gaps = 0/34 (0%)
  Strand=Plus/Plus
 
-Query  395   TGTTCATCTGGGCCCGGTTGTTCGAAAGCAGATTAACTTAATCCAGGATTAGCATATAct  454
-             ||| || |||||||| |||||| |||||||||||||||||||||||||||||| || |||
-Sbjct  1603  TGTCCACCTGGGCCCAGTTGTTTGAAAGCAGATTAACTTAATCCAGGATTAGCCTAAACT  1662
-
-Query  455   tttatttgaagttt-taacttttcggtgaaagtttcttttgcttatttttgtttttcaag  513
-             ||  ||| | |||| || ||| | ||||||| |||||||  |||||||||||||||||||
-Sbjct  1663  TTGGTTTCATGTTTCTACCTTGTTGGTGAAAATTTCTTTCTCTTATTTTTGTTTTTCAAG  1722
-
-Query  514   att  516
-             |||
-Sbjct  1723  ATT  1725
+Query  423   CCATTGAAGAGTAAAATCGCCTGGCGTTAGACAG  456
+             ||||||| ||||||||||| ||||||||||||||
+Sbjct  1408  CCATTGACGAGTAAAATCGTCTGGCGTTAGACAG  1441
 
 
 
@@ -68,120 +128,33 @@ Lambda      K        H
 
 Gapped
 Lambda      K        H
-    1.28    0.460    0.850 
-
-Effective search space used: 137631412627288
-
-
-Query= NC_1016405_1_2_3_4
-
-Length=1024
-
-
-***** No hits found *****
-
-
-
-Lambda      K        H
     1.33    0.621     1.12 
 
-Gapped
-Lambda      K        H
-    1.28    0.460    0.850 
-
-Effective search space used: 137631412627288
+Effective search space used: 155909446435184
 
 
 Query= NC_235035_1_2_3_4
 
 Length=983
-
-
-***** No hits found *****
-
-
-
-Lambda      K        H
-    1.33    0.621     1.12 
-
-Gapped
-Lambda      K        H
-    1.28    0.460    0.850 
-
-Effective search space used: 137631412627288
-
-
-Query= BC_5422577_1_2_3_4
-
-Length=1022
-
-
-***** No hits found *****
-
-
-
-Lambda      K        H
-    1.33    0.621     1.12 
-
-Gapped
-Lambda      K        H
-    1.28    0.460    0.850 
-
-Effective search space used: 137631412627288
-
-
-Query= ND_6136479_1_2_3_4
-
-Length=1024
-
-
-***** No hits found *****
-
-
-
-Lambda      K        H
-    1.33    0.621     1.12 
-
-Gapped
-Lambda      K        H
-    1.28    0.460    0.850 
-
-Effective search space used: 137631412627288
-
-
-Query= ND_4370893_1_2_3_4
-
-Length=611
                                                                       Score     E
 Sequences producing significant alignments:                          (Bits)  Value
 
-XM_015900189.1  PREDICTED: Acropora digitifera uncharacterized LO...  257     2e-64
-GU137059.1  Montipora capitata clone Mc0862 microsatellite sequence   93.5    6e-15
+XM_015907659.1  PREDICTED: Acropora digitifera monocarboxylate tr...  52.6    0.020
+XR_442070.2  PREDICTED: Felis catus uncharacterized LOC102899131 ...  48.8    0.28 
+XR_442068.2  PREDICTED: Felis catus uncharacterized LOC102899131 ...  48.8    0.28 
 
 
->XM_015900189.1 PREDICTED: Acropora digitifera uncharacterized LOC107335200 (LOC107335200), 
-mRNA
-Length=1882
+>XM_015907659.1 PREDICTED: Acropora digitifera monocarboxylate transporter 10-like 
+(LOC107342185), transcript variant X1, mRNA
+Length=1802
 
- Score = 257 bits (139),  Expect = 2e-64
- Identities = 191/216 (88%), Gaps = 4/216 (2%)
- Strand=Plus/Minus
+ Score = 52.6 bits (27),  Expect = 0.020
+ Identities = 35/39 (90%), Gaps = 0/39 (0%)
+ Strand=Plus/Plus
 
-Query  336   AAAGATAAAGTCACTTTATTTAACGTCGGTAGTTTCTTCAGCTACGAGGCTGGTATCAAT  395
-             |||| ||||||||||||||||||||||||||||| ||||||||| |||||||||||||||
-Sbjct  1288  AAAGGTAAAGTCACTTTATTTAACGTCGGTAGTTCCTTCAGCTAGGAGGCTGGTATCAAT  1229
-
-Query  396   GGAAGCCAATGGTGCGCCCTTTACCCCCCTC--CCTCTGTCAGTGCTCCGTTTTAAGGGG  453
-             ||||||| | |||||||||| |||||||| |  |||||||||||||||||||||| ||| 
-Sbjct  1228  GGAAGCCGACGGTGCGCCCTCTACCCCCCCCTGCCTCTGTCAGTGCTCCGTTTTACGGGT  1169
-
-Query  454   ATTTAAAGCTATAGCCACACACGGGTCAGAGGAAAGTCGAAACAGACGTTGAAGTCACCG  513
-             ||| |||||||| || ||||  ||  ||||||||||||||| |||||||||||||||| |
-Sbjct  1168  ATTCAAAGCTATGGCTACAC--GGAACAGAGGAAAGTCGAAGCAGACGTTGAAGTCACTG  1111
-
-Query  514   AGGATCAAACCGGGGAACTCTCGCTCCGAAAGCTGC  549
-             | |||| |||||| || ||||||||| |||||||||
-Sbjct  1110  AAGATCGAACCGGAGACCTCTCGCTCAGAAAGCTGC  1075
+Query  691  AGTTGACGTTTCGAGCCTTAGCCCTTTGTTTGAGCGAAT  729
+            |||||||||||||||| ||||||||| ||  ||||||||
+Sbjct  53   AGTTGACGTTTCGAGCGTTAGCCCTTCGTCAGAGCGAAT  91
 
 
 
@@ -190,123 +163,55 @@ Lambda      K        H
 
 Gapped
 Lambda      K        H
-    1.28    0.460    0.850 
+    1.33    0.621     1.12 
 
-Effective search space used: 137631412627288
+Effective search space used: 155909446435184
 
 
 Query= BC_7969249_1_2_3_4
 
 Length=724
-
-
-***** No hits found *****
-
-
-
-Lambda      K        H
-    1.33    0.621     1.12 
-
-Gapped
-Lambda      K        H
-    1.28    0.460    0.850 
-
-Effective search space used: 137631412627288
-
-
-Query= BC_3115287_1_2_3_4
-
-Length=1024
                                                                       Score     E
 Sequences producing significant alignments:                          (Bits)  Value
 
-XR_001566564.1  PREDICTED: Acropora digitifera uncharacterized LO...  1827    0.0  
-XR_001566565.1  PREDICTED: Acropora digitifera uncharacterized LO...  1663    0.0  
-XM_015919632.1  PREDICTED: Acropora digitifera uncharacterized LO...  1663    0.0  
-XR_001566563.1  PREDICTED: Acropora digitifera uncharacterized LO...  1663    0.0  
-XR_001566562.1  PREDICTED: Acropora digitifera uncharacterized LO...  1663    0.0  
-XR_001566561.1  PREDICTED: Acropora digitifera uncharacterized LO...  1663    0.0  
+XM_015916617.1  PREDICTED: Acropora digitifera uncharacterized LO...  52.6    0.014
+CP019870.1  Clostridioides difficile strain BR81, complete genome     46.8    0.77 
+CP019469.1  Clostridioides difficile strain LEM1, complete genome     46.8    0.77 
+XM_015894028.1  PREDICTED: Acropora digitifera uncharacterized LO...  46.8    0.77 
+CP013196.1  Peptoclostridium difficile strain Z31, complete genome    46.8    0.77 
+LL371128.1  Cylicostephanus goldi genome assembly C_goldi_Cheshir...  46.8    0.77 
+LK933116.1  Peptoclostridium difficile genome assembly 7032989, s...  46.8    0.77 
+LK932505.1  Peptoclostridium difficile genome assembly 7032985, s...  46.8    0.77 
+CP010905.2  Clostridioides difficile 630, complete genome             46.8    0.77 
+CP010888.1  Peptoclostridium difficile strain 08ACD0030, complete...  46.8    0.77 
+AP015035.1  Vigna angularis var. angularis DNA, chromosome 2, alm...  46.8    0.77 
+CP011968.1  Peptoclostridium difficile ATCC 9689 = DSM 1296, comp...  46.8    0.77 
+CP003939.1  Peptoclostridium difficile BJ08, complete genome          46.8    0.77 
+LN614756.1  Peptoclostridium difficile genome assembly CD630DERM,...  46.8    0.77 
+LK932402.1  Peptoclostridium difficile genome assembly 7032994, s...  46.8    0.77 
+FN668944.1  Clostridium difficile BI9 chromosome                      46.8    0.77 
+FN668941.1  Clostridium difficile BI1 chromosome, complete sequence   46.8    0.77 
+FN668375.1  Clostridium difficile M68, complete genome                46.8    0.77 
+FN665654.1  Clostridium difficile complete genome, strain 2007855     46.8    0.77 
+FN665652.1  Clostridium difficile complete genome, strain CF5         46.8    0.77 
+FN545816.1  Clostridium difficile R20291 complete genome              46.8    0.77 
+FN538970.1  Clostridium difficile CD196 complete genome, strain C...  46.8    0.77 
+AM180355.1  Clostridium difficile 630 complete genome                 46.8    0.77 
+AC167019.4  Mus musculus BAC clone RP23-262K24 from chromosome 15...  46.8    0.77 
+AC122397.2  Mus musculus BAC clone RP24-90D21 from chromosome 15,...  46.8    0.77 
 
 
->XR_001566564.1 PREDICTED: Acropora digitifera uncharacterized LOC107353291 (LOC107353291), 
-transcript variant X5, misc_RNA
-Length=2380
+>XM_015916617.1 PREDICTED: Acropora digitifera uncharacterized LOC107350393 (LOC107350393), 
+mRNA
+Length=1814
 
- Score = 1827 bits (989),  Expect = 0.0
- Identities = 1013/1024 (99%), Gaps = 3/1024 (0%)
+ Score = 52.6 bits (27),  Expect = 0.014
+ Identities = 43/51 (84%), Gaps = 0/51 (0%)
  Strand=Plus/Plus
 
-Query  1     GATCCTCAAAGCTCAGGGTCTAATTATGTATGGGTGTGAGAAAAAAAATACTTTGAAACA  60
-             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-Sbjct  30    GATCCTCAAAGCTCAGGGTCTAATTATGTATGGGTGTGAGAAAAAAAATACTTTGAAACA  89
-
-Query  61    AGAGATTTATAGATCCTTGTCTCTCTATCAGATGGATTTCCAGGCAATATCAATGAGCTC  120
-             ||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||
-Sbjct  90    AGAGATTTATAGATCCTTGTCTCTCTATCAGATGGTTTTCCAGGCAATATCAATGAGCTC  149
-
-Query  121   AGCTGAGGAACTGCAAGAGTTGGGCTTAGTTAGAGGTGATGCAATGAATTTGAAGCATTT  180
-             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-Sbjct  150   AGCTGAGGAACTGCAAGAGTTGGGCTTAGTTAGAGGTGATGCAATGAATTTGAAGCATTT  209
-
-Query  181   TGCCCAGACTAGACTACAGGCTCAGAAGAAAGTTTCTGGAAAAGATGAGAAAAAGCGCCT  240
-             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-Sbjct  210   TGCCCAGACTAGACTACAGGCTCAGAAGAAAGTTTCTGGAAAAGATGAGAAAAAGCGCCT  269
-
-Query  241   TCTGGAAGAAGTGTTGAGCCAAGGAGGTAAAGACAGAAAAAAAGCGCCTTCAAAGGTGAA  300
-             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-Sbjct  270   TCTGGAAGAAGTGTTGAGCCAAGGAGGTAAAGACAGAAAAAAAGCGCCTTCAAAGGTGAA  329
-
-Query  301   TACATCAAGAAAGAAGGCTGTCCGTAAAGTTAACTTAGGATGGCTCCATTTCCATGAGTC  360
-             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-Sbjct  330   TACATCAAGAAAGAAGGCTGTCCGTAAAGTTAACTTAGGATGGCTCCATTTCCATGAGTC  389
-
-Query  361   AACACAAACATATGTACAAGTCAAAAGCCAAAAAGGGGGAGGAACCCGAGTTGCAGATTT  420
-             ||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||
-Sbjct  390   AACACAAACATATGTACAAGTCAAAAGCCCAAAAGGGGGAGGAACCCGAGTTGCAGATTT  449
-
-Query  421   GCCAATGCTCTCCACCAGAGACATCATTATCAGTACAGGGATAAACTTTTTTTTTCCAAA  480
-             ||||||||||||||||||||||||||||||||||||||||||||||| |||||||||| |
-Sbjct  450   GCCAATGCTCTCCACCAGAGACATCATTATCAGTACAGGGATAAACTGTTTTTTTCCATA  509
-
-Query  481   AGGATCCAGCACCTTTGGCCCCTCAAATGAGATGGAATTCTCACTTTCTAATTTTCAGCA  540
-              |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-Sbjct  510   TGGATCCAGCACCTTTGGCCCCTCAAATGAGATGGAATTCTCACTTTCTAATTTTCAGCA  569
-
-Query  541   ACAAGAAATCCCTGACTCTGACAAATTCACATTGCAACAATATGTAGAAGAATATAAGCT  600
-             ||||||||||||||||||||||||| | ||||||||||||||||||||||||||||||||
-Sbjct  570   ACAAGAAATCCCTGACTCTGACAAAATTACATTGCAACAATATGTAGAAGAATATAAGCT  629
-
-Query  601   AAACAGAATAACTCTCTACTTGTTAAGCAGAAGAAAGGAAAGTTCTGATCATCCAGACAT  660
-             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-Sbjct  630   AAACAGAATAACTCTCTACTTGTTAAGCAGAAGAAAGGAAAGTTCTGATCATCCAGACAT  689
-
-Query  661   TGCTGACAGTGAATTAGAGAAGCCAGTGTTTTCCCCTGCAGAAACGGTTCACCATGCAAG  720
-             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-Sbjct  690   TGCTGACAGTGAATTAGAGAAGCCAGTGTTTTCCCCTGCAGAAACGGTTCACCATGCAAG  749
-
-Query  721   TGAAGCTGAAGTGTTAACAGAGAGTCTAGATGACAGACGACAGCTCATTTCTGAGCAAAA  780
-             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-Sbjct  750   TGAAGCTGAAGTGTTAACAGAGAGTCTAGATGACAGACGACAGCTCATTTCTGAGCAAAA  809
-
-Query  781   TGAGGAGTACTGGAAATCACTGGAAACTGACAGGGAGTTGGAGAGGAGAAAGAGGGCAAA  840
-             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-Sbjct  810   TGAGGAGTACTGGAAATCACTGGAAACTGACAGGGAGTTGGAGAGGAGAAAGAGGGCAAA  869
-
-Query  841   GCTTTCAGAAGAAGCCAGTTTAGTCAAGAGACAAGTTGAAATCATGTTGGCTAGGAAAGA  900
-             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-Sbjct  870   GCTTTCAGAAGAAGCCAGTTTAGTCAAGAGACAAGTTGAAATCATGTTGGCTAGGAAAGA  929
-
-Query  901   TAGAGTTCCTGGAGAACCTTGTCAAGGAGAGGACAGAGTGGTGGTAGTGAGAGTTCGCCA  960
-             ||||||||||| |||||||||||||||||||||||||   ||||||||||||||||||||
-Sbjct  930   TAGAGTTCCTGAAGAACCTTGTCAAGGAGAGGACAGA---GTGGTAGTGAGAGTTCGCCA  986
-
-Query  961   TTTAACATTCGGTGTTGTCGAAAGATTCTTCAGGCCAGACACTATGCTGGCTTCAATCTA  1020
-             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-Sbjct  987   TTTAACATTCGGTGTTGTCGAAAGATTCTTCAGGCCAGACACTATGCTGGCTTCAATCTA  1046
-
-Query  1021  TGAC  1024
-             ||||
-Sbjct  1047  TGAC  1050
+Query  41   ATTGATGACACTTCTGTGACGTCAAAAAGTCATTTGTTCATTTTCCAGCGA  91
+            ||| |||| |||  |||||||||||  ||||||| ||||||||| ||||||
+Sbjct  366  ATTTATGAGACTATTGTGACGTCAAGCAGTCATTCGTTCATTTTGCAGCGA  416
 
 
 
@@ -315,17 +220,69 @@ Lambda      K        H
 
 Gapped
 Lambda      K        H
-    1.28    0.460    0.850 
+    1.33    0.621     1.12 
 
-Effective search space used: 137631412627288
+Effective search space used: 155909446435184
 
 
 Query= BC_3577569_1_2_3_4
 
 Length=657
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+XR_001563561.1  PREDICTED: Acropora digitifera uncharacterized LO...  98.7    2e-16
+XM_015912378.1  PREDICTED: Acropora digitifera STAM-binding prote...  91.1    3e-14
+XM_015912377.1  PREDICTED: Acropora digitifera STAM-binding prote...  91.1    3e-14
+XM_015925039.1  PREDICTED: Acropora digitifera E3 ubiquitin-prote...  77.6    4e-10
+XM_015921799.1  PREDICTED: Acropora digitifera uncharacterized LO...  73.7    6e-09
+XM_015924604.1  PREDICTED: Acropora digitifera nuclear valosin-co...  62.2    2e-05
+XM_017243858.1  PREDICTED: Drosophila bipectinata homeobox protei...  48.8    0.18 
+LK980945.1  Thelazia callipaeda genome assembly T_callipaeda_Tici...  48.8    0.18 
+XM_018700188.1  PREDICTED: Lates calcarifer globoside alpha-1,3-N...  46.8    0.70 
+LN701230.1  Cucumis melo genomic scaffold, unassembled_sequence48677  46.8    0.70 
+LN713256.1  Cucumis melo genomic chromosome, chr_2                    46.8    0.70 
+LK904327.1  Brugia timori genome assembly B_timori_Indonesia_v1_0...  46.8    0.70 
+LN594983.1  Cyprinus carpio genome assembly common carp genome, s...  46.8    0.70 
+AC194791.7  Rhesus Macaque BAC CH250-44E15 () complete sequence       46.8    0.70 
+LT634571.1  Sus scrofa genome assembly, chromosome: X                 46.8    0.70 
+LT160000.1  Macaca fascicularis complete genome, chromosome chr1      46.8    0.70 
+CP011887.1  Ovis canadensis canadensis isolate 43U chromosome 2 s...  46.8    0.70 
+CP011905.1  Ovis canadensis canadensis isolate 43U chromosome 20 ...  46.8    0.70 
+LN681813.1  Cucumis melo genomic scaffold, anchoredscaffold00030      46.8    0.70 
+LN590696.1  Cyprinus carpio genome assembly common carp genome, s...  46.8    0.70 
+CU462995.7  Pig DNA sequence from clone CH242-81M14 on chromosome...  46.8    0.70 
+AL928968.7  Zebrafish DNA sequence from clone CH211-103C14, compl...  46.8    0.70 
 
 
-***** No hits found *****
+>XR_001563561.1 PREDICTED: Acropora digitifera uncharacterized LOC107340761 (LOC107340761), 
+ncRNA
+Length=1745
+
+ Score = 98.7 bits (51),  Expect = 2e-16
+ Identities = 103/124 (83%), Gaps = 4/124 (3%)
+ Strand=Plus/Minus
+
+Query  166   TCGCAATTTCGTATATTTTAGTCGCAAAATCGTCGCGCTGCATTGTGGTGTCAACGGTTT  225
+             ||||||||||| | ||||| |||| ||||||||||||| ||||| || ||||| |  || 
+Sbjct  1616  TCGCAATTTCGCAAATTTTTGTCGGAAAATCGTCGCGCGGCATTATGTTGTCAGCTCTTC  1557
+
+Query  226   AGCAAAA--CAATATGAGCCCGCAATACTTGCGTGTAAAGTAACCTCTGAAAATTGCGAA  283
+             |||||||   ||||||||||||||||| |||  ||||||  |||| |||||||| |||||
+Sbjct  1556  AGCAAAAGAGAATATGAGCCCGCAATATTTG--TGTAAACAAACCGCTGAAAATGGCGAA  1499
+
+Query  284   TGAT  287
+             ||||
+Sbjct  1498  TGAT  1495
+
+
+ Score = 68.0 bits (35),  Expect = 3e-07
+ Identities = 43/47 (91%), Gaps = 0/47 (0%)
+ Strand=Plus/Minus
+
+Query  324   AATTACGCTATCTTCAGATTGAAAGAAAATTCTCGGCGAGAAACAAA  370
+             ||||| | |||||||||||||||||||||||| |||| |||||||||
+Sbjct  1459  AATTAAGTTATCTTCAGATTGAAAGAAAATTCACGGCAAGAAACAAA  1413
 
 
 
@@ -334,9 +291,9 @@ Lambda      K        H
 
 Gapped
 Lambda      K        H
-    1.28    0.460    0.850 
+    1.33    0.621     1.12 
 
-Effective search space used: 137631412627288
+Effective search space used: 155909446435184
 
 
 Query= ND_2090286_1_2_3_4
@@ -345,409 +302,571 @@ Length=508
                                                                       Score     E
 Sequences producing significant alignments:                          (Bits)  Value
 
-AJ884899.1  Symbiodinium sp. ex Scolymia sp. chloroplast psbA gen...  429     3e-116
-HG515020.1  Symbiodinium sp. C3 chloroplast minicircle DNA, psbD ...  427     1e-115
-HG515027.1  Symbiodinium sp. C3 chloroplast partial 16S rRNA gene...  418     7e-113
-HG515022.1  Symbiodinium sp. C3 chloroplast minicircle DNA, petB ...  414     9e-112
-HG515015.1  Symbiodinium sp. C3 chloroplast minicircle DNA, psaA ...  412     3e-111
-HG515017.1  Symbiodinium sp. C3 chloroplast minicircle DNA, psbA ...  411     1e-110
-HG515018.1  Symbiodinium sp. C3 chloroplast minicircle DNA, psbB ...  405     6e-109
-HG515019.1  Symbiodinium sp. C3 chloroplast minicircle DNA, psbC ...  401     7e-108
-HG515025.1  Symbiodinium sp. C3 chloroplast minicircle DNA, atpB ...  399     3e-107
-HG515028.1  Symbiodinium sp. C3 chloroplast partial 23S rRNA gene...  396     3e-106
-HG515016.1  Symbiodinium sp. C3 chloroplast minicircle DNA, psaB ...  387     2e-103
-HG515024.1  Symbiodinium sp. C3 chloroplast minicircle DNA, atpA ...  381     9e-102
-AY160086.1  Symbiodinium sp. Gt2 psbA minicircle non-coding regio...  331     9e-87 
-KT156648.1  Symbiodinium sp. C39 voucher OMD036 psbA minicircle n...  327     1e-85 
-KT156647.1  Symbiodinium sp. C39 voucher ADD036 psbA minicircle n...  313     3e-81 
-KF572183.1  Symbiodinium sp. DJT-2013a isolate RB38 psbA minicirc...  303     2e-78 
-KF572182.1  Symbiodinium sp. DJT-2013a isolate Bar05_84 psbA mini...  303     2e-78 
-KT630859.1  Symbiodinium goreaui isolate pg5x chloroplast psbA mi...  300     3e-77 
-KF572175.1  Symbiodinium goreaui isolate JPB08_48 psbA minicircle...  300     3e-77 
-KF572174.1  Symbiodinium goreaui isolate JPB08_63 psbA minicircle...  300     3e-77 
-KF572170.1  Symbiodinium goreaui isolate JPB08_34 psbA minicircle...  300     3e-77 
-KF572169.1  Symbiodinium goreaui isolate JPB08_55 psbA minicircle...  300     3e-77 
-KF572167.1  Symbiodinium goreaui isolate PM99_73 psbA minicircle ...  300     3e-77 
-KF572166.1  Symbiodinium goreaui isolate Be02_29 psbA minicircle ...  300     3e-77 
-KF572162.1  Symbiodinium goreaui isolate Culture RT152 psbA minic...  300     3e-77 
-KF572161.1  Symbiodinium goreaui isolate Culture RT113 psbA minic...  300     3e-77 
-KF572159.1  Symbiodinium goreaui isolate FGB05_90 psbA minicircle...  300     3e-77 
-KF572157.1  Symbiodinium goreaui isolate FGB05_34 psbA minicircle...  300     3e-77 
-KF572156.1  Symbiodinium goreaui isolate FGB05_89 psbA minicircle...  300     3e-77 
-KF572172.1  Symbiodinium goreaui isolate A03_198 psbA minicircle ...  298     1e-76 
-KF572168.1  Symbiodinium goreaui isolate FL01_81 psbA minicircle ...  298     1e-76 
-KF572165.1  Symbiodinium goreaui isolate Be02_30 psbA minicircle ...  298     1e-76 
-KF572164.1  Symbiodinium goreaui isolate Be02_118 psbA minicircle...  298     1e-76 
-KF572163.1  Symbiodinium goreaui isolate Be02_139 psbA minicircle...  298     1e-76 
-KF572160.1  Symbiodinium goreaui isolate FGB_70 psbA minicircle n...  298     1e-76 
-KF572158.1  Symbiodinium goreaui isolate FGB05_69 psbA minicircle...  298     1e-76 
-KF572153.1  Symbiodinium goreaui isolate FLKeys_6298 psbA minicir...  298     1e-76 
-KF572171.1  Symbiodinium goreaui isolate JPB08_42 psbA minicircle...  294     1e-75 
-AY160089.1  Symbiodinium sp. Pd psbA minicircle non-coding region...  294     1e-75 
-AY160088.1  Symbiodinium sp. Lp psbA minicircle non-coding region...  294     1e-75 
-AY160087.1  Symbiodinium sp. Ha psbA minicircle non-coding region...  292     4e-75 
-HQ336248.1  Symbiodinium sp. Panama11_C1bc psbA minicircle, parti...  289     6e-74 
-HQ336236.1  Symbiodinium sp. GAL1060_C1d psbA minicircle, partial...  289     6e-74 
-KF572212.1  Symbiodinium sp. DJT-2013f isolate BB07_240 psbA mini...  287     2e-73 
-KF572211.1  Symbiodinium sp. DJT-2013f isolate BB07_250 psbA mini...  287     2e-73 
-KF572198.1  Symbiodinium sp. DJT-2013d isolate JPB08_75 psbA mini...  287     2e-73 
-KF572190.1  Symbiodinium sp. DJT-2013d isolate A03_138 psbA minic...  287     2e-73 
-KT630857.1  Symbiodinium goreaui isolate pgB6 chloroplast psbA mi...  285     7e-73 
-KF572193.1  Symbiodinium sp. DJT-2013d isolate BE02_135 psbA mini...  285     7e-73 
-KF572200.1  Symbiodinium sp. DJT-2013d isolate JPB08_177 psbA min...  283     3e-72 
-KF572197.1  Symbiodinium sp. DJT-2013d isolate JPB08_17 psbA mini...  283     3e-72 
-KF572196.1  Symbiodinium sp. DJT-2013d isolate JPB08_84 psbA mini...  283     3e-72 
-KF572173.1  Symbiodinium goreaui isolate A03_56 psbA minicircle n...  283     3e-72 
-KF572194.1  Symbiodinium sp. DJT-2013d isolate A03_98 psbA minici...  281     1e-71 
-KF572191.1  Symbiodinium sp. DJT-2013d isolate JPB08_92 psbA mini...  281     1e-71 
-KF572189.1  Symbiodinium sp. DJT-2013d isolate A03_50 psbA minici...  281     1e-71 
-KF572302.1  Symbiodinium sp. DJT-2013s isolate Bar07_10 psbA mini...  279     3e-71 
-KF572219.1  Symbiodinium sp. DJT-2013g isolate Haw02_6 psbA minic...  279     3e-71 
-KF572218.1  Symbiodinium sp. DJT-2013g isolate Haw02_51 psbA mini...  279     3e-71 
-KF572216.1  Symbiodinium sp. DJT-2013g isolate BB07_201 psbA mini...  279     3e-71 
-KF572213.1  Symbiodinium sp. DJT-2013g isolate Baja04_135 psbA mi...  279     3e-71 
-KF572206.1  Symbiodinium sp. DJT-2013d isolate Zam03 psbA minicir...  279     3e-71 
-KF572199.1  Symbiodinium sp. DJT-2013d isolate PM99_72 psbA minic...  279     3e-71 
-KF572195.1  Symbiodinium sp. DJT-2013d isolate A02_71 psbA minici...  279     3e-71 
-KF572192.1  Symbiodinium sp. DJT-2013d isolate JPB08_61 psbA mini...  279     3e-71 
-KF572220.1  Symbiodinium sp. DJT-2013g isolate Haw02_63 psbA mini...  278     1e-70 
-HQ336230.1  Symbiodinium sp. BB07_293_C1ee psbA minicircle, parti...  278     1e-70 
-HQ336229.1  Symbiodinium sp. BB07_295_C1ee psbA minicircle, parti...  278     1e-70 
-HQ336228.1  Symbiodinium sp. BB07_303_C1ee psbA minicircle, parti...  278     1e-70 
-HQ336226.1  Symbiodinium sp. BB07_304_C1ee psbA minicircle, parti...  278     1e-70 
-KF572204.1  Symbiodinium sp. DJT-2013d isolate A02_136 psbA minic...  276     5e-70 
-HQ336250.1  Symbiodinium sp. Panama27_C1bc psbA minicircle, parti...  276     5e-70 
-HQ336249.1  Symbiodinium sp. Panama15_C1bc psbA minicircle, parti...  276     5e-70 
-HQ336242.1  Symbiodinium sp. LAP08_154_C1bc psbA minicircle, part...  276     5e-70 
-HQ336235.1  Symbiodinium sp. Panama25_C1d psbA minicircle, partia...  276     5e-70 
-HQ336232.1  Symbiodinium sp. Panama13_C1d psbA minicircle, partia...  276     5e-70 
-HQ336231.1  Symbiodinium sp. Panama16_C1d psbA minicircle, partia...  276     5e-70 
-KF572215.1  Symbiodinium sp. DJT-2013g isolate BB07_190 psbA mini...  274     2e-69 
-HQ336245.1  Symbiodinium sp. BB07_307_C1bc psbA minicircle, parti...  274     2e-69 
-HQ336227.1  Symbiodinium sp. BB07_305_C1ee psbA minicircle, parti...  274     2e-69 
-KT630858.1  Symbiodinium goreaui isolate pgB11 chloroplast psbA m...  272     6e-69 
-KF572207.1  Symbiodinium sp. DJT-2013d isolate Baja04_34 psbA min...  272     6e-69 
-KF572186.1  Symbiodinium sp. DJT-2013b isolate PM99_36 psbA minic...  272     6e-69 
-KF572181.1  Symbiodinium sp. DJT-2013a isolate FL01_63 psbA minic...  272     6e-69 
-KF572180.1  Symbiodinium sp. DJT-2013a isolate Be02_90 psbA minic...  270     2e-68 
-HQ336246.1  Symbiodinium sp. BB07_308_C1bc psbA minicircle, parti...  270     2e-68 
-HQ336241.1  Symbiodinium sp. LAP08_147_C1bc psbA minicircle, part...  270     2e-68 
-KF572185.1  Symbiodinium sp. DJT-2013b isolate PM99_35 psbA minic...  268     8e-68 
-KF572178.1  Symbiodinium sp. DJT-2013a isolate FL01_35 psbA minic...  268     8e-68 
-HQ336233.1  Symbiodinium sp. Panama8_C1d psbA minicircle, partial...  268     8e-68 
-KF572210.1  Symbiodinium sp. DJT-2013e isolate Baja04_14 psbA min...  267     3e-67 
-KF572209.1  Symbiodinium sp. DJT-2013e isolate Baja04_30 psbA min...  267     3e-67 
-KF572179.1  Symbiodinium sp. DJT-2013a isolate Bar05_45 psbA mini...  267     3e-67 
-HQ336234.1  Symbiodinium sp. Panama17_C1d psbA minicircle, partia...  267     3e-67 
-HG515023.1  Symbiodinium sp. C3 chloroplast minicircle DNA, petD ...  265     1e-66 
-KF572372.1  Symbiodinium sp. DJT-2013ab isolate A02_36 photosyste...  265     1e-66 
-KF572208.1  Symbiodinium sp. DJT-2013e isolate Baja04_124 psbA mi...  265     1e-66 
-KF572187.1  Symbiodinium sp. DJT-2013b isolate Be02_98 psbA minic...  265     1e-66 
-HQ336247.1  Symbiodinium sp. BB07_309_C1bc psbA minicircle, parti...  265     1e-66 
-HQ336240.1  Symbiodinium sp. LAP08_167_C1bc psbA minicircle, part...  263     4e-66 
-HQ336252.1  Symbiodinium sp. GAL_dt1037_C1bc psbA minicircle, par...  259     5e-65 
-KT156650.1  Symbiodinium sp. C41 voucher ALB012 psbA minicircle n...  255     6e-64 
-KT156649.1  Symbiodinium sp. C41 voucher ALB028 psbA minicircle n...  255     6e-64 
-HG515021.1  Symbiodinium sp. C3 chloroplast minicircle DNA, psbE ...  250     3e-62 
-KF572340.1  Symbiodinium sp. DJT-2013t isolate Bar07_132 psbA min...  250     3e-62 
-KF572184.1  Symbiodinium sp. DJT-2013a isolate CVX09_01 psbA mini...  250     3e-62 
-KF572366.1  Symbiodinium sp. DJT-2013z isolate WA112 photosystem ...  246     4e-61 
-KF572364.1  Symbiodinium sp. DJT-2013z isolate WA10 psbA minicirc...  246     4e-61 
-KF572320.1  Symbiodinium sp. DJT-2013s isolate Cur09_107A psbA mi...  243     5e-60 
-KF572365.1  Symbiodinium sp. DJT-2013z isolate WA99 psbA minicirc...  241     2e-59 
-KF572233.1  Symbiodinium sp. DJT-2013h isolate Cur11_44 psbA mini...  241     2e-59 
-KF572232.1  Symbiodinium sp. DJT-2013h isolate Cur11_47 psbA mini...  241     2e-59 
-KF572337.1  Symbiodinium sp. DJT-2013t isolate Bar05_119 photosys...  239     6e-59 
-KF572336.1  Symbiodinium sp. DJT-2013t isolate Bar05_89 psbA mini...  239     6e-59 
-KF572338.1  Symbiodinium sp. DJT-2013t isolate Bar07_130 psbA min...  237     2e-58 
-KF572328.1  Symbiodinium sp. DJT-2013s isolate Cur09_45A psbA min...  237     2e-58 
-KF572367.1  Symbiodinium sp. DJT-2013z isolate WA29 photosystem I...  235     8e-58 
-KF572363.1  Symbiodinium sp. DJT-2013z isolate A03_379 photosyste...  235     8e-58 
-KF572362.1  Symbiodinium sp. DJT-2013z isolate WA908 photosystem ...  235     8e-58 
-KF572358.1  Symbiodinium sp. DJT-2013z isolate A03_333 photosyste...  235     8e-58 
-KF572357.1  Symbiodinium sp. DJT-2013z isolate A03_326 photosyste...  235     8e-58 
-KF572282.1  Symbiodinium sp. DJT-2013k isolate FGB05_64a photosys...  235     8e-58 
-KF572279.1  Symbiodinium sp. DJT-2013k isolate FGB05_65 photosyst...  235     8e-58 
-KF572278.1  Symbiodinium sp. DJT-2013k isolate FGB05_66 psbA mini...  235     8e-58 
-KF572227.1  Symbiodinium sp. DJT-2013h isolate Bar05_80 photosyst...  235     8e-58 
-KF572375.1  Symbiodinium sp. DJT-2013ad isolate JPB08_24 psbA min...  233     3e-57 
-KF572314.1  Symbiodinium sp. DJT-2013s isolate CB32_02 photosyste...  231     1e-56 
-KF572393.1  Symbiodinium sp. DJT-2013ae isolate JPB08_35 psbA min...  230     4e-56 
-KF572281.1  Symbiodinium sp. DJT-2013k isolate FGB05_17 photosyst...  230     4e-56 
-KF572240.1  Symbiodinium sp. DJT-2013h isolate Bah_442 psbA minic...  230     4e-56 
-KF572239.1  Symbiodinium sp. DJT-2013h isolate Bah_428 psbA minic...  230     4e-56 
-KF572237.1  Symbiodinium sp. DJT-2013h isolate Bah_725 psbA minic...  230     4e-56 
-KF572222.1  Symbiodinium sp. DJT-2013h isolate Bar05_104 photosys...  230     4e-56 
-HQ336225.1  Symbiodinium sp. BB07_282_C1ee psbA minicircle, parti...  230     4e-56 
-KF572397.1  Symbiodinium sp. DJT-2013ae isolate Cur09_106 psbA mi...  226     5e-55 
-KF572377.1  Symbiodinium sp. DJT-2013ad isolate JPB08_6 psbA mini...  226     5e-55 
-KF572339.1  Symbiodinium sp. DJT-2013t isolate Bar07_131 psbA min...  226     5e-55 
-KF572236.1  Symbiodinium sp. DJT-2013h isolate YB98_83 photosyste...  226     5e-55 
-KF572235.1  Symbiodinium sp. DJT-2013h isolate YB98_84 photosyste...  226     5e-55 
-KF572415.1  Symbiodinium sp. DJT-2013ag isolate FGB05_87 psbA min...  224     2e-54 
-KF572416.1  Symbiodinium sp. DJT-2013ag isolate FGB05_39 photosys...  224     2e-54 
-KF572411.1  Symbiodinium sp. DJT-2013ae isolate STX04_58 psbA min...  224     2e-54 
-KF572394.1  Symbiodinium sp. DJT-2013ae isolate JPB08_08 psbA min...  224     2e-54 
-KF572390.1  Symbiodinium sp. DJT-2013ae isolate JPB08_19 photosys...  224     2e-54 
-KF572371.1  Symbiodinium sp. DJT-2013aa isolate Haw02_45b photosy...  224     2e-54 
-KF572296.1  Symbiodinium sp. DJT-2013q isolate FGB05_76 photosyst...  224     2e-54 
-KF572285.1  Symbiodinium sp. DJT-2013m isolate BR16 photosystem I...  224     2e-54 
-KF572225.1  Symbiodinium sp. DJT-2013h isolate Bar05_135 photosys...  224     2e-54 
-KF572379.1  Symbiodinium sp. DJT-2013ae isolate Bah02_62 photosys...  222     6e-54 
-KF572370.1  Symbiodinium sp. DJT-2013z isolate 21_C40 photosystem...  222     6e-54 
-KF572369.1  Symbiodinium sp. DJT-2013z isolate SW37 psbA minicirc...  222     6e-54 
-KF572368.1  Symbiodinium sp. DJT-2013z isolate WA93 photosystem I...  222     6e-54 
-KF572300.1  Symbiodinium sp. DJT-2013r isolate Be02_193 photosyst...  222     6e-54 
-KF572292.1  Symbiodinium sp. DJT-2013p isolate Bah02_43 psbA mini...  222     6e-54 
-KF572277.1  Symbiodinium sp. DJT-2013j isolate F1380 psbA minicir...  222     6e-54 
-KF572231.1  Symbiodinium sp. DJT-2013h isolate STX04_35 photosyst...  222     6e-54 
-KF572395.1  Symbiodinium sp. DJT-2013ae isolate Cur09_109 psbA mi...  220     2e-53 
-KF572332.1  Symbiodinium sp. DJT-2013s isolate ABA06_28 psbA mini...  220     2e-53 
-KF572359.1  Symbiodinium sp. DJT-2013z isolate A03_337 photosyste...  219     8e-53 
-KF572333.1  Symbiodinium sp. DJT-2013t isolate FGB05_32 photosyst...  219     8e-53 
-KF572284.1  Symbiodinium sp. DJT-2013l isolate PM99_20 photosyste...  219     8e-53 
-KF572229.1  Symbiodinium sp. DJT-2013h isolate STX04_32 photosyst...  217     3e-52 
-KF572228.1  Symbiodinium sp. DJT-2013h isolate STX04_31 photosyst...  217     3e-52 
-KF572316.1  Symbiodinium sp. DJT-2013s isolate CB13_02 photosyste...  215     1e-51 
-KF572276.1  Symbiodinium sp. DJT-2013j isolate F1363 psbA minicir...  215     1e-51 
-KF572413.1  Symbiodinium sp. DJT-2013ae isolate Bar05_113 photosy...  213     4e-51 
-KF572385.1  Symbiodinium sp. DJT-2013ae isolate Bah01_08 photosys...  213     4e-51 
-KF572230.1  Symbiodinium sp. DJT-2013h isolate STX04_34 photosyst...  213     4e-51 
-KF572224.1  Symbiodinium sp. DJT-2013h isolate Bar05_134 psbA min...  213     4e-51 
-KF572421.1  Symbiodinium sp. DJT-2013ah isolate PM99_31 photosyst...  211     1e-50 
-KF572361.1  Symbiodinium sp. DJT-2013z isolate A03_331 photosyste...  211     1e-50 
-KF572360.1  Symbiodinium sp. DJT-2013z isolate A03_127 psbA minic...  211     1e-50 
-KF572313.1  Symbiodinium sp. DJT-2013s isolate CB14_02 psbA minic...  211     1e-50 
-KF572311.1  Symbiodinium sp. DJT-2013s isolate STX04_54b photosys...  211     1e-50 
-KF572310.1  Symbiodinium sp. DJT-2013s isolate STX04_55a psbA min...  211     1e-50 
-KF572223.1  Symbiodinium sp. DJT-2013h isolate Bar05_133 photosys...  211     1e-50 
-KF572392.1  Symbiodinium sp. DJT-2013ae isolate JPB08_52 psbA min...  209     5e-50 
-KF572331.1  Symbiodinium sp. DJT-2013s isolate ABA06_26 psbA mini...  209     5e-50 
-KF572286.1  Symbiodinium sp. DJT-2013n isolate Be02_178 photosyst...  209     5e-50 
-KF572244.1  Symbiodinium sp. DJT-2013h isolate Cur11_27a psbA min...  209     5e-50 
-KF572241.1  Symbiodinium sp. DJT-2013h isolate Cur11_25 psbA mini...  209     5e-50 
-KF572374.1  Symbiodinium sp. DJT-2013ac isolate A03_64 photosyste...  207     2e-49 
-KF572373.1  Symbiodinium sp. DJT-2013ac isolate A03_2 photosystem...  207     2e-49 
-KF572312.1  Symbiodinium sp. DJT-2013s isolate STX04_55b photosys...  207     2e-49 
-KF572309.1  Symbiodinium sp. DJT-2013s isolate STX04_54a psbA min...  207     2e-49 
-KF572246.1  Symbiodinium sp. DJT-2013h isolate Cur11_23 psbA mini...  207     2e-49 
-KF572242.1  Symbiodinium sp. DJT-2013h isolate Cur11_20 psbA mini...  207     2e-49 
-KF572420.1  Symbiodinium sp. DJT-2013ah isolate PM99_30 photosyst...  206     6e-49 
-KF572419.1  Symbiodinium sp. DJT-2013ah isolate PM99_29 photosyst...  206     6e-49 
-KF572293.1  Symbiodinium sp. DJT-2013p isolate Bar05_114 photosys...  206     6e-49 
-KF572422.1  Symbiodinium sp. DJT-2013ah isolate PM99_33 photosyst...  204     2e-48 
-KF572407.1  Symbiodinium sp. DJT-2013ae isolate PM99_22 photosyst...  202     8e-48 
-KF572343.1  Symbiodinium sp. DJT-2013t isolate Be02_97 photosyste...  202     8e-48 
-KF572299.1  Symbiodinium sp. DJT-2013r isolate Be02_192 photosyst...  202     8e-48 
-KF572243.1  Symbiodinium sp. DJT-2013h isolate Cur11_22 psbA mini...  202     8e-48 
-KF572203.1  Symbiodinium sp. DJT-2013d isolate A02_47 psbA minici...  202     8e-48 
-KF572334.1  Symbiodinium sp. DJT-2013t isolate FGB05_31 photosyst...  200     3e-47 
-KF572226.1  Symbiodinium sp. DJT-2013h isolate Bar05_75 photosyst...  200     3e-47 
-KF572287.1  Symbiodinium sp. DJT-2013n isolate PM99_74 photosyste...  198     1e-46 
+HG515020.1  Symbiodinium sp. C3 chloroplast minicircle DNA, psbD ...  385     7e-103
+HG515027.1  Symbiodinium sp. C3 chloroplast partial 16S rRNA gene...  383     3e-102
+AJ884899.1  Symbiodinium sp. ex Scolymia sp. chloroplast psbA gen...  379     4e-101
+HG515015.1  Symbiodinium sp. C3 chloroplast minicircle DNA, psaA ...  369     3e-98 
+HG515018.1  Symbiodinium sp. C3 chloroplast minicircle DNA, psbB ...  367     1e-97 
+HG515017.1  Symbiodinium sp. C3 chloroplast minicircle DNA, psbA ...  365     4e-97 
+HG515025.1  Symbiodinium sp. C3 chloroplast minicircle DNA, atpB ...  362     6e-96 
+HG515022.1  Symbiodinium sp. C3 chloroplast minicircle DNA, petB ...  358     9e-95 
+HG515019.1  Symbiodinium sp. C3 chloroplast minicircle DNA, psbC ...  358     9e-95 
+HG515028.1  Symbiodinium sp. C3 chloroplast partial 23S rRNA gene...  335     8e-88 
+HG515016.1  Symbiodinium sp. C3 chloroplast minicircle DNA, psaB ...  335     8e-88 
+HG515024.1  Symbiodinium sp. C3 chloroplast minicircle DNA, atpA ...  317     1e-82 
+AY160086.1  Symbiodinium sp. Gt2 psbA minicircle non-coding regio...  308     1e-79 
+KF572302.1  Symbiodinium sp. DJT-2013s isolate Bar07_10 psbA mini...  283     3e-72 
+KF572183.1  Symbiodinium sp. DJT-2013a isolate RB38 psbA minicirc...  271     1e-68 
+KF572182.1  Symbiodinium sp. DJT-2013a isolate Bar05_84 psbA mini...  271     1e-68 
+KF572220.1  Symbiodinium sp. DJT-2013g isolate Haw02_63 psbA mini...  266     6e-67 
+KF572199.1  Symbiodinium sp. DJT-2013d isolate PM99_72 psbA minic...  266     6e-67 
+KF572175.1  Symbiodinium goreaui isolate JPB08_48 psbA minicircle...  266     6e-67 
+KF572174.1  Symbiodinium goreaui isolate JPB08_63 psbA minicircle...  266     6e-67 
+KF572171.1  Symbiodinium goreaui isolate JPB08_42 psbA minicircle...  266     6e-67 
+KF572170.1  Symbiodinium goreaui isolate JPB08_34 psbA minicircle...  266     6e-67 
+KF572169.1  Symbiodinium goreaui isolate JPB08_55 psbA minicircle...  266     6e-67 
+KF572167.1  Symbiodinium goreaui isolate PM99_73 psbA minicircle ...  266     6e-67 
+KF572166.1  Symbiodinium goreaui isolate Be02_29 psbA minicircle ...  266     6e-67 
+KF572162.1  Symbiodinium goreaui isolate Culture RT152 psbA minic...  266     6e-67 
+KF572159.1  Symbiodinium goreaui isolate FGB05_90 psbA minicircle...  266     6e-67 
+KF572157.1  Symbiodinium goreaui isolate FGB05_34 psbA minicircle...  266     6e-67 
+KF572156.1  Symbiodinium goreaui isolate FGB05_89 psbA minicircle...  266     6e-67 
+KT630859.1  Symbiodinium goreaui isolate pg5x chloroplast psbA mi...  266     6e-67 
+KF572218.1  Symbiodinium sp. DJT-2013g isolate Haw02_51 psbA mini...  264     2e-66 
+KF572216.1  Symbiodinium sp. DJT-2013g isolate BB07_201 psbA mini...  264     2e-66 
+KF572213.1  Symbiodinium sp. DJT-2013g isolate Baja04_135 psbA mi...  264     2e-66 
+KF572195.1  Symbiodinium sp. DJT-2013d isolate A02_71 psbA minici...  264     2e-66 
+KF572190.1  Symbiodinium sp. DJT-2013d isolate A03_138 psbA minic...  264     2e-66 
+KF572172.1  Symbiodinium goreaui isolate A03_198 psbA minicircle ...  264     2e-66 
+KF572168.1  Symbiodinium goreaui isolate FL01_81 psbA minicircle ...  264     2e-66 
+KF572165.1  Symbiodinium goreaui isolate Be02_30 psbA minicircle ...  264     2e-66 
+KF572164.1  Symbiodinium goreaui isolate Be02_118 psbA minicircle...  264     2e-66 
+KF572160.1  Symbiodinium goreaui isolate FGB_70 psbA minicircle n...  264     2e-66 
+KF572158.1  Symbiodinium goreaui isolate FGB05_69 psbA minicircle...  264     2e-66 
+KF572153.1  Symbiodinium goreaui isolate FLKeys_6298 psbA minicir...  264     2e-66 
+KT156648.1  Symbiodinium sp. C39 voucher OMD036 psbA minicircle n...  262     8e-66 
+KF572200.1  Symbiodinium sp. DJT-2013d isolate JPB08_177 psbA min...  262     8e-66 
+KF572198.1  Symbiodinium sp. DJT-2013d isolate JPB08_75 psbA mini...  262     8e-66 
+KF572197.1  Symbiodinium sp. DJT-2013d isolate JPB08_17 psbA mini...  262     8e-66 
+KF572161.1  Symbiodinium goreaui isolate Culture RT113 psbA minic...  262     8e-66 
+KT630858.1  Symbiodinium goreaui isolate pgB11 chloroplast psbA m...  262     8e-66 
+KT630857.1  Symbiodinium goreaui isolate pgB6 chloroplast psbA mi...  262     8e-66 
+KF572163.1  Symbiodinium goreaui isolate Be02_139 psbA minicircle...  260     3e-65 
+HQ336229.1  Symbiodinium sp. BB07_295_C1ee psbA minicircle, parti...  260     3e-65 
+HQ336228.1  Symbiodinium sp. BB07_303_C1ee psbA minicircle, parti...  260     3e-65 
+HQ336226.1  Symbiodinium sp. BB07_304_C1ee psbA minicircle, parti...  260     3e-65 
+AY160088.1  Symbiodinium sp. Lp psbA minicircle non-coding region...  260     3e-65 
+KF572215.1  Symbiodinium sp. DJT-2013g isolate BB07_190 psbA mini...  258     1e-64 
+KF572196.1  Symbiodinium sp. DJT-2013d isolate JPB08_84 psbA mini...  258     1e-64 
+KF572194.1  Symbiodinium sp. DJT-2013d isolate A03_98 psbA minici...  258     1e-64 
+KF572193.1  Symbiodinium sp. DJT-2013d isolate BE02_135 psbA mini...  258     1e-64 
+KF572191.1  Symbiodinium sp. DJT-2013d isolate JPB08_92 psbA mini...  258     1e-64 
+KF572189.1  Symbiodinium sp. DJT-2013d isolate A03_50 psbA minici...  258     1e-64 
+HQ336236.1  Symbiodinium sp. GAL1060_C1d psbA minicircle, partial...  258     1e-64 
+HQ336230.1  Symbiodinium sp. BB07_293_C1ee psbA minicircle, parti...  258     1e-64 
+AY160089.1  Symbiodinium sp. Pd psbA minicircle non-coding region...  258     1e-64 
+AY160087.1  Symbiodinium sp. Ha psbA minicircle non-coding region...  258     1e-64 
+HG515023.1  Symbiodinium sp. C3 chloroplast minicircle DNA, petD ...  256     4e-64 
+KF572206.1  Symbiodinium sp. DJT-2013d isolate Zam03 psbA minicir...  256     4e-64 
+HG515021.1  Symbiodinium sp. C3 chloroplast minicircle DNA, psbE ...  254     2e-63 
+KF572219.1  Symbiodinium sp. DJT-2013g isolate Haw02_6 psbA minic...  254     2e-63 
+KF572204.1  Symbiodinium sp. DJT-2013d isolate A02_136 psbA minic...  254     2e-63 
+HQ336248.1  Symbiodinium sp. Panama11_C1bc psbA minicircle, parti...  254     2e-63 
+HQ336227.1  Symbiodinium sp. BB07_305_C1ee psbA minicircle, parti...  254     2e-63 
+KF572372.1  Symbiodinium sp. DJT-2013ab isolate A02_36 photosyste...  252     6e-63 
+HQ336242.1  Symbiodinium sp. LAP08_154_C1bc psbA minicircle, part...  252     6e-63 
+KF572212.1  Symbiodinium sp. DJT-2013f isolate BB07_240 psbA mini...  248     9e-62 
+KF572211.1  Symbiodinium sp. DJT-2013f isolate BB07_250 psbA mini...  248     9e-62 
+KF572173.1  Symbiodinium goreaui isolate A03_56 psbA minicircle n...  248     9e-62 
+KF572192.1  Symbiodinium sp. DJT-2013d isolate JPB08_61 psbA mini...  246     3e-61 
+KF572207.1  Symbiodinium sp. DJT-2013d isolate Baja04_34 psbA min...  244     1e-60 
+HQ336250.1  Symbiodinium sp. Panama27_C1bc psbA minicircle, parti...  244     1e-60 
+HQ336249.1  Symbiodinium sp. Panama15_C1bc psbA minicircle, parti...  244     1e-60 
+HQ336235.1  Symbiodinium sp. Panama25_C1d psbA minicircle, partia...  244     1e-60 
+HQ336233.1  Symbiodinium sp. Panama8_C1d psbA minicircle, partial...  244     1e-60 
+HQ336232.1  Symbiodinium sp. Panama13_C1d psbA minicircle, partia...  244     1e-60 
+HQ336231.1  Symbiodinium sp. Panama16_C1d psbA minicircle, partia...  244     1e-60 
+HQ336245.1  Symbiodinium sp. BB07_307_C1bc psbA minicircle, parti...  242     5e-60 
+HQ336234.1  Symbiodinium sp. Panama17_C1d psbA minicircle, partia...  242     5e-60 
+KF572181.1  Symbiodinium sp. DJT-2013a isolate FL01_63 psbA minic...  241     2e-59 
+KT156647.1  Symbiodinium sp. C39 voucher ADD036 psbA minicircle n...  239     7e-59 
+KF572210.1  Symbiodinium sp. DJT-2013e isolate Baja04_14 psbA min...  239     7e-59 
+KF572186.1  Symbiodinium sp. DJT-2013b isolate PM99_36 psbA minic...  239     7e-59 
+KF572180.1  Symbiodinium sp. DJT-2013a isolate Be02_90 psbA minic...  239     7e-59 
+HQ336246.1  Symbiodinium sp. BB07_308_C1bc psbA minicircle, parti...  239     7e-59 
+KF572208.1  Symbiodinium sp. DJT-2013e isolate Baja04_124 psbA mi...  237     3e-58 
+KF572185.1  Symbiodinium sp. DJT-2013b isolate PM99_35 psbA minic...  237     3e-58 
+KF572178.1  Symbiodinium sp. DJT-2013a isolate FL01_35 psbA minic...  237     3e-58 
+HQ336241.1  Symbiodinium sp. LAP08_147_C1bc psbA minicircle, part...  237     3e-58 
+HQ336240.1  Symbiodinium sp. LAP08_167_C1bc psbA minicircle, part...  237     3e-58 
+KF572366.1  Symbiodinium sp. DJT-2013z isolate WA112 photosystem ...  233     4e-57 
+KF572364.1  Symbiodinium sp. DJT-2013z isolate WA10 psbA minicirc...  233     4e-57 
+KF572209.1  Symbiodinium sp. DJT-2013e isolate Baja04_30 psbA min...  233     4e-57 
+KF572187.1  Symbiodinium sp. DJT-2013b isolate Be02_98 psbA minic...  233     4e-57 
+HQ336247.1  Symbiodinium sp. BB07_309_C1bc psbA minicircle, parti...  233     4e-57 
+KF572179.1  Symbiodinium sp. DJT-2013a isolate Bar05_45 psbA mini...  231     1e-56 
+KF572340.1  Symbiodinium sp. DJT-2013t isolate Bar07_132 psbA min...  229     6e-56 
+KT156650.1  Symbiodinium sp. C41 voucher ALB012 psbA minicircle n...  227     2e-55 
+KT156649.1  Symbiodinium sp. C41 voucher ALB028 psbA minicircle n...  227     2e-55 
+KF572365.1  Symbiodinium sp. DJT-2013z isolate WA99 psbA minicirc...  227     2e-55 
+KF572371.1  Symbiodinium sp. DJT-2013aa isolate Haw02_45b photosy...  225     8e-55 
+KF572320.1  Symbiodinium sp. DJT-2013s isolate Cur09_107A psbA mi...  225     8e-55 
+HQ336252.1  Symbiodinium sp. GAL_dt1037_C1bc psbA minicircle, par...  225     8e-55 
+KF572367.1  Symbiodinium sp. DJT-2013z isolate WA29 photosystem I...  221     1e-53 
+KF572363.1  Symbiodinium sp. DJT-2013z isolate A03_379 photosyste...  219     4e-53 
+KF572357.1  Symbiodinium sp. DJT-2013z isolate A03_326 photosyste...  219     4e-53 
+KF572338.1  Symbiodinium sp. DJT-2013t isolate Bar07_130 psbA min...  217     2e-52 
+KF572362.1  Symbiodinium sp. DJT-2013z isolate WA908 photosystem ...  216     6e-52 
+KF572358.1  Symbiodinium sp. DJT-2013z isolate A03_333 photosyste...  216     6e-52 
+KF572233.1  Symbiodinium sp. DJT-2013h isolate Cur11_44 psbA mini...  214     2e-51 
+KF572232.1  Symbiodinium sp. DJT-2013h isolate Cur11_47 psbA mini...  214     2e-51 
+HQ336225.1  Symbiodinium sp. BB07_282_C1ee psbA minicircle, parti...  214     2e-51 
+KF572337.1  Symbiodinium sp. DJT-2013t isolate Bar05_119 photosys...  212     9e-51 
+KF572336.1  Symbiodinium sp. DJT-2013t isolate Bar05_89 psbA mini...  212     9e-51 
+KF572277.1  Symbiodinium sp. DJT-2013j isolate F1380 psbA minicir...  212     9e-51 
+KF572236.1  Symbiodinium sp. DJT-2013h isolate YB98_83 photosyste...  210     3e-50 
+KF572235.1  Symbiodinium sp. DJT-2013h isolate YB98_84 photosyste...  210     3e-50 
+KF572184.1  Symbiodinium sp. DJT-2013a isolate CVX09_01 psbA mini...  210     3e-50 
+KF572368.1  Symbiodinium sp. DJT-2013z isolate WA93 photosystem I...  208     1e-49 
+KF572332.1  Symbiodinium sp. DJT-2013s isolate ABA06_28 psbA mini...  208     1e-49 
+KF572328.1  Symbiodinium sp. DJT-2013s isolate Cur09_45A psbA min...  208     1e-49 
+KF572314.1  Symbiodinium sp. DJT-2013s isolate CB32_02 photosyste...  206     5e-49 
+KF572276.1  Symbiodinium sp. DJT-2013j isolate F1363 psbA minicir...  204     2e-48 
+KF572407.1  Symbiodinium sp. DJT-2013ae isolate PM99_22 photosyst...  202     7e-48 
+KF572369.1  Symbiodinium sp. DJT-2013z isolate SW37 psbA minicirc...  202     7e-48 
+KF572282.1  Symbiodinium sp. DJT-2013k isolate FGB05_64a photosys...  202     7e-48 
+KF572279.1  Symbiodinium sp. DJT-2013k isolate FGB05_65 photosyst...  202     7e-48 
+KF572278.1  Symbiodinium sp. DJT-2013k isolate FGB05_66 psbA mini...  202     7e-48 
+KF572370.1  Symbiodinium sp. DJT-2013z isolate 21_C40 photosystem...  200     3e-47 
+KF572397.1  Symbiodinium sp. DJT-2013ae isolate Cur09_106 psbA mi...  198     1e-46 
 KF572412.1  Symbiodinium sp. DJT-2013ae isolate STX04_59 psbA min...  196     4e-46 
-KF572404.1  Symbiodinium sp. DJT-2013ae isolate Be02_81 photosyst...  196     4e-46 
-KF572344.1  Symbiodinium sp. DJT-2013u isolate Be02_170 photosyst...  196     4e-46 
-KF572335.1  Symbiodinium sp. DJT-2013t isolate FGB05_30 photosyst...  196     4e-46 
+KF572359.1  Symbiodinium sp. DJT-2013z isolate A03_337 photosyste...  196     4e-46 
+KF572339.1  Symbiodinium sp. DJT-2013t isolate Bar07_131 psbA min...  196     4e-46 
+KF572331.1  Symbiodinium sp. DJT-2013s isolate ABA06_26 psbA mini...  196     4e-46 
 KF572303.1  Symbiodinium sp. DJT-2013s isolate Bar07_03 psbA mini...  196     4e-46 
-KF572304.1  Symbiodinium sp. DJT-2013s isolate Bar07_23 psbA mini...  195     1e-45 
-KF572274.1  Symbiodinium sp. DJT-2013j isolate F1362 psbA minicir...  195     1e-45 
-KF572345.1  Symbiodinium sp. DJT-2013u isolate Be02_171 photosyst...  193     5e-45 
-KF572409.1  Symbiodinium sp. DJT-2013ae isolate Cur09_26 psbA min...  191     2e-44 
-KF572408.1  Symbiodinium sp. DJT-2013ae isolate Cur09_28 photosys...  191     2e-44 
-KF572406.1  Symbiodinium sp. DJT-2013ae isolate Be02_51 photosyst...  191     2e-44 
+KF572281.1  Symbiodinium sp. DJT-2013k isolate FGB05_17 photosyst...  196     4e-46 
+KF572240.1  Symbiodinium sp. DJT-2013h isolate Bah_442 psbA minic...  196     4e-46 
+KF572239.1  Symbiodinium sp. DJT-2013h isolate Bah_428 psbA minic...  196     4e-46 
+KF572237.1  Symbiodinium sp. DJT-2013h isolate Bah_725 psbA minic...  196     4e-46 
+KF572227.1  Symbiodinium sp. DJT-2013h isolate Bar05_80 photosyst...  196     4e-46 
+KF572345.1  Symbiodinium sp. DJT-2013u isolate Be02_171 photosyst...  194     1e-45 
+KF572304.1  Symbiodinium sp. DJT-2013s isolate Bar07_23 psbA mini...  194     1e-45 
+HQ336254.1  Symbiodinium sp. GAL_373_C1bc psbA minicircle, partia...  194     1e-45 
+KF572222.1  Symbiodinium sp. DJT-2013h isolate Bar05_104 photosys...  192     6e-45 
+KF572203.1  Symbiodinium sp. DJT-2013d isolate A02_47 psbA minici...  192     6e-45 
+HQ336253.1  Symbiodinium sp. GAL9471_C1bc psbA minicircle, partia...  192     6e-45 
+KF572415.1  Symbiodinium sp. DJT-2013ag isolate FGB05_87 psbA min...  191     2e-44 
+KF572416.1  Symbiodinium sp. DJT-2013ag isolate FGB05_39 photosys...  191     2e-44 
+KF572404.1  Symbiodinium sp. DJT-2013ae isolate Be02_81 photosyst...  191     2e-44 
 KF572355.1  Symbiodinium sp. DJT-2013x isolate Cur09_40C psbA min...  191     2e-44 
-KF572342.1  Symbiodinium sp. DJT-2013t isolate Be02_91 photosyste...  191     2e-44 
-KF572398.1  Symbiodinium sp. DJT-2013ae isolate Cur09_47B psbA mi...  189     6e-44 
-KF572401.1  Symbiodinium sp. DJT-2013ae isolate Be02_61 photosyst...  187     2e-43 
-KF572399.1  Symbiodinium sp. DJT-2013ae isolate FL01_6 photosyste...  187     2e-43 
-KF572353.1  Symbiodinium sp. DJT-2013w isolate PM99_32 photosyste...  187     2e-43 
-KF572221.1  Symbiodinium sp. DJT-2013g isolate Haw02_7 psbA minic...  187     2e-43 
-KF572414.1  Symbiodinium sp. DJT-2013af isolate Bar05_91 photosys...  185     8e-43 
-KF572405.1  Symbiodinium sp. DJT-2013ae isolate Be02_110 photosys...  185     8e-43 
-KF572354.1  Symbiodinium sp. DJT-2013x isolate Cur09_34A psbA min...  185     8e-43 
-KF572291.1  Symbiodinium sp. DJT-2013o isolate FL01_31 photosyste...  183     3e-42 
-KF572272.1  Symbiodinium sp. DJT-2013j isolate F1378 psbA minicir...  183     3e-42 
-KF572253.1  Symbiodinium sp. DJT-2013i isolate Cur11_72 psbA gene...  183     3e-42 
-KF572252.1  Symbiodinium sp. DJT-2013i isolate Cur11_68 psbA mini...  183     3e-42 
-KF572250.1  Symbiodinium sp. DJT-2013i isolate Cur11_66 psbA mini...  183     3e-42 
-KT156665.1  Symbiodinium sp. C3 voucher EU4 psbA minicircle non-c...  182     1e-41 
-KT156664.1  Symbiodinium sp. C3 voucher EU3 psbA minicircle non-c...  182     1e-41 
-KF572400.1  Symbiodinium sp. DJT-2013ae isolate Be02_26 photosyst...  182     1e-41 
-KF572356.1  Symbiodinium sp. DJT-2013y isolate Bar05_100 psbA min...  182     1e-41 
-KF572308.1  Symbiodinium sp. DJT-2013s isolate STX04_15 psbA mini...  178     1e-40 
-KF572307.1  Symbiodinium sp. DJT-2013s isolate AB27 psbA minicirc...  178     1e-40 
-KF572306.1  Symbiodinium sp. DJT-2013s isolate AB28 psbA minicirc...  178     1e-40 
-KF572290.1  Symbiodinium sp. DJT-2013o isolate Be02_187 photosyst...  178     1e-40 
-KF572251.1  Symbiodinium sp. DJT-2013i isolate Cur11_67 psbA mini...  178     1e-40 
-KF572254.1  Symbiodinium sp. DJT-2013i isolate Be02_111 photosyst...  176     5e-40 
-KF572205.1  Symbiodinium sp. DJT-2013d isolate A02_70 psbA minici...  176     5e-40 
-KF572317.1  Symbiodinium sp. DJT-2013s isolate B705_NNP5 psbA min...  174     2e-39 
-KF572301.1  Symbiodinium sp. DJT-2013s isolate Bah02_77 psbA mini...  174     2e-39 
-KF572396.1  Symbiodinium sp. DJT-2013ae isolate Cur09_111 psbA mi...  172     6e-39 
-KF572341.1  Symbiodinium sp. DJT-2013t isolate Bar07_133 psbA min...  172     6e-39 
-KF572255.1  Symbiodinium sp. DJT-2013i isolate YB98_78 photosyste...  171     2e-38 
-KF572315.1  Symbiodinium sp. DJT-2013s isolate CB33_02 photosyste...  169     8e-38 
-KF572248.1  Symbiodinium sp. DJT-2013i isolate 30B psbA minicircl...  167     3e-37 
-KF572294.1  Symbiodinium sp. DJT-2013p isolate Bah02_43 photosyst...  165     1e-36 
-KF572258.1  Symbiodinium sp. DJT-2013i isolate YBD59 photosystem ...  165     1e-36 
-KF572352.1  Symbiodinium sp. DJT-2013v isolate Be03_25 psbA minic...  163     4e-36 
-KF572289.1  Symbiodinium sp. DJT-2013o isolate Be02_116 photosyst...  163     4e-36 
-KF572350.1  Symbiodinium sp. DJT-2013v isolate Be03_21 psbA minic...  158     2e-34 
-KF572259.1  Symbiodinium sp. DJT-2013i isolate YBD3 photosystem I...  158     2e-34 
-KF572351.1  Symbiodinium sp. DJT-2013v isolate Be03_22 photosyste...  154     2e-33 
-KF572261.1  Symbiodinium sp. DJT-2013i isolate Cur11_31 psbA mini...  154     2e-33 
-AY160085.1  Symbiodinium sp. Gt1 psbA minicircle non-coding regio...  154     2e-33 
-KF572410.1  Symbiodinium sp. DJT-2013ae isolate STX04_61 psbA min...  152     8e-33 
-KF572288.1  Symbiodinium sp. DJT-2013o isolate Bar05_102 photosys...  152     8e-33 
-KF572247.1  Symbiodinium sp. DJT-2013i isolate Belize3_303 psbA m...  150     3e-32 
-KT156662.1  Symbiodinium cf. thermophilum voucher ADD014 psbA min...  145     1e-30 
-KF572348.1  Symbiodinium sp. DJT-2013v isolate STX04_36 photosyst...  145     1e-30 
-KP280287.1  Symbiodinium thermophilum isolate B21549 psbA minicir...  143     5e-30 
-KF572217.1  Symbiodinium sp. DJT-2013g isolate Haw02_86 psbA mini...  143     5e-30 
-KP280233.1  Symbiodinium thermophilum isolate BH1641 psbA minicir...  141     2e-29 
-KF572403.1  Symbiodinium sp. DJT-2013ae isolate Be02_74 photosyst...  141     2e-29 
-KT156658.1  Symbiodinium cf. thermophilum voucher OMD054 psbA min...  137     2e-28 
-KP280282.1  Symbiodinium thermophilum isolate BH1497 psbA minicir...  135     8e-28 
-KP280248.1  Symbiodinium thermophilum isolate BH1631 psbA minicir...  135     8e-28 
-KP280232.1  Symbiodinium thermophilum isolate BH1696 psbA minicir...  135     8e-28 
-KF572386.1  Symbiodinium sp. DJT-2013ae isolate RB9 psbA minicirc...  134     3e-27 
-KP280295.1  Symbiodinium thermophilum isolate B21554 psbA minicir...  132     1e-26 
-KF572389.1  Symbiodinium sp. DJT-2013ae isolate FL01_8 photosyste...  132     1e-26 
-KF572269.1  Symbiodinium sp. DJT-2013i isolate Belize3_224 psbA m...  130     4e-26 
-HQ336238.1  Symbiodinium sp. LAP08_187_C1bc psbA minicircle, part...  130     4e-26 
-KP280261.1  Symbiodinium thermophilum isolate BH1457 psbA minicir...  128     1e-25 
-KP280249.1  Symbiodinium thermophilum isolate BH1633 psbA minicir...  128     1e-25 
-KP280235.1  Symbiodinium thermophilum isolate BH1642 psbA minicir...  128     1e-25 
-KF572402.1  Symbiodinium sp. DJT-2013ae isolate Be02_25 photosyst...  128     1e-25 
-KF572323.1  Symbiodinium sp. DJT-2013s isolate Cur09_27A psbA min...  128     1e-25 
-KF572387.1  Symbiodinium sp. DJT-2013ae isolate RB31 photosystem ...  126     5e-25 
-KF572383.1  Symbiodinium sp. DJT-2013ae isolate FGB05_53 photosys...  124     2e-24 
-KF572380.1  Symbiodinium sp. DJT-2013ae isolate FGB05_81 psbA min...  124     2e-24 
-KP280262.1  Symbiodinium thermophilum isolate BH1660 psbA minicir...  122     6e-24 
-KP280234.1  Symbiodinium thermophilum isolate BH1703 psbA minicir...  122     6e-24 
-KP280222.1  Symbiodinium thermophilum isolate BH1708 psbA minicir...  122     6e-24 
-KP280289.1  Symbiodinium thermophilum isolate BH1652 psbA minicir...  121     2e-23 
-KP280288.1  Symbiodinium thermophilum isolate B21550 psbA minicir...  121     2e-23 
-KP280259.1  Symbiodinium thermophilum isolate BH1626 psbA minicir...  121     2e-23 
-KP280252.1  Symbiodinium thermophilum isolate BH1662 psbA minicir...  121     2e-23 
-KP280227.1  Symbiodinium thermophilum isolate BH1699 psbA minicir...  121     2e-23 
-KP280220.1  Symbiodinium thermophilum isolate BH1702 psbA minicir...  121     2e-23 
-KP280212.1  Symbiodinium thermophilum isolate BH1690 psbA minicir...  121     2e-23 
-KM458288.1  Symbiodinium thermophilum isolate BH1450 psbA minicir...  121     2e-23 
-KF572327.1  Symbiodinium sp. DJT-2013s isolate Cur09_31C psbA min...  121     2e-23 
-KF572325.1  Symbiodinium sp. DJT-2013s isolate Cur09_31A photosys...  121     2e-23 
-KF572322.1  Symbiodinium sp. DJT-2013s isolate Cur09_114 psbA min...  121     2e-23 
-KF572321.1  Symbiodinium sp. DJT-2013s isolate Cur09_47B photosys...  121     2e-23 
-HQ336243.1  Symbiodinium sp. BB07_302_C1bc psbA minicircle, parti...  121     2e-23 
-HQ336239.1  Symbiodinium sp. LAP08_196_C1bc psbA minicircle, part...  121     2e-23 
-HQ336237.1  Symbiodinium sp. BB07_287_C1bc psbA minicircle, parti...  121     2e-23 
-KP280291.1  Symbiodinium thermophilum isolate BH1617 psbA minicir...  119     8e-23 
-KP280267.1  Symbiodinium thermophilum isolate BH1675 psbA minicir...  119     8e-23 
-KM458278.1  Symbiodinium thermophilum isolate BH1419 psbA minicir...  119     8e-23 
-KT736132.1  Symbiodinium sp. C3 psbA minicircle non-coding region...  117     3e-22 
-KP280281.1  Symbiodinium thermophilum isolate BH1683 psbA minicir...  115     1e-21 
-KP280280.1  Symbiodinium thermophilum isolate BH1677 psbA minicir...  115     1e-21 
-KP280277.1  Symbiodinium thermophilum isolate BH1673 psbA minicir...  115     1e-21 
-KP280260.1  Symbiodinium thermophilum isolate BH1669 psbA minicir...  115     1e-21 
-KP280258.1  Symbiodinium thermophilum isolate BH1668 psbA minicir...  115     1e-21 
-KP280229.1  Symbiodinium thermophilum isolate BH1705 psbA minicir...  115     1e-21 
-KP280221.1  Symbiodinium thermophilum isolate BH1704 psbA minicir...  115     1e-21 
-KP280211.1  Symbiodinium thermophilum isolate BH1692 psbA minicir...  115     1e-21 
-KM458293.1  Symbiodinium thermophilum isolate BH1356 psbA minicir...  115     1e-21 
-KM458291.1  Symbiodinium thermophilum isolate BH1456 psbA minicir...  115     1e-21 
-KM458287.1  Symbiodinium thermophilum isolate BH1449 psbA minicir...  115     1e-21 
-KM458282.1  Symbiodinium thermophilum isolate BH1425 psbA minicir...  115     1e-21 
-KM458280.1  Symbiodinium thermophilum isolate BH1423 psbA minicir...  115     1e-21 
-KM458277.1  Symbiodinium thermophilum isolate BH1417 psbA minicir...  115     1e-21 
-KP280283.1  Symbiodinium thermophilum isolate BH1625 psbA minicir...  113     4e-21 
-KP280278.1  Symbiodinium thermophilum isolate BH1678 psbA minicir...  113     4e-21 
-KP280271.1  Symbiodinium thermophilum isolate BH1676 psbA minicir...  113     4e-21 
-KP280270.1  Symbiodinium thermophilum isolate BH1672 psbA minicir...  113     4e-21 
-KP280255.1  Symbiodinium thermophilum isolate BH1628 psbA minicir...  113     4e-21 
-KM458283.1  Symbiodinium thermophilum isolate BH1426 psbA minicir...  113     4e-21 
-KM458276.1  Symbiodinium thermophilum isolate BH1415 psbA minicir...  113     4e-21 
-KT156663.1  Symbiodinium sp. C3 voucher EU2 psbA minicircle non-c...  111     1e-20 
-KP280279.1  Symbiodinium thermophilum isolate BH1680 psbA minicir...  111     1e-20 
-KP280247.1  Symbiodinium thermophilum isolate BH1548 psbA minicir...  111     1e-20 
-KP280236.1  Symbiodinium thermophilum isolate BH1698 psbA minicir...  111     1e-20 
-KP280269.1  Symbiodinium thermophilum isolate BH1671 psbA minicir...  110     5e-20 
-KP280230.1  Symbiodinium thermophilum isolate BH1706 psbA minicir...  110     5e-20 
-KP280213.1  Symbiodinium thermophilum isolate BH1643 psbA minicir...  110     5e-20 
-KM458290.1  Symbiodinium thermophilum isolate BH1453 psbA minicir...  110     5e-20 
-KM458279.1  Symbiodinium thermophilum isolate BH1422 psbA minicir...  110     5e-20 
-KP280290.1  Symbiodinium thermophilum isolate BH1616 psbA minicir...  108     2e-19 
-KP280275.1  Symbiodinium thermophilum isolate BH1624 psbA minicir...  108     2e-19 
-KP280272.1  Symbiodinium thermophilum isolate BH1623 psbA minicir...  108     2e-19 
-KP280231.1  Symbiodinium thermophilum isolate B315 psbA minicircl...  108     2e-19 
-KP280228.1  Symbiodinium thermophilum isolate BH1701 psbA minicir...  108     2e-19 
-KM458281.1  Symbiodinium thermophilum isolate BH1424 psbA minicir...  108     2e-19 
-KP280284.1  Symbiodinium thermophilum isolate BH1682 psbA minicir...  106     6e-19 
-KP280263.1  Symbiodinium thermophilum isolate BH1661 psbA minicir...  106     6e-19 
-KM458294.1  Symbiodinium thermophilum isolate BH1392 psbA minicir...  106     6e-19 
-KM458292.1  Symbiodinium thermophilum isolate BH1458 psbA minicir...  106     6e-19 
-KT156653.1  Symbiodinium sp. C3 voucher YBA008 psbA minicircle no...  100     3e-17 
-KM458284.1  Symbiodinium thermophilum isolate BH1427 psbA minicir...  100     3e-17 
-KP280296.1  Symbiodinium thermophilum isolate BH1649 psbA minicir...  99.0    1e-16 
-KP280294.1  Symbiodinium thermophilum isolate B21553 psbA minicir...  99.0    1e-16 
-KP280293.1  Symbiodinium thermophilum isolate B21552 psbA minicir...  99.0    1e-16 
-KP280292.1  Symbiodinium thermophilum isolate B21551 psbA minicir...  99.0    1e-16 
-KP280273.1  Symbiodinium thermophilum isolate BH1620 psbA minicir...  97.1    4e-16 
-KP280265.1  Symbiodinium thermophilum isolate BH1679 psbA minicir...  97.1    4e-16 
-KF572155.1  Symbiodinium goreaui isolate Be02_185 psbA minicircle...  97.1    4e-16 
-KP280310.1  Symbiodinium thermophilum isolate B334 psbA minicircl...  93.5    5e-15 
-KM458285.1  Symbiodinium thermophilum isolate BH1428 psbA minicir...  91.6    2e-14 
-KP280286.1  Symbiodinium thermophilum isolate BH1674 psbA minicir...  89.8    6e-14 
-KP280311.1  Symbiodinium thermophilum isolate B335 psbA minicircl...  87.9    2e-13 
-KT156660.1  Symbiodinium cf. thermophilum voucher ALB030 psbA min...  86.1    8e-13 
-KP280274.1  Symbiodinium thermophilum isolate BH1622 psbA minicir...  84.2    3e-12 
-KT156661.1  Symbiodinium cf. thermophilum voucher OMA071 psbA min...  82.4    1e-11 
-KP280308.1  Symbiodinium thermophilum isolate BH1550 psbA minicir...  65.8    1e-06 
+KF572344.1  Symbiodinium sp. DJT-2013u isolate Be02_170 photosyst...  191     2e-44 
+KF572285.1  Symbiodinium sp. DJT-2013m isolate BR16 photosystem I...  191     2e-44 
+KF572393.1  Symbiodinium sp. DJT-2013ae isolate JPB08_35 psbA min...  189     8e-44 
+KF572353.1  Symbiodinium sp. DJT-2013w isolate PM99_32 photosyste...  189     8e-44 
+KF572274.1  Symbiodinium sp. DJT-2013j isolate F1362 psbA minicir...  189     8e-44 
+KF572230.1  Symbiodinium sp. DJT-2013h isolate STX04_34 photosyst...  189     8e-44 
+KF572411.1  Symbiodinium sp. DJT-2013ae isolate STX04_58 psbA min...  187     3e-43 
+KF572361.1  Symbiodinium sp. DJT-2013z isolate A03_331 photosyste...  187     3e-43 
+KF572360.1  Symbiodinium sp. DJT-2013z isolate A03_127 psbA minic...  187     3e-43 
+KF572231.1  Symbiodinium sp. DJT-2013h isolate STX04_35 photosyst...  187     3e-43 
+KF572225.1  Symbiodinium sp. DJT-2013h isolate Bar05_135 photosys...  187     3e-43 
+KF572406.1  Symbiodinium sp. DJT-2013ae isolate Be02_51 photosyst...  185     1e-42 
+KF572398.1  Symbiodinium sp. DJT-2013ae isolate Cur09_47B psbA mi...  185     1e-42 
+KF572354.1  Symbiodinium sp. DJT-2013x isolate Cur09_34A psbA min...  185     1e-42 
+KF572316.1  Symbiodinium sp. DJT-2013s isolate CB13_02 photosyste...  185     1e-42 
+KF572300.1  Symbiodinium sp. DJT-2013r isolate Be02_193 photosyst...  185     1e-42 
+KF572296.1  Symbiodinium sp. DJT-2013q isolate FGB05_76 photosyst...  185     1e-42 
+KF572284.1  Symbiodinium sp. DJT-2013l isolate PM99_20 photosyste...  185     1e-42 
+KF572394.1  Symbiodinium sp. DJT-2013ae isolate JPB08_08 psbA min...  183     4e-42 
+KF572390.1  Symbiodinium sp. DJT-2013ae isolate JPB08_19 photosys...  183     4e-42 
+KF572375.1  Symbiodinium sp. DJT-2013ad isolate JPB08_24 psbA min...  183     4e-42 
+KF572292.1  Symbiodinium sp. DJT-2013p isolate Bah02_43 psbA mini...  183     4e-42 
+KF572224.1  Symbiodinium sp. DJT-2013h isolate Bar05_134 psbA min...  183     4e-42 
+KF572395.1  Symbiodinium sp. DJT-2013ae isolate Cur09_109 psbA mi...  181     2e-41 
+KF572379.1  Symbiodinium sp. DJT-2013ae isolate Bah02_62 photosys...  181     2e-41 
+KF572333.1  Symbiodinium sp. DJT-2013t isolate FGB05_32 photosyst...  181     2e-41 
+KF572244.1  Symbiodinium sp. DJT-2013h isolate Cur11_27a psbA min...  181     2e-41 
+KF572241.1  Symbiodinium sp. DJT-2013h isolate Cur11_25 psbA mini...  181     2e-41 
+KF572229.1  Symbiodinium sp. DJT-2013h isolate STX04_32 photosyst...  181     2e-41 
+KF572228.1  Symbiodinium sp. DJT-2013h isolate STX04_31 photosyst...  181     2e-41 
+KF572413.1  Symbiodinium sp. DJT-2013ae isolate Bar05_113 photosy...  179     6e-41 
+KF572405.1  Symbiodinium sp. DJT-2013ae isolate Be02_110 photosys...  179     6e-41 
+KF572313.1  Symbiodinium sp. DJT-2013s isolate CB14_02 psbA minic...  179     6e-41 
+KF572311.1  Symbiodinium sp. DJT-2013s isolate STX04_54b photosys...  179     6e-41 
+KF572310.1  Symbiodinium sp. DJT-2013s isolate STX04_55a psbA min...  179     6e-41 
+KF572308.1  Symbiodinium sp. DJT-2013s isolate STX04_15 psbA mini...  179     6e-41 
+KF572377.1  Symbiodinium sp. DJT-2013ad isolate JPB08_6 psbA mini...  177     2e-40 
+KF572287.1  Symbiodinium sp. DJT-2013n isolate PM99_74 photosyste...  177     2e-40 
+KF572246.1  Symbiodinium sp. DJT-2013h isolate Cur11_23 psbA mini...  177     2e-40 
+KF572221.1  Symbiodinium sp. DJT-2013g isolate Haw02_7 psbA minic...  177     2e-40 
+KF572421.1  Symbiodinium sp. DJT-2013ah isolate PM99_31 photosyst...  175     9e-40 
+KF572223.1  Symbiodinium sp. DJT-2013h isolate Bar05_133 photosys...  175     9e-40 
+KF572307.1  Symbiodinium sp. DJT-2013s isolate AB27 psbA minicirc...  173     3e-39 
+KF572306.1  Symbiodinium sp. DJT-2013s isolate AB28 psbA minicirc...  173     3e-39 
+KF572286.1  Symbiodinium sp. DJT-2013n isolate Be02_178 photosyst...  173     3e-39 
+KF572401.1  Symbiodinium sp. DJT-2013ae isolate Be02_61 photosyst...  171     1e-38 
+KF572385.1  Symbiodinium sp. DJT-2013ae isolate Bah01_08 photosys...  171     1e-38 
+KF572291.1  Symbiodinium sp. DJT-2013o isolate FL01_31 photosyste...  171     1e-38 
+KF572272.1  Symbiodinium sp. DJT-2013j isolate F1378 psbA minicir...  171     1e-38 
+KF572243.1  Symbiodinium sp. DJT-2013h isolate Cur11_22 psbA mini...  171     1e-38 
+KF572242.1  Symbiodinium sp. DJT-2013h isolate Cur11_20 psbA mini...  171     1e-38 
+KF572422.1  Symbiodinium sp. DJT-2013ah isolate PM99_33 photosyst...  169     5e-38 
+KF572420.1  Symbiodinium sp. DJT-2013ah isolate PM99_30 photosyst...  169     5e-38 
+KF572419.1  Symbiodinium sp. DJT-2013ah isolate PM99_29 photosyst...  169     5e-38 
+KF572312.1  Symbiodinium sp. DJT-2013s isolate STX04_55b photosys...  169     5e-38 
+KF572309.1  Symbiodinium sp. DJT-2013s isolate STX04_54a psbA min...  169     5e-38 
+KF572317.1  Symbiodinium sp. DJT-2013s isolate B705_NNP5 psbA min...  167     2e-37 
+KF572301.1  Symbiodinium sp. DJT-2013s isolate Bah02_77 psbA mini...  167     2e-37 
+KF572299.1  Symbiodinium sp. DJT-2013r isolate Be02_192 photosyst...  166     7e-37 
+KF572290.1  Symbiodinium sp. DJT-2013o isolate Be02_187 photosyst...  166     7e-37 
+KF572205.1  Symbiodinium sp. DJT-2013d isolate A02_70 psbA minici...  166     7e-37 
+KF572335.1  Symbiodinium sp. DJT-2013t isolate FGB05_30 photosyst...  164     3e-36 
+KF572396.1  Symbiodinium sp. DJT-2013ae isolate Cur09_111 psbA mi...  162     1e-35 
+KF572352.1  Symbiodinium sp. DJT-2013v isolate Be03_25 psbA minic...  162     1e-35 
+KF572343.1  Symbiodinium sp. DJT-2013t isolate Be02_97 photosyste...  162     1e-35 
+KF572400.1  Symbiodinium sp. DJT-2013ae isolate Be02_26 photosyst...  160     4e-35 
+KF572399.1  Symbiodinium sp. DJT-2013ae isolate FL01_6 photosyste...  160     4e-35 
+KF572392.1  Symbiodinium sp. DJT-2013ae isolate JPB08_52 psbA min...  160     4e-35 
+KF572226.1  Symbiodinium sp. DJT-2013h isolate Bar05_75 photosyst...  160     4e-35 
+AY160085.1  Symbiodinium sp. Gt1 psbA minicircle non-coding regio...  160     4e-35 
+KF572374.1  Symbiodinium sp. DJT-2013ac isolate A03_64 photosyste...  158     1e-34 
+KF572373.1  Symbiodinium sp. DJT-2013ac isolate A03_2 photosystem...  158     1e-34 
+KF572356.1  Symbiodinium sp. DJT-2013y isolate Bar05_100 psbA min...  156     5e-34 
+KF572350.1  Symbiodinium sp. DJT-2013v isolate Be03_21 psbA minic...  156     5e-34 
+KT156665.1  Symbiodinium sp. C3 voucher EU4 psbA minicircle non-c...  152     8e-33 
+KT156664.1  Symbiodinium sp. C3 voucher EU3 psbA minicircle non-c...  152     8e-33 
+KF572351.1  Symbiodinium sp. DJT-2013v isolate Be03_22 photosyste...  152     8e-33 
+KF572334.1  Symbiodinium sp. DJT-2013t isolate FGB05_31 photosyst...  152     8e-33 
+KF572342.1  Symbiodinium sp. DJT-2013t isolate Be02_91 photosyste...  150     3e-32 
+KF572341.1  Symbiodinium sp. DJT-2013t isolate Bar07_133 psbA min...  150     3e-32 
+KF572294.1  Symbiodinium sp. DJT-2013p isolate Bah02_43 photosyst...  150     3e-32 
+KF572293.1  Symbiodinium sp. DJT-2013p isolate Bar05_114 photosys...  150     3e-32 
+KF572217.1  Symbiodinium sp. DJT-2013g isolate Haw02_86 psbA mini...  148     1e-31 
+KF572414.1  Symbiodinium sp. DJT-2013af isolate Bar05_91 photosys...  144     2e-30 
+KF572348.1  Symbiodinium sp. DJT-2013v isolate STX04_36 photosyst...  144     2e-30 
+KF572254.1  Symbiodinium sp. DJT-2013i isolate Be02_111 photosyst...  144     2e-30 
+KF572289.1  Symbiodinium sp. DJT-2013o isolate Be02_116 photosyst...  137     3e-28 
+KF572248.1  Symbiodinium sp. DJT-2013i isolate 30B psbA minicircl...  137     3e-28 
+KF572315.1  Symbiodinium sp. DJT-2013s isolate CB33_02 photosyste...  135     1e-27 
+KF572253.1  Symbiodinium sp. DJT-2013i isolate Cur11_72 psbA gene...  133     5e-27 
+KF572252.1  Symbiodinium sp. DJT-2013i isolate Cur11_68 psbA mini...  133     5e-27 
+KF572250.1  Symbiodinium sp. DJT-2013i isolate Cur11_66 psbA mini...  133     5e-27 
+KP280308.1  Symbiodinium thermophilum isolate BH1550 psbA minicir...  131     2e-26 
+KF572409.1  Symbiodinium sp. DJT-2013ae isolate Cur09_26 psbA min...  131     2e-26 
+KF572408.1  Symbiodinium sp. DJT-2013ae isolate Cur09_28 photosys...  131     2e-26 
+KF572386.1  Symbiodinium sp. DJT-2013ae isolate RB9 psbA minicirc...  131     2e-26 
+KF572258.1  Symbiodinium sp. DJT-2013i isolate YBD59 photosystem ...  127     3e-25 
+KF572255.1  Symbiodinium sp. DJT-2013i isolate YB98_78 photosyste...  127     3e-25 
+KF572251.1  Symbiodinium sp. DJT-2013i isolate Cur11_67 psbA mini...  127     3e-25 
+KF572410.1  Symbiodinium sp. DJT-2013ae isolate STX04_61 psbA min...  125     1e-24 
+KF572288.1  Symbiodinium sp. DJT-2013o isolate Bar05_102 photosys...  123     4e-24 
+KF572389.1  Symbiodinium sp. DJT-2013ae isolate FL01_8 photosyste...  121     1e-23 
+KF572387.1  Symbiodinium sp. DJT-2013ae isolate RB31 photosystem ...  121     1e-23 
+KF572383.1  Symbiodinium sp. DJT-2013ae isolate FGB05_53 photosys...  121     1e-23 
+KF572380.1  Symbiodinium sp. DJT-2013ae isolate FGB05_81 psbA min...  121     1e-23 
+KF572262.1  Symbiodinium sp. DJT-2013i isolate Cur11_73 psbA mini...  121     1e-23 
+KF572259.1  Symbiodinium sp. DJT-2013i isolate YBD3 photosystem I...  121     1e-23 
+KF572247.1  Symbiodinium sp. DJT-2013i isolate Belize3_303 psbA m...  121     1e-23 
+KF572323.1  Symbiodinium sp. DJT-2013s isolate Cur09_27A psbA min...  119     5e-23 
+HQ336238.1  Symbiodinium sp. LAP08_187_C1bc psbA minicircle, part...  117     2e-22 
+KF572266.1  Symbiodinium sp. DJT-2013i isolate Cur11_81 psbA mini...  116     8e-22 
+KF572265.1  Symbiodinium sp. DJT-2013i isolate Cur11_80 psbA mini...  116     8e-22 
+KF572249.1  Symbiodinium sp. DJT-2013i isolate LB5 photosystem II...  116     8e-22 
+KF572403.1  Symbiodinium sp. DJT-2013ae isolate Be02_74 photosyst...  112     1e-20 
+KF572327.1  Symbiodinium sp. DJT-2013s isolate Cur09_31C psbA min...  112     1e-20 
+KF572325.1  Symbiodinium sp. DJT-2013s isolate Cur09_31A photosys...  112     1e-20 
+KF572322.1  Symbiodinium sp. DJT-2013s isolate Cur09_114 psbA min...  112     1e-20 
+KF572321.1  Symbiodinium sp. DJT-2013s isolate Cur09_47B photosys...  112     1e-20 
+KT156662.1  Symbiodinium cf. thermophilum voucher ADD014 psbA min...  110     4e-20 
+HQ336243.1  Symbiodinium sp. BB07_302_C1bc psbA minicircle, parti...  110     4e-20 
+HQ336239.1  Symbiodinium sp. LAP08_196_C1bc psbA minicircle, part...  110     4e-20 
+HQ336237.1  Symbiodinium sp. BB07_287_C1bc psbA minicircle, parti...  110     4e-20 
+KF572269.1  Symbiodinium sp. DJT-2013i isolate Belize3_224 psbA m...  106     6e-19 
+KF572268.1  Symbiodinium sp. DJT-2013i isolate 27B photosystem II...  104     2e-18 
+KF572261.1  Symbiodinium sp. DJT-2013i isolate Cur11_31 psbA mini...  104     2e-18 
+KT156663.1  Symbiodinium sp. C3 voucher EU2 psbA minicircle non-c...  100     3e-17 
+KF572402.1  Symbiodinium sp. DJT-2013ae isolate Be02_25 photosyst...  100     3e-17 
+KT156658.1  Symbiodinium cf. thermophilum voucher OMD054 psbA min...  98.7    1e-16 
+KT156653.1  Symbiodinium sp. C3 voucher YBA008 psbA minicircle no...  96.8    5e-16 
+KP280304.1  Symbiodinium thermophilum isolate BH1656 psbA minicir...  93.0    7e-15 
+KP280287.1  Symbiodinium thermophilum isolate B21549 psbA minicir...  93.0    7e-15 
+KT736132.1  Symbiodinium sp. C3 psbA minicircle non-coding region...  91.1    3e-14 
+KP280300.1  Symbiodinium thermophilum isolate BH1659 psbA minicir...  91.1    3e-14 
+KP280283.1  Symbiodinium thermophilum isolate BH1625 psbA minicir...  91.1    3e-14 
+KP280302.1  Symbiodinium thermophilum isolate BH1658 psbA minicir...  89.1    1e-13 
+KP280233.1  Symbiodinium thermophilum isolate BH1641 psbA minicir...  89.1    1e-13 
+KP280232.1  Symbiodinium thermophilum isolate BH1696 psbA minicir...  89.1    1e-13 
+KP280295.1  Symbiodinium thermophilum isolate B21554 psbA minicir...  87.2    4e-13 
+KP280288.1  Symbiodinium thermophilum isolate B21550 psbA minicir...  87.2    4e-13 
+KP280269.1  Symbiodinium thermophilum isolate BH1671 psbA minicir...  87.2    4e-13 
+KP280231.1  Symbiodinium thermophilum isolate B315 psbA minicircl...  87.2    4e-13 
+KP280221.1  Symbiodinium thermophilum isolate BH1704 psbA minicir...  87.2    4e-13 
+KP280213.1  Symbiodinium thermophilum isolate BH1643 psbA minicir...  87.2    4e-13 
+KM458277.1  Symbiodinium thermophilum isolate BH1417 psbA minicir...  87.2    4e-13 
+KP280306.1  Symbiodinium thermophilum isolate BH1615 psbA minicir...  85.3    1e-12 
+KP280305.1  Symbiodinium thermophilum isolate BH1614 psbA minicir...  85.3    1e-12 
+KP280282.1  Symbiodinium thermophilum isolate BH1497 psbA minicir...  85.3    1e-12 
+KP280238.1  Symbiodinium thermophilum isolate BH1418 psbA minicir...  85.3    1e-12 
+KP280222.1  Symbiodinium thermophilum isolate BH1708 psbA minicir...  85.3    1e-12 
+KP280310.1  Symbiodinium thermophilum isolate B334 psbA minicircl...  83.4    5e-12 
+KP280303.1  Symbiodinium thermophilum isolate B21557 psbA minicir...  83.4    5e-12 
+KP280301.1  Symbiodinium thermophilum isolate B21556 psbA minicir...  83.4    5e-12 
+KP280261.1  Symbiodinium thermophilum isolate BH1457 psbA minicir...  83.4    5e-12 
+KP280248.1  Symbiodinium thermophilum isolate BH1631 psbA minicir...  83.4    5e-12 
+KP280212.1  Symbiodinium thermophilum isolate BH1690 psbA minicir...  83.4    5e-12 
+KT156661.1  Symbiodinium cf. thermophilum voucher OMA071 psbA min...  81.4    2e-11 
+KT156657.1  Symbiodinium cf. thermophilum voucher KAB047 psbA min...  81.4    2e-11 
+KP280286.1  Symbiodinium thermophilum isolate BH1674 psbA minicir...  81.4    2e-11 
+KP280230.1  Symbiodinium thermophilum isolate BH1706 psbA minicir...  81.4    2e-11 
+KM458290.1  Symbiodinium thermophilum isolate BH1453 psbA minicir...  81.4    2e-11 
+KM458287.1  Symbiodinium thermophilum isolate BH1449 psbA minicir...  81.4    2e-11 
+KM458279.1  Symbiodinium thermophilum isolate BH1422 psbA minicir...  81.4    2e-11 
+KP280247.1  Symbiodinium thermophilum isolate BH1548 psbA minicir...  79.5    8e-11 
+KT156660.1  Symbiodinium cf. thermophilum voucher ALB030 psbA min...  77.6    3e-10 
+KT156655.1  Symbiodinium cf. thermophilum voucher ALB004 psbA min...  77.6    3e-10 
+KP280311.1  Symbiodinium thermophilum isolate B335 psbA minicircl...  77.6    3e-10 
+KP280299.1  Symbiodinium thermophilum isolate B341 psbA minicircl...  77.6    3e-10 
+KP280289.1  Symbiodinium thermophilum isolate BH1652 psbA minicir...  77.6    3e-10 
+KP280278.1  Symbiodinium thermophilum isolate BH1678 psbA minicir...  77.6    3e-10 
+KP280271.1  Symbiodinium thermophilum isolate BH1676 psbA minicir...  77.6    3e-10 
+KP280270.1  Symbiodinium thermophilum isolate BH1672 psbA minicir...  77.6    3e-10 
+KP280267.1  Symbiodinium thermophilum isolate BH1675 psbA minicir...  77.6    3e-10 
+KP280262.1  Symbiodinium thermophilum isolate BH1660 psbA minicir...  77.6    3e-10 
+KP280259.1  Symbiodinium thermophilum isolate BH1626 psbA minicir...  77.6    3e-10 
+KP280252.1  Symbiodinium thermophilum isolate BH1662 psbA minicir...  77.6    3e-10 
+KP280249.1  Symbiodinium thermophilum isolate BH1633 psbA minicir...  77.6    3e-10 
+KP280227.1  Symbiodinium thermophilum isolate BH1699 psbA minicir...  77.6    3e-10 
+KP280220.1  Symbiodinium thermophilum isolate BH1702 psbA minicir...  77.6    3e-10 
+KM458288.1  Symbiodinium thermophilum isolate BH1450 psbA minicir...  77.6    3e-10 
+KM458286.1  Symbiodinium thermophilum isolate BH1448 psbA minicir...  77.6    3e-10 
+KM458283.1  Symbiodinium thermophilum isolate BH1426 psbA minicir...  77.6    3e-10 
+KM458278.1  Symbiodinium thermophilum isolate BH1419 psbA minicir...  77.6    3e-10 
+KM458276.1  Symbiodinium thermophilum isolate BH1415 psbA minicir...  77.6    3e-10 
+KF572267.1  Symbiodinium sp. DJT-2013i isolate Cur11_84 psbA gene...  77.6    3e-10 
+KF572155.1  Symbiodinium goreaui isolate Be02_185 psbA minicircle...  77.6    3e-10 
+KF572298.1  Symbiodinium sp. DJT-2013q isolate Cur09_25 psbA mini...  75.7    1e-09 
+KT156659.1  Symbiodinium cf. thermophilum voucher YBA016 psbA min...  73.7    4e-09 
+KP280285.1  Symbiodinium thermophilum isolate BH1681 psbA minicir...  73.7    4e-09 
+KP280265.1  Symbiodinium thermophilum isolate BH1679 psbA minicir...  73.7    4e-09 
+KP280240.1  Symbiodinium thermophilum isolate BH1700 psbA minicir...  73.7    4e-09 
+KP280235.1  Symbiodinium thermophilum isolate BH1642 psbA minicir...  73.7    4e-09 
+KM458292.1  Symbiodinium thermophilum isolate BH1458 psbA minicir...  73.7    4e-09 
+KM458284.1  Symbiodinium thermophilum isolate BH1427 psbA minicir...  73.7    4e-09 
+KM458282.1  Symbiodinium thermophilum isolate BH1425 psbA minicir...  73.7    4e-09 
+KT156656.1  Symbiodinium cf. thermophilum voucher ALB020 psbA min...  71.8    2e-08 
+KP280296.1  Symbiodinium thermophilum isolate BH1649 psbA minicir...  71.8    2e-08 
+KP280294.1  Symbiodinium thermophilum isolate B21553 psbA minicir...  71.8    2e-08 
+KP280293.1  Symbiodinium thermophilum isolate B21552 psbA minicir...  71.8    2e-08 
+KP280292.1  Symbiodinium thermophilum isolate B21551 psbA minicir...  71.8    2e-08 
+KP280291.1  Symbiodinium thermophilum isolate BH1617 psbA minicir...  71.8    2e-08 
+KP280290.1  Symbiodinium thermophilum isolate BH1616 psbA minicir...  71.8    2e-08 
+KP280281.1  Symbiodinium thermophilum isolate BH1683 psbA minicir...  71.8    2e-08 
+KP280275.1  Symbiodinium thermophilum isolate BH1624 psbA minicir...  71.8    2e-08 
+KP280272.1  Symbiodinium thermophilum isolate BH1623 psbA minicir...  71.8    2e-08 
+KP280266.1  Symbiodinium thermophilum isolate BH1688 psbA minicir...  71.8    2e-08 
+KP280263.1  Symbiodinium thermophilum isolate BH1661 psbA minicir...  71.8    2e-08 
+KP280260.1  Symbiodinium thermophilum isolate BH1669 psbA minicir...  71.8    2e-08 
+KP280258.1  Symbiodinium thermophilum isolate BH1668 psbA minicir...  71.8    2e-08 
+KP280255.1  Symbiodinium thermophilum isolate BH1628 psbA minicir...  71.8    2e-08 
+KP280236.1  Symbiodinium thermophilum isolate BH1698 psbA minicir...  71.8    2e-08 
+KP280229.1  Symbiodinium thermophilum isolate BH1705 psbA minicir...  71.8    2e-08 
+KP280228.1  Symbiodinium thermophilum isolate BH1701 psbA minicir...  71.8    2e-08 
+KP280218.1  Symbiodinium thermophilum isolate BH1693 psbA minicir...  71.8    2e-08 
+KP280211.1  Symbiodinium thermophilum isolate BH1692 psbA minicir...  71.8    2e-08 
+KM458294.1  Symbiodinium thermophilum isolate BH1392 psbA minicir...  71.8    2e-08 
+KM458293.1  Symbiodinium thermophilum isolate BH1356 psbA minicir...  71.8    2e-08 
+KM458291.1  Symbiodinium thermophilum isolate BH1456 psbA minicir...  71.8    2e-08 
+KM458281.1  Symbiodinium thermophilum isolate BH1424 psbA minicir...  71.8    2e-08 
+KM458280.1  Symbiodinium thermophilum isolate BH1423 psbA minicir...  71.8    2e-08 
+KM458275.1  Symbiodinium thermophilum isolate BH1414 psbA minicir...  71.8    2e-08 
+KM458274.1  Symbiodinium thermophilum isolate BH1413 psbA minicir...  71.8    2e-08 
+KM458273.1  Symbiodinium thermophilum isolate BH1411 psbA minicir...  71.8    2e-08 
+KP280284.1  Symbiodinium thermophilum isolate BH1682 psbA minicir...  69.9    6e-08 
+KP280280.1  Symbiodinium thermophilum isolate BH1677 psbA minicir...  69.9    6e-08 
+KP280279.1  Symbiodinium thermophilum isolate BH1680 psbA minicir...  69.9    6e-08 
+KP280277.1  Symbiodinium thermophilum isolate BH1673 psbA minicir...  69.9    6e-08 
+KP280274.1  Symbiodinium thermophilum isolate BH1622 psbA minicir...  69.9    6e-08 
+KP280273.1  Symbiodinium thermophilum isolate BH1620 psbA minicir...  69.9    6e-08 
+KP280237.1  Symbiodinium thermophilum isolate BH1487 psbA minicir...  69.9    6e-08 
+KP280234.1  Symbiodinium thermophilum isolate BH1703 psbA minicir...  69.9    6e-08 
+KP280219.1  Symbiodinium thermophilum isolate BH1416 psbA minicir...  69.9    6e-08 
+KP280216.1  Symbiodinium thermophilum isolate BH1691 psbA minicir...  69.9    6e-08 
+KP280215.1  Symbiodinium thermophilum isolate BH1647 psbA minicir...  69.9    6e-08 
+KP280214.1  Symbiodinium thermophilum isolate BH1646 psbA minicir...  69.9    6e-08 
+KM458285.1  Symbiodinium thermophilum isolate BH1428 psbA minicir...  69.9    6e-08 
+KT156654.1  Symbiodinium cf. thermophilum voucher ADD003 psbA min...  66.1    9e-07 
+KP280309.1  Symbiodinium thermophilum isolate B21560 psbA minicir...  66.1    9e-07 
+KP280217.1  Symbiodinium thermophilum isolate BH1447 psbA minicir...  66.1    9e-07 
+KF572424.1  Symbiodinium sp. DJT-2013ai isolate Cur09_32 psbA min...  62.2    1e-05 
+KF572423.1  Symbiodinium sp. DJT-2013ai isolate Cur09_23A photosy...  62.2    1e-05 
+KT156652.1  Symbiodinium sp. C3 voucher OMD002 psbA minicircle no...  60.3    5e-05 
+KT156651.1  Symbiodinium sp. C3 voucher OMD001 psbA minicircle no...  60.3    5e-05 
+KP280307.1  Symbiodinium thermophilum isolate B21561 psbA minicir...  58.4    2e-04 
+LT608272.1  Plasmodium berghei strain SP11 RLL genome assembly, c...  56.4    7e-04 
+LT608256.1  Plasmodium berghei strain SP11 Antwerpcl1 genome asse...  56.4    7e-04 
+LT614634.1  Plasmodium berghei strain NK65e genome assembly, chro...  56.4    7e-04 
+LT608144.1  Plasmodium berghei strain NK65 ny genome assembly, ch...  56.4    7e-04 
+LT160028.1  Plasmodium berghei strain K173 genome assembly, chrom...  56.4    7e-04 
+LN598449.1  Cyprinus carpio genome assembly common carp genome, s...  56.4    7e-04 
+LK023123.1  Plasmodium berghei ANKA genome assembly PBANKA01, chr...  56.4    7e-04 
+KF572378.1  Symbiodinium sp. DJT-2013ae isolate Bah01_10 photosys...  54.5    0.003 
+XM_018671454.1  PREDICTED: Lates calcarifer CTD nuclear envelope ...  52.6    0.010 
+LT594629.1  Plasmodium malariae genome assembly, chromosome: 8        52.6    0.010 
+CP017003.1  Plasmodium falciparum 3D7 chromosome 13 sequence          52.6    0.010 
+LT594496.1  Plasmodium malariae genome assembly, chromosome: 8        52.6    0.010 
+AL844509.3  Plasmodium falciparum 3D7 chromosome 13                   52.6    0.010 
+LN590697.1  Cyprinus carpio genome assembly common carp genome, s...  52.6    0.010 
+NG_032663.1  Homo sapiens solute carrier family 4 member 5 (SLC4A...  52.6    0.010 
+XM_001350203.1  Plasmodium falciparum 3D7 conserved Plasmodium pr...  52.6    0.010 
+AC006030.2  Homo sapiens BAC clone RP11-1P9 from 2, complete sequ...  52.6    0.010 
+AC275473.1  Callithrix jacchus chromosome chr11 clone CH259-463I1...  50.7    0.037 
+XM_008551769.2  PREDICTED: Microplitis demolitor ras association ...  50.7    0.037 
+LL023493.1  Trichobilharzia regenti genome assembly T_regenti_v1_...  50.7    0.037 
+XM_007188975.1  PREDICTED: Balaenoptera acutorostrata scammoni zi...  50.7    0.037 
+XM_007188974.1  PREDICTED: Balaenoptera acutorostrata scammoni zi...  50.7    0.037 
+XM_007188972.1  PREDICTED: Balaenoptera acutorostrata scammoni zi...  50.7    0.037 
+XM_007188971.1  PREDICTED: Balaenoptera acutorostrata scammoni zi...  50.7    0.037 
+XM_007188970.1  PREDICTED: Balaenoptera acutorostrata scammoni zi...  50.7    0.037 
+XM_007188969.1  PREDICTED: Balaenoptera acutorostrata scammoni zi...  50.7    0.037 
+XM_007188968.1  PREDICTED: Balaenoptera acutorostrata scammoni zi...  50.7    0.037 
+XM_007188967.1  PREDICTED: Balaenoptera acutorostrata scammoni zi...  50.7    0.037 
+CU462848.14  Zebrafish DNA sequence from clone CH73-92E20 in link...  50.7    0.037 
+AC011516.3  Homo sapiens chromosome 19 clone LLNLF-163G11, comple...  50.7    0.037 
+XM_005178430.3  PREDICTED: Musca domestica polycomb protein Pcl (...  50.7    0.037 
+XM_011983670.1  PREDICTED: Mandrillus leucophaeus excision repair...  50.7    0.037 
+XM_003916567.2  PREDICTED: Papio anubis ERCC excision repair 4, e...  50.7    0.037 
+AM442431.1  Vitis vinifera, whole genome shotgun sequence, contig...  50.7    0.037 
+AL121769.4  Human chromosome 14 DNA sequence BAC R-299L17 of libr...  50.7    0.037 
+LN835309.1  Plasmodium relictum strain SGS1 genome assembly, chro...  48.8    0.14  
+XM_017264213.1  PREDICTED: Drosophila elegans serine/threonine-pr...  48.8    0.14  
+XM_014748610.1  PREDICTED: Polistes canadensis nuclease-sensitive...  48.8    0.14  
+XM_014748609.1  PREDICTED: Polistes canadensis nuclease-sensitive...  48.8    0.14  
+XM_014748608.1  PREDICTED: Polistes canadensis nuclease-sensitive...  48.8    0.14  
+KT893456.1  Peronospora tabacina isolate 968-S-26 mitochondrion, ...  48.8    0.14  
+KT893455.1  Peronospora tabacina isolate 968-J2 mitochondrion, co...  48.8    0.14  
+LN681896.1  Cucumis melo genomic scaffold, anchoredscaffold00016      48.8    0.14  
+LN681862.1  Cucumis melo genomic scaffold, anchoredscaffold00081      48.8    0.14  
+LM066462.1  Schistosoma curassoni genome assembly S_curassoni_Dak...  48.8    0.14  
+LN590987.1  Cyprinus carpio genome assembly common carp genome, s...  48.8    0.14  
+XM_003661362.1  Myceliophthora thermophila ATCC 42464 hypothetica...  48.8    0.14  
+CP003003.1  Myceliophthora thermophila ATCC 42464 chromosome 2, c...  48.8    0.14  
+NG_009732.2  Homo sapiens keratin 8 pseudogene 15 (KRT8P15) on ch...  48.8    0.14  
+CR854833.11  Zebrafish DNA sequence from clone DKEY-116I15 in lin...  48.8    0.14  
+CR792438.14  Zebrafish DNA sequence from clone DKEY-20J1 in linka...  48.8    0.14  
+AL365445.11  Human DNA sequence from clone RP4-796B4 on chromosom...  48.8    0.14  
+AC025962.5  Homo sapiens chromosome 8, clone RP11-790J24, complet...  48.8    0.14  
+XM_011200243.2  PREDICTED: Bactrocera dorsalis solute carrier fam...  48.8    0.14  
+CP012809.1  Saccharomycopsis fibuligera x Saccharomycopsis cf. fi...  48.8    0.14  
+CP012823.1  Saccharomycopsis fibuligera strain KPH12 chromosome 1...  48.8    0.14  
+LT594634.1  Plasmodium malariae genome assembly, chromosome: 13       48.8    0.14  
+HF933207.1  TPA: Oryzias latipes strain Hd-rR, complete genome as...  48.8    0.14  
+LT594518.1  Plasmodium ovale genome assembly, chromosome: 14          48.8    0.14  
+LT594497.1  Plasmodium malariae genome assembly, chromosome: 9        48.8    0.14  
+LT571452.1  Pongo pygmaeus genome assembly, chromosome: XII           48.8    0.14  
+XM_017433467.1  PREDICTED: Kryptolebias marmoratus disintegrin an...  48.8    0.14  
+LC027530.1  Trachurus japonicus mRNA for vasa-like, partial cds, ...  48.8    0.14  
+LN713264.1  Cucumis melo genomic chromosome, chr_10                   48.8    0.14  
+LN713261.1  Cucumis melo genomic chromosome, chr_7                    48.8    0.14  
+LL013543.1  Trichobilharzia regenti genome assembly T_regenti_v1_...  48.8    0.14  
+LN590718.1  Cyprinus carpio genome assembly common carp genome, s...  48.8    0.14  
+AC194580.5  Rhesus Macaque BAC CH250-77E13 () complete sequence       48.8    0.14  
+BX950227.8  Zebrafish DNA sequence from clone CH211-101N17 in lin...  48.8    0.14  
+BX547927.10  Zebrafish DNA sequence from clone CH211-194E15 in li...  48.8    0.14  
+AC010900.12  Homo sapiens BAC clone RP11-544H14 from 2, complete ...  48.8    0.14  
+AL929326.9  Zebrafish DNA sequence from clone BUSM1-SL11 in linka...  48.8    0.14  
+AJ439146.1  Scopelogena bruynsii 5S rRNA gene (partial) and NTS       48.8    0.14  
+AP003697.1  Homo sapiens genomic DNA, chromosome 8q23, clone: KB1...  48.8    0.14  
+XM_012906111.2  Plasmodium reichenowi hypothetical protein partia...  46.8    0.54  
+XM_004060445.2  PREDICTED: Gorilla gorilla gorilla teashirt zinc ...  46.8    0.54  
+XM_018783204.1  Plasmodium gaboni putative aquaporin partial mRNA     46.8    0.54  
+LT608273.1  Plasmodium berghei strain SP11 RLL genome assembly, c...  46.8    0.54  
+LT608257.1  Plasmodium berghei strain SP11 Antwerpcl1 genome asse...  46.8    0.54  
+LT608165.1  Plasmodium chabaudi chabaudi strain CB genome assembl...  46.8    0.54  
+LT614635.1  Plasmodium berghei strain NK65e genome assembly, chro...  46.8    0.54  
+LT608193.1  Plasmodium chabaudi adami strain DS genome assembly, ...  46.8    0.54  
+LT608145.1  Plasmodium berghei strain NK65 ny genome assembly, ch...  46.8    0.54  
+XM_017873607.1  PREDICTED: Rhinopithecus bieti teashirt zinc fing...  46.8    0.54  
+NG_051203.1  Homo sapiens teashirt zinc finger homeobox 3 (TSHZ3)...  46.8    0.54  
+NM_020856.3  Homo sapiens teashirt zinc finger homeobox 3 (TSHZ3)...  46.8    0.54  
+XM_016935606.1  PREDICTED: Pan troglodytes teashirt zinc finger h...  46.8    0.54  
+XM_016935605.1  PREDICTED: Pan troglodytes teashirt zinc finger h...  46.8    0.54  
+LT160029.1  Plasmodium berghei strain K173 genome assembly, chrom...  46.8    0.54  
+XM_015496938.1  PREDICTED: Marmota marmota marmota teashirt zinc ...  46.8    0.54  
+XM_005588729.2  PREDICTED: Macaca fascicularis teashirt zinc fing...  46.8    0.54  
+XM_001103809.2  PREDICTED: Macaca mulatta teashirt zinc finger ho...  46.8    0.54  
+XM_015068583.1  PREDICTED: Acinonyx jubatus CCCTC-binding factor ...  46.8    0.54  
+XM_015068576.1  PREDICTED: Acinonyx jubatus CCCTC-binding factor ...  46.8    0.54  
+XM_015068570.1  PREDICTED: Acinonyx jubatus CCCTC-binding factor ...  46.8    0.54  
+XM_014860401.1  PREDICTED: Equus asinus teashirt zinc finger home...  46.8    0.54  
+XM_004439793.2  PREDICTED: Ceratotherium simum simum teashirt zin...  46.8    0.54  
+XM_001489213.4  PREDICTED: Equus caballus teashirt zinc finger ho...  46.8    0.54  
+XM_006167998.2  PREDICTED: Tupaia chinensis teashirt zinc finger ...  46.8    0.54  
+XM_003816213.3  PREDICTED: Pan paniscus teashirt zinc finger home...  46.8    0.54  
 
 
->AJ884899.1 Symbiodinium sp. ex Scolymia sp. chloroplast psbA gene for photosystem 
-II protein D1
-Length=1832
+>HG515020.1 Symbiodinium sp. C3 chloroplast minicircle DNA, psbD gene for 
+photosystem II protein D2, isolated from Agaricia sp
+Length=1880
 
- Score = 429 bits (232),  Expect = 3e-116
- Identities = 290/315 (92%), Gaps = 15/315 (5%)
+ Score = 385 bits (200),  Expect = 7e-103
+ Identities = 230/240 (96%), Gaps = 2/240 (1%)
  Strand=Plus/Minus
 
-Query  72    TTTTTATTTTTTGAAGCCCGAAGGGCGTTATGGGCCCCACGAAGTGTGGGCCCATATGGG  131
-             |||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||
-Sbjct  1579  TTTTTA-TTTTTGAAGCCCGAAGGGCGTTATGGGCCCCACGAAGTGTGGGCCCATATGGG  1521
+Query  73    TTTTATTTTTTGAAGCCCGAAGGGCGTTATGGGCCCCACGAAGTGTGGGCCCATATGGGC  132
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1646  TTTTATTTTTTGAAGCCCGAAGGGCGTTATGGGCCCCACGAAGTGTGGGCCCATATGGGC  1587
 
-Query  132   CTGGGTAGGGCACCCAGCCCATTAATGCATGCCCC-TGTGGGGGCATGCATATGGGTGCC  190
-             ||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||
-Sbjct  1520  CTGGGTAGGGCACCCAGCCCATTAATGCATGCCCCCTGTGGGGGCATGCATATGGGTGCC  1461
+Query  133   TGGGTAGGGCACCCAGCCCATTAATGCATGCCCC-TGTGGGGGCATGCATATGGGTGCCC  191
+             |||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||
+Sbjct  1586  TGGGTAGGGCACCCAGCCCATTAATGCATGCCCCCTGTGGGGGCATGCATATGGGTGCCC  1527
 
-Query  191   CCGTAGGGGCACCCATTATAGGTCGCGATTTCTTTTTTATTTTTCGTAGTCGCACGTCCA  250
-             ||| |||||||||||||  ||||||||||||||||||| |||| ||| ||||||||||||
-Sbjct  1460  CCGCAGGGGCACCCATTTAAGGTCGCGATTTCTTTTTTCTTTT-CGTGGTCGCACGTCCA  1402
+Query  192   CGTAGGGGCACCCATTATAGGTCGCGATTTCTTTTTTATTTTTCGTAGTCGCACGTCCAC  251
+             |  ||||||||||||||||||||||||||| |||||  ||||||||||||||||||||||
+Sbjct  1526  CACAGGGGCACCCATTATAGGTCGCGATTTATTTTTC-TTTTTCGTAGTCGCACGTCCAC  1468
 
-Query  251   CTCGCCTTCGGCTCGTTCCCGGCGCCTGTAATACACCCC-TACGGGGTGCATATGGGTAC  309
-             ||||||||||||||||||||||| |||||||| |||||| || |||||||||||||||||
-Sbjct  1401  CTCGCCTTCGGCTCGTTCCCGGCTCCTGTAATGCACCCCGTA-GGGGTGCATATGGGTAC  1343
-
-Query  310   CCC-TACGGGGTACCCATTA-A-TGGGTGC-CC-TAAAGGGCA-CCCATATGTGCACCC-  362
-             ||| || ||||||||||||| | |||| || || |||||||   ||||||||||||||| 
-Sbjct  1342  CCCGTA-GGGGTACCCATTATAATGGG-GCACCCTAAAGGGTGCCCCATATGTGCACCCC  1285
-
-Query  363   -TATGGGTGCACATT  376
-              || |||||||||||
-Sbjct  1284  GTAGGGGTGCACATT  1270
+Query  252   TCGCCTTCGGCTCGTTCCCGGCGCCTGTAATACACCCCTACGGGGTGCATATGGGTACCC  311
+             |||||||||||||||||||||| ||| |||| |||||||||||||||||||||||| |||
+Sbjct  1467  TCGCCTTCGGCTCGTTCCCGGCTCCTATAATGCACCCCTACGGGGTGCATATGGGTGCCC  1408
 
 
- Score = 108 bits (58),  Expect = 2e-19
- Identities = 63/65 (97%), Gaps = 1/65 (2%)
+ Score = 131 bits (68),  Expect = 2e-26
+ Identities = 72/74 (97%), Gaps = 0/74 (0%)
  Strand=Plus/Minus
 
-Query  441   TTTTCTTTTTCGTAGTCGCACGTCCACTCGCCTTCGGCTCGTTCCCGGCTCCTGTAATGC  500
-             ||||| ||||||| ||||||||||||||||||||||||||||||||||||||||||||||
-Sbjct  1426  TTTTC-TTTTCGTGGTCGCACGTCCACTCGCCTTCGGCTCGTTCCCGGCTCCTGTAATGC  1368
+Query  435   ATTTAATTTTCTTTTTCGTAGTCGCACGTCCACTCGCCTTCGGCTCGTTCCCGGCTCCTG  494
+             ||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||| 
+Sbjct  1500  ATTTATTTTTCTTTTTCGTAGTCGCACGTCCACTCGCCTTCGGCTCGTTCCCGGCTCCTA  1441
 
-Query  501   ACCCC  505
-             |||||
-Sbjct  1367  ACCCC  1363
+Query  495   TAATGCACCCCTAC  508
+             ||||||||||||||
+Sbjct  1440  TAATGCACCCCTAC  1427
+
+
+ Score = 62.2 bits (32),  Expect = 1e-05
+ Identities = 50/54 (93%), Gaps = 2/54 (4%)
+ Strand=Plus/Minus
+
+Query  386   ATAATGGGGCACCCTAT-GGGTGCCCCATATGTGCACCCTACGGG-TGCACATT  437
+             ||||||||||||||||  |||||||||||||||||||||| |||| ||||||||
+Sbjct  1392  ATAATGGGGCACCCTAAAGGGTGCCCCATATGTGCACCCTTCGGGGTGCACATT  1339
+
+
+ Score = 48.8 bits (25),  Expect = 0.14
+ Identities = 39/46 (85%), Gaps = 0/46 (0%)
+ Strand=Plus/Plus
+
+Query  327   TAATGGGTGCCCTAAAGGGCACCCATATGTGCACCCTATGGGTGCA  372
+             |||||||||||||  ||||||||||||||  | || || |||||||
+Sbjct  1392  TAATGGGTGCCCTTTAGGGCACCCATATGCACCCCGTAGGGGTGCA  1437
+
+
+ Score = 46.8 bits (24),  Expect = 0.54
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  329   ATGGGTGCCCTAAAGGGCACCCAT  352
+             ||||||||||||||||||||||||
+Sbjct  1417  ATGGGTGCCCTAAAGGGCACCCAT  1394
 
 
 
@@ -756,62 +875,38 @@ Lambda      K        H
 
 Gapped
 Lambda      K        H
-    1.28    0.460    0.850 
+    1.33    0.621     1.12 
 
-Effective search space used: 137631412627288
+Effective search space used: 155909446435184
 
 
 Query= BC_104482_1_2_3_4
 
 Length=593
-
-
-***** No hits found *****
-
-
-
-Lambda      K        H
-    1.33    0.621     1.12 
-
-Gapped
-Lambda      K        H
-    1.28    0.460    0.850 
-
-Effective search space used: 137631412627288
-
-
-Query= BC_4960688_1_2_3_4
-
-Length=591
                                                                       Score     E
 Sequences producing significant alignments:                          (Bits)  Value
 
-GU137132.1  Montipora capitata clone Mc1484 microsatellite sequence   302     9e-78
-GU137113.1  Montipora capitata clone Mc1288 microsatellite sequence   147     4e-31
+CP009509.1  Methanosarcina mazei WWM610, complete genome              48.8    0.17 
+CP011900.1  Ovis canadensis canadensis isolate 43U chromosome 15 ...  46.8    0.63 
+CT573260.5  Zebrafish DNA sequence from clone DKEY-117H20 in link...  46.8    0.63 
+XM_020112410.1  PREDICTED: Paralichthys olivaceus 2-oxoglutarate ...  46.8    0.63 
+XM_019446548.1  PREDICTED: Panthera pardus UHRF1 binding protein ...  46.8    0.63 
+XM_019446547.1  PREDICTED: Panthera pardus UHRF1 binding protein ...  46.8    0.63 
+CP011904.1  Ovis canadensis canadensis isolate 43U chromosome 19 ...  46.8    0.63 
+HG975514.1  Solanum lycopersicum chromosome ch02, complete genome     46.8    0.63 
+HG975441.1  Solanum pennellii chromosome ch02, complete genome        46.8    0.63 
 
 
->GU137132.1 Montipora capitata clone Mc1484 microsatellite sequence
-Length=414
+>CP009509.1 Methanosarcina mazei WWM610, complete genome
+Length=4096482
 
- Score = 302 bits (163),  Expect = 9e-78
- Identities = 184/193 (95%), Gaps = 5/193 (3%)
+ Score = 48.8 bits (25),  Expect = 0.17
+ Identities = 29/31 (94%), Gaps = 0/31 (0%)
  Strand=Plus/Minus
 
-Query  3    TCCTGGTAGTCCCTGGTTCAACTTCCCAGCTGCACTTGTAAATAGCCAACTGGTTTGCCT  62
-            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-Sbjct  321  TCCTGGTAGTCCCTGGTTCAACTTCCCAGCTGCACTTGTAAATAGCCAACTGGTTTGCCT  262
-
-Query  63   CCGGCCAGTTGGGATTCTTAACAGTTGTAGTTGTTGTGTTCTGTTGTTTCGTTGATT---  119
-            ||||||||||||||| |||||||||||| ||||||||||||||||||||||||||||   
-Sbjct  261  CCGGCCAGTTGGGATCCTTAACAGTTGTTGTTGTTGTGTTCTGTTGTTTCGTTGATTGTT  202
-
-Query  120  -CATTGGCCCTGAAAAGCCCCTATGGGGAGAGGTCAATTAAGTATGTATGTATGTATGTA  178
-             ||||||||||||||||||||||||||||| ||||||||| |||||||||||||||||||
-Sbjct  201  TCATTGGCCCTGAAAAGCCCCTATGGGGAGCGGTCAATTATGTATGTATGTATGTATGTA  142
-
-Query  179  TGTATGTA-GGTA  190
-            |||||||| ||||
-Sbjct  141  TGTATGTATGGTA  129
+Query  447      AGATTAAAAAGAATAGAATATACCAAAAAAC  477
+                ||||||| ||||||| |||||||||||||||
+Sbjct  2881910  AGATTAATAAGAATAAAATATACCAAAAAAC  2881880
 
 
 
@@ -820,87 +915,30 @@ Lambda      K        H
 
 Gapped
 Lambda      K        H
-    1.28    0.460    0.850 
-
-Effective search space used: 137631412627288
-
-
-Query= NC_3717387_1_2_3_4
-
-Length=566
-
-
-***** No hits found *****
-
-
-
-Lambda      K        H
     1.33    0.621     1.12 
 
-Gapped
-Lambda      K        H
-    1.28    0.460    0.850 
-
-Effective search space used: 137631412627288
+Effective search space used: 155909446435184
 
 
 Query= ND_2199726_1_2_3_4
 
 Length=447
-
-
-***** No hits found *****
-
-
-
-Lambda      K        H
-    1.33    0.621     1.12 
-
-Gapped
-Lambda      K        H
-    1.28    0.460    0.850 
-
-Effective search space used: 137631412627288
-
-
-Query= BC_6313949_1_2_3_4
-
-Length=728
                                                                       Score     E
 Sequences producing significant alignments:                          (Bits)  Value
 
-XM_015891756.1  PREDICTED: Acropora digitifera uncharacterized LO...  281     1e-71
-XM_015891754.1  PREDICTED: Acropora digitifera uncharacterized LO...  281     1e-71
-XR_001561688.1  PREDICTED: Acropora digitifera uncharacterized LO...  257     2e-64
+XM_013437182.1  Necator americanus Groucho/TLE Q-rich domain prot...  46.8    0.47 
 
 
->XM_015891756.1 PREDICTED: Acropora digitifera uncharacterized LOC107327011 (LOC107327011), 
-transcript variant X2, mRNA
-Length=7449
+>XM_013437182.1 Necator americanus Groucho/TLE Q-rich domain protein mRNA
+Length=1863
 
- Score = 281 bits (152),  Expect = 1e-71
- Identities = 223/256 (87%), Gaps = 10/256 (4%)
- Strand=Plus/Plus
+ Score = 46.8 bits (24),  Expect = 0.47
+ Identities = 28/30 (93%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
 
-Query  259   CACCCTGCCAGCAGAGCTATTCTTAACTTGACGAGAAAGAAAGGACTCTGCAGAAATCGT  318
-             ||||||||||||||||| |||| ||||| || ||||| ||||||||||||||||||||  
-Sbjct  6586  CACCCTGCCAGCAGAGCCATTCATAACTCGATGAGAAGGAAAGGACTCTGCAGAAATC--  6643
-
-Query  319   GTCAAGTCTTTATTGAGAATGCGCAAACCGTTGCTTAGAGACAGTTTCAAACCCAGGCCA  378
-                  ||||||||||||  ||||||| ||||| ||| |||||||| ||||||||||||||
-Sbjct  6644  -----GTCTTTATTGAGTCTGCGCAAGCCGTTTCTTGGAGACAGTGTCAAACCCAGGCCA  6698
-
-Query  379   AGTCTCG--ATCGCACTCCTAGTCGCCATAATGATTTTCGTACTGAAGGCTCGATTTTGA  436
-             || ||||  || |||||||||| ||||||| |||||||||||||||||||||||||||||
-Sbjct  6699  AGGCTCGATATAGCACTCCTAGACGCCATATTGATTTTCGTACTGAAGGCTCGATTTTGA  6758
-
-Query  437   CCTTCGCCTTGTCAAAAATATGATGCGCGCGCTGCCTAAAACGGTTTGACCGGAGTGACT  496
-             |||| || || ||||| ||||||||||| ||||||||||| |||||||||||||||||||
-Sbjct  6759  CCTTGGCTTTTTCAAAGATATGATGCGCACGCTGCCTAAACCGGTTTGACCGGAGTGACT  6818
-
-Query  497   AGCCCCGAAACTATGG  512
-             |||||  ||||| |||
-Sbjct  6819  AGCCCAAAAACT-TGG  6833
+Query  293   GTTCGAACTTCCGGTTGACCCTTTTGGGTA  322
+             ||||||||||||||||||| ||||| ||||
+Sbjct  1057  GTTCGAACTTCCGGTTGACACTTTTTGGTA  1028
 
 
 
@@ -909,99 +947,310 @@ Lambda      K        H
 
 Gapped
 Lambda      K        H
-    1.28    0.460    0.850 
+    1.33    0.621     1.12 
 
-Effective search space used: 137631412627288
+Effective search space used: 155909446435184
 
 
 Query= BC_2102217_1_2_3_4
 
 Length=493
-
-
-***** No hits found *****
-
-
-
-Lambda      K        H
-    1.33    0.621     1.12 
-
-Gapped
-Lambda      K        H
-    1.28    0.460    0.850 
-
-Effective search space used: 137631412627288
-
-
-Query= BC_6396372_1_2_3_4
-
-Length=488
-
-
-***** No hits found *****
-
-
-
-Lambda      K        H
-    1.33    0.621     1.12 
-
-Gapped
-Lambda      K        H
-    1.28    0.460    0.850 
-
-Effective search space used: 137631412627288
-
-
-Query= NC_3840521_1_2_3_4
-
-Length=484
                                                                       Score     E
 Sequences producing significant alignments:                          (Bits)  Value
 
-XR_001561740.1  PREDICTED: Acropora digitifera uncharacterized LO...  137     2e-28
-XR_001561739.1  PREDICTED: Acropora digitifera uncharacterized LO...  137     2e-28
+AP014960.1  Oryza sativa Japonica Group DNA, chromosome 4, cultiv...  54.5    0.003
+CP012612.1  Oryza sativa Indica Group cultivar RP Bio-226 chromos...  54.5    0.003
+CR855092.1  Oryza sativa genomic DNA, chromosome 4, BAC clone: OS...  54.5    0.003
+AL662977.3  Oryza sativa genomic DNA, chromosome 4, BAC clone: OS...  54.5    0.003
+KM579074.1  Technomyrmex difficilis voucher CAS:ENT:0347755 topoi...  50.7    0.036
+AC189218.2  Brassica rapa subsp. pekinensis clone KBrB010F13, com...  50.7    0.036
+LK391419.1  Apteryx australis mantelli genome assembly AptMant0, ...  48.8    0.14 
+KJ501997.1  Erycina pusilla clone BAC clone 180K03_c3 mitochondri...  48.8    0.14 
+AC189397.2  Brassica rapa subsp. pekinensis clone KBrB056C05, com...  48.8    0.14 
+CP002688.1  Arabidopsis thaliana chromosome 5 sequence                46.8    0.52 
+CU207366.1  Gramella forsetii KT0803 complete circular genome         46.8    0.52 
+AL391711.1  Arabidopsis thaliana DNA chromosome 5, BAC clone T19L...  46.8    0.52 
+AL163491.1  Arabidopsis thaliana DNA chromosome 5, BAC clone T31B...  46.8    0.52 
+
+
+>AP014960.1 Oryza sativa Japonica Group DNA, chromosome 4, cultivar: Nipponbare, 
+complete sequence
+Length=35502694
+
+ Score = 54.5 bits (28),  Expect = 0.003
+ Identities = 40/46 (87%), Gaps = 0/46 (0%)
+ Strand=Plus/Minus
+
+Query  296       AACACAAACAGATAAGGAGACAAAGGGCAGCCCTGTCTTACACCTC  341
+                 ||||| |||||||||||||| | ||| || |||||||| |||||||
+Sbjct  18768093  AACACGAACAGATAAGGAGAAAGAGGACAACCCTGTCTAACACCTC  18768048
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Effective search space used: 155909446435184
+
+
+Query= BC_6957170_1_2_3_4
+
+Length=488
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+LK064925.1  Apteryx australis mantelli genome assembly AptMant0, ...  46.8    0.51 
+
+
+>LK064925.1 Apteryx australis mantelli genome assembly AptMant0, scaffold 
+scaffold243
+Length=5159255
+
+ Score = 46.8 bits (24),  Expect = 0.51
+ Identities = 28/30 (93%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  431      TGCAACACATTATTGCATCAAATTTCTAAG  460
+                ||||||||||| |||||| |||||||||||
+Sbjct  3294061  TGCAACACATTTTTGCATTAAATTTCTAAG  3294032
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Effective search space used: 155909446435184
+
+
+Query= BC_1111080_1_2_3_4
+
+Length=459
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+XM_002678546.1  Naegleria gruberi predicted protein, mRNA             48.8    0.13 
+XM_002668108.1  Naegleria gruberi predicted protein, mRNA             48.8    0.13 
+LK064627.1  Apteryx australis mantelli genome assembly AptMant0, ...  46.8    0.48 
+GQ353337.1  Turkey astrovirus 2 strain TK/MN/B2003/08 capsid gene...  46.8    0.48 
+GQ353336.1  Turkey astrovirus 2 strain TK/MN/B2001/08 capsid gene...  46.8    0.48 
+GQ301004.1  Turkey astrovirus 2 isolate TK/MN/D-XY30/08 capsid pr...  46.8    0.48 
+GQ301003.1  Turkey astrovirus 2 isolate TK/MN/D-XY29/08 capsid pr...  46.8    0.48 
+GQ301002.1  Turkey astrovirus 2 isolate TK/MN/D-XY28/08 capsid pr...  46.8    0.48 
+GQ301000.1  Turkey astrovirus 2 isolate TK/MN/D-XY26/08 capsid pr...  46.8    0.48 
+GQ300999.1  Turkey astrovirus 2 isolate TK/MN/D-XY25/08 capsid pr...  46.8    0.48 
+GQ300998.1  Turkey astrovirus 2 isolate TK/MN/D-XY24/08 capsid pr...  46.8    0.48 
+GQ300997.1  Turkey astrovirus 2 isolate TK/MN/D-XY23/08 capsid pr...  46.8    0.48 
+GQ300996.1  Turkey astrovirus 2 isolate TK/MN/D-XY22/08 capsid pr...  46.8    0.48 
+GQ300995.1  Turkey astrovirus 2 isolate TK/MN/D-XY21/08 capsid pr...  46.8    0.48 
+GQ300994.1  Turkey astrovirus 2 isolate TK/MN/D-XY20/08 capsid pr...  46.8    0.48 
+GQ300993.1  Turkey astrovirus 2 isolate TK/MN/D-XY19/08 capsid pr...  46.8    0.48 
+GQ300992.1  Turkey astrovirus 2 isolate TK/MN/D-XY18/08 capsid pr...  46.8    0.48 
+GQ300991.1  Turkey astrovirus 2 isolate TK/MN/D-XY17/08 capsid pr...  46.8    0.48 
+GQ300990.1  Turkey astrovirus 2 isolate TK/MN/D-XY16/08 capsid pr...  46.8    0.48 
+GQ300989.1  Turkey astrovirus 2 isolate TK/MN/D-XY15/07 capsid pr...  46.8    0.48 
+GQ300988.1  Turkey astrovirus 2 isolate TK/MN/D-XY14/07 capsid pr...  46.8    0.48 
+GQ300986.1  Turkey astrovirus 2 isolate TK/MN/D-XY12/07 capsid pr...  46.8    0.48 
+GQ300985.1  Turkey astrovirus 2 isolate TK/MN/D-XY11/07 capsid pr...  46.8    0.48 
+GQ300984.1  Turkey astrovirus 2 isolate TK/MN/D-XY10/07 capsid pr...  46.8    0.48 
+GQ300983.1  Turkey astrovirus 2 isolate TK/MN/D-XY09/07 capsid pr...  46.8    0.48 
+GQ300982.1  Turkey astrovirus 2 isolate TK/MN/D-XY08/07 capsid pr...  46.8    0.48 
+GQ300981.1  Turkey astrovirus 2 isolate TK/MN/D-XY07/07 capsid pr...  46.8    0.48 
+GQ300980.1  Turkey astrovirus 2 isolate TK/MN/D-XY06/07 capsid pr...  46.8    0.48 
+GQ300979.1  Turkey astrovirus 2 isolate TK/MN/D-XY05/07 capsid pr...  46.8    0.48 
+GQ300978.1  Turkey astrovirus 2 isolate TK/MN/D-XY04/07 capsid pr...  46.8    0.48 
+GQ300977.1  Turkey astrovirus 2 isolate TK/MN/D-XY03/07 capsid pr...  46.8    0.48 
+GQ300976.1  Turkey astrovirus 2 isolate TK/MN/D-XY02/07 capsid pr...  46.8    0.48 
+GQ300975.1  Turkey astrovirus 2 isolate TK/MN/D-XY01/07 capsid pr...  46.8    0.48 
+GQ332380.1  Turkey astrovirus 2 strain TK/MN/B3003/08 capsid prot...  46.8    0.48 
+GQ332379.1  Turkey astrovirus 2 strain TK/MN/B3001/08 capsid prot...  46.8    0.48 
+GQ332377.1  Turkey astrovirus 2 strain TK/MN/B2002/08 capsid prot...  46.8    0.48 
+GQ332376.1  Turkey astrovirus 2 strain TK/MN/B1015/08 capsid prot...  46.8    0.48 
+FJ808808.1  Turkey astrovirus 2 isolate TK/MN/B4021/08 capsid pro...  46.8    0.48 
+FJ808807.1  Turkey astrovirus 2 isolate TK/MN/B4016/08 capsid pro...  46.8    0.48 
+FJ808806.1  Turkey astrovirus 2 isolate TK/MN/B4015/08 capsid pro...  46.8    0.48 
+FJ808805.1  Turkey astrovirus 2 isolate TK/MN/B4014/08 capsid pro...  46.8    0.48 
+FJ808804.1  Turkey astrovirus 2 isolate TK/MN/B3037/08 capsid pro...  46.8    0.48 
+FJ808803.1  Turkey astrovirus 2 isolate TK/MN/B3016/08 capsid pro...  46.8    0.48 
+FJ808802.1  Turkey astrovirus 2 isolate TK/MN/B3015/08 capsid pro...  46.8    0.48 
+FJ808801.1  Turkey astrovirus 2 isolate TK/MN/B3010/08 capsid pro...  46.8    0.48 
+FJ808800.1  Turkey astrovirus 2 isolate TK/MN/B3004/08 capsid pro...  46.8    0.48 
+FJ808799.1  Turkey astrovirus 2 isolate TK/MN/B3002/08 capsid pro...  46.8    0.48 
+FJ808788.1  Turkey astrovirus 2 isolate TK/MN/B2007/08 capsid pro...  46.8    0.48 
+FJ808787.1  Turkey astrovirus 2 isolate TK/MN/B2004/08 capsid pro...  46.8    0.48 
+FJ808785.1  Turkey astrovirus 2 isolate TK/MN/B1022/08 capsid pro...  46.8    0.48 
+FJ808781.1  Turkey astrovirus 2 isolate TK/MN/B1008/08 capsid pro...  46.8    0.48 
+FJ808779.1  Turkey astrovirus 2 isolate TK/MN/B1006/08 capsid pro...  46.8    0.48 
+FJ808777.1  Turkey astrovirus 2 isolate TK/MN/B1004/08 capsid pro...  46.8    0.48 
+FJ808776.1  Turkey astrovirus 2 isolate TK/MN/B1003/08 capsid pro...  46.8    0.48 
+FJ808775.1  Turkey astrovirus 2 isolate TK/MN/B1002/08 capsid pro...  46.8    0.48 
+FJ808774.1  Turkey astrovirus 2 isolate TK/MN/B1001/08 capsid pro...  46.8    0.48 
+EU143851.1  Turkey astrovirus strain TAstV/VA/99, complete genome     46.8    0.48 
+EU143849.1  Turkey astrovirus strain TAstV/PA/01, complete genome     46.8    0.48 
+EU143846.1  Turkey astrovirus strain TAstV/MI/01, complete genome     46.8    0.48 
+EU143845.1  Turkey astrovirus strain TAstV/CO/01, complete genome     46.8    0.48 
+EU143844.1  Turkey astrovirus strain TAstV/CA/00, complete genome     46.8    0.48 
+DQ381359.1  Turkey astrovirus isolate 3911/04 capsid protein gene...  46.8    0.48 
+DQ381355.1  Turkey astrovirus isolate 1729/04 capsid protein gene...  46.8    0.48 
+DQ381353.1  Turkey astrovirus isolate 1722/9/04 capsid protein ge...  46.8    0.48 
+DQ381351.1  Turkey astrovirus isolate 1722/8/04 capsid protein ge...  46.8    0.48 
+DQ381349.1  Turkey astrovirus isolate 1722/6/04 capsid protein ge...  46.8    0.48 
+DQ381347.1  Turkey astrovirus isolate 1722/5/04 capsid protein ge...  46.8    0.48 
+DQ381345.1  Turkey astrovirus isolate 1722/4/04 capsid protein ge...  46.8    0.48 
+DQ381343.1  Turkey astrovirus isolate 1722/3/04 capsid protein ge...  46.8    0.48 
+DQ381341.1  Turkey astrovirus isolate 1722/2/04 capsid protein ge...  46.8    0.48 
+DQ381339.1  Turkey astrovirus isolate 1722/1/04 capsid protein ge...  46.8    0.48 
+DQ381337.1  Turkey astrovirus isolate 1649/04 capsid protein gene...  46.8    0.48 
+DQ381335.1  Turkey astrovirus isolate 1586/04 capsid protein gene...  46.8    0.48 
+DQ381333.1  Turkey astrovirus isolate 1297/02 capsid protein gene...  46.8    0.48 
+DQ381331.1  Turkey astrovirus isolate 1232/00 capsid protein gene...  46.8    0.48 
+DQ381327.1  Turkey astrovirus isolate 1182/02 capsid protein gene...  46.8    0.48 
+DQ381325.1  Turkey astrovirus isolate 1047/04 capsid protein gene...  46.8    0.48 
+DQ381323.1  Turkey astrovirus isolate 1011/04 capsid protein gene...  46.8    0.48 
+DQ381321.1  Turkey astrovirus isolate 940/04 capsid protein gene,...  46.8    0.48 
+DQ381317.1  Turkey astrovirus isolate 677/02 capsid protein gene,...  46.8    0.48 
+DQ381315.1  Turkey astrovirus isolate 572/04 capsid protein gene,...  46.8    0.48 
+DQ381313.1  Turkey astrovirus isolate 532/04 capsid protein gene,...  46.8    0.48 
+DQ381311.1  Turkey astrovirus isolate 488/04 capsid protein gene,...  46.8    0.48 
+DQ381307.1  Turkey astrovirus isolate 407/04 capsid protein gene,...  46.8    0.48 
+DQ381305.1  Turkey astrovirus isolate 404/04 capsid protein gene,...  46.8    0.48 
+DQ381303.1  Turkey astrovirus isolate 391/RS/05 capsid protein ge...  46.8    0.48 
+DQ381301.1  Turkey astrovirus isolate 335/RS/05 capsid protein ge...  46.8    0.48 
+DQ381297.1  Turkey astrovirus isolate 333/RS/05 capsid protein ge...  46.8    0.48 
+DQ381295.1  Turkey astrovirus isolate 332/RS/05 capsid protein ge...  46.8    0.48 
+DQ381293.1  Turkey astrovirus isolate 280/RS/05 capsid protein ge...  46.8    0.48 
+DQ381291.1  Turkey astrovirus isolate 247/RS/05 capsid protein ge...  46.8    0.48 
+DQ381289.1  Turkey astrovirus isolate 181/RS/05 capsid protein ge...  46.8    0.48 
+DQ381287.1  Turkey astrovirus isolate 158/04 capsid protein gene,...  46.8    0.48 
+DQ381285.1  Turkey astrovirus isolate 100/04 capsid protein gene,...  46.8    0.48 
+DQ381283.1  Turkey astrovirus isolate 32/01 capsid protein gene, ...  46.8    0.48 
+DQ066575.1  Turkey astrovirus 2 isolate VA/SEP-A33/03 nonfunction...  46.8    0.48 
+DQ066574.1  Turkey astrovirus 2 isolate VA/SEP-A17/03 capsid prot...  46.8    0.48 
+DQ066571.1  Turkey astrovirus 2 isolate TX/SEP-A312/04 capsid pro...  46.8    0.48 
+DQ066568.1  Turkey astrovirus 2 isolate NC/SEP-A305/04 capsid pro...  46.8    0.48 
+DQ066566.1  Turkey astrovirus 2 isolate NC/SEP-A254/04 capsid pro...  46.8    0.48 
+DQ066565.1  Turkey astrovirus 2 isolate NC/SEP-A253/04 capsid pro...  46.8    0.48 
+DQ066563.1  Turkey astrovirus 2 isolate NC/SEP-A226/03 capsid pro...  46.8    0.48 
+DQ066560.1  Turkey astrovirus 2 isolate NC/SEP-A65/03 capsid prot...  46.8    0.48 
+DQ066557.1  Turkey astrovirus 2 isolate NC/SEP-A41/03 capsid prot...  46.8    0.48 
+DQ066556.1  Turkey astrovirus 2 isolate NC/SEP-A40/03 capsid prot...  46.8    0.48 
+DQ066555.1  Turkey astrovirus 2 isolate CA/SEP-A273/04 capsid pro...  46.8    0.48 
+DQ066554.1  Turkey astrovirus 2 isolate CA/SEP-A270/04 capsid pro...  46.8    0.48 
+DQ066553.1  Turkey astrovirus 2 isolate CA/SEP-A269/04 capsid pro...  46.8    0.48 
+AF206663.2  Avastrovirus 3 polyprotein gene, complete cds; RNA po...  46.8    0.48 
+AY320042.1  Turkey astrovirus 2 capsid protein gene, partial cds      46.8    0.48 
+
+
+>XM_002678546.1 Naegleria gruberi predicted protein, mRNA
+Length=2919
+
+ Score = 48.8 bits (25),  Expect = 0.13
+ Identities = 27/28 (96%), Gaps = 0/28 (0%)
+ Strand=Plus/Plus
+
+Query  116   TGAATAGTGTCTGTATTTGTAATTCAAA  143
+             ||||| ||||||||||||||||||||||
+Sbjct  2150  TGAATGGTGTCTGTATTTGTAATTCAAA  2177
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Effective search space used: 155909446435184
+
+
+Query= BC_1154956_1_2_3_4
+
+Length=393
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+XM_015892774.1  PREDICTED: Acropora digitifera uncharacterized LO...  69.9    5e-08
+CP006837.1  Lysinibacillus varians strain GY32, complete genome       46.8    0.41 
+XM_018276184.1  Pseudogymnoascus verrucosus hypothetical protein ...  46.8    0.41 
+LK965156.1  Brugia pahangi genome assembly B_pahangi_Glasgow, sca...  46.8    0.41 
+
+
+>XM_015892774.1 PREDICTED: Acropora digitifera uncharacterized LOC107328058 (LOC107328058), 
+mRNA
+Length=1491
+
+ Score = 69.9 bits (36),  Expect = 5e-08
+ Identities = 38/39 (97%), Gaps = 0/39 (0%)
+ Strand=Plus/Minus
+
+Query  1    GATCAAGATTTCCCGGGAAAAGCACCGCATTGCAACACG  39
+            |||||||||||||||||||||||| ||||||||||||||
+Sbjct  852  GATCAAGATTTCCCGGGAAAAGCATCGCATTGCAACACG  814
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Effective search space used: 155909446435184
+
+
+Query= ND_5552730_1_2_3_4
+
+Length=355
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+XR_001561740.1  PREDICTED: Acropora digitifera uncharacterized LO...  56.4    5e-04
+XR_001561739.1  PREDICTED: Acropora digitifera uncharacterized LO...  56.4    5e-04
+XM_006781376.1  PREDICTED: Neolamprologus brichardi palmitoyltran...  50.7    0.025
+CP011911.1  Ovis canadensis canadensis isolate 43U chromosome 26 ...  48.8    0.096
+XM_020193746.1  Ascoidea rubescens DSM 1968 adenine-N(1)--methylt...  46.8    0.37 
+LT608277.1  Plasmodium berghei strain SP11 RLL genome assembly, c...  46.8    0.37 
+LT608261.1  Plasmodium berghei strain SP11 Antwerpcl1 genome asse...  46.8    0.37 
+LT614639.1  Plasmodium berghei strain NK65e genome assembly, chro...  46.8    0.37 
+LT608149.1  Plasmodium berghei strain NK65 ny genome assembly, ch...  46.8    0.37 
+LT594788.1  Theobroma cacao genome assembly, chromosome: I            46.8    0.37 
+LT160033.1  Plasmodium berghei strain K173 genome assembly, chrom...  46.8    0.37 
+XR_001012853.1  PREDICTED: Cercocebus atys mitochondrial pyruvate...  46.8    0.37 
+LM414090.1  Enterobius vermicularis genome assembly E_vermiculari...  46.8    0.37 
+LK023128.1  Plasmodium berghei ANKA genome assembly PBANKA01, chr...  46.8    0.37 
+AC125481.23  Medicago truncatula clone mth2-15n13, complete sequence  46.8    0.37 
+BX890639.3  Mouse DNA sequence from clone RP23-290E8 on chromosom...  46.8    0.37 
 
 
 >XR_001561740.1 PREDICTED: Acropora digitifera uncharacterized LOC107332452 (LOC107332452), 
 transcript variant X2, ncRNA
 Length=455
 
- Score = 137 bits (74),  Expect = 2e-28
- Identities = 177/221 (80%), Gaps = 29/221 (13%)
- Strand=Plus/Minus
+ Score = 56.4 bits (29),  Expect = 5e-04
+ Identities = 35/38 (92%), Gaps = 0/38 (0%)
+ Strand=Plus/Plus
 
-Query  134  CTTG-CTAC-GGTAGCTCCTCTATTAGTGTAATGAAAACTAGGGATAGTCTATAGTTCTG  191
-            |||| ||||  |||||||||||||||||||| | ||||  | ||||||||||||||||||
-Sbjct  266  CTTGACTACTCGTAGCTCCTCTATTAGTGTA-TTAAAAAAAAGGATAGTCTATAGTTCTG  208
-
-Query  192  AATTTTTTTCCTTGCCCTTGTTCATGTGGTAAGCATACTAGTACAGAACGACAGAACGCA  251
-            |||||| ||| || | ||||||||||||||||||| |||||||||||||      |  ||
-Sbjct  207  AATTTTCTTCTTTCCTCTTGTTCATGTGGTAAGCACACTAGTACAGAAC------A--CA  156
-
-Query  252  TGCGCATTCGTAAAATACGTATTAAG---AGAA-A--AA-AA-AA-AT----T---GCAA  295
-            |||||||||||||||||| |||||||   | || |  || || || ||    |     ||
-Sbjct  155  TGCGCATTCGTAAAATACCTATTAAGGAAAAAATATTAATAATAAGATAAAATAAAAAAA  96
-
-Query  296  AAA-CTCGGTTTGGGGTCCCCCGTGCTACTTTCGATC-AGA  334
-            ||| ||| ||||||||||||||||||||||||||||| |||
-Sbjct  95   AAATCTCTGTTTGGGGTCCCCCGTGCTACTTTCGATCCAGA  55
+Query  318  ATGGCTCAGGGACCGATTAATCTCTCCCTCTTTGGATC  355
+            |||||| |||| ||||||||||||||||||| ||||||
+Sbjct  25   ATGGCTTAGGGGCCGATTAATCTCTCCCTCTCTGGATC  62
 
 
- Score = 67.6 bits (36),  Expect = 3e-07
- Identities = 118/152 (78%), Gaps = 27/152 (18%)
- Strand=Plus/Minus
+ Score = 56.4 bits (29),  Expect = 5e-04
+ Identities = 35/38 (92%), Gaps = 0/38 (0%)
+ Strand=Plus/Plus
 
-Query  202  CTTGCC-CTTGTTCATGTGGTAAGCATACTAGTACAGAACGACAGAACGCATGCGCATTC  260
-            ||| || ||||||||||||||||||| |||||||||||||      |  |||||||||||
-Sbjct  453  CTTTCCTCTTGTTCATGTGGTAAGCACACTAGTACAGAAC------A--CATGCGCATTC  402
-
-Query  261  GTAAAATACGTATTAAG---AGAA-A--AA-AA-AA-AT----T---GCAAAAA-CTCGG  303
-            ||||||||| |||||||   | || |  || || || ||    |     ||||| ||| |
-Sbjct  401  GTAAAATACCTATTAAGGAAAAAATATTAATAATAAGATAAAATAAAAAAAAAATCTCTG  342
-
-Query  304  TTTGGGGTCCCCCGTGCTACTTTCGATC-AGA  334
-            |||||||||||||||||||||||||||| |||
-Sbjct  341  TTTGGGGTCCCCCGTGCTACTTTCGATCCAGA  310
+Query  318  ATGGCTCAGGGACCGATTAATCTCTCCCTCTTTGGATC  355
+            |||||| |||| ||||||||||||||||||| ||||||
+Sbjct  280  ATGGCTTAGGGGCCGATTAATCTCTCCCTCTCTGGATC  317
 
 
 
@@ -1010,321 +1259,39 @@ Lambda      K        H
 
 Gapped
 Lambda      K        H
-    1.28    0.460    0.850 
-
-Effective search space used: 137631412627288
-
-
-Query= BC_6957170_1_2_3_4
-
-Length=488
-
-
-***** No hits found *****
-
-
-
-Lambda      K        H
     1.33    0.621     1.12 
 
-Gapped
-Lambda      K        H
-    1.28    0.460    0.850 
-
-Effective search space used: 137631412627288
-
-
-Query= NC_617433_1_2_3_4
-
-Length=464
-
-
-***** No hits found *****
-
-
-
-Lambda      K        H
-    1.33    0.621     1.12 
-
-Gapped
-Lambda      K        H
-    1.28    0.460    0.850 
-
-Effective search space used: 137631412627288
-
-
-Query= BC_1111080_1_2_3_4
-
-Length=459
-
-
-***** No hits found *****
-
-
-
-Lambda      K        H
-    1.33    0.621     1.12 
-
-Gapped
-Lambda      K        H
-    1.28    0.460    0.850 
-
-Effective search space used: 137631412627288
-
-
-Query= BC_4896473_1_2_3_4
-
-Length=455
-
-
-***** No hits found *****
-
-
-
-Lambda      K        H
-    1.33    0.621     1.12 
-
-Gapped
-Lambda      K        H
-    1.28    0.460    0.850 
-
-Effective search space used: 137631412627288
-
-
-Query= BC_8062978_1_2_3_4
-
-Length=452
-
-
-***** No hits found *****
-
-
-
-Lambda      K        H
-    1.33    0.621     1.12 
-
-Gapped
-Lambda      K        H
-    1.28    0.460    0.850 
-
-Effective search space used: 137631412627288
-
-
-Query= BC_2620071_1_2_3_4
-
-Length=450
-
-
-***** No hits found *****
-
-
-
-Lambda      K        H
-    1.33    0.621     1.12 
-
-Gapped
-Lambda      K        H
-    1.28    0.460    0.850 
-
-Effective search space used: 137631412627288
-
-
-Query= BC_4498293_1_2_3_4
-
-Length=419
-
-
-***** No hits found *****
-
-
-
-Lambda      K        H
-    1.33    0.621     1.12 
-
-Gapped
-Lambda      K        H
-    1.28    0.460    0.850 
-
-Effective search space used: 137631412627288
-
-
-Query= ND_1371207_1_2_3_4
-
-Length=407
-
-
-***** No hits found *****
-
-
-
-Lambda      K        H
-    1.33    0.621     1.12 
-
-Gapped
-Lambda      K        H
-    1.28    0.460    0.850 
-
-Effective search space used: 137631412627288
-
-
-Query= BC_1154956_1_2_3_4
-
-Length=393
-
-
-***** No hits found *****
-
-
-
-Lambda      K        H
-    1.33    0.621     1.12 
-
-Gapped
-Lambda      K        H
-    1.28    0.460    0.850 
-
-Effective search space used: 137631412627288
-
-
-Query= BC_6062481_1_2_3_4
-
-Length=392
-
-
-***** No hits found *****
-
-
-
-Lambda      K        H
-    1.33    0.621     1.12 
-
-Gapped
-Lambda      K        H
-    1.28    0.460    0.850 
-
-Effective search space used: 137631412627288
-
-
-Query= BC_7719059_1_2_3_4
-
-Length=385
-
-
-***** No hits found *****
-
-
-
-Lambda      K        H
-    1.33    0.621     1.12 
-
-Gapped
-Lambda      K        H
-    1.28    0.460    0.850 
-
-Effective search space used: 137631412627288
-
-
-Query= BC_5359563_1_2_3_4
-
-Length=380
-
-
-***** No hits found *****
-
-
-
-Lambda      K        H
-    1.33    0.621     1.12 
-
-Gapped
-Lambda      K        H
-    1.28    0.460    0.850 
-
-Effective search space used: 137631412627288
-
-
-Query= BC_1989334_1_2_3_4
-
-Length=376
-
-
-***** No hits found *****
-
-
-
-Lambda      K        H
-    1.33    0.621     1.12 
-
-Gapped
-Lambda      K        H
-    1.28    0.460    0.850 
-
-Effective search space used: 137631412627288
-
-
-Query= BC_2991770_1_2_3_4
-
-Length=371
-
-
-***** No hits found *****
-
-
-
-Lambda      K        H
-    1.33    0.621     1.12 
-
-Gapped
-Lambda      K        H
-    1.28    0.460    0.850 
-
-Effective search space used: 137631412627288
-
-
-Query= NC_6034022_1_2_3_4
-
-Length=366
-
-
-***** No hits found *****
-
-
-
-Lambda      K        H
-    1.33    0.621     1.12 
-
-Gapped
-Lambda      K        H
-    1.28    0.460    0.850 
-
-Effective search space used: 137631412627288
-
-
-Query= ND_5552730_1_2_3_4
-
-Length=355
-
-
-***** No hits found *****
-
-
-
-Lambda      K        H
-    1.33    0.621     1.12 
-
-Gapped
-Lambda      K        H
-    1.28    0.460    0.850 
-
-Effective search space used: 137631412627288
+Effective search space used: 155909446435184
 
 
 Query= BC_1666634_1_2_3_4
 
 Length=348
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+HF933227.1  TPA: Oryzias latipes strain Hd-rR, complete genome as...  50.7    0.025
+CP003067.1  Thermoanaerobacterium thermosaccharolyticum M0795 pla...  48.8    0.094
+CP003185.1  Thermoanaerobacterium saccharolyticum JW/SL-YS485 pla...  48.8    0.094
+LN590681.1  Cyprinus carpio genome assembly common carp genome, s...  46.8    0.36 
+CT573315.5  Zebrafish DNA sequence from clone CH211-69J1 in linka...  46.8    0.36 
+CP000117.1  Anabaena variabilis ATCC 29413, complete genome           46.8    0.36 
+AM487352.2  Vitis vinifera contig VV78X189760.2, whole genome sho...  46.8    0.36 
+AM427612.1  Vitis vinifera contig VV78X263984.4, whole genome sho...  46.8    0.36 
+BA000019.2  Nostoc sp. PCC 7120 DNA, complete genome                  46.8    0.36 
 
 
-***** No hits found *****
+>HF933227.1 TPA_asm: Oryzias latipes strain Hd-rR, complete genome assembly, 
+chromosome 21
+Length=31883787
+
+ Score = 50.7 bits (26),  Expect = 0.025
+ Identities = 30/32 (94%), Gaps = 0/32 (0%)
+ Strand=Plus/Plus
+
+Query  238       AAACTGTTCATGAAGTTAATGCGATTTTTTTT  269
+                 ||||||||||||||||||||| |||| |||||
+Sbjct  12153873  AAACTGTTCATGAAGTTAATGTGATTATTTTT  12153904
 
 
 
@@ -1333,17 +1300,57 @@ Lambda      K        H
 
 Gapped
 Lambda      K        H
-    1.28    0.460    0.850 
+    1.33    0.621     1.12 
 
-Effective search space used: 137631412627288
+Effective search space used: 155909446435184
 
 
 Query= ND_2079243_1_2_3_4
 
 Length=387
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+XM_015897359.1  PREDICTED: Acropora digitifera uncharacterized LO...  404     9e-109
+XM_013562164.1  PREDICTED: Lingula anatina uncharacterized LOC106...  68.0    2e-07 
+LL900215.1  Schistocephalus solidus genome assembly S_solidus_NST...  50.7    0.028 
 
 
-***** No hits found *****
+>XM_015897359.1 PREDICTED: Acropora digitifera uncharacterized LOC107332625 (LOC107332625), 
+mRNA
+Length=16621
+
+ Score = 404 bits (210),  Expect = 9e-109
+ Identities = 328/387 (85%), Gaps = 0/387 (0%)
+ Strand=Plus/Plus
+
+Query  1      GATCCTTGCGTTCACGGTGCCCAAGAACCCATGGACAGTGGATTATGCAAGTGCGATCAA  60
+              ||||||||||||||||||   ||||||||||||||||||||||| ||||| || ||    
+Sbjct  10403  GATCCTTGCGTTCACGGTTTTCAAGAACCCATGGACAGTGGATTCTGCAAATGTGACGCT  10462
+
+Query  61     TGCTGGGCGGGAAAAGGTTGCGACGCTCTTTGTATGGGCAGAGGAACGTGCTCCCATTCT  120
+              |||||||| ||||||||||| || || ||||| |||||||||||||||||| |||  |||
+Sbjct  10463  TGCTGGGCTGGAAAAGGTTGTGATGCGCTTTGCATGGGCAGAGGAACGTGCGCCCCATCT  10522
+
+Query  121    GGCATCTGTGTTTGCGATCCTCTGAAAGGTTGGCGCGGAGACGTGTGCCAAATTCCTGGG  180
+              || ||||| | ||||   ||  || |||| ||||||||||||||||| ||||||||||| 
+Sbjct  10523  GGAATCTGCGATTGCTTCCCCTTGCAAGGCTGGCGCGGAGACGTGTGTCAAATTCCTGGT  10582
+
+Query  181    TGTCCTGGAATCGGCCTGGATTGCACAGGACACGGTGACTGCAACAGCGCTACTCATAAA  240
+              ||||||||||| ||  |||||||||||||||| ||||| || ||||| ||||| ||  ||
+Sbjct  10583  TGTCCTGGAATTGGTTTGGATTGCACAGGACATGGTGATTGTAACAGTGCTACACACGAA  10642
+
+Query  241    TGCACTTGTAACCCTGGATGGGCTGGAGTGGGGTGTGAAATCCCAGACTGCCCTGGTGCA  300
+              ||||| || || ||||| |||||||||||||| |||||||| ||||||||||||||||||
+Sbjct  10643  TGCACGTGCAATCCTGGCTGGGCTGGAGTGGGATGTGAAATACCAGACTGCCCTGGTGCA  10702
+
+Query  301    CCGGATTGTTACAACCGCGGATATTGCAACGCTTCGATAGATCCCCCGGAATGCCAAAAC  360
+              ||  |||||||||||||||| |||||||| ||||| || || || ||  |||| ||||||
+Sbjct  10703  CCTAATTGTTACAACCGCGGGTATTGCAATGCTTCTATCGAACCTCCACAATGTCAAAAC  10762
+
+Query  361    TGCAGCAAAGGCTGGATGGGCCCTGCA  387
+              ||||||||||| ||||||||||| |||
+Sbjct  10763  TGCAGCAAAGGTTGGATGGGCCCGGCA  10789
 
 
 
@@ -1352,17 +1359,58 @@ Lambda      K        H
 
 Gapped
 Lambda      K        H
-    1.28    0.460    0.850 
+    1.33    0.621     1.12 
 
-Effective search space used: 137631412627288
+Effective search space used: 155909446435184
 
 
 Query= ND_4661417_1_2_3_4
 
 Length=339
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+XM_015921357.1  PREDICTED: Acropora digitifera CUB and sushi doma...  117     1e-22
+HF933212.1  TPA: Oryzias latipes strain Hd-rR, complete genome as...  46.8    0.35 
+KT164630.1  Bombus pascuorum mitochondrion, partial genome            46.8    0.35 
 
 
-***** No hits found *****
+>XM_015921357.1 PREDICTED: Acropora digitifera CUB and sushi domain-containing 
+protein 3-like (LOC107354865), mRNA
+Length=2880
+
+ Score = 117 bits (61),  Expect = 1e-22
+ Identities = 121/151 (80%), Gaps = 0/151 (0%)
+ Strand=Plus/Minus
+
+Query  183  CTTTGCATTGAGGTAAATGTCCACTCCACTCTCCGTCCTGACAGCGAATTCTTTCATTTC  242
+            |||||||||||||||||| | |||||||| ||||||| |  || |  |||||||||||||
+Sbjct  428  CTTTGCATTGAGGTAAATTTGCACTCCACACTCCGTCATTGCACCTCATTCTTTCATTTC  369
+
+Query  243  CCACCAAGCTGTGTCTAGGATTGCACTGGAATGTCACCGTCTTTTCGTGACCAAAATCGG  302
+            ||||||| ||||   |   |||||| |||||||| || ||||| | ||| |||||||| |
+Sbjct  368  CCACCAAACTGTACTTGTCATTGCATTGGAATGTGACTGTCTTGTTGTGGCCAAAATCAG  309
+
+Query  303  AACCTACACGTCTTCCATTAGATGGTACACC  333
+            ||||  | ||| | |||||||| |||| |||
+Sbjct  308  AACCGTCTCGTTTGCCATTAGAAGGTAGACC  278
+
+
+ Score = 94.9 bits (49),  Expect = 1e-15
+ Identities = 117/151 (77%), Gaps = 0/151 (0%)
+ Strand=Plus/Minus
+
+Query  183  CTTTGCATTGAGGTAAATGTCCACTCCACTCTCCGTCCTGACAGCGAATTCTTTCATTTC  242
+            |||||||||| ||||| | | |||||||| ||||||| |  ||||  || ||||||| ||
+Sbjct  260  CTTTGCATTGGGGTAAGTCTGCACTCCACACTCCGTCATTGCAGCTCATACTTTCATCTC  201
+
+Query  243  CCACCAAGCTGTGTCTAGGATTGCACTGGAATGTCACCGTCTTTTCGTGACCAAAATCGG  302
+            | ||||| ||||   |   |||||| |||||||| || ||| | || || ||||||||||
+Sbjct  200  CAACCAAACTGTACTTGTCATTGCATTGGAATGTGACTGTCCTCTCATGGCCAAAATCGG  141
+
+Query  303  AACCTACACGTCTTCCATTAGATGGTACACC  333
+            ||||  | ||| | |||||||| |||| |||
+Sbjct  140  AACCGTCTCGTTTGCCATTAGAAGGTAGACC  110
 
 
 
@@ -1371,17 +1419,33 @@ Lambda      K        H
 
 Gapped
 Lambda      K        H
-    1.28    0.460    0.850 
+    1.33    0.621     1.12 
 
-Effective search space used: 137631412627288
+Effective search space used: 155909446435184
 
 
 Query= BC_1531619_1_2_3_4
 
 Length=313
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+HE601631.1  Schistosoma mansoni strain Puerto Rico chromosome W, ...  50.7    0.022
+LL960405.1  Schistosoma rodhaini genome assembly S_rodhaini_Burun...  50.7    0.022
+LM712679.1  Protopolystoma xenopodis genome assembly P_xenopodis_...  46.8    0.32 
 
 
-***** No hits found *****
+>HE601631.1 Schistosoma mansoni strain Puerto Rico chromosome W, complete 
+genome
+Length=59508269
+
+ Score = 50.7 bits (26),  Expect = 0.022
+ Identities = 28/29 (97%), Gaps = 0/29 (0%)
+ Strand=Plus/Plus
+
+Query  272       AGAGACAGAGGATATTTTCTTTTCAGAAC  300
+                 |||||||||| ||||||||||||||||||
+Sbjct  16752063  AGAGACAGAGAATATTTTCTTTTCAGAAC  16752091
 
 
 
@@ -1390,9 +1454,9 @@ Lambda      K        H
 
 Gapped
 Lambda      K        H
-    1.28    0.460    0.850 
+    1.33    0.621     1.12 
 
-Effective search space used: 137631412627288
+Effective search space used: 155909446435184
 
 
 Query= BC_1123747_1_2_3_4
@@ -1401,14 +1465,450 @@ Length=308
                                                                       Score     E
 Sequences producing significant alignments:                          (Bits)  Value
 
-XM_015904555.1  PREDICTED: Acropora digitifera uncharacterized LO...  501     4e-138
+XM_015904555.1  PREDICTED: Acropora digitifera uncharacterized LO...  514     7e-142
+XM_003209533.3  PREDICTED: Meleagris gallopavo stabilizer of axon...  58.4    1e-04 
+XM_016525023.1  PREDICTED: Sinocyclocheilus rhinocerous microtubu...  58.4    1e-04 
+XM_016525022.1  PREDICTED: Sinocyclocheilus rhinocerous microtubu...  58.4    1e-04 
+AL355610.5  Human DNA sequence from clone RP11-427J23 on chromoso...  54.5    0.002 
+HF933223.1  TPA: Oryzias latipes strain Hd-rR, complete genome as...  52.6    0.006 
+XM_016158087.1  PREDICTED: Rousettus aegyptiacus myocardin (MYOCD...  52.6    0.006 
+XM_016158086.1  PREDICTED: Rousettus aegyptiacus myocardin (MYOCD...  52.6    0.006 
+XM_016158085.1  PREDICTED: Rousettus aegyptiacus myocardin (MYOCD...  52.6    0.006 
+XM_015080114.1  PREDICTED: Acinonyx jubatus scavenger receptor cl...  52.6    0.006 
+XM_003359811.4  PREDICTED: Sus scrofa transportin 1 (TNPO1), tran...  52.6    0.006 
+XM_013984857.1  PREDICTED: Sus scrofa transportin 1 (TNPO1), tran...  52.6    0.006 
+XM_007183691.1  PREDICTED: Balaenoptera acutorostrata scammoni T-...  52.6    0.006 
+XM_007183690.1  PREDICTED: Balaenoptera acutorostrata scammoni T-...  52.6    0.006 
+CU694544.8  Pig DNA sequence from clone CH242-123C16 on chromosom...  52.6    0.006 
+AC158141.8  Mus musculus chromosome 5, clone RP23-281M20, complet...  52.6    0.006 
+AC138307.2  Mus musculus BAC clone RP24-159M5 from 12, complete s...  52.6    0.006 
+AC147447.3  Gallus gallus BAC clone CH261-9P3 from chromosome unk...  52.6    0.006 
+XM_015873012.1  PREDICTED: Coturnix japonica ADAMTS like 3 (ADAMT...  52.6    0.006 
+XM_015873011.1  PREDICTED: Coturnix japonica ADAMTS like 3 (ADAMT...  52.6    0.006 
+XM_015873010.1  PREDICTED: Coturnix japonica ADAMTS like 3 (ADAMT...  52.6    0.006 
+XM_015873009.1  PREDICTED: Coturnix japonica ADAMTS like 3 (ADAMT...  52.6    0.006 
+XM_015873008.1  PREDICTED: Coturnix japonica ADAMTS like 3 (ADAMT...  52.6    0.006 
+XM_014987175.1  PREDICTED: Poecilia mexicana CUGBP, Elav-like fam...  52.6    0.006 
+XM_010169573.1  PREDICTED: Caprimulgus carolinensis PWWP domain c...  52.6    0.006 
+LN590672.1  Cyprinus carpio genome assembly common carp genome, s...  52.6    0.006 
+AC132596.5  Mus musculus BAC clone RP24-173K19 from chromosome 12...  52.6    0.006 
+XM_002936460.4  PREDICTED: Xenopus tropicalis EPH receptor A5 (ep...  50.7    0.022 
+XM_012955378.2  PREDICTED: Xenopus tropicalis EPH receptor A5 (ep...  50.7    0.022 
+CP011886.1  Ovis canadensis canadensis isolate 43U chromosome 1 s...  50.7    0.022 
+CP011901.1  Ovis canadensis canadensis isolate 43U chromosome 16 ...  50.7    0.022 
+XM_012572648.1  PREDICTED: Taeniopygia guttata Rho GTPase activat...  50.7    0.022 
+LN713258.1  Cucumis melo genomic chromosome, chr_4                    50.7    0.022 
+LN681829.1  Cucumis melo genomic scaffold, anchoredscaffold00054      50.7    0.022 
+LM151723.1  Schistosoma mattheei genome assembly S_mattheei_Denwo...  50.7    0.022 
+HG975447.1  Solanum pennellii chromosome ch08, complete genome        50.7    0.022 
+XM_008279225.1  PREDICTED: Stegastes partitus inositol 1,4,5-tris...  50.7    0.022 
+XM_007504528.1  PREDICTED: Monodelphis domestica protein disulfid...  50.7    0.022 
+XM_007504527.1  PREDICTED: Monodelphis domestica protein disulfid...  50.7    0.022 
+HE601630.1  Schistosoma mansoni strain Puerto Rico chromosome 7, ...  50.7    0.022 
+CT737264.4  Pig DNA sequence from clone CH242-195A3 on chromosome...  50.7    0.022 
+CU138529.9  Zebrafish DNA sequence from clone CH211-137K20, compl...  50.7    0.022 
+AC187586.2  Gallus gallus BAC clone CH261-170I5 from chromosome z...  50.7    0.022 
+BX548040.19  Zebrafish DNA sequence from clone CH211-190L11 in li...  50.7    0.022 
+BX914202.18  Zebrafish DNA sequence from clone CH211-243P18 in li...  50.7    0.022 
+AC157989.8  Mus musculus chromosome 5, clone RP24-230P10, complet...  50.7    0.022 
+AC107709.12  Mus musculus chromosome 5, clone RP23-60E7, complete...  50.7    0.022 
+XM_019540527.1  PREDICTED: Crocodylus porosus zinc finger MYND-ty...  50.7    0.022 
+XM_019510408.1  PREDICTED: Gavialis gangeticus zinc finger MYND-t...  50.7    0.022 
+XM_006268289.2  PREDICTED: Alligator mississippiensis zinc finger...  50.7    0.022 
+XM_004911751.3  PREDICTED: Xenopus tropicalis sushi-repeat contai...  50.7    0.022 
+XM_002932794.4  PREDICTED: Xenopus tropicalis sushi-repeat contai...  50.7    0.022 
+AC270802.1  Pongo abelii chromosome 16 clone CH276-479H20, comple...  50.7    0.022 
+AP015042.1  Vigna angularis var. angularis DNA, chromosome 9, alm...  50.7    0.022 
+XM_014519493.1  PREDICTED: Alligator sinensis zinc finger, MYND-t...  50.7    0.022 
+CP011888.1  Ovis canadensis canadensis isolate 43U chromosome 3 s...  50.7    0.022 
+LN592299.1  Cyprinus carpio genome assembly common carp genome, s...  50.7    0.022 
+CP000246.1  Clostridium perfringens ATCC 13124, complete genome       50.7    0.022 
+AC186774.1  Trichinella spiralis chromosome UNK clone TS195-16H12...  50.7    0.022 
+AC161107.24  Medicago truncatula clone mth2-192o12, complete sequ...  50.7    0.022 
+AC118557.2  Homo sapiens chromosome 1 clone RP11-499N7, complete ...  50.7    0.022 
+AC174779.2  Mus musculus BAC clone CH25-626J19 from chromosome 3,...  50.7    0.022 
+AC125478.14  Medicago truncatula clone mth2-31i19, complete sequence  50.7    0.022 
+AC147242.4  Mus musculus BAC clone RP24-423B3 from 3, complete se...  50.7    0.022 
+XM_019923841.1  PREDICTED: Tursiops truncatus GTP cyclohydrolase ...  48.8    0.083 
+XM_004324472.2  PREDICTED: Tursiops truncatus GTP cyclohydrolase ...  48.8    0.083 
+HF933217.1  TPA: Oryzias latipes strain Hd-rR, complete genome as...  48.8    0.083 
+XM_003341817.3  PREDICTED: Monodelphis domestica arginine and glu...  48.8    0.083 
+KT329945.1  Macaca mulatta isolate Rh28626_6416-1 major histocomp...  48.8    0.083 
+XM_014587528.1  PREDICTED: Tupaia chinensis BTAF1 RNA polymerase ...  48.8    0.083 
+XM_014489211.1  PREDICTED: Latimeria chalumnae neuromedin U recep...  48.8    0.083 
+XM_008977985.2  PREDICTED: Pan paniscus activating transcription ...  48.8    0.083 
+XM_005755009.2  PREDICTED: Pundamilia nyererei RAC-beta serine/th...  48.8    0.083 
+XM_013229992.1  PREDICTED: Biomphalaria glabrata trichohyalin-lik...  48.8    0.083 
+CP011907.1  Ovis canadensis canadensis isolate 43U chromosome 22 ...  48.8    0.083 
+XM_012814881.1  PREDICTED: Clupea harengus fibrillin 1 (fbn1), mRNA   48.8    0.083 
+XM_004684373.2  PREDICTED: Condylura cristata LUC7-like 3 (S. cer...  48.8    0.083 
+XM_004684372.2  PREDICTED: Condylura cristata LUC7-like 3 (S. cer...  48.8    0.083 
+XM_012726382.1  PREDICTED: Condylura cristata LUC7-like 3 (S. cer...  48.8    0.083 
+XM_004465053.2  PREDICTED: Dasypus novemcinctus exportin, tRNA (X...  48.8    0.083 
+XM_004141025.2  PREDICTED: Cucumis sativus RING-box protein 1a-li...  48.8    0.083 
+XM_011579833.1  PREDICTED: Aquila chrysaetos canadensis torsin-1B...  48.8    0.083 
+LM164947.1  Schistosoma mattheei genome assembly S_mattheei_Denwo...  48.8    0.083 
+LK872013.1  Ascaris lumbricoides genome assembly A_lumbricoides_E...  48.8    0.083 
+LN590693.1  Cyprinus carpio genome assembly common carp genome, s...  48.8    0.083 
+LN590677.1  Cyprinus carpio genome assembly common carp genome, s...  48.8    0.083 
+KJ913311.1  Macaca mulatta isolate Rh22777 clone 4614 major histo...  48.8    0.083 
+KJ457183.1  Macaca mulatta isolate Rh28626 clone 3493 major histo...  48.8    0.083 
+KJ457180.1  Macaca mulatta isolate Rh28626 clone 3490 major histo...  48.8    0.083 
+KJ456698.1  Macaca mulatta isolate Rh22777 clone 4072 major histo...  48.8    0.083 
+XM_006831136.1  PREDICTED: Chrysochloris asiatica BTAF1 RNA polym...  48.8    0.083 
+CU467828.39  Zebrafish DNA sequence from clone CH211-214L17 in li...  48.8    0.083 
+AP011082.1  Pseudorca crassidens genomic DNA, clone: QGB1-265H08,...  48.8    0.083 
+JN774380.1  Cyprinus carpio clone 852982 microsatellite sequence      48.8    0.083 
+NG_008432.1  Homo sapiens 4-aminobutyrate aminotransferase (ABAT)...  48.8    0.083 
+NM_001106656.1  Rattus norvegicus XPA, DNA damage recognition and...  48.8    0.083 
+AL590027.10  Human DNA sequence from clone RP11-338L17 on chromos...  48.8    0.083 
+BX470252.10  Zebrafish DNA sequence from clone DKEY-261O10 in lin...  48.8    0.083 
+AC007224.5  Homo sapiens chromosome 16 clone RP11-475D10, complet...  48.8    0.083 
+AC131299.11  Mus musculus chromosome 15, clone RP23-335O2, comple...  48.8    0.083 
+AC149592.2  Mus musculus BAC clone RP23-270M4 from 14, complete s...  48.8    0.083 
+LT634571.1  Sus scrofa genome assembly, chromosome: X                 48.8    0.083 
+LT594623.1  Plasmodium malariae genome assembly, chromosome: 2        48.8    0.083 
+XM_016156015.1  PREDICTED: Rousettus aegyptiacus shroom family me...  48.8    0.083 
+KT332827.1  Macaca mulatta isolate Rh22777_5886-2 major histocomp...  48.8    0.083 
+XM_014270878.1  PREDICTED: Zonotrichia albicollis transducin-like...  48.8    0.083 
+XM_005492407.2  PREDICTED: Zonotrichia albicollis transducin-like...  48.8    0.083 
+XM_014270877.1  PREDICTED: Zonotrichia albicollis transducin-like...  48.8    0.083 
+CP011903.1  Ovis canadensis canadensis isolate 43U chromosome 18 ...  48.8    0.083 
+LK064674.1  Apteryx australis mantelli genome assembly AptMant0, ...  48.8    0.083 
+LL901964.1  Schistocephalus solidus genome assembly S_solidus_NST...  48.8    0.083 
+LL881088.1  Schistosoma margrebowiei genome assembly S_margrebowi...  48.8    0.083 
+LM065310.1  Schistosoma curassoni genome assembly S_curassoni_Dak...  48.8    0.083 
+LN596718.1  Cyprinus carpio genome assembly common carp genome, s...  48.8    0.083 
+LN590700.1  Cyprinus carpio genome assembly common carp genome, s...  48.8    0.083 
+LN590695.1  Cyprinus carpio genome assembly common carp genome, s...  48.8    0.083 
+XM_008826103.1  PREDICTED: Nannospalax galili dolichol kinase (Do...  48.8    0.083 
+KJ913525.1  Macaca mulatta isolate Rh23717 clone 4778 major histo...  48.8    0.083 
+HG977880.1  TPA: Mus musculus long non-coding RNA OTTMUST00000122...  48.8    0.083 
+KJ489747.1  Macaca mulatta isolate Rh22777 clone 4385 major histo...  48.8    0.083 
+CP004133.1  Bacillus thuringiensis serovar thuringiensis str. IS5...  48.8    0.083 
+AK397208.1  Sus scrofa mRNA, clone: SKNB10023G11, expressed in skin   48.8    0.083 
+CP001915.1  Bacillus thuringiensis serovar chinensis CT-43 plasmi...  48.8    0.083 
+CU393626.6  Pig DNA sequence from clone CH242-407G6 on chromosome...  48.8    0.083 
+CU694659.25  Zebrafish DNA sequence from clone DKEY-32C16 in link...  48.8    0.083 
+AC147806.5  Mus musculus chromosome 1, clone RP23-6O16, complete ...  48.8    0.083 
+AC147642.2  Mus musculus BAC clone RP23-27D6 from chromosome 14, ...  48.8    0.083 
+AC125193.3  Mus musculus BAC clone RP23-268I12 from chromosome 14...  48.8    0.083 
+AC130969.4  Rattus norvegicus 2 BAC CH230-105B13 (Children's Hosp...  48.8    0.083 
+AC117098.6  Rattus norvegicus 2 BAC CH230-271M7 (Children's Hospi...  48.8    0.083 
+AL137073.13  Human DNA sequence from clone RP11-404F11 on chromos...  48.8    0.083 
+AC119914.10  Mus musculus chromosome 15, clone RP24-244H15, compl...  48.8    0.083 
+AL645950.13  Mouse DNA sequence from clone RP23-13C17 on chromoso...  48.8    0.083 
+BC028554.1  Mus musculus, clone IMAGE:1366127, mRNA                   48.8    0.083 
+XM_019531477.1  PREDICTED: Crocodylus porosus single stranded DNA...  46.8    0.31  
+XM_019531476.1  PREDICTED: Crocodylus porosus single stranded DNA...  46.8    0.31  
+XM_019531475.1  PREDICTED: Crocodylus porosus single stranded DNA...  46.8    0.31  
+XM_019531474.1  PREDICTED: Crocodylus porosus single stranded DNA...  46.8    0.31  
+XM_019481230.1  PREDICTED: Alligator mississippiensis leucine ric...  46.8    0.31  
+XM_019481229.1  PREDICTED: Alligator mississippiensis leucine ric...  46.8    0.31  
+XM_003442637.4  PREDICTED: Oreochromis niloticus transcription fa...  46.8    0.31  
+XM_019287093.1  PREDICTED: Corvus cornix cornix myotubularin rela...  46.8    0.31  
+XM_010401600.2  PREDICTED: Corvus cornix cornix myotubularin rela...  46.8    0.31  
+XM_010401598.2  PREDICTED: Corvus cornix cornix myotubularin rela...  46.8    0.31  
+LT594630.1  Plasmodium malariae genome assembly, chromosome: 9        46.8    0.31  
+XM_017815501.1  PREDICTED: Lepidothrix coronata ankyrin repeat an...  46.8    0.31  
+XM_017815500.1  PREDICTED: Lepidothrix coronata ankyrin repeat an...  46.8    0.31  
+LT571452.1  Pongo pygmaeus genome assembly, chromosome: XII           46.8    0.31  
+XM_017479790.1  PREDICTED: Ictalurus punctatus U2AF homology moti...  46.8    0.31  
+XR_001782581.1  PREDICTED: Mus musculus structural maintenance of...  46.8    0.31  
+XM_006526981.3  PREDICTED: Mus musculus structural maintenance of...  46.8    0.31  
+XM_006526980.3  PREDICTED: Mus musculus structural maintenance of...  46.8    0.31  
+XM_017007946.1  PREDICTED: Homo sapiens tripartite motif containi...  46.8    0.31  
+XM_006714159.3  PREDICTED: Homo sapiens tripartite motif containi...  46.8    0.31  
+XM_016952409.1  PREDICTED: Pan troglodytes tripartite motif conta...  46.8    0.31  
+XM_016952405.1  PREDICTED: Pan troglodytes tripartite motif conta...  46.8    0.31  
+XM_016952404.1  PREDICTED: Pan troglodytes tripartite motif conta...  46.8    0.31  
+XM_016952400.1  PREDICTED: Pan troglodytes tripartite motif conta...  46.8    0.31  
+XM_016952399.1  PREDICTED: Pan troglodytes tripartite motif conta...  46.8    0.31  
+NG_047071.1  Homo sapiens protein tyrosine phosphatase, non-recep...  46.8    0.31  
+LT160002.1  Macaca fascicularis complete genome, chromosome chr3      46.8    0.31  
+LT160001.1  Macaca fascicularis complete genome, chromosome chr2      46.8    0.31  
+XM_015388961.1  PREDICTED: Cyprinodon variegatus muscleblind-like...  46.8    0.31  
+XM_015388960.1  PREDICTED: Cyprinodon variegatus muscleblind-like...  46.8    0.31  
+XM_015388959.1  PREDICTED: Cyprinodon variegatus muscleblind-like...  46.8    0.31  
+XM_015388958.1  PREDICTED: Cyprinodon variegatus muscleblind-like...  46.8    0.31  
+XM_015388957.1  PREDICTED: Cyprinodon variegatus muscleblind-like...  46.8    0.31  
+XM_015388956.1  PREDICTED: Cyprinodon variegatus muscleblind-like...  46.8    0.31  
+XM_015388955.1  PREDICTED: Cyprinodon variegatus muscleblind-like...  46.8    0.31  
+XM_015388954.1  PREDICTED: Cyprinodon variegatus muscleblind-like...  46.8    0.31  
+XM_015388953.1  PREDICTED: Cyprinodon variegatus muscleblind-like...  46.8    0.31  
+XM_015388952.1  PREDICTED: Cyprinodon variegatus muscleblind-like...  46.8    0.31  
+XM_015388951.1  PREDICTED: Cyprinodon variegatus muscleblind-like...  46.8    0.31  
+XM_014488823.1  PREDICTED: Latimeria chalumnae ATP-binding casset...  46.8    0.31  
+XM_005988831.2  PREDICTED: Latimeria chalumnae MAP/microtubule af...  46.8    0.31  
+XM_014499057.1  PREDICTED: Latimeria chalumnae MAP/microtubule af...  46.8    0.31  
+XM_005988830.2  PREDICTED: Latimeria chalumnae MAP/microtubule af...  46.8    0.31  
+XM_005988829.2  PREDICTED: Latimeria chalumnae MAP/microtubule af...  46.8    0.31  
+XM_014477001.1  PREDICTED: Bos mutus snurportin 1 (SNUPN), transc...  46.8    0.31  
+XM_013940827.1  PREDICTED: Apteryx australis mantelli centrosomal...  46.8    0.31  
+CP011912.1  Ovis canadensis canadensis isolate 43U chromosome X s...  46.8    0.31  
+CP011896.1  Ovis canadensis canadensis isolate 43U chromosome 11 ...  46.8    0.31  
+CP011891.1  Ovis canadensis canadensis isolate 43U chromosome 6 s...  46.8    0.31  
+CP011890.1  Ovis canadensis canadensis isolate 43U chromosome 5 s...  46.8    0.31  
+LK066248.1  Apteryx australis mantelli genome assembly AptMant0, ...  46.8    0.31  
+LK391419.1  Apteryx australis mantelli genome assembly AptMant0, ...  46.8    0.31  
+LK064790.1  Apteryx australis mantelli genome assembly AptMant0, ...  46.8    0.31  
+LK064712.1  Apteryx australis mantelli genome assembly AptMant0, ...  46.8    0.31  
+KJ046869.1  Sesamum indicum clone TilSSR_18070 microsatellite Ses...  46.8    0.31  
+XM_010570316.1  PREDICTED: Haliaeetus leucocephalus WD repeat dom...  46.8    0.31  
+NG_041788.1  Homo sapiens tripartite motif containing 2 (TRIM2), ...  46.8    0.31  
+XM_009929641.1  PREDICTED: Haliaeetus albicilla WD repeat domain,...  46.8    0.31  
+LM174860.1  Schistosoma mattheei genome assembly S_mattheei_Denwo...  46.8    0.31  
+LM159283.1  Schistosoma mattheei genome assembly S_mattheei_Denwo...  46.8    0.31  
+LM093389.1  Schistosoma curassoni genome assembly S_curassoni_Dak...  46.8    0.31  
+LM070808.1  Schistosoma curassoni genome assembly S_curassoni_Dak...  46.8    0.31  
+LN598509.1  Cyprinus carpio genome assembly common carp genome, s...  46.8    0.31  
+LN594374.1  Cyprinus carpio genome assembly common carp genome, s...  46.8    0.31  
+LN590681.1  Cyprinus carpio genome assembly common carp genome, s...  46.8    0.31  
+XM_008942509.1  PREDICTED: Merops nubicus LIM homeobox 9 (LHX9), ...  46.8    0.31  
+XM_008289361.1  PREDICTED: Stegastes partitus lethal giant larvae...  46.8    0.31  
+XM_007438341.1  PREDICTED: Python bivittatus heterogeneous nuclea...  46.8    0.31  
+XM_006070312.1  PREDICTED: Bubalus bubalis RNA binding motif, sin...  46.8    0.31  
+XM_006070311.1  PREDICTED: Bubalus bubalis RNA binding motif, sin...  46.8    0.31  
+XM_006070309.1  PREDICTED: Bubalus bubalis RNA binding motif, sin...  46.8    0.31  
+XM_006070308.1  PREDICTED: Bubalus bubalis RNA binding motif, sin...  46.8    0.31  
+XM_006070307.1  PREDICTED: Bubalus bubalis RNA binding motif, sin...  46.8    0.31  
+XM_006062811.1  PREDICTED: Bubalus bubalis paired box 1 (PAX1), t...  46.8    0.31  
+AC245469.3  Homo sapiens BAC clone CH17-338K11 from chromosome 3,...  46.8    0.31  
+JN776837.1  Cyprinus carpio clone 884483 microsatellite sequence      46.8    0.31  
+NM_001252685.1  Mus musculus structural maintenance of chromosome...  46.8    0.31  
+NM_153808.2  Mus musculus structural maintenance of chromosomes 5...  46.8    0.31  
+NM_001252684.1  Mus musculus structural maintenance of chromosome...  46.8    0.31  
+JN963723.1  Mus musculus targeted non-conditional, lacZ-tagged mu...  46.8    0.31  
+JN963262.1  Mus musculus targeted non-conditional, lacZ-tagged mu...  46.8    0.31  
+JN961977.1  Mus musculus targeted KO-first, conditional ready, la...  46.8    0.31  
+JN960164.1  Mus musculus targeted non-conditional, lacZ-tagged mu...  46.8    0.31  
+JN960139.1  Mus musculus targeted non-conditional, lacZ-tagged mu...  46.8    0.31  
+JN955369.1  Mus musculus targeted KO-first, conditional ready, la...  46.8    0.31  
+JN955316.1  Mus musculus targeted KO-first, conditional ready, la...  46.8    0.31  
+JN955153.1  Mus musculus targeted non-conditional, lacZ-tagged mu...  46.8    0.31  
+JN951031.1  Mus musculus targeted non-conditional, lacZ-tagged mu...  46.8    0.31  
+JN949913.1  Mus musculus targeted deletion, lacZ-tagged mutant al...  46.8    0.31  
+JN948286.1  Mus musculus targeted KO-first, conditional ready, la...  46.8    0.31  
+AL833773.7  Mouse DNA sequence from clone RP23-434A2 on chromosom...  46.8    0.31  
+HE601624.1  Schistosoma mansoni strain Puerto Rico chromosome 1, ...  46.8    0.31  
+NG_008481.4  Homo sapiens APC, WNT signaling pathway regulator (A...  46.8    0.31  
+AC239377.3  Chlorocebus aethiops BAC clone CH252-6L2 from chromos...  46.8    0.31  
+NG_016251.1  Homo sapiens protocadherin 11 X-linked (PCDH11X), Re...  46.8    0.31  
+AC239228.1  Chrysemys picta BAC clone CHY3-63H12 from chromosome ...  46.8    0.31  
+CU928215.5  Zebrafish DNA sequence from clone CH73-116E15 in link...  46.8    0.31  
+FN554971.1  Trypanosoma brucei gambiense DAL972 chromosome 8, com...  46.8    0.31  
+AC215904.2  Latimeria menadoensis, clone VMRC4-25N21, complete se...  46.8    0.31  
+AC232754.4  Bos taurus Y Chr BAC CH240-90I21 (Children's Hospital...  46.8    0.31  
+CU862017.12  Zebrafish DNA sequence from clone CH73-304G8 in link...  46.8    0.31  
+NG_008931.1  Homo sapiens vacuolar protein sorting 13 homolog A (...  46.8    0.31  
+AC225773.3  Bos taurus Y Chr BAC CH240-125I19 (Children's Hospita...  46.8    0.31  
+CU914352.4  Zebrafish DNA sequence from clone ZFOS-797C4 in linka...  46.8    0.31  
+AC216691.1  Populus trichocarpa clone POP102-M12, complete sequence   46.8    0.31  
+CU329670.1  Schizosaccharomyces pombe chromosome I, complete sequ...  46.8    0.31  
+CU329672.1  Schizosaccharomyces pombe chromosome III, complete se...  46.8    0.31  
+CU329671.1  Schizosaccharomyces pombe chromosome II, complete seq...  46.8    0.31  
+AC190169.3  Mus musculus BAC clone RP24-505O24 from chromosome y,...  46.8    0.31  
+CR318608.12  Zebrafish DNA sequence from clone CH211-250G5 in lin...  46.8    0.31  
+AL954835.6  Mouse DNA sequence from clone RP23-416L9 on chromosom...  46.8    0.31  
+CT030718.9  Zebrafish DNA sequence from clone DKEYP-12H3 in linka...  46.8    0.31  
+BX901941.6  Mouse DNA sequence from clone RP23-344H22 on chromoso...  46.8    0.31  
+CU407006.6  Mouse DNA sequence from clone DN-10I6 on chromosome 1...  46.8    0.31  
+AC197612.4  MACACA MULATTA BAC clone CH250-9K4 from chromosome 2,...  46.8    0.31  
+CT990605.5  M.truncatula DNA sequence from clone MTH2-46O20 on ch...  46.8    0.31  
+AC162439.20  Medicago truncatula clone mth2-175g14, complete sequ...  46.8    0.31  
+AC128039.4  Rattus norvegicus BAC CH230-394A24 (Children's Hospit...  46.8    0.31  
+AC122313.4  Mus musculus BAC clone RP23-300N8 from chromosome 13,...  46.8    0.31  
+AC139225.10  Mus musculus chromosome 9, clone RP24-361G12, comple...  46.8    0.31  
+AC144766.18  Medicago truncatula clone mth2-17c2, complete sequence   46.8    0.31  
+AC141565.3  Mus musculus BAC clone RP23-160M21 from chromosome 14...  46.8    0.31  
+AC140371.3  Mus musculus BAC clone RP24-220G21 from chromosome Y,...  46.8    0.31  
+AY812754.1  Schistosoma japonicum SJCHGC02292 protein mRNA, compl...  46.8    0.31  
+AF286887.4  Homo sapiens chromosome 8 clone RP11-206N20 map q12.1...  46.8    0.31  
+AC132260.3  Mus musculus BAC clone RP24-370C1 from chromosome 13,...  46.8    0.31  
+AC143329.3  Mus musculus BAC clone RP23-347I6 from chromosome 7, ...  46.8    0.31  
+AC122232.3  Mus musculus BAC clone RP23-136G1 from chromosome 7, ...  46.8    0.31  
+AC126256.4  Mus musculus BAC clone RP24-235B15 from chromosome 7,...  46.8    0.31  
+AC124379.3  Mus musculus BAC clone RP24-399H16 from chromosome 7,...  46.8    0.31  
+AC069562.51  Mus musculus strain C57BL/6J clone rp23-317e13 map 1...  46.8    0.31  
+AC131941.1  Mus musculus BAC clone RP23-109A19 from 1, complete s...  46.8    0.31  
+AC092595.2  Homo sapiens BAC clone RP11-94N7 from 7, complete seq...  46.8    0.31  
+AC154766.2  Mus musculus BAC clone RP24-440G8 from chromosome 17,...  46.8    0.31  
+AC156795.2  Mus musculus BAC clone RP24-89C4 from chromosome 9, c...  46.8    0.31  
+AC161876.3  Mus musculus BAC clone RP24-388H6 from chromosome 1, ...  46.8    0.31  
+AC040970.7  Homo sapiens chromosome 8, clone RP11-809O17, complet...  46.8    0.31  
+AC162918.3  Mus musculus BAC clone RP23-370K14 from chromosome 10...  46.8    0.31  
+AK141072.1  Mus musculus 0 day neonate cerebellum cDNA, RIKEN ful...  46.8    0.31  
+AC109806.12  Mus musculus chromosome 1, clone RP23-310C14, comple...  46.8    0.31  
+AC144941.7  Mus musculus BAC clone RP24-95H13 from chromosome 19,...  46.8    0.31  
+AC154504.2  Mus musculus BAC clone RP24-92H14 from chromosome 14,...  46.8    0.31  
+AK049407.1  Mus musculus 7 days embryo whole body cDNA, RIKEN ful...  46.8    0.31  
+AK028687.1  Mus musculus 10 days neonate skin cDNA, RIKEN full-le...  46.8    0.31  
+AL929236.4  Human DNA sequence from clone RP11-176D17 on chromoso...  46.8    0.31  
+AC104350.6  Homo sapiens chromosome 8, clone RP11-1112C15, comple...  46.8    0.31  
+AC103596.2  Homo sapiens chromosome 1 clone RP4-669H10, complete ...  46.8    0.31  
+AC099773.6  Mus Musculus Strain C57BL6/J Chromosome 5 RP23-335D24...  46.8    0.31  
+AC114791.3  Homo sapiens BAC clone RP11-658B24 from 4, complete s...  46.8    0.31  
+AC027058.9  Homo sapiens chromosome 4, clone RP11-481K13, complet...  46.8    0.31  
+AL157884.9  Human DNA sequence from clone RP11-462B18 on chromoso...  46.8    0.31  
+AK013890.1  Mus musculus 12 days embryo head cDNA, RIKEN full-len...  46.8    0.31  
+AL359204.10  Human DNA sequence from clone RP11-147H13 on chromos...  46.8    0.31  
+AL136362.10  Human DNA sequence from clone RP13-136L2 on chromoso...  46.8    0.31  
+AL357129.11  Human DNA sequence from clone RP11-114A21 on chromos...  46.8    0.31  
+Z99916.1  Human DNA sequence from clone CTA-221G9 on chromosome 2...  46.8    0.31  
+AC154799.3  Mus musculus BAC clone RP23-79K21 from chromosome 13,...  46.8    0.31  
+BX957260.10  Zebrafish DNA sequence from clone DKEY-1N7 in linkag...  46.8    0.31  
+BX294387.11  Zebrafish DNA sequence from clone DKEY-267L16 in lin...  46.8    0.31  
+CR450854.1  S.pombe chromosome I cosmid pJ113                         46.8    0.31  
+BX890640.4  Mouse DNA sequence from clone RP23-12N7 on chromosome...  46.8    0.31  
+AC010491.4  Homo sapiens chromosome 5 clone CTD-2335I23, complete...  46.8    0.31  
+AC068669.21  Homo sapiens chromosome 17, clone RP11-749I16, compl...  46.8    0.31  
+AC008575.7  Homo sapiens chromosome 5 clone CTC-554D6, complete s...  46.8    0.31  
+AC015553.21  Homo sapiens 9 BAC RP11-100N10 (Roswell Park Cancer ...  46.8    0.31  
+AC006998.3  Homo sapiens BAC clone RP11-458M9 from Y, complete se...  46.8    0.31  
+AC129309.4  Mus musculus BAC clone RP24-343P24 from 17, complete ...  46.8    0.31  
+AC134246.4  Mus musculus BAC clone RP23-199B2 from 3, complete se...  46.8    0.31  
+AC149868.2  Mus musculus BAC clone RP23-226I6 from 7, complete se...  46.8    0.31  
+AL808134.17  Mouse DNA sequence from clone RP23-135E1 on chromoso...  46.8    0.31  
+AP001591.5  Homo sapiens genomic DNA, chromosome 11 clone:RP11-83...  46.8    0.31  
+AC134389.4  Homo sapiens chromosome 8, clone CTD-2228A5, complete...  46.8    0.31  
+AL672076.10  Mouse DNA sequence from clone RP23-161N17 on chromos...  46.8    0.31  
+AL691424.7  Mouse DNA sequence from clone RP23-219K12 on chromoso...  46.8    0.31  
+AP000753.4  Homo sapiens genomic DNA, chromosome 11 clone:RP11-69...  46.8    0.31  
+AL672195.9  Mouse DNA sequence from clone RP23-468E16 on chromoso...  46.8    0.31  
+BC007174.1  Mus musculus structural maintenance of chromosomes 5,...  46.8    0.31  
+XM_019531782.1  PREDICTED: Crocodylus porosus SMAD family member ...  46.8    0.31  
+XM_019531781.1  PREDICTED: Crocodylus porosus SMAD family member ...  46.8    0.31  
+XM_006259048.3  PREDICTED: Alligator mississippiensis SMAD family...  46.8    0.31  
+XM_006259047.3  PREDICTED: Alligator mississippiensis SMAD family...  46.8    0.31  
+XR_002062553.1  PREDICTED: Oreochromis niloticus uncharacterized ...  46.8    0.31  
+XM_019274410.1  PREDICTED: Larimichthys crocea P2X purinoceptor 3...  46.8    0.31  
+XM_010729997.2  PREDICTED: Larimichthys crocea BCL2, apoptosis re...  46.8    0.31  
+XM_015618242.2  PREDICTED: Parus major lysophosphatidylcholine ac...  46.8    0.31  
+XM_015618241.2  PREDICTED: Parus major lysophosphatidylcholine ac...  46.8    0.31  
+XM_008933124.2  PREDICTED: Manacus vitellinus membrane associated...  46.8    0.31  
+HF933225.1  TPA: Oryzias latipes strain Hd-rR, complete genome as...  46.8    0.31  
+HF933220.1  TPA: Oryzias latipes strain Hd-rR, complete genome as...  46.8    0.31  
+HF933213.1  TPA: Oryzias latipes strain Hd-rR, complete genome as...  46.8    0.31  
+HF933209.1  TPA: Oryzias latipes strain Hd-rR, complete genome as...  46.8    0.31  
+XM_017806015.1  PREDICTED: Lepidothrix coronata membrane associat...  46.8    0.31  
+XM_017806014.1  PREDICTED: Lepidothrix coronata membrane associat...  46.8    0.31  
+XM_017806013.1  PREDICTED: Lepidothrix coronata membrane associat...  46.8    0.31  
+XM_017806012.1  PREDICTED: Lepidothrix coronata membrane associat...  46.8    0.31  
+XM_017806010.1  PREDICTED: Lepidothrix coronata membrane associat...  46.8    0.31  
+XM_017806009.1  PREDICTED: Lepidothrix coronata membrane associat...  46.8    0.31  
+XM_017707867.1  PREDICTED: Pygocentrus nattereri homeobox protein...  46.8    0.31  
+XM_017479443.1  PREDICTED: Ictalurus punctatus protransforming gr...  46.8    0.31  
+XM_017479442.1  PREDICTED: Ictalurus punctatus protransforming gr...  46.8    0.31  
+XM_017439457.1  PREDICTED: Kryptolebias marmoratus reversion indu...  46.8    0.31  
+CP010994.1  Clostridium perfringens strain JP838, complete genome     46.8    0.31  
+XM_014492593.1  PREDICTED: Latimeria chalumnae lysine (K)-specifi...  46.8    0.31  
+XM_005998353.2  PREDICTED: Latimeria chalumnae NEDD4 binding prot...  46.8    0.31  
+XM_014377044.1  PREDICTED: Trichogramma pretiosum uncharacterized...  46.8    0.31  
+CP011887.1  Ovis canadensis canadensis isolate 43U chromosome 2 s...  46.8    0.31  
+CP011908.1  Ovis canadensis canadensis isolate 43U chromosome 23 ...  46.8    0.31  
+CP011905.1  Ovis canadensis canadensis isolate 43U chromosome 20 ...  46.8    0.31  
+CP011892.1  Ovis canadensis canadensis isolate 43U chromosome 7 s...  46.8    0.31  
+CP011889.1  Ovis canadensis canadensis isolate 43U chromosome 4 s...  46.8    0.31  
+LK065559.1  Apteryx australis mantelli genome assembly AptMant0, ...  46.8    0.31  
+LK064611.1  Apteryx australis mantelli genome assembly AptMant0, ...  46.8    0.31  
+LN713263.1  Cucumis melo genomic chromosome, chr_9                    46.8    0.31  
+LN681895.1  Cucumis melo genomic scaffold, anchoredscaffold00005      46.8    0.31  
+XM_003930761.2  PREDICTED: Saimiri boliviensis boliviensis GLI fa...  46.8    0.31  
+LM003517.1  Wuchereria bancrofti genome assembly W_bancrofti_Jaka...  46.8    0.31  
+LL957992.1  Schistosoma rodhaini genome assembly S_rodhaini_Burun...  46.8    0.31  
+LL882153.1  Schistosoma margrebowiei genome assembly S_margrebowi...  46.8    0.31  
+LL880228.1  Schistosoma margrebowiei genome assembly S_margrebowi...  46.8    0.31  
+LL879792.1  Schistosoma margrebowiei genome assembly S_margrebowi...  46.8    0.31  
+LL019531.1  Trichobilharzia regenti genome assembly T_regenti_v1_...  46.8    0.31  
+LK969510.1  Brugia pahangi genome assembly B_pahangi_Glasgow, sca...  46.8    0.31  
+LK968162.1  Brugia pahangi genome assembly B_pahangi_Glasgow, sca...  46.8    0.31  
+LM177251.1  Schistosoma mattheei genome assembly S_mattheei_Denwo...  46.8    0.31  
+LM009955.1  Wuchereria bancrofti genome assembly W_bancrofti_Jaka...  46.8    0.31  
+LN596206.1  Cyprinus carpio genome assembly common carp genome, s...  46.8    0.31  
+LN592826.1  Cyprinus carpio genome assembly common carp genome, s...  46.8    0.31  
+LN591155.1  Cyprinus carpio genome assembly common carp genome, s...  46.8    0.31  
+LN590717.1  Cyprinus carpio genome assembly common carp genome, s...  46.8    0.31  
+LN590705.1  Cyprinus carpio genome assembly common carp genome, s...  46.8    0.31  
+LN590685.1  Cyprinus carpio genome assembly common carp genome, s...  46.8    0.31  
+LN590684.1  Cyprinus carpio genome assembly common carp genome, s...  46.8    0.31  
+XM_009021228.1  Helobdella robusta hypothetical protein mRNA          46.8    0.31  
+JN953545.1  Mus musculus targeted KO-first, conditional ready, la...  46.8    0.31  
+JN953544.1  Mus musculus targeted KO-first, conditional ready, la...  46.8    0.31  
+JN949589.1  Mus musculus targeted non-conditional, lacZ-tagged mu...  46.8    0.31  
+JN945688.1  Mus musculus targeted non-conditional, lacZ-tagged mu...  46.8    0.31  
+JF262088.1  Oreochromis niloticus clone BAC T4-075AE05 SWS2A opsi...  46.8    0.31  
+CU914160.12  Zebrafish DNA sequence from clone DKEY-89I7 in linka...  46.8    0.31  
+CU929182.5  Zebrafish DNA sequence from clone CH1073-416J23 in li...  46.8    0.31  
+AC209153.2  Homo sapiens FOSMID clone ABC9-43829300I10 from chrom...  46.8    0.31  
+AC196942.7  Macaca mulatta BAC CH250-345A20 (Children's Hospital ...  46.8    0.31  
+AC202678.6  Macaca mulatta BAC CH250-38L21 () complete sequence       46.8    0.31  
+AM434607.2  Vitis vinifera contig VV78X087718.8, whole genome sho...  46.8    0.31  
+AM424695.2  Vitis vinifera contig VV78X228812.4, whole genome sho...  46.8    0.31  
+AM456352.2  Vitis vinifera contig VV78X011569.4, whole genome sho...  46.8    0.31  
+DQ915316.1  Eulamprus kosciuskoi voucher ABTC 1169 16S ribosomal ...  46.8    0.31  
+AC193157.1  Homo sapiens chromosome 7 clone WI2-2944C15, complete...  46.8    0.31  
+AC139291.4  Mus musculus BAC clone RP24-465O2 from chromosome 12,...  46.8    0.31  
+AC156571.3  Mus musculus BAC clone RP23-264I19 from chromosome 13...  46.8    0.31  
+AC167468.2  Mus musculus BAC clone RP23-163J2 from chromosome 10,...  46.8    0.31  
+AC101715.8  Mus musculus chromosome 1, clone RP23-283P17, complet...  46.8    0.31  
+AC131980.9  Mus musculus chromosome 1, clone RP24-170O7, complete...  46.8    0.31  
+AC110499.19  Mus musculus chromosome 1, clone RP23-202J6, complet...  46.8    0.31  
+AC161509.8  Mus musculus chromosome 7, clone RP23-53O17, complete...  46.8    0.31  
+AC138401.9  Mus musculus chromosome 13, clone RP24-79G5, complete...  46.8    0.31  
+AC153504.6  Mus musculus 10 BAC RP23-324E2 (Roswell Park Cancer I...  46.8    0.31  
+AC115883.13  Mus musculus chromosome 3, clone RP24-376N4, complet...  46.8    0.31  
+AC130833.3  Mus musculus BAC clone RP24-91H16 from chromosome Y, ...  46.8    0.31  
+AC094950.6  Rattus norvegicus 14 BAC CH230-6H12 (Children's Hospi...  46.8    0.31  
+AC127296.4  Mus musculus BAC clone RP23-395A17 from chromosome 7,...  46.8    0.31  
+AC132448.3  Mus musculus BAC clone RP23-180B23 from chromosome 8,...  46.8    0.31  
+AC123923.2  Mus musculus BAC clone RP24-228I17 from chromosome 1,...  46.8    0.31  
+AC126431.3  Mus musculus BAC clone RP24-407P8 from chromosome 6, ...  46.8    0.31  
+AC121824.2  Mus musculus BAC clone RP23-467P15 from 18, complete ...  46.8    0.31  
+AC121936.2  Mus musculus BAC clone RP24-207J5 from 13, complete s...  46.8    0.31  
+AC104897.7  Mus musculus chromosome 12, clone RP23-300E12, comple...  46.8    0.31  
+AC152718.6  Mus musculus BAC clone RP24-432B3 from chromosome 9, ...  46.8    0.31  
+BX927186.21  Zebrafish DNA sequence from clone DKEY-29H4 in linka...  46.8    0.31  
+AC160637.2  Mus musculus BAC clone RP23-320D23 from chromosome 9,...  46.8    0.31  
+AK089850.1  Mus musculus activated spleen cDNA, RIKEN full-length...  46.8    0.31  
+AC130896.3  Homo sapiens 3 BAC RP13-503K1 (Roswell Park Cancer In...  46.8    0.31  
+AC037441.12  Homo sapiens chromosome, clone RP11-87E22, complete ...  46.8    0.31  
+AC109473.2  Homo sapiens chromosome 5 clone RP11-3B10, complete s...  46.8    0.31  
+AL359963.29  Human DNA sequence from clone RP11-18A3 on chromosom...  46.8    0.31  
+AC008912.5  Homo sapiens chromosome 5 clone CITB-H1_2269J5, compl...  46.8    0.31  
+AC093211.3  Homo sapiens chromosome 5 clone CTD-2020P3, complete ...  46.8    0.31  
+AC087311.23  Homo sapiens 12 BAC RP11-267D19 (Roswell Park Cancer...  46.8    0.31  
+AC150241.3  Rhinolophus ferrumequinum clone VMRC7-311G24, complet...  46.8    0.31  
+AC114612.13  Mus musculus chromosome 7, clone RP24-80O23, complet...  46.8    0.31  
+AC140452.4  Mus musculus BAC clone RP24-120F24 from chromosome un...  46.8    0.31  
+AC141474.4  Mus musculus BAC clone RP24-192L11 from chromosome y,...  46.8    0.31  
+AC010627.7  Homo sapiens chromosome 5 clone CTD-2165H16, complete...  46.8    0.31  
+AC125437.6  Homo sapiens chromosome 18, clone CTD-2286N8, complet...  46.8    0.31  
+AC026749.5  Homo sapiens chromosome 5 clone RP11-415K6, complete ...  46.8    0.31  
+AC079463.3  Homo sapiens chromosome 5 clone CTB-123N6, complete s...  46.8    0.31  
+AC017082.4  Homo sapiens BAC clone RP11-472M4 from 2, complete se...  46.8    0.31  
+AC120854.15  Mus musculus chromosome 7, clone RP23-329B6, complet...  46.8    0.31  
+AC105406.6  Mus musculus BAC clone RP24-119K15 from 7, complete s...  46.8    0.31  
+AC139299.3  Mus musculus BAC clone RP23-335D20 from 1, complete s...  46.8    0.31  
+AC131697.4  Mus musculus BAC clone RP23-407K12 from 1, complete s...  46.8    0.31  
+AL627327.29  Mouse DNA sequence from clone RP23-62O17 on chromoso...  46.8    0.31  
+BX005290.10  Zebrafish DNA sequence from clone CH211-127M10 in li...  46.8    0.31  
+AL974310.15  Zebrafish DNA sequence from clone DKEY-14J6, complet...  46.8    0.31  
+AL845300.11  Mouse DNA sequence from clone RP23-397A17 on chromos...  46.8    0.31  
+AC136500.1  Homo sapiens chromosome 5 clone RP11-56P2, complete s...  46.8    0.31  
+AL671896.4  Mouse DNA sequence from clone RP23-354F16 on chromoso...  46.8    0.31  
+AL162551.4  Human chromosome 14 DNA sequence BAC R-479H16 of libr...  46.8    0.31  
+AL121576.5  Human chromosome 14 DNA sequence BAC R-476J6 of libra...  46.8    0.31  
+X03807.1  Fission yeast (S.pombe) dgIIa repetitive sequence (cent...  46.8    0.31  
+X13760.1  Yeast centromere CEN2 repetitive DNA PSS182, part of dgIIb  46.8    0.31  
+X13764.1  Yeast centromere CEN1 repetitive DNA PSS113, part of dgIIa  46.8    0.31  
+X03806.1  Fission yeast (S. pombe) dgI repetitive sequence (centr...  46.8    0.31  
 
 
 >XM_015904555.1 PREDICTED: Acropora digitifera uncharacterized LOC107339291 (LOC107339291), 
 mRNA
 Length=1883
 
- Score = 501 bits (271),  Expect = 4e-138
+ Score = 514 bits (267),  Expect = 7e-142
  Identities = 296/308 (96%), Gaps = 1/308 (0%)
  Strand=Plus/Plus
 
@@ -1417,8 +1917,8 @@ Query  1    TTGATCAGTGTGCTCTTTACTTAAATTTTTGGACAACAGGATGTCTACCAGGCTGCTATT  60
 Sbjct  357  TTGATCAGTGTGCTCTTTACTTAAATTTTTGGACAACAGGATGTCTACCAGGCTGTTATT  416
 
 Query  61   TACTTTGTTTGTTTGTTTTTTTAATTTAAAAAATTCTCTCTTTGAAGGCAAACCTTAACA  120
-            |  ||||||| ||  |||||||||||||||||||||| ||||||||||||||||||||||
-Sbjct  417  TTTTTTGTTT-TTGTTTTTTTTAATTTAAAAAATTCTTTCTTTGAAGGCAAACCTTAACA  475
+            |  ||||||| | | |||||||||||||||||||||| ||||||||||||||||||||||
+Sbjct  417  TTTTTTGTTTTTGT-TTTTTTTAATTTAAAAAATTCTTTCTTTGAAGGCAAACCTTAACA  475
 
 Query  121  GACTGTGCAAGCTTAAACTGACATGCTCAAATACATCCACTTTGAGCAAGCTGGATATCC  180
             ||||||||||||||||| |||||||||||||||||||||||||||| ||| |||||||||
@@ -1443,28 +1943,9 @@ Lambda      K        H
 
 Gapped
 Lambda      K        H
-    1.28    0.460    0.850 
-
-Effective search space used: 137631412627288
-
-
-Query= BC_4612952_1_2_3_4
-
-Length=314
-
-
-***** No hits found *****
-
-
-
-Lambda      K        H
     1.33    0.621     1.12 
 
-Gapped
-Lambda      K        H
-    1.28    0.460    0.850 
-
-Effective search space used: 137631412627288
+Effective search space used: 155909446435184
 
 
   Database: Nucleotide collection (nt)
@@ -1475,4 +1956,4 @@ Effective search space used: 137631412627288
 
 
 Matrix: blastn matrix 1 -2
-Gap Penalties: Existence: 0, Extension: 2.5
+Gap Penalties: Existence: 5, Extension: 2

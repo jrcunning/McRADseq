@@ -21,85 +21,254 @@ Database: data/ref/uniprot_sprot.fasta
 
 
 
-Query= Acropora_hyacinthus_2162
+Query= Acropora_digitifera_6722
 
-Length=160
+Length=279
                                                                       Score     E
 Sequences producing significant alignments:                          (Bits)  Value
 
-  sp|Q82T88|GLGC_NITEU Glucose-1-phosphate adenylyltransferase OS...  32.0    1.9  
-  sp|Q9VRH6|GUF1_DROME Translation factor waclaw, mitochondrial O...  31.6    2.8  
-  sp|Q9UKV0|HDAC9_HUMAN Histone deacetylase 9 OS=Homo sapiens GN=...  30.8    5.7  
-  sp|B7LSE1|GLGC_ESCF3 Glucose-1-phosphate adenylyltransferase OS...  30.4    6.4  
+  sp|A4QNN3|UBP30_XENTR Ubiquitin carboxyl-terminal hydrolase 30 ...  172     8e-49
+  sp|D3ZPG5|UBP30_RAT Ubiquitin carboxyl-terminal hydrolase 30 OS...  156     4e-43
+  sp|Q70CQ3|UBP30_HUMAN Ubiquitin carboxyl-terminal hydrolase 30 ...  155     1e-42
+  sp|Q3UN04|UBP30_MOUSE Ubiquitin carboxyl-terminal hydrolase 30 ...  154     3e-42
+  sp|A2BGT0|UBP30_DANRE Ubiquitin carboxyl-terminal hydrolase 30 ...  132     3e-34
+  sp|Q9W462|UBP30_DROME Ubiquitin carboxyl-terminal hydrolase 30 ...  105     2e-24
+  sp|Q9FPS0|UBP27_ARATH Ubiquitin carboxyl-terminal hydrolase 27 ...  67.4    2e-11
+  sp|Q91W36|UBP3_MOUSE Ubiquitin carboxyl-terminal hydrolase 3 OS...  61.6    2e-09
+  sp|Q9Y6I4|UBP3_HUMAN Ubiquitin carboxyl-terminal hydrolase 3 OS...  60.8    3e-09
+  sp|Q6FQF0|UBP4_CANGA Ubiquitin carboxyl-terminal hydrolase 4 OS...  60.8    4e-09
+  sp|Q8C2S0|UBP44_MOUSE Ubiquitin carboxyl-terminal hydrolase 44 ...  57.8    4e-08
+  sp|A7TGY3|UBP4_VANPO Ubiquitin carboxyl-terminal hydrolase 4 OS...  55.8    1e-07
+  sp|Q70CQ1|UBP49_HUMAN Ubiquitin carboxyl-terminal hydrolase 49 ...  55.5    2e-07
+  sp|E9Q9U0|U17PB_MOUSE Ubiquitin carboxyl-terminal hydrolase 17-...  55.1    2e-07
+  sp|Q9FPS4|UBP23_ARATH Ubiquitin carboxyl-terminal hydrolase 23 ...  55.5    2e-07
+  sp|D2HBJ8|UBP44_AILME Ubiquitin carboxyl-terminal hydrolase 44 ...  54.7    3e-07
+  sp|Q0V9G5|UBP44_XENTR Ubiquitin carboxyl-terminal hydrolase 44 ...  53.9    6e-07
+  sp|Q6P9L4|UBP49_MOUSE Ubiquitin carboxyl-terminal hydrolase 49 ...  53.9    7e-07
+  sp|O57429|UBP2_CHICK Ubiquitin carboxyl-terminal hydrolase 2 OS...  52.4    1e-06
+  sp|Q9H0E7|UBP44_HUMAN Ubiquitin carboxyl-terminal hydrolase 44 ...  53.1    1e-06
+  sp|G5E8G2|U17PD_MOUSE Ubiquitin carboxyl-terminal hydrolase 17-...  52.0    3e-06
+  sp|A6ZY34|UBP4_YEAS7 Ubiquitin carboxyl-terminal hydrolase 4 OS...  51.6    4e-06
+  sp|Q9HFS7|UBP4_KLULA Ubiquitin carboxyl-terminal hydrolase 4 OS...  51.2    5e-06
+  sp|B1AY13|UBP24_MOUSE Ubiquitin carboxyl-terminal hydrolase 24 ...  51.6    5e-06
+  sp|Q9UPU5|UBP24_HUMAN Ubiquitin carboxyl-terminal hydrolase 24 ...  51.2    5e-06
+  sp|Q67XW5|UBP18_ARATH Ubiquitin carboxyl-terminal hydrolase 18 ...  50.8    6e-06
+  sp|Q7ZUM8|UBP44_DANRE Ubiquitin carboxyl-terminal hydrolase 44 ...  50.8    6e-06
+  sp|B3LGK1|UBP4_YEAS1 Ubiquitin carboxyl-terminal hydrolase 4 OS...  50.8    7e-06
+  sp|P32571|UBP4_YEAST Ubiquitin carboxyl-terminal hydrolase 4 OS...  50.8    8e-06
+  sp|Q754R5|UBP4_ASHGO Ubiquitin carboxyl-terminal hydrolase 4 OS...  50.1    1e-05
+  sp|Q61068|U17PA_MOUSE Ubiquitin carboxyl-terminal hydrolase 17-...  49.7    1e-05
+  sp|Q9QZL6|UBP21_MOUSE Ubiquitin carboxyl-terminal hydrolase 21 ...  49.7    2e-05
+  sp|Q9UK80|UBP21_HUMAN Ubiquitin carboxyl-terminal hydrolase 21 ...  48.9    2e-05
+  sp|Q2KJ72|UBP21_BOVIN Ubiquitin carboxyl-terminal hydrolase 21 ...  48.5    3e-05
+  sp|B2GUX4|UBP21_RAT Ubiquitin carboxyl-terminal hydrolase 21 OS...  48.5    3e-05
+  sp|Q7M764|U17PE_MOUSE Ubiquitin carboxyl-terminal hydrolase 17-...  47.8    6e-05
+  sp|Q5XGZ2|UP44B_XENLA Ubiquitin carboxyl-terminal hydrolase 44-...  47.8    7e-05
+  sp|Q6NTR6|UP44A_XENLA Ubiquitin carboxyl-terminal hydrolase 44-...  47.4    8e-05
+  sp|P50102|UBP8_YEAST Ubiquitin carboxyl-terminal hydrolase 8 OS...  47.0    1e-04
+  sp|O75604|UBP2_HUMAN Ubiquitin carboxyl-terminal hydrolase 2 OS...  47.0    1e-04
+  sp|O88623|UBP2_MOUSE Ubiquitin carboxyl-terminal hydrolase 2 OS...  47.0    1e-04
+  sp|Q9SB51|UBP16_ARATH Ubiquitin carboxyl-terminal hydrolase 16 ...  47.0    1e-04
+  sp|P25037|UBP1_YEAST Ubiquitin carboxyl-terminal hydrolase 1 OS...  47.0    1e-04
+  sp|Q2KHV7|UBP2_BOVIN Ubiquitin carboxyl-terminal hydrolase 2 OS...  46.6    2e-04
+  sp|Q5ZM45|UBP48_CHICK Ubiquitin carboxyl-terminal hydrolase 48 ...  46.6    2e-04
+  sp|Q5U349|UBP2_RAT Ubiquitin carboxyl-terminal hydrolase 2 OS=R...  45.1    4e-04
+  sp|Q86UV5|UBP48_HUMAN Ubiquitin carboxyl-terminal hydrolase 48 ...  45.4    4e-04
+  sp|A5PJS6|UBP10_BOVIN Ubiquitin carboxyl-terminal hydrolase 10 ...  45.1    5e-04
+  sp|P55824|FAF_DROME Probable ubiquitin carboxyl-terminal hydrol...  45.1    5e-04
+  sp|P70398|USP9X_MOUSE Probable ubiquitin carboxyl-terminal hydr...  45.1    6e-04
+  sp|Q70EK9|UBP51_HUMAN Ubiquitin carboxyl-terminal hydrolase 51 ...  44.7    6e-04
+  sp|Q93008|USP9X_HUMAN Probable ubiquitin carboxyl-terminal hydr...  44.7    7e-04
+  sp|O74442|UBP16_SCHPO Probable ubiquitin carboxyl-terminal hydr...  43.9    9e-04
+  sp|Q3V0C5|UBP48_MOUSE Ubiquitin carboxyl-terminal hydrolase 48 ...  44.3    9e-04
+  sp|Q9UPT9|UBP22_HUMAN Ubiquitin carboxyl-terminal hydrolase 22 ...  42.7    0.002
+  sp|Q9VVR1|NOT_DROME Ubiquitin carboxyl-terminal hydrolase nonst...  43.1    0.002
+  sp|P0C8Z3|UBP22_BOVIN Ubiquitin carboxyl-terminal hydrolase 22 ...  42.7    0.003
+  sp|Q9HBJ7|UBP29_HUMAN Ubiquitin carboxyl-terminal hydrolase 29 ...  42.7    0.003
+  sp|Q6GNI6|UB22A_XENLA Ubiquitin carboxyl-terminal hydrolase 22-...  42.4    0.003
+  sp|Q5DU02|UBP22_MOUSE Ubiquitin carboxyl-terminal hydrolase 22 ...  42.4    0.003
+  sp|Q6DCJ1|UB22B_XENLA Ubiquitin carboxyl-terminal hydrolase 22-...  42.0    0.004
+  sp|F1M625|UBP46_RAT Ubiquitin carboxyl-terminal hydrolase 46 OS...  42.0    0.004
+  sp|A6H8I0|UBP22_DANRE Ubiquitin carboxyl-terminal hydrolase 22 ...  41.6    0.005
+  sp|Q5RBQ4|UBP46_PONAB Ubiquitin carboxyl-terminal hydrolase 46 ...  41.6    0.005
+  sp|P62069|UBP46_MOUSE Ubiquitin carboxyl-terminal hydrolase 46 ...  41.6    0.005
+  sp|P62068|UBP46_HUMAN Ubiquitin carboxyl-terminal hydrolase 46 ...  41.6    0.005
+  sp|P0CAQ1|UBP16_EMENI Ubiquitin carboxyl-terminal hydrolase 16 ...  41.6    0.006
+  sp|Q9FIQ1|UBP21_ARATH Ubiquitin carboxyl-terminal hydrolase 21 ...  41.6    0.007
+  sp|O00507|USP9Y_HUMAN Probable ubiquitin carboxyl-terminal hydr...  40.8    0.011
+  sp|Q76LT8|UBP48_RAT Ubiquitin carboxyl-terminal hydrolase 48 OS...  40.8    0.011
+  sp|Q9C585|UBP8_ARATH Ubiquitin carboxyl-terminal hydrolase 8 OS...  40.8    0.012
+  sp|Q3KR59|UBP10_RAT Ubiquitin carboxyl-terminal hydrolase 10 OS...  40.8    0.012
+  sp|P52479|UBP10_MOUSE Ubiquitin carboxyl-terminal hydrolase 10 ...  40.8    0.012
+  sp|Q9ES63|UBP29_MOUSE Ubiquitin carboxyl-terminal hydrolase 29 ...  40.4    0.015
+  sp|A5PN09|UBP20_DANRE Ubiquitin carboxyl-terminal hydrolase 20 ...  40.4    0.015
+  sp|A5D9H7|UBP12_BOVIN Ubiquitin carboxyl-terminal hydrolase 12 ...  40.0    0.016
+  sp|Q9SJA1|UBP19_ARATH Ubiquitin carboxyl-terminal hydrolase 19 ...  40.0    0.017
+  sp|Q9P7V9|UBP9_SCHPO Probable ubiquitin carboxyl-terminal hydro...  40.0    0.017
+  sp|Q9D9M2|UBP12_MOUSE Ubiquitin carboxyl-terminal hydrolase 12 ...  39.7    0.019
+  sp|Q9FKP5|UBP17_ARATH Ubiquitin carboxyl-terminal hydrolase 17 ...  40.0    0.020
+  sp|Q9Y2K6|UBP20_HUMAN Ubiquitin carboxyl-terminal hydrolase 20 ...  40.0    0.020
+  sp|Q5R5Z6|UBP20_PONAB Ubiquitin carboxyl-terminal hydrolase 20 ...  40.0    0.020
+  sp|Q5M981|UB12B_XENLA Ubiquitin carboxyl-terminal hydrolase 12-...  39.7    0.023
+  sp|Q14694|UBP10_HUMAN Ubiquitin carboxyl-terminal hydrolase 10 ...  39.7    0.025
+  sp|Q4R6D3|UBP50_MACFA Putative ubiquitin carboxyl-terminal hydr...  38.9    0.034
+  sp|O75317|UBP12_HUMAN Ubiquitin carboxyl-terminal hydrolase 12 ...  38.9    0.035
+  sp|C9JPN9|UL17C_HUMAN Ubiquitin carboxyl-terminal hydrolase 17-...  38.9    0.038
+  sp|Q2NL57|UB10A_XENLA Ubiquitin carboxyl-terminal hydrolase 10-...  38.9    0.042
+  sp|D6R901|U17LL_HUMAN Ubiquitin carboxyl-terminal hydrolase 17-...  38.9    0.044
+  sp|Q52KZ6|UB12A_XENLA Ubiquitin carboxyl-terminal hydrolase 12-...  38.5    0.051
+  sp|P40818|UBP8_HUMAN Ubiquitin carboxyl-terminal hydrolase 8 OS...  38.5    0.056
+  sp|C0HB46|UBP12_SALSA Ubiquitin carboxyl-terminal hydrolase 12 ...  38.1    0.061
+  sp|Q09738|UBP8_SCHPO Probable ubiquitin carboxyl-terminal hydro...  38.1    0.062
+  sp|A1A5G2|UBP47_XENTR Ubiquitin carboxyl-terminal hydrolase 47 ...  38.5    0.070
+  sp|A6NNY8|UBP27_HUMAN Ubiquitin carboxyl-terminal hydrolase 27 ...  38.1    0.072
+  sp|Q9MAQ3|UBP11_ARATH Putative ubiquitin carboxyl-terminal hydr...  38.1    0.073
+  sp|B4IXE0|UBP36_DROGR Ubiquitin carboxyl-terminal hydrolase 36 ...  38.1    0.075
+  sp|P36026|UBP11_YEAST Ubiquitin carboxyl-terminal hydrolase 11 ...  38.1    0.077
+  sp|P40453|UBP7_YEAST Ubiquitin carboxyl-terminal hydrolase 7 OS...  38.1    0.079
+  sp|D3ZU96|UBP42_RAT Ubiquitin carboxyl-terminal hydrolase 42 OS...  38.1    0.080
+  sp|A7Z056|UBP20_BOVIN Ubiquitin carboxyl-terminal hydrolase 20 ...  38.1    0.092
+  sp|A5WWB0|UBP46_DANRE Ubiquitin carboxyl-terminal hydrolase 46 ...  37.7    0.094
+  sp|Q8CEG8|UBP27_MOUSE Ubiquitin carboxyl-terminal hydrolase 27 ...  37.7    0.094
+  sp|A4FUN7|UBP12_DANRE Ubiquitin carboxyl-terminal hydrolase 12A...  37.7    0.095
+  sp|B2RQC2|UBP42_MOUSE Ubiquitin carboxyl-terminal hydrolase 42 ...  38.1    0.095
+  sp|P39944|UBP5_YEAST Ubiquitin carboxyl-terminal hydrolase 5 OS...  37.7    0.096
+  sp|Q80U87|UBP8_MOUSE Ubiquitin carboxyl-terminal hydrolase 8 OS...  37.7    0.10 
+  sp|Q9FPS9|UBP15_ARATH Ubiquitin carboxyl-terminal hydrolase 15 ...  37.7    0.11 
+  sp|Q9LEW0|UBP22_ARATH Ubiquitin carboxyl-terminal hydrolase 22 ...  37.4    0.12 
+  sp|P35125|UBP6_HUMAN Ubiquitin carboxyl-terminal hydrolase 6 OS...  37.4    0.14 
+  sp|Q0WX57|U17LO_HUMAN Ubiquitin carboxyl-terminal hydrolase 17-...  37.4    0.14 
+  sp|D6RJB6|U17LK_HUMAN Ubiquitin carboxyl-terminal hydrolase 17-...  37.4    0.15 
+  sp|Q8NFA0|UBP32_HUMAN Ubiquitin carboxyl-terminal hydrolase 32 ...  37.4    0.16 
+  sp|Q8C0R0|UBP37_MOUSE Ubiquitin carboxyl-terminal hydrolase 37 ...  37.4    0.16 
+  sp|Q9H9J4|UBP42_HUMAN Ubiquitin carboxyl-terminal hydrolase 42 ...  37.0    0.20 
+  sp|E1C213|UBP37_CHICK Ubiquitin carboxyl-terminal hydrolase 37 ...  37.0    0.21 
+  sp|P78741|BBR1_SCHCO Pheromone B beta 1 receptor OS=Schizophyll...  36.6    0.22 
+  sp|E1B9W9|UBP42_BOVIN Ubiquitin carboxyl-terminal hydrolase 42 ...  37.0    0.23 
+  sp|Q7ZXR7|UB10B_XENLA Ubiquitin carboxyl-terminal hydrolase 10-...  36.6    0.25 
+  sp|B1WBD7|UBP20_XENLA Ubiquitin carboxyl-terminal hydrolase 20 ...  36.6    0.27 
+  sp|B4LG38|UBP36_DROVI Ubiquitin carboxyl-terminal hydrolase 36 ...  36.6    0.28 
+  sp|A0JM59|UBP20_XENTR Ubiquitin carboxyl-terminal hydrolase 20 ...  36.2    0.29 
+  sp|B4KXJ5|UBP36_DROMO Ubiquitin carboxyl-terminal hydrolase 36 ...  36.6    0.29 
+  sp|Q8LAM0|UBP4_ARATH Ubiquitin carboxyl-terminal hydrolase 4 OS...  36.2    0.30 
+  sp|Q5U252|UBP47_XENLA Ubiquitin carboxyl-terminal hydrolase 47 ...  36.6    0.30 
+  sp|O96612|UBPB_DICDI Ubiquitin hydrolase B OS=Dictyostelium dis...  36.2    0.31 
+  sp|A8MUK1|U17L5_HUMAN Ubiquitin carboxyl-terminal hydrolase 17-...  36.2    0.34 
+  sp|Q8C6M1|UBP20_MOUSE Ubiquitin carboxyl-terminal hydrolase 20 ...  36.2    0.34 
+  sp|Q5RCD3|UBP4_PONAB Ubiquitin carboxyl-terminal hydrolase 4 OS...  35.8    0.39 
+  sp|Q5ZJN4|UBP10_CHICK Ubiquitin carboxyl-terminal hydrolase 10 ...  35.8    0.40 
+  sp|Q4JUI1|SYR_CORJK Arginine--tRNA ligase OS=Corynebacterium je...  35.4    0.52 
+  sp|P51784|UBP11_HUMAN Ubiquitin carboxyl-terminal hydrolase 11 ...  35.4    0.53 
+  sp|Q9FPS3|UBP24_ARATH Ubiquitin carboxyl-terminal hydrolase 24 ...  35.4    0.57 
+  sp|Q6DIJ4|UBP10_XENTR Ubiquitin carboxyl-terminal hydrolase 10 ...  35.0    0.66 
+  sp|F1N5V1|UBP37_BOVIN Ubiquitin carboxyl-terminal hydrolase 37 ...  35.0    0.70 
+  sp|Q86T82|UBP37_HUMAN Ubiquitin carboxyl-terminal hydrolase 37 ...  35.0    0.72 
+  sp|Q5UQR3|UBPL1_MIMIV Probable ubiquitin carboxyl-terminal hydr...  34.7    0.79 
+  sp|Q9USM5|UBP1_SCHPO Probable ubiquitin carboxyl-terminal hydro...  35.0    0.83 
+  sp|Q8R5K2|UBP33_MOUSE Ubiquitin carboxyl-terminal hydrolase 33 ...  34.7    0.95 
+  sp|A6QNM7|UBP33_BOVIN Ubiquitin carboxyl-terminal hydrolase 33 ...  34.7    1.0  
+  sp|B3NC86|UBP36_DROER Ubiquitin carboxyl-terminal hydrolase 36 ...  34.7    1.0  
+  sp|Q5R407|UBP5_PONAB Ubiquitin carboxyl-terminal hydrolase 5 OS...  34.7    1.1  
+  sp|Q28CN3|UBP33_XENTR Ubiquitin carboxyl-terminal hydrolase 33 ...  34.7    1.1  
+  sp|A6QR55|UBP4_BOVIN Ubiquitin carboxyl-terminal hydrolase 4 OS...  34.7    1.1  
+  sp|P45974|UBP5_HUMAN Ubiquitin carboxyl-terminal hydrolase 5 OS...  34.7    1.1  
+  sp|Q13107|UBP4_HUMAN Ubiquitin carboxyl-terminal hydrolase 4 OS...  34.3    1.2  
+  sp|Q5REG5|UBP33_PONAB Ubiquitin carboxyl-terminal hydrolase 33 ...  34.3    1.2  
+  sp|P34547|UBP46_CAEEL Ubiquitin carboxyl-terminal hydrolase 46 ...  34.3    1.3  
+  sp|B0Y4P5|CREB_ASPFC Probable ubiquitin carboxyl-terminal hydro...  34.3    1.4  
+  sp|Q4WQI1|CREB_ASPFU Probable ubiquitin carboxyl-terminal hydro...  33.9    1.5  
+  sp|O24454|UBP3_ARATH Ubiquitin carboxyl-terminal hydrolase 3 OS...  33.9    1.6  
+  sp|P39538|UBP12_YEAST Ubiquitin carboxyl-terminal hydrolase 12 ...  34.3    1.6  
+  sp|Q8TEY7|UBP33_HUMAN Ubiquitin carboxyl-terminal hydrolase 33 ...  33.9    1.6  
+  sp|F6Z5C0|UBP15_XENTR Ubiquitin carboxyl-terminal hydrolase 15 ...  33.9    1.6  
+  sp|O22207|UBP5_ARATH Ubiquitin carboxyl-terminal hydrolase 5 OS...  33.9    1.7  
+  sp|E2RK09|UBP37_CANLF Ubiquitin carboxyl-terminal hydrolase 37 ...  33.9    1.7  
+  sp|Q2LZB1|UBP36_DROPS Ubiquitin carboxyl-terminal hydrolase 36 ...  33.9    1.7  
+  sp|D6R9N7|U17LI_HUMAN Ubiquitin carboxyl-terminal hydrolase 17-...  33.9    1.7  
+  sp|C9JVI0|U17LB_HUMAN Ubiquitin carboxyl-terminal hydrolase 17-...  33.9    1.8  
+  sp|B2GUZ1|UBP4_RAT Ubiquitin carboxyl-terminal hydrolase 4 OS=R...  33.9    1.8  
+  sp|D6RA61|U17LM_HUMAN Ubiquitin carboxyl-terminal hydrolase 17-...  33.9    1.8  
+  sp|Q9Y4E8|UBP15_HUMAN Ubiquitin carboxyl-terminal hydrolase 15 ...  33.9    1.8  
+  sp|D6RCP7|U17LJ_HUMAN Ubiquitin carboxyl-terminal hydrolase 17-...  33.9    1.9  
+  sp|Q2HJE4|UBP15_BOVIN Ubiquitin carboxyl-terminal hydrolase 15 ...  33.9    1.9  
+  sp|O94269|UBP3_SCHPO Probable ubiquitin carboxyl-terminal hydro...  33.5    1.9  
+  sp|Q8R5H1|UBP15_MOUSE Ubiquitin carboxyl-terminal hydrolase 15 ...  33.9    1.9  
+  sp|Q9R085|UBP15_RAT Ubiquitin carboxyl-terminal hydrolase 15 OS...  33.9    1.9  
+  sp|C9JLJ4|U17LD_HUMAN Ubiquitin carboxyl-terminal hydrolase 17-...  33.5    2.0  
+  sp|D6RBQ6|U17LH_HUMAN Ubiquitin carboxyl-terminal hydrolase 17-...  33.5    2.0  
+  sp|Q6BW42|ALG10_DEBHA Dol-P-Glc:Glc(2)Man(9)GlcNAc(2)-PP-Dol al...  33.5    2.0  
+  sp|A1CIL1|CREB_ASPCL Probable ubiquitin carboxyl-terminal hydro...  33.9    2.0  
+  sp|Q6QN14|U17L6_HUMAN Ubiquitin carboxyl-terminal hydrolase 17-...  33.5    2.0  
+  sp|Q9P3U0|UBP2_SCHPO Probable ubiquitin carboxyl-terminal hydro...  33.9    2.1  
+  sp|A5PMR2|UBP33_DANRE Ubiquitin carboxyl-terminal hydrolase 33 ...  33.5    2.1  
+  sp|P35123|UBP4_MOUSE Ubiquitin carboxyl-terminal hydrolase 4 OS...  33.5    2.1  
+  sp|A1CW53|CREB_NEOFI Probable ubiquitin carboxyl-terminal hydro...  33.5    2.3  
+  sp|Q6PAW2|UBP16_XENLA Ubiquitin carboxyl-terminal hydrolase 16 ...  33.5    2.4  
+  sp|Q9VRP5|UBP36_DROME Ubiquitin carboxyl-terminal hydrolase 36 ...  33.5    2.5  
+  sp|F1QFS9|UBP13_DANRE Ubiquitin carboxyl-terminal hydrolase 13 ...  33.5    2.5  
+  sp|Q02863|UBP16_YEAST Ubiquitin carboxyl-terminal hydrolase 16 ...  33.1    2.5  
+  sp|Q99K46|UBP11_MOUSE Ubiquitin carboxyl-terminal hydrolase 11 ...  33.5    2.5  
+  sp|Q5D006|UBP11_RAT Ubiquitin carboxyl-terminal hydrolase 11 OS...  33.5    2.6  
+  sp|B4PIW8|UBP36_DROYA Ubiquitin carboxyl-terminal hydrolase 36 ...  33.5    2.6  
+  sp|B4QIS3|UBP36_DROSI Ubiquitin carboxyl-terminal hydrolase 36 ...  33.5    2.7  
+  sp|Q93Y01|UBP9_ARATH Ubiquitin carboxyl-terminal hydrolase 9 OS...  33.1    2.7  
+  sp|P56399|UBP5_MOUSE Ubiquitin carboxyl-terminal hydrolase 5 OS...  33.1    2.8  
+  sp|Q9ZSB5|UBP10_ARATH Ubiquitin carboxyl-terminal hydrolase 10 ...  33.1    3.3  
+  sp|F1SRY5|UBP37_PIG Ubiquitin carboxyl-terminal hydrolase 37 OS...  33.1    3.5  
+  sp|C9JJH3|U17LA_HUMAN Ubiquitin carboxyl-terminal hydrolase 17-...  32.7    4.3  
+  sp|Q0VA64|UBP16_XENTR Ubiquitin carboxyl-terminal hydrolase 16 ...  32.7    4.3  
+  sp|Q8BWR4|UBP40_MOUSE Ubiquitin carboxyl-terminal hydrolase 40 ...  32.7    4.4  
+  sp|Q9BXU7|UBP26_HUMAN Ubiquitin carboxyl-terminal hydrolase 26 ...  32.7    4.8  
+  sp|Q6R6M4|U17L2_HUMAN Ubiquitin carboxyl-terminal hydrolase 17 ...  32.3    4.9  
+  sp|P54201|UBPA_DICDI Ubiquitin carboxyl-terminal hydrolase A OS...  32.3    5.2  
+  sp|O60079|UBP12_SCHPO Probable ubiquitin carboxyl-terminal hydr...  32.3    5.5  
+  sp|E1BY77|UBP13_CHICK Ubiquitin carboxyl-terminal hydrolase 13 ...  32.3    5.9  
+  sp|Q2UUG8|CREB_ASPOR Probable ubiquitin carboxyl-terminal hydro...  32.3    5.9  
+  sp|Q0CT11|CREB_ASPTN Probable ubiquitin carboxyl-terminal hydro...  32.3    6.1  
+  sp|B8NSV5|CREB_ASPFN Probable ubiquitin carboxyl-terminal hydro...  32.0    6.2  
+  sp|Q9NVE5|UBP40_HUMAN Ubiquitin carboxyl-terminal hydrolase 40 ...  32.0    6.6  
+  sp|O94276|YORS_SCHPO Meiotic chromosome segregation protein P8B...  31.2    8.1  
+  sp|Q8CEZ4|CB054_MOUSE Uncharacterized protein C2orf54 homolog O...  31.6    8.6  
+  sp|B4MLR8|UBP36_DROWI Ubiquitin carboxyl-terminal hydrolase 36 ...  31.6    9.9  
 
 
-> sp|Q82T88|GLGC_NITEU Glucose-1-phosphate adenylyltransferase 
-OS=Nitrosomonas europaea (strain ATCC 19718 / CIP 103999 / KCTC 
-2705 / NBRC 14298) GN=glgC PE=3 SV=1
-Length=433
+> sp|A4QNN3|UBP30_XENTR Ubiquitin carboxyl-terminal hydrolase 30 
+OS=Xenopus tropicalis GN=usp30 PE=2 SV=1
+Length=519
 
- Score = 32.0 bits (71),  Expect = 1.9, Method: Compositional matrix adjust.
- Identities = 17/46 (37%), Positives = 25/46 (54%), Gaps = 1/46 (2%)
+ Score = 172 bits (435),  Expect = 8e-49, Method: Compositional matrix adjust.
+ Identities = 109/294 (37%), Positives = 161/294 (55%), Gaps = 29/294 (10%)
 
-Query  45   VPYFFNKNTFPCYQKEHIFLGTIVPKSSIRDQFVPLQIRKLEQLVP  90
-            VPY+ +  T   Y K +I L TI P  ++ D+  P+   + EQL P
-Sbjct  274  VPYWRDVGTVDAYWKANIDLTTITPDLNLYDEDWPIWTHQ-EQLPP  318
+Query  10   VLRALYSHGWVIPS-EQQDAHEFFHVLSSTLDDEMGKIPDVMNLSDIVTVESSETTEDNS  68
+            +L  L +H W I S E+QDAHE FHVL+S+L+DE  + P V +L D+ ++E     E   
+Sbjct  159  LLEVLRAHRWQISSFEEQDAHELFHVLTSSLEDERDRRPHVTHLFDLDSLEFP--LEPQR  216
+
+Query  69   MIH-RNKVPLSR--DCKRPQLPFHGLLASQLVCKQCGTKCPVKFDSYDSLSLSLP-SVFQ  124
+             IH R +VP+       + Q PFHG L S +VCK C  + P+++D++DSLSLS+P + + 
+Sbjct  217  QIHCRTQVPIYPIPSQWKSQHPFHGRLTSNMVCKHCQHQSPMRYDTFDSLSLSIPVATWG  276
+
+Query  125  MGLTLEDLLQAFVCSETVDSVYCGGCRQQNSVR-----STSAVKTKFIKRLTFGKLPQCL  179
+              +TL+  LQ F+ +E+V  V C  C + ++ +     S    KT F+K+L  GKLPQCL
+Sbjct  277  HPITLDQCLQHFISTESVKDVVCENCTKIHAAQIPNSQSVENRKTTFVKQLKLGKLPQCL  336
+
+Query  180  CIHIQRTYWRNNGIPYKNNLFIKFPEFLDMEPFLYEPLDGSSFKRSKLSVMKNVEPEADT  239
+            CIH+QR  W N G P K N  ++F EFL M+ F Y  + G S  +   + +   E E   
+Sbjct  337  CIHLQRLSWSNQGSPLKRNEHVQFSEFLAMDRFKYR-ISGCSTSKQPANHLSAAEQETTD  395
+
+Query  240  SAD----------LNG-----FLDELVTSFVKTNKGSTSRA-IYKLMAGCCTYG  277
+              +          LNG     ++    TS + TN   TS + +++LMA    +G
+Sbjct  396  GKEGGAQNPTMPFLNGACSTSYISPPFTSPLPTNPEWTSSSYLFRLMAVVVHHG  449
 
 
 
 Lambda      K        H
-   0.319    0.133    0.385 
+   0.320    0.135    0.409 
 
 Gapped
 Lambda      K        H
    0.267   0.0410    0.140 
 
-Effective search space used: 7201273976
-
-
-Query= Acropora_hyacinthus_5573
-
-Length=110
-                                                                      Score     E
-Sequences producing significant alignments:                          (Bits)  Value
-
-  sp|P09177|CARP_RHIPU Mucorpepsin OS=Rhizomucor pusillus PE=1 SV=2   32.0    0.73 
-  sp|O83965|YA00_TREPA Uncharacterized protein TP_1000 OS=Trepone...  31.6    0.83 
-  sp|Q87YX3|ALLA_PSESM Ureidoglycolate lyase OS=Pseudomonas syrin...  30.8    1.9  
-  sp|P62413|PGK_LACJO Phosphoglycerate kinase OS=Lactobacillus jo...  30.8    2.2  
-  sp|P00799|CARP_RHIMI Mucorpepsin OS=Rhizomucor miehei PE=1 SV=1     29.6    4.6  
-  sp|Q6XW15|POLG_BTMV Genome polyprotein OS=Beet mosaic virus PE=...  30.0    4.8  
-  sp|Q57807|Y361_METJA Uncharacterized HTH-type transcriptional r...  28.9    5.4  
-  sp|P11531|DMD_MOUSE Dystrophin OS=Mus musculus GN=Dmd PE=1 SV=3     29.6    6.1  
-  sp|Q042F2|PGK_LACGA Phosphoglycerate kinase OS=Lactobacillus ga...  29.3    6.7  
-  sp|Q8B912|RPOA_PRRSB Replicase polyprotein 1ab OS=Porcine repro...  29.3    7.8  
-  sp|Q9YN02|RPOA_PRRS1 Replicase polyprotein 1ab OS=Porcine repro...  29.3    8.7  
-  sp|Q9WJB2|RPOA_PRRSR Replicase polyprotein 1ab OS=Porcine repro...  28.9    9.3  
-  sp|B3WDL0|GLYA_LACCB Serine hydroxymethyltransferase OS=Lactoba...  28.9    9.5  
-  sp|Q03A26|GLYA_LACC3 Serine hydroxymethyltransferase OS=Lactoba...  28.9    9.5  
-
-
-> sp|P09177|CARP_RHIPU Mucorpepsin OS=Rhizomucor pusillus PE=1 
-SV=2
-Length=427
-
- Score = 32.0 bits (71),  Expect = 0.73, Method: Composition-based stats.
- Identities = 12/24 (50%), Positives = 15/24 (63%), Gaps = 0/24 (0%)
-
-Query  42   ILLHTGEWDHWIPSKPMPNSEGCI  65
-            +L  TG  D W+P K   NSEGC+
-Sbjct  101  LLFDTGSSDTWVPHKGCDNSEGCV  124
-
-
-
-Lambda      K        H
-   0.319    0.133    0.385 
-
-Gapped
-Lambda      K        H
-   0.267   0.0410    0.140 
-
-Effective search space used: 7201273976
+Effective search space used: 21850885130
 
 
 Query= Acropora_millepora_1944 cds.Cluster001151|m.3849
@@ -129,13 +298,13 @@ Sbjct  1180  RL  1181
 
 
 Lambda      K        H
-   0.319    0.133    0.385 
+   0.320    0.135    0.409 
 
 Gapped
 Lambda      K        H
    0.267   0.0410    0.140 
 
-Effective search space used: 7201273976
+Effective search space used: 21850885130
 
 
 Query= Acropora_millepora_13064 cds.Cluster009971|m.20766
@@ -174,13 +343,13 @@ Sbjct  135  QYLIIICQSKAGAIVVKDKTYYMFDPHC-----IPNIPNSPAHVIKTNDVGVLLPY  185
 
 
 Lambda      K        H
-   0.319    0.133    0.385 
+   0.320    0.135    0.409 
 
 Gapped
 Lambda      K        H
    0.267   0.0410    0.140 
 
-Effective search space used: 7201273976
+Effective search space used: 21850885130
 
 
 Query= Acropora_millepora_15070 cds.Cluster011788|m.46894
@@ -664,404 +833,100 @@ Sbjct  379  GRGRCEDG--ECICDTGYSGDDCGVRSCPG--DCNQRGRCE  415
 
 
 Lambda      K        H
-   0.319    0.133    0.385 
+   0.320    0.135    0.409 
 
 Gapped
 Lambda      K        H
    0.267   0.0410    0.140 
 
-Effective search space used: 7201273976
+Effective search space used: 21850885130
 
 
-Query= Acropora_millepora_17881 cds.Cluster014711|m.27442
+Query= Pocillopora_damicornis_19775
 
-Length=178
+Length=192
                                                                       Score     E
 Sequences producing significant alignments:                          (Bits)  Value
 
-  sp|Q5IS62|NPY2R_PANTR Neuropeptide Y receptor type 2 OS=Pan tro...  33.5    0.84 
-  sp|P49146|NPY2R_HUMAN Neuropeptide Y receptor type 2 OS=Homo sa...  33.5    0.84 
-  sp|Q9GK74|NPY2R_MACMU Neuropeptide Y receptor type 2 OS=Macaca ...  33.1    0.98 
-  sp|Q8AY29|CEGTA_XENLA Ceramide glucosyltransferase-A OS=Xenopus...  32.0    2.6  
-  sp|P97295|NPY2R_MOUSE Neuropeptide Y receptor type 2 OS=Mus mus...  32.0    2.7  
-  sp|Q73QJ2|ARCA_TREDE Arginine deiminase OS=Treponema denticola ...  32.0    3.0  
-  sp|A0LXS6|GCSH_GRAFK Glycine cleavage system H protein OS=Grame...  30.4    4.6  
-  sp|Q5E3L1|DNLJ_VIBF1 DNA ligase OS=Vibrio fischeri (strain ATCC...  31.2    5.5  
-  sp|P75678|YKFA_ECOLI Uncharacterized protein YkfA OS=Escherichi...  30.8    6.4  
-  sp|Q95V31|RS16_SPOFR 40S ribosomal protein S16 OS=Spodoptera fr...  29.6    9.1  
-  sp|Q815Y3|GCSH_BACCR Glycine cleavage system H protein OS=Bacil...  29.6    9.3  
-  sp|B7HD14|GCSH_BACC4 Glycine cleavage system H protein OS=Bacil...  29.6    9.3  
-  sp|Q6C922|YTH1_YARLI mRNA 3'-end-processing protein YTH1 OS=Yar...  30.0    9.7  
+  sp|Q9UHW5|GPN3_HUMAN GPN-loop GTPase 3 OS=Homo sapiens GN=GPN3 ...  201     1e-63
+  sp|Q0P5E2|GPN3_BOVIN GPN-loop GTPase 3 OS=Bos taurus GN=GPN3 PE...  200     2e-63
+  sp|Q9D3W4|GPN3_MOUSE GPN-loop GTPase 3 OS=Mus musculus GN=Gpn3 ...  199     4e-63
+  sp|Q6R518|GPN3_RAT GPN-loop GTPase 3 OS=Rattus norvegicus GN=Gp...  199     6e-63
+  sp|Q4V7Z0|GPN3_XENLA GPN-loop GTPase 3 OS=Xenopus laevis GN=gpn...  193     8e-61
+  sp|Q28I42|GPN3_XENTR GPN-loop GTPase 3 OS=Xenopus tropicalis GN...  192     3e-60
+  sp|Q6ZM63|GPN3_DANRE GPN-loop GTPase 3 OS=Danio rerio GN=gpn3 P...  189     3e-59
+  sp|Q4PF70|GPN3_USTMA GPN-loop GTPase 3 OS=Ustilago maydis (stra...  187     2e-58
+  sp|Q54NK8|GPN3_DICDI GPN-loop GTPase 3 OS=Dictyostelium discoid...  167     1e-50
+  sp|O14443|GPN3_SCHPO GPN-loop GTPase 3 OS=Schizosaccharomyces p...  157     1e-46
+  sp|Q750Q9|GPN3_ASHGO GPN-loop GTPase 3 OS=Ashbya gossypii (stra...  156     2e-46
+  sp|Q6CQA6|GPN3_KLULA GPN-loop GTPase 3 OS=Kluyveromyces lactis ...  150     3e-44
+  sp|P0CN94|GPN3_CRYNJ GPN-loop GTPase 3 OS=Cryptococcus neoforma...  150     9e-44
+  sp|P0CN95|GPN3_CRYNB GPN-loop GTPase 3 OS=Cryptococcus neoforma...  150     9e-44
+  sp|Q4WT40|GPN3_ASPFU GPN-loop GTPase 3 OS=Neosartorya fumigata ...  147     1e-42
+  sp|Q6BI59|GPN3_DEBHA GPN-loop GTPase 3 OS=Debaryomyces hansenii...  143     3e-41
+  sp|Q6FSS0|GPN3_CANGA GPN-loop GTPase 3 OS=Candida glabrata (str...  142     8e-41
+  sp|Q06543|GPN3_YEAST GPN-loop GTPase 3 OS=Saccharomyces cerevis...  139     1e-39
+  sp|Q5A0W6|GPN3_CANAL GPN-loop GTPase 3 OS=Candida albicans (str...  137     5e-39
+  sp|Q6CBB5|GPN3_YARLI GPN-loop GTPase 3 OS=Yarrowia lipolytica (...  134     5e-38
+  sp|Q4IQT8|GPN3_GIBZE GPN-loop GTPase 3 OS=Gibberella zeae (stra...  135     9e-38
+  sp|Q8VEJ1|GPN2_MOUSE GPN-loop GTPase 2 OS=Mus musculus GN=Gpn2 ...  115     2e-30
+  sp|Q6PUR6|GPN2_DANRE GPN-loop GTPase 2 OS=Danio rerio GN=gpn2 P...  114     6e-30
+  sp|Q54TE7|GPN2_DICDI GPN-loop GTPase 2 homolog OS=Dictyostelium...  114     7e-30
+  sp|Q5BJ53|GPN2_XENTR GPN-loop GTPase 2 OS=Xenopus tropicalis GN...  112     3e-29
+  sp|Q9H9Y4|GPN2_HUMAN GPN-loop GTPase 2 OS=Homo sapiens GN=GPN2 ...  112     5e-29
+  sp|Q58DD9|GPN2_PIG GPN-loop GTPase 2 OS=Sus scrofa GN=GPN2 PE=2...  112     5e-29
+  sp|Q4R579|GPN2_MACFA GPN-loop GTPase 2 OS=Macaca fascicularis G...  112     5e-29
+  sp|A6H7F2|GPN2_BOVIN GPN-loop GTPase 2 OS=Bos taurus GN=GPN2 PE...  112     5e-29
+  sp|D4A7C0|GPN2_RAT GPN-loop GTPase 2 OS=Rattus norvegicus GN=Gp...  112     8e-29
+  sp|Q66KF6|GPN2_XENLA GPN-loop GTPase 2 OS=Xenopus laevis GN=gpn...  111     2e-28
+  sp|Q9UTL7|GPN2_SCHPO GPN-loop GTPase 2 OS=Schizosaccharomyces p...  79.0    2e-16
+  sp|Q08726|GPN2_YEAST GPN-loop GTPase 2 OS=Saccharomyces cerevis...  76.6    1e-15
+  sp|Q9WZM1|RS2_THEMA 30S ribosomal protein S2 OS=Thermotoga mari...  33.1    1.0  
+  sp|Q6HPP2|RL18_BACHK 50S ribosomal protein L18 OS=Bacillus thur...  30.8    3.2  
+  sp|Q63H74|RL18_BACCZ 50S ribosomal protein L18 OS=Bacillus cere...  30.8    3.2  
+  sp|Q81J26|RL18_BACCR 50S ribosomal protein L18 OS=Bacillus cere...  30.8    3.2  
+  sp|B9IZL0|RL18_BACCQ 50S ribosomal protein L18 OS=Bacillus cere...  30.8    3.2  
+  sp|B7HQW0|RL18_BACC7 50S ribosomal protein L18 OS=Bacillus cere...  30.8    3.2  
+  sp|B7HJ64|RL18_BACC4 50S ribosomal protein L18 OS=Bacillus cere...  30.8    3.2  
+  sp|C1ET55|RL18_BACC3 50S ribosomal protein L18 OS=Bacillus cere...  30.8    3.2  
+  sp|Q73F80|RL18_BACC1 50S ribosomal protein L18 OS=Bacillus cere...  30.8    3.2  
+  sp|Q81VR4|RL18_BACAN 50S ribosomal protein L18 OS=Bacillus anth...  30.8    3.2  
+  sp|C3LJ98|RL18_BACAC 50S ribosomal protein L18 OS=Bacillus anth...  30.8    3.2  
+  sp|C3P9S1|RL18_BACAA 50S ribosomal protein L18 OS=Bacillus anth...  30.8    3.2  
+  sp|B7JKD5|RL18_BACC0 50S ribosomal protein L18 OS=Bacillus cere...  30.8    3.4  
+  sp|B8DVU1|OBG_BIFA0 GTPase Obg OS=Bifidobacterium animalis subs...  32.0    3.4  
+  sp|Q94AH8|TPS6_ARATH Alpha,alpha-trehalose-phosphate synthase [...  31.2    5.7  
 
 
-> sp|Q5IS62|NPY2R_PANTR Neuropeptide Y receptor type 2 OS=Pan troglodytes 
-GN=NPY2R PE=2 SV=1
-Length=381
+> sp|Q9UHW5|GPN3_HUMAN GPN-loop GTPase 3 OS=Homo sapiens GN=GPN3 
+PE=1 SV=2
+Length=284
 
- Score = 33.5 bits (75),  Expect = 0.84, Method: Compositional matrix adjust.
- Identities = 38/142 (27%), Positives = 62/142 (44%), Gaps = 23/142 (16%)
+ Score = 201 bits (510),  Expect = 1e-63, Method: Compositional matrix adjust.
+ Identities = 100/161 (62%), Positives = 126/161 (78%), Gaps = 1/161 (1%)
 
-Query  25   ATNVNRNVCYKTFSELCQRTHNLKSLNAWNIKVM--SERVVLKKEAEPXLIPKFEIVVDE  82
-            A + +R + Y   S++ +R   L    AW I  +  S   + ++ +   +IP FEIV   
-Sbjct  145  ALDRHRCIVYHLESKISKRISFLIIGLAWGISALLASPLAIFREYSLIEIIPDFEIV---  201
+Query  26   GQIELYTHMPVMRQLVQTLNQWDFRVCGVFLIDSQFLVDCSKFFAGILTALSAMIQLEIP  85
+            GQIELYTH+PVM+QLVQ L QW+FRVCGVFL+DSQF+V+  KF +GIL ALSAMI LEIP
+Sbjct  109  GQIELYTHLPVMKQLVQQLEQWEFRVCGVFLVDSQFMVESFKFISGILAALSAMISLEIP  168
 
-Query  83   SLGFTVKVFGAYLVDDHPLYTGNLRSMRNVTISNLVNGLEKYKLCDGVIA---TELTAKL  139
-                T K            + G  +S+   T+ +L + L  Y L  G+I+   T + +KL
-Sbjct  202  --ACTEK------------WPGEEKSIYG-TVYSLSSLLILYVLPLGIISFSYTRIWSKL  246
+Query  86   HINVMSKMDLLSKKQMKQVDRFLDPDPQDLVGDLESS-SNKRFKKLNKALAQLIDDYSMV  144
+             +N+M+KMDLLSKK  K++++FLDPD   L+ D  S   +K+FKKL KA+  LIDDYSMV
+Sbjct  169  QVNIMTKMDLLSKKAKKEIEKFLDPDMYSLLEDSTSDLRSKKFKKLTKAICGLIDDYSMV  228
 
-Query  140  YHHVVPIAANDQMDDENDKVNQ  161
-             +HV P AAND       K  +
-Sbjct  247  KNHVSPGAANDHYHQRRQKTTK  268
+Query  145  SFVPLNLCDEDSIMNVLIQIDNAIQYGEDLDVREMKDDEQD  185
+             F+P +  DE+S+  VL  ID AIQYGEDL+ +E K+ E +
+Sbjct  229  RFLPYDQSDEESMNIVLQHIDFAIQYGEDLEFKEPKEREDE  269
 
 
 
 Lambda      K        H
-   0.319    0.133    0.385 
+   0.320    0.135    0.409 
 
 Gapped
 Lambda      K        H
    0.267   0.0410    0.140 
 
-Effective search space used: 7201273976
-
-
-Query= Acropora_palmata_5634
-
-Length=201
-                                                                      Score     E
-Sequences producing significant alignments:                          (Bits)  Value
-
-  sp|Q10751|ACE_CHICK Angiotensin-converting enzyme (Fragment) OS...  234     4e-70
-  sp|Q50JE5|ACE_MESAU Angiotensin-converting enzyme OS=Mesocricet...  234     4e-70
-  sp|P09470|ACE_MOUSE Angiotensin-converting enzyme OS=Mus muscul...  233     1e-69
-  sp|P47820|ACE_RAT Angiotensin-converting enzyme OS=Rattus norve...  230     1e-68
-  sp|P12822|ACE_RABIT Angiotensin-converting enzyme OS=Oryctolagu...  230     1e-68
-  sp|Q9GLN7|ACE_PANTR Angiotensin-converting enzyme OS=Pan troglo...  225     5e-67
-  sp|P12821|ACE_HUMAN Angiotensin-converting enzyme OS=Homo sapie...  225     5e-67
-  sp|Q6Q4G4|ACE_THETS Angiotensin-converting enzyme OS=Theromyzon...  201     2e-60
-  sp|Q10714|ACE_DROME Angiotensin-converting enzyme OS=Drosophila...  174     4e-50
-  sp|Q10715|ACE_HAEIX Angiotensin-converting enzyme OS=Haematobia...  169     2e-48
-  sp|Q9VLJ6|ACER_DROME Angiotensin-converting enzyme-related prot...  166     4e-47
-  sp|Q8R0I0|ACE2_MOUSE Angiotensin-converting enzyme 2 OS=Mus mus...  149     2e-40
-  sp|Q5RFN1|ACE2_PONAB Angiotensin-converting enzyme 2 OS=Pongo a...  148     4e-40
-  sp|Q58DD0|ACE2_BOVIN Angiotensin-converting enzyme 2 OS=Bos tau...  147     5e-40
-  sp|Q56NL1|ACE2_PAGLA Angiotensin-converting enzyme 2 OS=Paguma ...  147     7e-40
-  sp|Q9BYF1|ACE2_HUMAN Angiotensin-converting enzyme 2 OS=Homo sa...  147     7e-40
-  sp|Q56H28|ACE2_FELCA Angiotensin-converting enzyme 2 OS=Felis c...  147     1e-39
-  sp|Q5EGZ1|ACE2_RAT Angiotensin-converting enzyme 2 OS=Rattus no...  145     3e-39
-  sp|Q18581|ACN1_CAEEL Inactive angiotensin-converting enzyme-rel...  99.4    5e-23
-  sp|Q9HV40|SSRP_PSEAE SsrA-binding protein OS=Pseudomonas aerugi...  30.8    5.1  
-  sp|Q02FQ4|SSRP_PSEAB SsrA-binding protein OS=Pseudomonas aerugi...  30.8    5.1  
-  sp|B7V1I0|SSRP_PSEA8 SsrA-binding protein OS=Pseudomonas aerugi...  30.8    5.1  
-  sp|A6VCM5|SSRP_PSEA7 SsrA-binding protein OS=Pseudomonas aerugi...  30.8    5.1  
-  sp|Q43846|SSY3_SOLTU Soluble starch synthase 3, chloroplastic/a...  31.2    6.6  
-  sp|O22921|WRK25_ARATH Probable WRKY transcription factor 25 OS=...  30.8    7.8  
-  sp|P07362|DNAG_SALTY DNA primase OS=Salmonella typhimurium (str...  30.8    9.6  
-
-
-> sp|Q10751|ACE_CHICK Angiotensin-converting enzyme (Fragment) 
-OS=Gallus gallus GN=ACE PE=2 SV=1
-Length=1193
-
- Score = 234 bits (596),  Expect = 4e-70, Method: Compositional matrix adjust.
- Identities = 101/163 (62%), Positives = 128/163 (79%), Gaps = 0/163 (0%)
-
-Query  1     GMALRKIAFLPFGFLIDQWRWKVFSGKITDENYNTEWWKLRTKYQGIKPPVERTEADFDP  60
-              +AL KIAFLPFG+L+DQWRWKVF G+I ++ YN +WW LR KYQG+ PPV R+E DFDP
-Sbjct  952   SIALDKIAFLPFGYLMDQWRWKVFDGRIKEDEYNQQWWNLRLKYQGLCPPVPRSEDDFDP  1011
-
-Query  61    GCKYHIPANTPYIRYFMSFVLRFQFHKAACKAAGYKGPLHTCSIYNSTQAGRKIGDMLKM  120
-             G K+HIPAN PYIRYF+SFV++FQFH+A CKAAG+ GPLHTC IY S +AG+ +GD +K+
-Sbjct  1012  GAKFHIPANVPYIRYFVSFVIQFQFHQALCKAAGHTGPLHTCDIYQSKEAGKLLGDAMKL  1071
-
-Query  121   GKSKPWPEALEKLTGSKVLDVSAITEYFKPLNDWLVKQRQEIG  163
-             G SKPWPEA++ +TG   +   A+  YF+PL  WLVK+  E G
-Sbjct  1072  GFSKPWPEAMQLITGQPNMSAEALMSYFEPLMTWLVKKNTENG  1114
-
-
- Score = 221 bits (563),  Expect = 1e-65, Method: Compositional matrix adjust.
- Identities = 106/183 (58%), Positives = 126/183 (69%), Gaps = 5/183 (3%)
-
-Query  2    MALRKIAFLPFGFLIDQWRWKVFSGKITDENYNTEWWKLRTKYQGIKPPVERTEADFDPG  61
-            MAL KIAFLPFG+LIDQWRW VFSG+     YN +WW LRTKYQGI  PV R E++FDPG
-Sbjct  355  MALEKIAFLPFGYLIDQWRWNVFSGRTPPSRYNYDWWYLRTKYQGICAPVSRNESNFDPG  414
-
-Query  62   CKYHIPANTPYIRYFMSFVLRFQFHKAACKAAGYKGPLHTCSIYNSTQAGRKIGDMLKMG  121
-             KYHIP NTPYIRYF+SF+L+FQFHKA C+AA + GPLHTC IY S +AG K+ ++LK G
-Sbjct  415  AKYHIPGNTPYIRYFVSFILQFQFHKALCQAANHTGPLHTCDIYMSKEAGAKLREVLKAG  474
-
-Query  122  KSKPWPEALEKLTGSKVLDVSAITEYFKPLNDWLVKQRQEIGYYPPGWDE----SPTTAG  177
-             SK W E L  LTG+  +D  A+ EYF P+  WL +Q  +      GW E    SP   G
-Sbjct  475  SSKSWQEILFNLTGTDKMDAGALLEYFSPVTTWLQEQNNKTNEV-LGWPEFDWRSPIPEG  533
-
-Query  178  VPS  180
-             P 
-Sbjct  534  YPE  536
-
-
-
-Lambda      K        H
-   0.319    0.133    0.385 
-
-Gapped
-Lambda      K        H
-   0.267   0.0410    0.140 
-
-Effective search space used: 7201273976
-
-
-Query= Acropora_tenuis_8190
-
-Length=323
-                                                                      Score     E
-Sequences producing significant alignments:                          (Bits)  Value
-
-  sp|Q95SX7|RTBS_DROME Probable RNA-directed DNA polymerase from ...  96.7    8e-21
-  sp|P21328|RTJK_DROME RNA-directed DNA polymerase from mobile el...  80.5    2e-15
-  sp|P21329|RTJK_DROFU RNA-directed DNA polymerase from mobile el...  69.3    1e-11
-  sp|Q03270|PO12_NASVI Retrovirus-related Pol polyprotein from ty...  65.1    2e-10
-  sp|Q9NBX4|RTXE_DROME Probable RNA-directed DNA polymerase from ...  62.0    2e-09
-  sp|Q03277|PO11_BRACO Retrovirus-related Pol polyprotein from ty...  57.0    1e-07
-  sp|Q03269|PO11_NASVI Retrovirus-related Pol polyprotein from ty...  55.5    2e-07
-  sp|P16425|Y2R2_DROME Putative 115 kDa protein in type-1 retrotr...  49.3    3e-05
-  sp|Q03278|PO21_NASVI Retrovirus-related Pol polyprotein from ty...  43.1    0.003
-  sp|P03876|AI2M_YEAST Putative COX1/OXI3 intron 2 protein OS=Sac...  42.7    0.004
-  sp|P08548|LIN1_NYCCO LINE-1 reverse transcriptase homolog OS=Ny...  39.7    0.036
-  sp|O00370|LORF2_HUMAN LINE-1 retrotransposable element ORF2 pro...  37.7    0.13 
-  sp|P16423|POLR_DROME Retrovirus-related Pol polyprotein from ty...  37.7    0.16 
-  sp|Q05118|PO23_POPJA Retrovirus-related Pol polyprotein from ty...  36.6    0.27 
-  sp|B1N1A3|NICA_PSEPU Putative nicotine oxidoreductase OS=Pseudo...  35.0    0.82 
-  sp|P03875|AI1M_YEAST Putative COX1/OXI3 intron 1 protein OS=Sac...  33.9    2.2  
-  sp|P11369|LORF2_MOUSE LINE-1 retrotransposable element ORF2 pro...  33.5    3.2  
-  sp|Q03274|PO22_POPJA Retrovirus-related Pol polyprotein from ty...  32.0    9.4  
-
-
-> sp|Q95SX7|RTBS_DROME Probable RNA-directed DNA polymerase from 
-transposon BS OS=Drosophila melanogaster GN=RTase PE=2 SV=1
-Length=906
-
- Score = 96.7 bits (239),  Expect = 8e-21, Method: Compositional matrix adjust.
- Identities = 77/260 (30%), Positives = 121/260 (47%), Gaps = 21/260 (8%)
-
-Query  3    DMSKAFDSLHPPLLINKLRAYGFSTDSLALMRSYFRDRKNRVRISQNASSGWYTTTRGCP  62
-            DM +AFD +    LI+K++   F      +++SY  DR+  VR+ +N+ S       G P
-Sbjct  585  DMQQAFDRVWHDGLISKVKKL-FPAPYYGVLKSYLEDRRFMVRV-RNSYSIPRVMRAGVP  642
-
-Query  63   QGSAFGPLLWNVFQNDL------HFSTDENRLFM-YADDHQLFSVAKTTNEAECFLTEEG  115
-            QGS  GPLL++VF  DL      H +     L   YADD  L   +   NEA   L E  
-Sbjct  643  QGSVLGPLLYSVFTADLPCPNAYHMADPRKALLATYADDIALLYSSNCCNEAARGLQEYL  702
-
-Query  116  NNISQWYNNNLLQGNFSK-----YQVMCLGPRNYHKDLHIVINDTVIDQKSEITLLGVTL  170
-              ++ W    +L+ N  K     + +  L P     +L  VI    +DQ S+   LG+TL
-Sbjct  703  TTLAAWCKRWILKVNPQKTINPCFTLKTLSPVTAPIELEGVI----LDQPSQAKYLGITL  758
-
-Query  171  DDQLSFSSHVRNICRKV---SCQTGVLLRLRNLIPTSAKLHIVKFAILPYLTYCQTVWHF  227
-            D +L+F  H++   R+      Q   LL  ++ +   AK  +    + P   Y   +W  
-Sbjct  759  DKRLTFGPHLKATTRRCYQRMQQLRWLLNRKSTMTLRAKRAVYVHCVAPIWLYGIQIWGI  818
-
-Query  228  CRSSDARKLERIQERALRAV  247
-               S+  +++ +Q RA+RA+
-Sbjct  819  AAKSNYNRIQVLQNRAMRAI  838
-
-
-
-Lambda      K        H
-   0.319    0.133    0.385 
-
-Gapped
-Lambda      K        H
-   0.267   0.0410    0.140 
-
-Effective search space used: 7201273976
-
-
-Query= Astreopora_sp_26326
-
-Length=813
-                                                                      Score     E
-Sequences producing significant alignments:                          (Bits)  Value
-
-  sp|Q54P70|Y4757_DICDI OTU domain-containing protein DDB_G028475...  63.5    5e-09
-  sp|Q196X6|VF232_IIV3 Putative ubiquitin thioesterase 232R OS=In...  56.2    1e-06
-  sp|B2RRE7|OTUD4_MOUSE OTU domain-containing protein 4 OS=Mus mu...  51.2    4e-05
-  sp|B1AZ99|OTUD3_MOUSE OTU domain-containing protein 3 OS=Mus mu...  48.5    2e-04
-  sp|Q01804|OTUD4_HUMAN OTU domain-containing protein 4 OS=Homo s...  49.3    2e-04
-  sp|Q5T2D3|OTUD3_HUMAN OTU domain-containing protein 3 OS=Homo s...  47.4    3e-04
-  sp|Q9D8C3|ALG13_MOUSE Putative bifunctional UDP-N-acetylglucosa...  47.8    4e-04
-  sp|P22856|VL96_IRV1 Putative ubiquitin thioesterase L96 OS=Tipu...  47.8    5e-04
-  sp|Q9CUB6|OTUD1_MOUSE OTU domain-containing protein 1 OS=Mus mu...  46.6    8e-04
-  sp|Q96G74|OTUD5_HUMAN OTU domain-containing protein 5 OS=Homo s...  46.6    8e-04
-  sp|Q5VV17|OTUD1_HUMAN OTU domain-containing protein 1 OS=Homo s...  46.6    8e-04
-  sp|Q9NP73|ALG13_HUMAN Putative bifunctional UDP-N-acetylglucosa...  45.8    0.002
-  sp|Q2YDU3|OTUD5_RAT OTU domain-containing protein 5 OS=Rattus n...  44.7    0.004
-  sp|Q3U2S4|OTUD5_MOUSE OTU domain-containing protein 5 OS=Mus mu...  44.7    0.004
-  sp|Q640H3|OTU5B_XENLA OTU domain-containing protein 5-B OS=Xeno...  44.3    0.004
-  sp|Q6GL44|OTUD5_XENTR OTU domain-containing protein 5 OS=Xenopu...  44.3    0.005
-  sp|Q7ZX21|OTU5A_XENLA OTU domain-containing protein 5-A OS=Xeno...  43.5    0.008
-  sp|Q91FU0|VF232_IIV6 Putative ubiquitin thioesterase 232R OS=In...  43.5    0.008
-  sp|Q08BW0|OTU5A_DANRE OTU domain-containing protein 5-A OS=Dani...  43.1    0.009
-  sp|Q9UUK3|OTU2_SCHPO Ubiquitin thioesterase otu2 OS=Schizosacch...  42.4    0.011
-  sp|Q8PSJ3|PNCB_METMA Nicotinate phosphoribosyltransferase OS=Me...  36.6    0.99 
-  sp|Q7L8S5|OTU6A_HUMAN OTU domain-containing protein 6A OS=Homo ...  33.9    5.7  
-  sp|O70492|SNX3_MOUSE Sorting nexin-3 OS=Mus musculus GN=Snx3 PE...  32.7    6.7  
-  sp|Q5U211|SNX3_RAT Sorting nexin-3 OS=Rattus norvegicus GN=Snx3...  32.7    7.0  
-  sp|Q5R5V1|SNX3_PONAB Sorting nexin-3 OS=Pongo abelii GN=SNX3 PE...  32.7    7.0  
-  sp|O60493|SNX3_HUMAN Sorting nexin-3 OS=Homo sapiens GN=SNX3 PE...  32.7    7.0  
-  sp|Q1RMH8|SNX3_BOVIN Sorting nexin-3 OS=Bos taurus GN=SNX3 PE=2...  32.7    7.0  
-  sp|Q8U010|RL24_PYRFU 50S ribosomal protein L24 OS=Pyrococcus fu...  32.0    8.5  
-  sp|Q9IJX4|POLN_CRPVC Replicase polyprotein OS=Cricket paralysis...  33.5    9.7  
-
-
-> sp|Q54P70|Y4757_DICDI OTU domain-containing protein DDB_G0284757 
-OS=Dictyostelium discoideum GN=DDB_G0284757 PE=4 SV=2
-Length=766
-
- Score = 63.5 bits (153),  Expect = 5e-09, Method: Compositional matrix adjust.
- Identities = 58/174 (33%), Positives = 79/174 (45%), Gaps = 22/174 (13%)
-
-Query  303  LTSGDIELNPGPVGSQTALSIGSTMLLNLRLGQLGL-TPVDVGGEGDCFFRAVSHQLYGD  361
-            L S ++ LN  P+     + I    L N RL    L    ++ G+G+C   A+S QLYGD
-Sbjct  596  LISSNVLLNLHPLPQSKEVQIAQQRL-NERLELYMLKNSKEIPGDGNCQMHALSDQLYGD  654
-
-Query  362  PSHHLHVRQAGVRYLS-----NFPE-----RFIESNTEHSWNEYINNMSMQGTWCDALIV  411
-             SH   VR+  V +L        P      +F+ +N   +W++Y N+MS  G W D L +
-Sbjct  655  LSHSQEVRKTIVDWLRKNKDFQLPNGATICQFVNTN---NWDDYCNDMSKNGNWGDHLTL  711
-
-Query  412  QAVADCQNLTIHII---ESHENFAGETLIEPHFITQQPPTTIYLGHLDELHYVS  462
-             A A+     I II   ES  NF  E  I P  I       + L H  E HY S
-Sbjct  712  LAAAEHFGSKISIISSVESQSNFFIE--IIPSKILND--KVLLLSHYAEFHYGS  761
-
-
-
-Lambda      K        H
-   0.319    0.133    0.385 
-
-Gapped
-Lambda      K        H
-   0.267   0.0410    0.140 
-
-Effective search space used: 7201273976
-
-
-Query= Astreopora_sp_33734
-
-Length=316
-                                                                      Score     E
-Sequences producing significant alignments:                          (Bits)  Value
-
-  sp|P21328|RTJK_DROME RNA-directed DNA polymerase from mobile el...  112     4e-26
-  sp|Q9NBX4|RTXE_DROME Probable RNA-directed DNA polymerase from ...  108     9e-25
-  sp|Q95SX7|RTBS_DROME Probable RNA-directed DNA polymerase from ...  105     7e-24
-  sp|P21329|RTJK_DROFU RNA-directed DNA polymerase from mobile el...  94.0    6e-20
-  sp|P16425|Y2R2_DROME Putative 115 kDa protein in type-1 retrotr...  69.7    7e-12
-  sp|P08548|LIN1_NYCCO LINE-1 reverse transcriptase homolog OS=Ny...  67.0    6e-11
-  sp|O00370|LORF2_HUMAN LINE-1 retrotransposable element ORF2 pro...  64.7    4e-10
-  sp|Q03277|PO11_BRACO Retrovirus-related Pol polyprotein from ty...  63.9    6e-10
-  sp|P11369|LORF2_MOUSE LINE-1 retrotransposable element ORF2 pro...  61.2    4e-09
-  sp|Q03274|PO22_POPJA Retrovirus-related Pol polyprotein from ty...  55.8    2e-07
-  sp|Q05118|PO23_POPJA Retrovirus-related Pol polyprotein from ty...  47.0    2e-04
-  sp|P16423|POLR_DROME Retrovirus-related Pol polyprotein from ty...  46.6    2e-04
-  sp|Q03278|PO21_NASVI Retrovirus-related Pol polyprotein from ty...  46.2    3e-04
-  sp|P14381|YTX2_XENLA Transposon TX1 uncharacterized 149 kDa pro...  44.7    8e-04
-  sp|P03875|AI1M_YEAST Putative COX1/OXI3 intron 1 protein OS=Sac...  43.9    0.001
-  sp|Q03270|PO12_NASVI Retrovirus-related Pol polyprotein from ty...  43.5    0.001
-  sp|Q47688|YKFC_ECOLI Putative uncharacterized protein YkfC OS=E...  38.5    0.064
-  sp|Q03269|PO11_NASVI Retrovirus-related Pol polyprotein from ty...  35.4    0.50 
-  sp|P19593|RDPO_TETOB Probable reverse transcriptase OS=Tetrades...  35.4    0.75 
-  sp|O59719|YBHB_SCHPO Uncharacterized protein C3B8.11 OS=Schizos...  35.4    0.76 
-  sp|P05511|YMC6_SCHPO Uncharacterized 91 kDa protein in cob intr...  35.0    0.83 
-  sp|P03876|AI2M_YEAST Putative COX1/OXI3 intron 2 protein OS=Sac...  35.0    0.96 
-  sp|Q03279|PO21_BRACO Retrovirus-related Pol polyprotein from ty...  35.0    0.99 
-  sp|P15594|RTP2_TRYBG Retrotransposable element SLACS 132 kDa pr...  34.7    1.2  
-  sp|P0A3U1|LTRA_LACLM Group II intron-encoded protein LtrA OS=La...  32.7    4.5  
-  sp|P0A3U0|LTRA_LACLC Group II intron-encoded protein LtrA OS=La...  32.7    4.5  
-  sp|O75626|PRDM1_HUMAN PR domain zinc finger protein 1 OS=Homo s...  32.7    4.7  
-  sp|Q0ZAQ8|PPARD_CANLF Peroxisome proliferator-activated recepto...  32.0    7.1  
-  sp|Q03MS2|Y157_STRTD UPF0210 protein STER_0157 OS=Streptococcus...  32.0    8.4  
-  sp|Q03181|PPARD_HUMAN Peroxisome proliferator-activated recepto...  31.6    9.7  
-
-
-> sp|P21328|RTJK_DROME RNA-directed DNA polymerase from mobile 
-element jockey OS=Drosophila melanogaster GN=pol PE=1 SV=1
-Length=916
-
- Score = 112 bits (279),  Expect = 4e-26, Method: Compositional matrix adjust.
- Identities = 78/273 (29%), Positives = 132/273 (48%), Gaps = 19/273 (7%)
-
-Query  37   YIRRTFSNSFFFTPIHEHEVHNLIVSLKENKSTIGPPI---KFVKSACNHIYKALTKVYN  93
-            Y+   F  S   + +   EV NLI  L   K+  G  +   + ++   +   + L  ++N
-Sbjct  424  YLESPFQMSLPLSAVTLEEVKNLIAKLPLKKAP-GEDLLDNRTIRLLPDQALQFLALIFN  482
-
-Query  94   QSLEQGIVPDILKLSKVTPLDK-GSEITDATNYRPISTLSTFTQIFEKLVYKQLISYVEK  152
-              L+ G  P   K + +  + K G   TD  +YRP S L +  +I E+L+  +L++  + 
-Sbjct  483  SVLDVGYFPKAWKSASIIMIHKTGKTPTDVDSYRPTSLLPSLGKIMERLILNRLLTCKDV  542
-
-Query  153  YDILCQFQFGFRKGRSTEQAIVEITDNLKNAIDKNLFTCGVFLDFAKAFDTVNHGILLKK  212
-               + +FQFGFR    T + +  + +    A++   +  G FLD  +AFD V H  LL K
-Sbjct  543  TKAIPKFQFGFRLQHGTPEQLHRVVNFALEAMENKEYAVGAFLDIQQAFDRVWHPGLLYK  602
-
-Query  213  MEKYGIRGLPLQWF---TSYLTNRQQYVSMAGNESSRQTMVCGIPQGSSLGPLLFLIYIN  269
-             +    R  P Q +    S+L  R  +VS+ G +SS + +  G+PQGS LGP L+ ++ +
-Sbjct  603  AK----RLFPPQLYLVVKSFLEERTFHVSVDGYKSSIKPIAAGVPQGSVLGPTLYSVFAS  658
-
-Query  270  DIPNCS-------EKLSFRIFADDTNIFASSSN  295
-            D+P  +       E +    +ADDT +   S +
-Sbjct  659  DMPTHTPVTEVDEEDVLIATYADDTAVLTKSKS  691
-
-
-
-Lambda      K        H
-   0.319    0.133    0.385 
-
-Gapped
-Lambda      K        H
-   0.267   0.0410    0.140 
-
-Effective search space used: 7201273976
-
-
-Query= Montastraea_cavernosa_59488
-
-Length=166
-                                                                      Score     E
-Sequences producing significant alignments:                          (Bits)  Value
-
-  sp|Q5R543|HEMO_PONAB Hemopexin OS=Pongo abelii GN=HPX PE=2 SV=1     32.7    1.3  
-  sp|P02790|HEMO_HUMAN Hemopexin OS=Homo sapiens GN=HPX PE=1 SV=2     32.7    1.3  
-  sp|P0CP00|MYO1_CRYNJ Myosin-1 OS=Cryptococcus neoformans var. n...  32.0    2.9  
-  sp|P0CP01|MYO1_CRYNB Myosin-1 OS=Cryptococcus neoformans var. n...  32.0    2.9  
-  sp|Q32H69|SYR_SHIDS Arginine--tRNA ligase OS=Shigella dysenteri...  31.6    3.3  
-  sp|B5FSM1|SYR_SALDC Arginine--tRNA ligase OS=Salmonella dublin ...  31.2    5.1  
-  sp|A9MUA9|SYR_SALPB Arginine--tRNA ligase OS=Salmonella paratyp...  31.2    5.1  
-  sp|B5R8C8|SYR_SALG2 Arginine--tRNA ligase OS=Salmonella gallina...  31.2    5.2  
-  sp|B5R142|SYR_SALEP Arginine--tRNA ligase OS=Salmonella enterit...  30.8    5.4  
-  sp|Q8ZW89|AROE_PYRAE Shikimate dehydrogenase (NADP(+)) OS=Pyrob...  30.0    9.9  
-
-
-> sp|Q5R543|HEMO_PONAB Hemopexin OS=Pongo abelii GN=HPX PE=2 SV=1
-Length=462
-
- Score = 32.7 bits (73),  Expect = 1.3, Method: Compositional matrix adjust.
- Identities = 21/72 (29%), Positives = 36/72 (50%), Gaps = 6/72 (8%)
-
-Query  64   LDDRRQLIAEQNEEFWKSLETDREL--ERRKRAKLSEEASLVKRQVEIMLARKDRV----  117
-            LDD   ++  + E  WKS + DREL  ER K      +A+  +    + L + D+V    
-Sbjct  61   LDDNGTMLFFKGEFVWKSHKWDRELISERWKNFPSPVDAAFRQGHNSVFLIKGDKVWVYP  120
-
-Query  118  PEEPRQGEDRVV  129
-            PE+  +G  +++
-Sbjct  121  PEKKEKGYPKLL  132
-
-
-
-Lambda      K        H
-   0.319    0.133    0.385 
-
-Gapped
-Lambda      K        H
-   0.267   0.0410    0.140 
-
-Effective search space used: 7201273976
+Effective search space used: 21850885130
 
 
 Query= Porites_lobata_1679
@@ -1122,132 +987,13 @@ Sbjct  892  NREVDVWNRIENQEMD  907
 
 
 Lambda      K        H
-   0.319    0.133    0.385 
+   0.320    0.135    0.409 
 
 Gapped
 Lambda      K        H
    0.267   0.0410    0.140 
 
-Effective search space used: 7201273976
-
-
-Query= Porites_lobata_6437
-
-Length=104
-                                                                      Score     E
-Sequences producing significant alignments:                          (Bits)  Value
-
-  sp|Q1GHJ3|TRPD_RUEST Anthranilate phosphoribosyltransferase OS=...  32.0    0.61 
-  sp|Q10040|YQA4_CAEEL Putative zinc protease C28F5.4 OS=Caenorha...  30.4    2.6  
-  sp|Q9ZLC0|DCUA_HELPJ Anaerobic C4-dicarboxylate transporter Dcu...  30.0    3.7  
-
-
-> sp|Q1GHJ3|TRPD_RUEST Anthranilate phosphoribosyltransferase OS=Ruegeria 
-sp. (strain TM1040) GN=trpD PE=3 SV=1
-Length=340
-
- Score = 32.0 bits (71),  Expect = 0.61, Method: Composition-based stats.
- Identities = 22/79 (28%), Positives = 39/79 (49%), Gaps = 12/79 (15%)
-
-Query  32   ASICFLMKPMVIPEIA--VASEWLLG-------LGSKLYPSDIQCMLSKDLTQ-FVQSLS  81
-            A ICF+M PM  P IA  + +   LG       LG    P+D++  L+   ++  ++ ++
-Sbjct  146  AGICFMMAPMHHPAIAHVMPTRQELGTRTIFNILGPLTNPADVKRQLTGAFSRDLIRPMA  205
-
-Query  82   SKIKQVKERLCW--QGTQG  98
-              +KQ+   + W   G+ G
-Sbjct  206  ETLKQLGSEVAWLVHGSDG  224
-
-
-
-Lambda      K        H
-   0.319    0.133    0.385 
-
-Gapped
-Lambda      K        H
-   0.267   0.0410    0.140 
-
-Effective search space used: 7201273976
-
-
-Query= Seriatopora_hystrix_18303
-
-Length=101
-                                                                      Score     E
-Sequences producing significant alignments:                          (Bits)  Value
-
-  sp|P25339|PUF4_YEAST Pumilio homology domain family member 4 OS...  30.8    1.8  
-  sp|P39016|MPT5_YEAST Suppressor protein MPT5 OS=Saccharomyces c...  30.4    2.1  
-  sp|O42896|YBQ3_SCHPO Uncharacterized oxidoreductase C115.03 OS=...  28.9    7.5  
-  sp|P30314|DPOL_BPSP1 DNA polymerase OS=Bacillus phage SP01 GN=3...  28.9    7.6  
-  sp|Q894B4|RSMH_CLOTE Ribosomal RNA small subunit methyltransfer...  28.9    8.0  
-
-
-> sp|P25339|PUF4_YEAST Pumilio homology domain family member 4 
-OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=PUF4 
-PE=1 SV=2
-Length=888
-
- Score = 30.8 bits (68),  Expect = 1.8, Method: Composition-based stats.
- Identities = 12/44 (27%), Positives = 28/44 (64%), Gaps = 2/44 (5%)
-
-Query  60   KARVVVSAQKPFTLSYSR--KGSYVVLKCYYKFTNNAYGYIFES  101
-            +A++VV + +P+T+  S+   G++V+ KC  +     + +IF++
-Sbjct  665  EAQIVVDSLRPYTVQLSKDLNGNHVIQKCLQRLKPENFQFIFDA  708
-
-
-
-Lambda      K        H
-   0.319    0.133    0.385 
-
-Gapped
-Lambda      K        H
-   0.267   0.0410    0.140 
-
-Effective search space used: 7201273976
-
-
-Query= Seriatopora_sp_369
-
-Length=120
-                                                                      Score     E
-Sequences producing significant alignments:                          (Bits)  Value
-
-  sp|Q2KJG3|SYNC_BOVIN Asparagine--tRNA ligase, cytoplasmic OS=Bo...  31.2    1.9  
-  sp|O57285|PHOSP_SENDO Phosphoprotein OS=Sendai virus (strain Oh...  30.4    3.4  
-  sp|P25588|MRC1_YEAST Mediator of replication checkpoint protein...  30.0    5.4  
-  sp|Q9DUE2|PHOSP_SENDA Phosphoprotein OS=Sendai virus (strain Ha...  29.6    6.8  
-  sp|P14251|PHOSP_SEND6 Phosphoprotein OS=Sendai virus (strain 6/...  29.3    7.9  
-  sp|P04860|PHOSP_SENDZ Phosphoprotein OS=Sendai virus (strain Z)...  29.3    8.1  
-  sp|P04859|PHOSP_SENDH Phosphoprotein OS=Sendai virus (strain Ha...  29.3    8.1  
-  sp|Q9Z2D3|DFNA5_MOUSE Non-syndromic hearing impairment protein ...  29.3    8.4  
-  sp|P14252|PHOSP_SENDF Phosphoprotein OS=Sendai virus (strain Fu...  29.3    9.0  
-
-
-> sp|Q2KJG3|SYNC_BOVIN Asparagine--tRNA ligase, cytoplasmic OS=Bos 
-taurus GN=NARS PE=2 SV=3
-Length=559
-
- Score = 31.2 bits (69),  Expect = 1.9, Method: Composition-based stats.
- Identities = 19/66 (29%), Positives = 32/66 (48%), Gaps = 10/66 (15%)
-
-Query  45   IQKLSKRTCTLDPMPTKLVVESVDHLLPVITNMINSSLLGGHFLKVWKDALIDPRYKKDG  104
-            I+    + C  DP  T    ESVD L+P +  ++  S+      ++W +  I   YK++G
-Sbjct  455  IKSFYMQRCPEDPRLT----ESVDVLMPNVGEIVGGSM------RIWDNEEILAGYKREG  504
-
-Query  105  INDLTY  110
-            I+   Y
-Sbjct  505  IDPTPY  510
-
-
-
-Lambda      K        H
-   0.319    0.133    0.385 
-
-Gapped
-Lambda      K        H
-   0.267   0.0410    0.140 
-
-Effective search space used: 7201273976
+Effective search space used: 21850885130
 
 
 Query= Seriatopora_sp_3101
@@ -1284,13 +1030,13 @@ Sbjct  399  KYLDYLDDQQLQNGSCADPSPSASLTADR  427
 
 
 Lambda      K        H
-   0.319    0.133    0.385 
+   0.320    0.135    0.409 
 
 Gapped
 Lambda      K        H
    0.267   0.0410    0.140 
 
-Effective search space used: 7201273976
+Effective search space used: 21850885130
 
 
 Query= Seriatopora_sp_31163
@@ -2080,91 +1826,13 @@ Sbjct  1759  HAPCGSRSTGSEGTVLSPNYPKNYSVGHNCVYSIAVPK  1796
 
 
 Lambda      K        H
-   0.319    0.133    0.385 
+   0.320    0.135    0.409 
 
 Gapped
 Lambda      K        H
    0.267   0.0410    0.140 
 
-Effective search space used: 7201273976
-
-
-Query= Stylophora_pistillata_6160
-
-Length=386
-                                                                      Score     E
-Sequences producing significant alignments:                          (Bits)  Value
-
-  sp|Q9NBX4|RTXE_DROME Probable RNA-directed DNA polymerase from ...  119     9e-28
-  sp|P21328|RTJK_DROME RNA-directed DNA polymerase from mobile el...  118     1e-27
-  sp|Q95SX7|RTBS_DROME Probable RNA-directed DNA polymerase from ...  115     1e-26
-  sp|P21329|RTJK_DROFU RNA-directed DNA polymerase from mobile el...  115     2e-26
-  sp|P08548|LIN1_NYCCO LINE-1 reverse transcriptase homolog OS=Ny...  83.2    7e-16
-  sp|O00370|LORF2_HUMAN LINE-1 retrotransposable element ORF2 pro...  82.4    1e-15
-  sp|P11369|LORF2_MOUSE LINE-1 retrotransposable element ORF2 pro...  75.9    2e-13
-  sp|P16425|Y2R2_DROME Putative 115 kDa protein in type-1 retrotr...  75.1    3e-13
-  sp|Q03277|PO11_BRACO Retrovirus-related Pol polyprotein from ty...  54.7    1e-06
-  sp|Q05118|PO23_POPJA Retrovirus-related Pol polyprotein from ty...  49.7    3e-05
-  sp|Q03274|PO22_POPJA Retrovirus-related Pol polyprotein from ty...  48.5    7e-05
-  sp|P05511|YMC6_SCHPO Uncharacterized 91 kDa protein in cob intr...  48.5    7e-05
-  sp|B1N1A3|NICA_PSEPU Putative nicotine oxidoreductase OS=Pseudo...  48.5    7e-05
-  sp|P14381|YTX2_XENLA Transposon TX1 uncharacterized 149 kDa pro...  47.8    1e-04
-  sp|Q03278|PO21_NASVI Retrovirus-related Pol polyprotein from ty...  46.6    3e-04
-  sp|Q03279|PO21_BRACO Retrovirus-related Pol polyprotein from ty...  45.1    9e-04
-  sp|P16423|POLR_DROME Retrovirus-related Pol polyprotein from ty...  44.7    0.001
-  sp|Q03270|PO12_NASVI Retrovirus-related Pol polyprotein from ty...  40.0    0.028
-  sp|P03876|AI2M_YEAST Putative COX1/OXI3 intron 2 protein OS=Sac...  38.5    0.10 
-  sp|P0A3U1|LTRA_LACLM Group II intron-encoded protein LtrA OS=La...  37.7    0.16 
-  sp|P0A3U0|LTRA_LACLC Group II intron-encoded protein LtrA OS=La...  37.7    0.16 
-  sp|Q11075|YWV1_CAEEL Uncharacterized protein B0403.1 OS=Caenorh...  36.2    0.27 
-  sp|Q39QP7|LON_GEOMG Lon protease OS=Geobacter metallireducens (...  35.8    0.81 
-  sp|Q8R238|SDSL_MOUSE Serine dehydratase-like OS=Mus musculus GN...  33.9    2.0  
-  sp|Q1MS21|LON_LAWIP Lon protease OS=Lawsonia intracellularis (s...  33.9    3.3  
-  sp|P05769|POLG_MVEV5 Genome polyprotein OS=Murray valley enceph...  32.7    8.4  
-
-
-> sp|Q9NBX4|RTXE_DROME Probable RNA-directed DNA polymerase from 
-transposon X-element OS=Drosophila melanogaster GN=X-element\ORF2 
-PE=3 SV=1
-Length=908
-
- Score = 119 bits (297),  Expect = 9e-28, Method: Compositional matrix adjust.
- Identities = 97/346 (28%), Positives = 160/346 (46%), Gaps = 25/346 (7%)
-
-Query  11   LPDEWKHADITPLHKKG-PKSSRENYRPISLTSIPCKIGEKIVFDRMFNFWREIDLINNN  69
-             P +WK   I+ +HK G P+    +YRPISL     K+ E+++  R+ +      +   +
-Sbjct  488  FPYQWKLGIISMIHKPGKPEREPASYRPISLLPSISKVFERLIAVRIVSIMEAQGITPEH  547
-
-Query  70   QFGFLRGRSTATQLLSTFNDWAKSRNLSTPTDVIFLDLAKAFDSVPHERLLLKLKSNGID  129
-            QFGF  G  T  QL         + +     + +FLD+ +AFD V H  L LK+K   + 
-Sbjct  548  QFGFRAGHCTVEQLHRVVEQILTAYDSKEYCNSLFLDIREAFDRVWHIGLQLKIKQT-LP  606
-
-Query  130  GCLLNWLRHFLVGRKQRVVIRGSCSDWSYVTSGTPQGTILGPLLFLLYINDITEC-VS--  186
-                  L+ +L GR+  V    + S    V +G PQG++LGPLL+ LY +D+ +  VS  
-Sbjct  607  APYFGLLKSYLEGRRFAVRFHSAISTEHNVAAGVPQGSVLGPLLYCLYSHDMPQPDVSLY  666
-
-Query  187  --STIKLYADDTKI-YREIIDPITDCQR-----LQEDLTNIGEWACKWQLRFNADKCESM  238
-              S +  +ADD  + YR      + C+      +Q+      EWA +W +  N+ K  ++
-Sbjct  667  GKSMLATFADDVCVTYR------SRCEHDAADGIQDFAYRFSEWARRWNIGINSSKSNNV  720
-
-Query  239  RITHSRDKSVTNYFFGQPLKDVDKFKDLGVIITKDLSWSNHI-GITVNKANKVLGSMKRS  297
-              T  R      Y    P+   +  K LGV++ + L++S H+  I      KV       
-Sbjct  721  CFTLKRRTPPPVYIEEVPVPQPNAAKYLGVLLDRRLTFSKHVTDIRTRLRAKVAKHYWLL  780
-
-Query  298  IGTANANIFSML--YKSLVRPILEYVVPVW---CPYLVKDIHALEN  338
-               +  ++ + L  YK ++ P  +Y   +W   C   +K I A++N
-Sbjct  781  SSRSKLSLSNKLTIYKQILAPNWKYGCQIWGLACDSHIKRIQAIQN  826
-
-
-
-Lambda      K        H
-   0.319    0.133    0.385 
-
-Gapped
-Lambda      K        H
-   0.267   0.0410    0.140 
-
-Effective search space used: 7201273976
+Effective search space used: 21850885130
 
 
 Query= Stylophora_pistillata_13596
@@ -2226,13 +1894,13 @@ Sbjct  236  CFCQRVSYGEMVACDGPNCKYEWFHYSCVNLTEPPKGQWYCPECRL  281
 
 
 Lambda      K        H
-   0.319    0.133    0.385 
+   0.320    0.135    0.409 
 
 Gapped
 Lambda      K        H
    0.267   0.0410    0.140 
 
-Effective search space used: 7201273976
+Effective search space used: 21850885130
 
 
   Database: data/ref/uniprot_sprot.fasta

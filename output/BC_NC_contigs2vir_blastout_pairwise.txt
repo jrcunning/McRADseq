@@ -1,0 +1,585 @@
+BLASTN 2.6.0+
+
+
+Reference: Zheng Zhang, Scott Schwartz, Lukas Wagner, and Webb
+Miller (2000), "A greedy algorithm for aligning DNA sequences", J
+Comput Biol 2000; 7(1-2):203-14.
+
+
+
+Database: phantome_db.fasta
+           2,996 sequences; 146,343,517 total letters
+
+
+
+Query= NC_1016405_1_2_3_4
+
+Length=1146
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  NC_024211_1_158750                                                  39.1    0.27 
+  NC_010811_1_231256                                                  39.1    0.27 
+
+
+> NC_024211_1_158750
+Length=158750
+
+ Score = 39.1 bits (20),  Expect = 0.27
+ Identities = 22/23 (96%), Gaps = 0/23 (0%)
+ Strand=Plus/Plus
+
+Query  1026   GAACAGGCAAAGTTGAGAAAGAT  1048
+              |||||||||||||| ||||||||
+Sbjct  61739  GAACAGGCAAAGTTTAGAAAGAT  61761
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Effective search space used: 164416028020
+
+
+Query= NC_235035_1_2_3_4
+
+Length=983
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Effective search space used: 164416028020
+
+
+Query= BC_7969249_1_2_3_4
+
+Length=724
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  HQ728264_1_56621                                                    41.1    0.045
+  GU070616_1_145964                                                   37.2    0.64 
+  NC_026924_1_174885                                                  37.2    0.64 
+  NC_027351_1_147745                                                  37.2    0.64 
+
+
+> HQ728264_1_56621
+Length=56621
+
+ Score = 41.1 bits (21),  Expect = 0.045
+ Identities = 27/30 (90%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  550    TAATTTGTTCTTTTCACAGGTTCACCACTT  579
+              |||||||||||||  ||||||| |||||||
+Sbjct  35976  TAATTTGTTCTTTGAACAGGTTAACCACTT  35947
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Effective search space used: 164416028020
+
+
+Query= BC_3577569_1_2_3_4
+
+Length=657
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  NC_008363_1_28538                                                   37.2    0.58 
+  AP013516_1_35191                                                    37.2    0.58 
+  gi|514341142|gb|KC821608.1|_1_75994_1_75994                         37.2    0.58 
+
+
+> NC_008363_1_28538
+Length=28538
+
+ Score = 37.2 bits (19),  Expect = 0.58
+ Identities = 19/19 (100%), Gaps = 0/19 (0%)
+ Strand=Plus/Minus
+
+Query  385    TCTTTATTTATTTATTTTA  403
+              |||||||||||||||||||
+Sbjct  28452  TCTTTATTTATTTATTTTA  28434
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Effective search space used: 164416028020
+
+
+Query= ND_2090286_1_2_3_4
+
+Length=508
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  Rockstar_1_47780                                                    41.1    0.031
+  NC_024148_1_50101                                                   41.1    0.031
+  JF957058_1_50364                                                    41.1    0.031
+  NC_021533_1_45942                                                   41.1    0.031
+  AP014421_1_13537                                                    39.1    0.12 
+  AP013664_1_8488                                                     39.1    0.12 
+  AP013657_1_8819                                                     39.1    0.12 
+
+
+> Rockstar_1_47780
+Length=47780
+
+ Score = 41.1 bits (21),  Expect = 0.031
+ Identities = 21/21 (100%), Gaps = 0/21 (0%)
+ Strand=Plus/Minus
+
+Query  304    GGGTACCCCTACGGGGTACCC  324
+              |||||||||||||||||||||
+Sbjct  47736  GGGTACCCCTACGGGGTACCC  47716
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Effective search space used: 164416028020
+
+
+Query= BC_104482_1_2_3_4
+
+Length=593
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  AP014168_1_43796                                                    37.2    0.52 
+
+
+> AP014168_1_43796
+Length=43796
+
+ Score = 37.2 bits (19),  Expect = 0.52
+ Identities = 21/22 (95%), Gaps = 0/22 (0%)
+ Strand=Plus/Plus
+
+Query  559   TCATACAAAATACTAACAAAAT  580
+             |||||||||||||||||| |||
+Sbjct  2843  TCATACAAAATACTAACATAAT  2864
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Effective search space used: 164416028020
+
+
+Query= ND_2199726_1_2_3_4
+
+Length=447
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  NC_019713_1_78751                                                   41.1    0.027
+
+
+> NC_019713_1_78751
+Length=78751
+
+ Score = 41.1 bits (21),  Expect = 0.027
+ Identities = 21/21 (100%), Gaps = 0/21 (0%)
+ Strand=Plus/Plus
+
+Query  259    TCGTGGCGACGACGGTGATGA  279
+              |||||||||||||||||||||
+Sbjct  56300  TCGTGGCGACGACGGTGATGA  56320
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Effective search space used: 164416028020
+
+
+  Database: phantome_db.fasta
+    Posted date:  May 22, 2017  3:53 PM
+  Number of letters in database: 146,343,517
+  Number of sequences in database:  2,996
+
+
+
+Matrix: blastn matrix 1 -2
+Gap Penalties: Existence: 5, Extension: 2
+BLASTN 2.6.0+
+
+
+Reference: Zheng Zhang, Scott Schwartz, Lukas Wagner, and Webb
+Miller (2000), "A greedy algorithm for aligning DNA sequences", J
+Comput Biol 2000; 7(1-2):203-14.
+
+
+
+Database: phantome_db.fasta
+           2,996 sequences; 146,343,517 total letters
+
+
+
+Query= BC_2102217_1_2_3_4
+
+Length=493
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  contig00001_1_96337_1_96337                                         39.1    0.11 
+  NC_024711_1_97065                                                   39.1    0.11 
+  NC_008265_1_38092                                                   37.2    0.43 
+
+
+> contig00001_1_96337_1_96337
+Length=96337
+
+ Score = 39.1 bits (20),  Expect = 0.11
+ Identities = 22/23 (96%), Gaps = 0/23 (0%)
+ Strand=Plus/Plus
+
+Query  160    ATTAAGAGATTCTTTTAAAGATT  182
+              ||||| |||||||||||||||||
+Sbjct  45127  ATTAATAGATTCTTTTAAAGATT  45149
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Effective search space used: 69044443672
+
+
+Query= BC_6957170_1_2_3_4
+
+Length=488
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  AP014318_1_33724                                                    37.2    0.43 
+  NC_006883_1_252401                                                  37.2    0.43 
+  NC_021868_1_58305                                                   37.2    0.43 
+
+
+> AP014318_1_33724
+Length=33724
+
+ Score = 37.2 bits (19),  Expect = 0.43
+ Identities = 23/25 (92%), Gaps = 0/25 (0%)
+ Strand=Plus/Minus
+
+Query  54     TTTCAAAAAGTACTAAAAAATTCTG  78
+              |||||||||||| || |||||||||
+Sbjct  17797  TTTCAAAAAGTAATAGAAAATTCTG  17773
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Effective search space used: 69044443672
+
+
+Query= BC_1111080_1_2_3_4
+
+Length=459
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  NC_019444_1_176043                                                  39.1    0.11 
+  GU071096_1_179563                                                   37.2    0.40 
+
+
+> NC_019444_1_176043
+Length=176043
+
+ Score = 39.1 bits (20),  Expect = 0.11
+ Identities = 22/23 (96%), Gaps = 0/23 (0%)
+ Strand=Plus/Plus
+
+Query  413    GTTGATCATAGTGTTGATGATGA  435
+              ||||||| |||||||||||||||
+Sbjct  80721  GTTGATCTTAGTGTTGATGATGA  80743
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Effective search space used: 69044443672
+
+
+Query= BC_1154956_1_2_3_4
+
+Length=393
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  AP014406_1_7243                                                     37.2    0.34 
+  NC_009762_1_45710                                                   37.2    0.34 
+  DQ908929_1_42140                                                    37.2    0.34 
+  DQ530362_1_43189                                                    37.2    0.34 
+  NC_007062_1_41690                                                   37.2    0.34 
+  NC_007058_1_43155                                                   37.2    0.34 
+  NC_005356_1_41708                                                   37.2    0.34 
+  JQ779023_1_45552                                                    37.2    0.34 
+
+
+> AP014406_1_7243
+Length=7243
+
+ Score = 37.2 bits (19),  Expect = 0.34
+ Identities = 19/19 (100%), Gaps = 0/19 (0%)
+ Strand=Plus/Minus
+
+Query  101   ACCAAAGGCAAAGGCAAAA  119
+             |||||||||||||||||||
+Sbjct  2442  ACCAAAGGCAAAGGCAAAA  2424
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Effective search space used: 69044443672
+
+
+Query= ND_5552730_1_2_3_4
+
+Length=355
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  JN700521_1_40917                                                    37.2    0.31 
+
+
+> JN700521_1_40917
+Length=40917
+
+ Score = 37.2 bits (19),  Expect = 0.31
+ Identities = 21/22 (95%), Gaps = 0/22 (0%)
+ Strand=Plus/Minus
+
+Query  254    TTTTTAAATTGTAAATAAAAAG  275
+              ||||| ||||||||||||||||
+Sbjct  23184  TTTTTGAATTGTAAATAAAAAG  23163
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Effective search space used: 69044443672
+
+
+Query= BC_1666634_1_2_3_4
+
+Length=348
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  AP013820_1_29113                                                    37.2    0.30 
+  AP013815_1_15605                                                    37.2    0.30 
+
+
+> AP013820_1_29113
+Length=29113
+
+ Score = 37.2 bits (19),  Expect = 0.30
+ Identities = 19/19 (100%), Gaps = 0/19 (0%)
+ Strand=Plus/Plus
+
+Query  307    ATAATTCCTGAGATTGTTG  325
+              |||||||||||||||||||
+Sbjct  22262  ATAATTCCTGAGATTGTTG  22280
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Effective search space used: 69044443672
+
+
+Query= ND_2079243_1_2_3_4
+
+Length=387
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Effective search space used: 69044443672
+
+
+Query= ND_4661417_1_2_3_4
+
+Length=339
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  EF071488_1_18098                                                    39.1    0.077
+  NC_014467_1_176788                                                  37.2    0.29 
+  NC_025414_1_178171                                                  37.2    0.29 
+  AY967407_1_180500                                                   37.2    0.29 
+
+
+> EF071488_1_18098
+Length=18098
+
+ Score = 39.1 bits (20),  Expect = 0.077
+ Identities = 20/20 (100%), Gaps = 0/20 (0%)
+ Strand=Plus/Plus
+
+Query  44    ATTATTTTTTACTTGTGCTT  63
+             ||||||||||||||||||||
+Sbjct  4069  ATTATTTTTTACTTGTGCTT  4088
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Effective search space used: 69044443672
+
+
+Query= BC_1531619_1_2_3_4
+
+Length=313
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Effective search space used: 69044443672
+
+
+Query= BC_1123747_1_2_3_4
+
+Length=308
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  AP014336_1_31907                                                    37.2    0.26 
+  DQ394810_1_33641                                                    35.3    1.00 
+  DQ394809_1_34897                                                    35.3    1.00 
+  DQ394808_1_35992                                                    35.3    1.00 
+  DQ394807_1_35594                                                    35.3    1.00 
+  HE580238_1_38049                                                    35.3    1.00 
+  NC_015252_1_36953                                                   35.3    1.00 
+
+
+> AP014336_1_31907
+Length=31907
+
+ Score = 37.2 bits (19),  Expect = 0.26
+ Identities = 25/28 (89%), Gaps = 0/28 (0%)
+ Strand=Plus/Plus
+
+Query  62     ACTTTGTTTGTTTGTTTTTTTAATTTAA  89
+              |||||||||||||||  |||| ||||||
+Sbjct  29929  ACTTTGTTTGTTTGTAATTTTCATTTAA  29956
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Effective search space used: 69044443672
+
+
+  Database: phantome_db.fasta
+    Posted date:  May 22, 2017  3:53 PM
+  Number of letters in database: 146,343,517
+  Number of sequences in database:  2,996
+
+
+
+Matrix: blastn matrix 1 -2
+Gap Penalties: Existence: 5, Extension: 2
