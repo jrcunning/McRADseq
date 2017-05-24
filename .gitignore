@@ -3,4 +3,5 @@
 .RData
 .Ruserdata
 oldstuff/
-data/
+data/contigs/ALL.final.contigs.txt
+data/ref/*
