@@ -35,11 +35,22 @@ BCNC.f <- BCNC[BCNC$contig %in% names(CSR92), ]
 real <- read.csv("data/BC_NC_SNPS_visual_assessment.csv")
 BCNC.f <- BCNC.f[BCNC.f$contig %in% real[real$visual_assess=="real", "contig"], ]
 
-# Write filtered SNP information to file
-x <- as.matrix(format(BCNC.f))
-write.table(x, file="output/BC_NC_snps.txt", sep="\t", row.names=F, quote=F)
-save(BCNC.f, file="output/BC_NC_snps.RData")
+# Summarize SNP information and write to file
+## Get position of each SNP in each contig
+pos <- aggregate(data.frame(pos=BCNC.f$pos), by=list(contig=BCNC.f$contig), FUN=c)
+## Get minimum coverage in both NC and BC groups of each SNP
+BCNC.f$cov <- unlist(lapply(apply(BCNC.f[, c("NC", "BC")], 1, FUN=c), 
+                            function(x) min(unlist(x)[unlist(x)!=0])))
+cov <- aggregate(data.frame(cov=BCNC.f$cov), by=list(contig=BCNC.f$contig), FUN=c)
+## Merge position and coverage information
+snpstats <- merge(pos, cov)
+snpstats <- snpstats[order(snpstats$contig), ]
 
-# Write contigs containing filtered SNPs to file
+# Write SNP stats to table and RData file
+x <- as.matrix(format(snpstats))
+write.table(x, file="output/BC_NC_snpstats.txt", sep="\t", row.names=F, quote=F)
+save(snpstats, file="output/BC_NC_snpstats.RData")
+
+# Write sequences of contigs containing filtered SNPs to file
 contigs.f <- subset(CSR92, names(CSR92) %in% BCNC.f$contig)
 writeXStringSet(contigs.f, "output/BC_NC_contigs.fasta")
