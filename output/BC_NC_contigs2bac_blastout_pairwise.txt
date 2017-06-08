@@ -12,6 +12,25 @@ Database: all_complete_Gb_bac.fasta
 
 
 
+Query= NC_4285464_1_2_3_4
+
+Length=1192
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Effective search space used: 32890294531045
+
+
 Query= NC_1016405_1_2_3_4
 
 Length=1146
@@ -59,7 +78,7 @@ Gapped
 Lambda      K        H
     1.33    0.621     1.12 
 
-Effective search space used: 31591621957287
+Effective search space used: 32890294531045
 
 
 Query= NC_235035_1_2_3_4
@@ -94,7 +113,278 @@ Gapped
 Lambda      K        H
     1.33    0.621     1.12 
 
-Effective search space used: 31591621957287
+Effective search space used: 32890294531045
+
+
+Query= BC_5387540_1_2_3_4
+
+Length=972
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  LN999832.1 Enterobacteriaceae bacterium symbiont of Ferrisia vi...  46.8    0.21 
+  LN831025.1 Campylobacter jejuni genome assembly NCTC11351, chro...  46.8    0.21 
+  CP013239.1 Clostridium butyricum strain CDC_51208, complete genome  46.8    0.21 
+  CP016332.1 Clostridium butyricum strain TK520 chromosome 1, com...  46.8    0.21 
+  CP014704.1 Clostridium butyricum strain TOA chromosome 1, compl...  46.8    0.21 
+  CP013352.1 Clostridium butyricum strain JKY6D1 chromosome 1, co...  46.8    0.21 
+  CP013252.1 Clostridium butyricum strain KNU-L09 chromosome 1, c...  46.8    0.21 
+  CP011663.1 Clostridium sporogenes strain DSM 795, complete genome   44.9    0.81 
+  CP009225.1 Clostridium sporogenes strain NCIMB 10696, complete ...  44.9    0.81 
+  AP014584.1 Ureaplasma parvum serovar 3 DNA, complete genome, st...  44.9    0.81 
+  CP000939.1 Clostridium botulinum B1 str. Okra, complete genome      44.9    0.81 
+  CP000942.1 Ureaplasma parvum serovar 3 str. ATCC 27815, complet...  44.9    0.81 
+  AF222894.1 Ureaplasma parvum serovar 3 str. ATCC 700970, comple...  44.9    0.81 
+
+
+> LN999832.1 Enterobacteriaceae bacterium symbiont of Ferrisia 
+virgata isolate GEFVIR genome assembly, chromosome: I
+Length=938041
+
+ Score = 46.8 bits (24),  Expect = 0.21
+ Identities = 34/39 (87%), Gaps = 0/39 (0%)
+ Strand=Plus/Plus
+
+Query  477     TATTTATGTATCGTTATATAATATATTTTATTTACTTGT  515
+               |||||||||||  ||||||||||||||||  ||| ||||
+Sbjct  314819  TATTTATGTATATTTATATAATATATTTTTGTTATTTGT  314857
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Effective search space used: 32890294531045
+
+
+Query= BC_7621428_1_2_3_4
+
+Length=1286
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  CP010888.1 Peptoclostridium difficile strain 08ACD0030, complet...  46.8    0.28 
+  CP013196.1 Peptoclostridium difficile strain Z31, complete genome   46.8    0.28 
+  CP011968.1 Peptoclostridium difficile ATCC 9689 = DSM 1296, com...  46.8    0.28 
+  CP003939.1 Peptoclostridium difficile BJ08, complete genome         46.8    0.28 
+  FN668941.1 Clostridium difficile BI1 chromosome, complete sequence  46.8    0.28 
+  FN665654.1 Clostridium difficile complete genome, strain 2007855    46.8    0.28 
+  FN665653.1 Clostridium difficile complete genome, strain M120       46.8    0.28 
+  FN665652.1 Clostridium difficile complete genome, strain CF5        46.8    0.28 
+  FN538970.1 Clostridium difficile CD196 complete genome, strain ...  46.8    0.28 
+  BX248583.1 Blochmannia floridanus complete genome                   46.8    0.28 
+  CP020424.1 Clostridioides difficile strain FDAARGOS_267, comple...  46.8    0.28 
+  CP019469.1 Clostridioides difficile strain LEM1, complete genome    46.8    0.28 
+
+
+> CP010888.1 Peptoclostridium difficile strain 08ACD0030, complete 
+genome
+Length=4167076
+
+ Score = 46.8 bits (24),  Expect = 0.28
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  245      CAGTTCATTATTTATCTTTTTTAA  268
+                ||||||||||||||||||||||||
+Sbjct  1060747  CAGTTCATTATTTATCTTTTTTAA  1060724
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Effective search space used: 32890294531045
+
+
+Query= BC_1837123_1_2_3_4
+
+Length=1129
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  AP014635.1 Vibrio tritonius DNA, chromosome 1, complete genome,...  46.8    0.25 
+
+
+> AP014635.1 Vibrio tritonius DNA, chromosome 1, complete genome, 
+strain: JCM 16456
+Length=3434724
+
+ Score = 46.8 bits (24),  Expect = 0.25
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  702      TGCAAAAAGTATTCAAGAAATACA  725
+                ||||||||||||||||||||||||
+Sbjct  2175816  TGCAAAAAGTATTCAAGAAATACA  2175793
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Effective search space used: 32890294531045
+
+
+Query= BC_2492647_1_2_3_4
+
+Length=876
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Effective search space used: 32890294531045
+
+
+Query= BC_1495792_1_2_3_4
+
+Length=828
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  CP000786.1 Leptospira biflexa serovar Patoc strain 'Patoc 1 (Pa...  44.9    0.69 
+  CP000777.1 Leptospira biflexa serovar Patoc strain 'Patoc 1 (Am...  44.9    0.69 
+
+
+> CP000786.1 Leptospira biflexa serovar Patoc strain 'Patoc 1 (Paris)' 
+chromosome I, complete sequence
+Length=3599677
+
+ Score = 44.9 bits (23),  Expect = 0.69
+ Identities = 23/23 (100%), Gaps = 0/23 (0%)
+ Strand=Plus/Plus
+
+Query  716      TGATTGGTGATTTAGAAAAAGCA  738
+                |||||||||||||||||||||||
+Sbjct  2434373  TGATTGGTGATTTAGAAAAAGCA  2434395
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Effective search space used: 32890294531045
+
+
+Query= NC_5885195_1_2_3_4
+
+Length=1121
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  CP016329.1 Leuconostoc garlicum strain KFRI01, complete genome      44.9    0.93 
+
+
+> CP016329.1 Leuconostoc garlicum strain KFRI01, complete genome
+Length=1663492
+
+ Score = 44.9 bits (23),  Expect = 0.93
+ Identities = 25/26 (96%), Gaps = 0/26 (0%)
+ Strand=Plus/Plus
+
+Query  881      TTAGTCAAAGCCGATGATGACGTTTT  906
+                ||||||||||||||||||| ||||||
+Sbjct  1160542  TTAGTCAAAGCCGATGATGCCGTTTT  1160567
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Effective search space used: 32890294531045
+
+
+Query= BC_8190320_1_2_3_4
+
+Length=1009
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  AE014299.2 Shewanella oneidensis MR-1, complete genome              44.9    0.84 
+
+
+> AE014299.2 Shewanella oneidensis MR-1, complete genome
+Length=4969811
+
+ Score = 44.9 bits (23),  Expect = 0.84
+ Identities = 23/23 (100%), Gaps = 0/23 (0%)
+ Strand=Plus/Minus
+
+Query  301      TCGAAGAGCTCTGCAATGTAATC  323
+                |||||||||||||||||||||||
+Sbjct  2771265  TCGAAGAGCTCTGCAATGTAATC  2771243
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Effective search space used: 32890294531045
+
+
+Query= BC_4769747_1_2_3_4
+
+Length=826
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  CP003610.1 Calothrix sp. PCC 6303, complete genome                  46.8    0.18 
+
+
+> CP003610.1 Calothrix sp. PCC 6303, complete genome
+Length=6767834
+
+ Score = 46.8 bits (24),  Expect = 0.18
+ Identities = 37/41 (90%), Gaps = 2/41 (5%)
+ Strand=Plus/Plus
+
+Query  298      CTTTCGCTTCTTCA--TATTTATTCAACAGAAAGTTGATAA  336
+                ||||||||||||||  |||||  ||||||||||||||||||
+Sbjct  3399911  CTTTCGCTTCTTCAACTATTTTGTCAACAGAAAGTTGATAA  3399951
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Effective search space used: 32890294531045
 
 
 Query= BC_7969249_1_2_3_4
@@ -142,7 +432,198 @@ Gapped
 Lambda      K        H
     1.33    0.621     1.12 
 
-Effective search space used: 31591621957287
+Effective search space used: 32890294531045
+
+
+Query= NC_3067113_1_2_3_4
+
+Length=721
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  CP015217.1 Leptospira alstonii strain GWTS #1 chromosome 1, com...  46.8    0.16 
+  CP001322.1 Desulfatibacillum alkenivorans AK-01, complete genome    44.9    0.59 
+
+
+> CP015217.1 Leptospira alstonii strain GWTS #1 chromosome 1, complete 
+sequence
+Length=4105414
+
+ Score = 46.8 bits (24),  Expect = 0.16
+ Identities = 28/30 (93%), Gaps = 0/30 (0%)
+ Strand=Plus/Plus
+
+Query  65      TCTAAAAGTTCCTTTGAAATTTCCACAAAA  94
+               ||||||||||| |||||||||||| |||||
+Sbjct  730162  TCTAAAAGTTCTTTTGAAATTTCCGCAAAA  730191
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Effective search space used: 32890294531045
+
+
+Query= ND_1252254_1_2_3_4
+
+Length=773
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  CP003542.1 Candidatus Carsonella ruddii CS isolate Thao2000, co...  46.8    0.17 
+  AP008955.1 Brevibacillus brevis NBRC 100599 DNA, complete genome    44.9    0.64 
+
+
+> CP003542.1 Candidatus Carsonella ruddii CS isolate Thao2000, 
+complete genome
+Length=162504
+
+ Score = 46.8 bits (24),  Expect = 0.17
+ Identities = 26/27 (96%), Gaps = 0/27 (0%)
+ Strand=Plus/Plus
+
+Query  84      TTTTTTTTTCAGAAACAGATTTTATTT  110
+               ||||||||||||||| |||||||||||
+Sbjct  130705  TTTTTTTTTCAGAAAAAGATTTTATTT  130731
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Effective search space used: 32890294531045
+
+
+Query= ND_7132363_1_2_3_4
+
+Length=713
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  CP009539.1 Yersinia ruckeri strain YRB, complete genome             46.8    0.15 
+
+
+> CP009539.1 Yersinia ruckeri strain YRB, complete genome
+Length=3605216
+
+ Score = 46.8 bits (24),  Expect = 0.15
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Plus
+
+Query  534      CAAAAACAGAAAGAGGCAGAAAAA  557
+                ||||||||||||||||||||||||
+Sbjct  1877894  CAAAAACAGAAAGAGGCAGAAAAA  1877917
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Effective search space used: 32890294531045
+
+
+Query= BC_6730668_1_2_3_4
+
+Length=705
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  CP014643.1 Lysinibacillus sphaericus strain OT4b.25, complete g...  44.9    0.58 
+  CP015224.1 Lysinibacillus sphaericus strain 2362, complete genome   44.9    0.58 
+  CP014856.1 Lysinibacillus sphaericus III(3)7, complete genome       44.9    0.58 
+  CP000817.1 Lysinibacillus sphaericus C3-41, complete genome         44.9    0.58 
+
+
+> CP014643.1 Lysinibacillus sphaericus strain OT4b.25, complete 
+genome
+Length=4665575
+
+ Score = 44.9 bits (23),  Expect = 0.58
+ Identities = 25/26 (96%), Gaps = 0/26 (0%)
+ Strand=Plus/Plus
+
+Query  362      CTGCAATTATTTACCGAAGCAGAGAA  387
+                ||||||||||||||||| ||||||||
+Sbjct  1880805  CTGCAATTATTTACCGATGCAGAGAA  1880830
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Effective search space used: 32890294531045
+
+
+Query= BC_4096071_1_2_3_4
+
+Length=702
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Effective search space used: 32890294531045
+
+
+Query= NC_3580001_1_2_3_4
+
+Length=692
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  AP017913.1 Candidatus Azobacteroides pseudotrichonymphae DNA, c...  46.8    0.15 
+  CP016359.1 Gramella flava JLT2011, complete genome                  44.9    0.57 
+  CP015750.1 Pectobacterium wasabiae CFBP 3304, complete genome       44.9    0.57 
+  CP006903.1 Clostridium botulinum 202F, complete genome              44.9    0.57 
+
+
+> AP017913.1 Candidatus Azobacteroides pseudotrichonymphae DNA, 
+chromosome: I, complete genome, phylotype ProJPt-1
+Length=774998
+
+ Score = 46.8 bits (24),  Expect = 0.15
+ Identities = 32/36 (89%), Gaps = 0/36 (0%)
+ Strand=Plus/Plus
+
+Query  406     AATTTGAAGTAAATTTTTCTCTAAAGATATATGTAA  441
+               |||||||| |||||||||||  ||| ||||||||||
+Sbjct  641747  AATTTGAAATAAATTTTTCTAAAAAAATATATGTAA  641782
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Effective search space used: 32890294531045
 
 
 Query= BC_3577569_1_2_3_4
@@ -175,12 +656,12 @@ Gapped
 Lambda      K        H
     1.33    0.621     1.12 
 
-Effective search space used: 31591621957287
+Effective search space used: 32890294531045
 
 
 Query= ND_2090286_1_2_3_4
 
-Length=508
+Length=631
 
 
 ***** No hits found *****
@@ -194,7 +675,155 @@ Gapped
 Lambda      K        H
     1.33    0.621     1.12 
 
-Effective search space used: 31591621957287
+Effective search space used: 32890294531045
+
+
+Query= ND_1609301_1_2_3_4
+
+Length=609
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  CP002158.1 Fibrobacter succinogenes subsp. succinogenes S85, co...  46.8    0.13 
+  CP001792.1 Fibrobacter succinogenes subsp. succinogenes S85, co...  46.8    0.13 
+
+
+> CP002158.1 Fibrobacter succinogenes subsp. succinogenes S85, 
+complete genome
+Length=3843004
+
+ Score = 46.8 bits (24),  Expect = 0.13
+ Identities = 28/30 (93%), Gaps = 0/30 (0%)
+ Strand=Plus/Minus
+
+Query  288      CTTTAAAAAATATATAACCATTTCCCATAA  317
+                |||||||||||||||||||||| || ||||
+Sbjct  3041858  CTTTAAAAAATATATAACCATTACCAATAA  3041829
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Effective search space used: 32890294531045
+
+
+Query= NC_1289598_1_2_3_4
+
+Length=607
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Effective search space used: 32890294531045
+
+
+Query= ND_5023081_1_2_3_4
+
+Length=597
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  CR925678.1 Ehrlichia ruminantium str. Welgevonden, complete genome  46.8    0.13 
+  CR925677.1 Ehrlichia ruminantium str. Gardel, complete genome       46.8    0.13 
+  CR767821.1 Ehrlichia ruminantium strain Welgevonden, complete g...  46.8    0.13 
+  CP016817.1 Mycoplasma hyorhinis strain MDBK-IPV, complete genome    44.9    0.49 
+  CP009652.1 Mycoplasma hominis ATCC 27545, complete genome           44.9    0.49 
+  CP006849.1 Mycoplasma hyorhinis DBS 1050, complete genome           44.9    0.49 
+  CP003914.1 Mycoplasma hyorhinis SK76, complete genome               44.9    0.49 
+  CP003231.1 Mycoplasma hyorhinis GDL-1, complete genome              44.9    0.49 
+  CP002669.1 Mycoplasma hyorhinis MCLD, complete genome               44.9    0.49 
+  CP002170.1 Mycoplasma hyorhinis HUB-1, complete genome              44.9    0.49 
+
+
+> CR925678.1 Ehrlichia ruminantium str. Welgevonden, complete genome
+Length=1512977
+
+ Score = 46.8 bits (24),  Expect = 0.13
+ Identities = 26/27 (96%), Gaps = 0/27 (0%)
+ Strand=Plus/Plus
+
+Query  122     AATGAAAATTTAATAAAACAATGATTC  148
+               |||||||||||||||||||||| ||||
+Sbjct  882379  AATGAAAATTTAATAAAACAATCATTC  882405
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Effective search space used: 32890294531045
+
+
+Query= BC_5397515_1_2_3_4
+
+Length=595
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Effective search space used: 32890294531045
+
+
+Query= BC_6820882_1_2_3_4
+
+Length=594
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  LT799839.1 Clostridium chauvoei JF4335 genome assembly, chromos...  44.9    0.49 
+  CP002582.1 Clostridium lentocellum DSM 5427, complete genome        44.9    0.49 
+  CP003586.1 Enterococcus faecium DO plasmid 3, complete sequence     44.9    0.49 
+
+
+> LT799839.1 Clostridium chauvoei JF4335 genome assembly, chromosome: 
+I
+Length=2887451
+
+ Score = 44.9 bits (23),  Expect = 0.49
+ Identities = 23/23 (100%), Gaps = 0/23 (0%)
+ Strand=Plus/Minus
+
+Query  524     GAAAATCTCTCTTTCTTTTTTTC  546
+               |||||||||||||||||||||||
+Sbjct  436539  GAAAATCTCTCTTTCTTTTTTTC  436517
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Effective search space used: 32890294531045
 
 
 Query= BC_104482_1_2_3_4
@@ -213,12 +842,142 @@ Gapped
 Lambda      K        H
     1.33    0.621     1.12 
 
-Effective search space used: 31591621957287
+Effective search space used: 32890294531045
 
 
-Query= ND_2199726_1_2_3_4
+Query= BC_5493191_1_2_3_4
 
-Length=447
+Length=587
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  CP020449.1 Streptococcus agalactiae strain FDAARGOS_254, comple...  52.6    0.002
+  CP016501.1 Streptococcus agalactiae strain WC1535, complete genome  52.6    0.002
+  LT545678.1 Streptococcus agalactiae isolate SA111 genome assemb...  52.6    0.002
+  CP019978.1 Streptococcus agalactiae strain Sag37, complete genome   52.6    0.002
+  CP019979.1 Streptococcus agalactiae strain Sag158, complete genome  52.6    0.002
+  CP013908.1 Streptococcus agalactiae strain GBS-M002, complete g...  52.6    0.002
+  CP012503.1 Streptococcus agalactiae strain NGBS357, complete ge...  52.6    0.002
+  CP016391.1 Streptococcus agalactiae strain FWL1402, complete ge...  52.6    0.002
+  CP010875.1 Streptococcus agalactiae strain CU_GBS_98, complete ...  52.6    0.002
+  CP010874.1 Streptococcus agalactiae strain CU_GBS_08, complete ...  52.6    0.002
+  CP012480.1 Streptococcus agalactiae strain NGBS128, complete ge...  52.6    0.002
+  CP013202.1 Streptococcus agalactiae strain GBS ST-1, complete g...  52.6    0.002
+  CP012419.2 Streptococcus agalactiae strain SG-M1, complete genome   52.6    0.002
+  CP011329.1 Streptococcus agalactiae strain H002, complete genome    52.6    0.002
+  CP011325.1 Streptococcus agalactiae strain HN016, complete genome   52.6    0.002
+  CP010867.1 Streptococcus agalactiae strain SS1, complete genome     52.6    0.002
+  CP007570.1 Streptococcus agalactiae strain GBS1-NY, complete ge...  52.6    0.002
+  CP007571.1 Streptococcus agalactiae strain GBS2-NM, complete ge...  52.6    0.002
+  CP007572.1 Streptococcus agalactiae strain GBS6, complete genome    52.6    0.002
+  CP006910.1 Streptococcus agalactiae CNCTC 10/84, complete genome    52.6    0.002
+  CP007632.1 Streptococcus agalactiae strain NGBS572, complete ge...  52.6    0.002
+  CP007631.2 Streptococcus agalactiae strain NGBS061, complete ge...  52.6    0.002
+  HG939456.1 Streptococcus agalactiae, strain COH1, complete genome   52.6    0.002
+  HF952104.1 Streptococcus agalactiae 09mas018883 complete genome     52.6    0.002
+  CP003810.1 Streptococcus agalactiae GD201008-001, complete genome   52.6    0.002
+  AL732656.1 Streptococcus agalactiae NEM316 complete genome          52.6    0.002
+  CP000114.1 Streptococcus agalactiae A909, complete genome           52.6    0.002
+  AE009948.1 Streptococcus agalactiae 2603V/R, complete genome        52.6    0.002
+  LT603679.1 Enterococcus faecium isolate Ef_DMG1500501 genome as...  46.8    0.13 
+  CP016318.1 Clostridioides difficile strain 630 delta erm, compl...  46.8    0.13 
+  CP019989.1 Enterococcus faecium isolate 2014-VREF-63 plasmid p6...  46.8    0.13 
+  CP019209.1 Enterococcus faecium strain 2014-VREF-41 plasmid p41...  46.8    0.13 
+  CP019512.1 Enterococcus faecalis strain CLB21560, complete genome   46.8    0.13 
+  CP018832.1 Enterococcus faecium strain ISMMS_VRE_9 plasmid p1_I...  46.8    0.13 
+  CP018827.1 Enterococcus faecium strain ISMMS_VRE_12 plasmid p1_...  46.8    0.13 
+  CP018073.1 Enterococcus faecium strain VRE001 plasmid unnamed3,...  46.8    0.13 
+  CP018066.1 Enterococcus faecium strain E1 plasmid pE1_230, comp...  46.8    0.13 
+  CP014530.1 Enterococcus faecium strain E745 plasmid pl1, comple...  46.8    0.13 
+  CP016164.1 Enterococcus faecium strain ISMMS_VRE_11 plasmid ISM...  46.8    0.13 
+  CP011282.1 Enterococcus faecium strain E39 plasmid p1, complete...  46.8    0.13 
+  CP014949.1 Enterococcus faecalis strain LD33, complete genome       46.8    0.13 
+  LN614756.1 Peptoclostridium difficile genome assembly CD630DERM...  46.8    0.13 
+  CP008816.1 Enterococcus faecalis ATCC 29212, complete genome        46.8    0.13 
+  CP004081.1 Enterococcus faecalis DENG1, complete genome             46.8    0.13 
+  CP006621.1 Enterococcus faecium Aus0085 plasmid p1, complete se...  46.8    0.13 
+  CP002491.1 Enterococcus faecalis 62, complete genome                46.8    0.13 
+  FN665654.1 Clostridium difficile complete genome, strain 2007855    46.8    0.13 
+  CP003586.1 Enterococcus faecium DO plasmid 3, complete sequence     46.8    0.13 
+  CP001104.1 Eubacterium eligens ATCC 27750, complete genome          46.8    0.13 
+  AE016830.1 Enterococcus faecalis V583, complete genome              46.8    0.13 
+  LT598664.1 Enterococcus faecium isolate Ef_aus00233 genome asse...  46.8    0.13 
+  CP020432.1 Streptococcus sp. 'group B' strain FDAARGOS_229, com...  46.8    0.13 
+  CP019993.1 Enterococcus faecium isolate 2014-VREF-268 plasmid p...  46.8    0.13 
+  CP012098.1 Anaerostipes hadrus strain BPB5, complete genome         46.8    0.13 
+  CP012461.1 Enterococcus faecium strain ISMMS_VRE_7 plasmid ISMM...  46.8    0.13 
+  CP012430.1 Enterococcus faecium strain ISMMS_VRE_1, complete ge...  46.8    0.13 
+  CP014450.1 Enterococcus faecium strain ATCC 700221 plasmid unna...  46.8    0.13 
+  CP013995.1 Enterococcus faecium strain 6E6 plasmid unnamed1, co...  46.8    0.13 
+  CP003939.1 Peptoclostridium difficile BJ08, complete genome         46.8    0.13 
+  CP010905.2 Clostridioides difficile 630, complete genome            46.8    0.13 
+  FN665652.1 Clostridium difficile complete genome, strain CF5        46.8    0.13 
+  AM180355.1 Clostridium difficile 630 complete genome                46.8    0.13 
+  CP014609.1 Solibacillus silvestris strain DSM 12223, complete g...  44.9    0.48 
+  CP003345.1 Flexibacter litoralis DSM 6794, complete genome          44.9    0.48 
+  AP012157.1 Solibacillus silvestris StLB046 DNA, complete genome     44.9    0.48 
+  CP002394.1 Bacillus cellulosilyticus DSM 2522, complete genome      44.9    0.48 
+
+
+> CP020449.1 Streptococcus agalactiae strain FDAARGOS_254, complete 
+genome
+Length=2218541
+
+ Score = 52.6 bits (27),  Expect = 0.002
+ Identities = 29/30 (97%), Gaps = 0/30 (0%)
+ Strand=Plus/Plus
+
+Query  303      TATTTTTATCTTTATTTTCTCAATGCTTTC  332
+                |||||||||||||||||||| |||||||||
+Sbjct  1936246  TATTTTTATCTTTATTTTCTAAATGCTTTC  1936275
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Effective search space used: 32890294531045
+
+
+Query= NC_2933167_1_2_3_4
+
+Length=570
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  CP016907.1 Flavobacterium johnsoniae strain GSE09, complete genome  44.9    0.46 
+
+
+> CP016907.1 Flavobacterium johnsoniae strain GSE09, complete genome
+Length=5109718
+
+ Score = 44.9 bits (23),  Expect = 0.46
+ Identities = 25/26 (96%), Gaps = 0/26 (0%)
+ Strand=Plus/Plus
+
+Query  269      TTTTGCCACTACCTCAACATTTACAT  294
+                |||||||||||||||||||||| |||
+Sbjct  1300109  TTTTGCCACTACCTCAACATTTGCAT  1300134
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Effective search space used: 32890294531045
+
+
+Query= ND_509238_1_2_3_4
+
+Length=566
 
 
 ***** No hits found *****
@@ -232,7 +991,164 @@ Gapped
 Lambda      K        H
     1.33    0.621     1.12 
 
-Effective search space used: 31591621957287
+Effective search space used: 32890294531045
+
+
+Query= BC_6887189_1_2_3_4
+
+Length=562
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  CP014233.1 Gemella sp. oral taxon 928, complete genome              44.9    0.46 
+
+
+> CP014233.1 Gemella sp. oral taxon 928, complete genome
+Length=1769679
+
+ Score = 44.9 bits (23),  Expect = 0.46
+ Identities = 27/29 (93%), Gaps = 0/29 (0%)
+ Strand=Plus/Plus
+
+Query  285     CTTCAGAAGATAGAGGAAGATCAAGCGAA  313
+               ||| |||||||||||||||||||| ||||
+Sbjct  929536  CTTGAGAAGATAGAGGAAGATCAAACGAA  929564
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Effective search space used: 32890294531045
+
+
+Query= ND_2199726_1_2_3_4
+
+Length=586
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Effective search space used: 32890294531045
+
+
+Query= BC_203578_1_2_3_4
+
+Length=553
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Effective search space used: 32890294531045
+
+
+Query= BC_6830197_1_2_3_4
+
+Length=525
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Effective search space used: 32890294531045
+
+
+Query= BC_1351092_1_2_3_4
+
+Length=517
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  CP015010.1 Rickettsia bellii isolate An04, complete genome          46.8    0.11 
+  CP017038.1 Tannerella sp. oral taxon BU063, complete genome         46.8    0.11 
+  CP000849.1 Rickettsia bellii OSU 85-389, complete genome            46.8    0.11 
+  CP000087.1 Rickettsia bellii RML369-C, complete genome              46.8    0.11 
+  CP007777.1 Campylobacter lari RM16701, complete genome              44.9    0.42 
+
+
+> CP015010.1 Rickettsia bellii isolate An04, complete genome
+Length=1543886
+
+ Score = 46.8 bits (24),  Expect = 0.11
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Plus
+
+Query  345     TTTAACAAAATCTAATAATAATCT  368
+               ||||||||||||||||||||||||
+Sbjct  333053  TTTAACAAAATCTAATAATAATCT  333076
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Effective search space used: 32890294531045
+
+
+Query= BC_4399041_1_2_3_4
+
+Length=651
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  CP002355.1 Sulfuricurvum kujiense DSM 16994, complete genome        44.9    0.53 
+
+
+> CP002355.1 Sulfuricurvum kujiense DSM 16994, complete genome
+Length=2574824
+
+ Score = 44.9 bits (23),  Expect = 0.53
+ Identities = 29/32 (91%), Gaps = 0/32 (0%)
+ Strand=Plus/Plus
+
+Query  16      GCAATTATCCTCTCAATGAGAGAGATGCCTTT  47
+               ||||| ||| |||||||||||||||| |||||
+Sbjct  178390  GCAATAATCATCTCAATGAGAGAGATACCTTT  178421
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Effective search space used: 32890294531045
 
 
 Query= BC_2102217_1_2_3_4
@@ -296,7 +1212,131 @@ Gapped
 Lambda      K        H
     1.33    0.621     1.12 
 
-Effective search space used: 31591621957287
+Effective search space used: 32890294531045
+
+
+Query= BC_218217_1_2_3_4
+
+Length=487
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Effective search space used: 32890294531045
+
+
+Query= BC_5615048_1_2_3_4
+
+Length=484
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  CP002271.1 Stigmatella aurantiaca DW4/3-1, complete genome          44.9    0.39 
+
+
+> CP002271.1 Stigmatella aurantiaca DW4/3-1, complete genome
+Length=10260756
+
+ Score = 44.9 bits (23),  Expect = 0.39
+ Identities = 29/32 (91%), Gaps = 0/32 (0%)
+ Strand=Plus/Minus
+
+Query  423      TGAATGTCTTGAAATATCAATACTTGCAATCT  454
+                |||||||||||||| ||  |||||||||||||
+Sbjct  8564704  TGAATGTCTTGAAACATGCATACTTGCAATCT  8564673
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Effective search space used: 32890294531045
+
+
+Query= ND_4225300_1_2_3_4
+
+Length=481
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Effective search space used: 32890294531045
+
+
+Query= BC_3045842_1_2_3_4
+
+Length=479
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Effective search space used: 32890294531045
+
+
+Query= BC_1309150_1_2_3_4
+
+Length=481
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  CP011154.1 Bacillus cereus strain CMCC P0011 plasmid pRML05, co...  46.8    0.10 
+  CP011152.1 Bacillus cereus strain CMCC P0021 plasmid pRML04, co...  46.8    0.10 
+  CP000961.1 Shewanella woodyi ATCC 51908, complete genome            46.8    0.10 
+
+
+> CP011154.1 Bacillus cereus strain CMCC P0011 plasmid pRML05, 
+complete sequence
+Length=591112
+
+ Score = 46.8 bits (24),  Expect = 0.10
+ Identities = 30/33 (91%), Gaps = 0/33 (0%)
+ Strand=Plus/Minus
+
+Query  347     CACTTGTGTGTATTTTGAAGGTTGTTTTAGTGT  379
+               |||||||||||  || |||||||||||||||||
+Sbjct  354393  CACTTGTGTGTTGTTAGAAGGTTGTTTTAGTGT  354361
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Effective search space used: 32890294531045
 
 
 Query= BC_6957170_1_2_3_4
@@ -315,7 +1355,7 @@ Gapped
 Lambda      K        H
     1.33    0.621     1.12 
 
-Effective search space used: 31591621957287
+Effective search space used: 32890294531045
 
 
 Query= BC_1111080_1_2_3_4
@@ -334,7 +1374,348 @@ Gapped
 Lambda      K        H
     1.33    0.621     1.12 
 
-Effective search space used: 31591621957287
+Effective search space used: 32890294531045
+
+
+Query= BC_1398335_1_2_3_4
+
+Length=455
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  CP001100.1 Chloroherpeton thalassium ATCC 35110, complete genome    46.8    0.097
+  LT635475.1 Ezakiella sp. Marseille-P2951 strain Marseille-P2951...  44.9    0.37 
+  CP015199.1 Chryseobacterium sp. IHB B 10212 strain IHBB 10212, ...  44.9    0.37 
+
+
+> CP001100.1 Chloroherpeton thalassium ATCC 35110, complete genome
+Length=3293456
+
+ Score = 46.8 bits (24),  Expect = 0.097
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Minus
+
+Query  302     CATCTTTGAACGAATCCACAAAGA  325
+               ||||||||||||||||||||||||
+Sbjct  261202  CATCTTTGAACGAATCCACAAAGA  261179
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Effective search space used: 32890294531045
+
+
+Query= NC_5443020_1_2_3_4
+
+Length=451
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Effective search space used: 32890294531045
+
+
+Query= BC_5421730_1_2_3_4
+
+Length=432
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  CP019708.1 Yersinia pestis strain 195/P, complete genome            44.9    0.35 
+  CP009973.1 Yersinia pestis CO92, complete genome                    44.9    0.35 
+  CP006748.1 Yersinia pestis 8787, complete genome                    44.9    0.35 
+  CP006758.1 Yersinia pestis 1522, complete genome                    44.9    0.35 
+  CP006783.1 Yersinia pestis 1412, complete genome                    44.9    0.35 
+  CP010023.1 Yersinia pestis str. Pestoides B, complete genome        44.9    0.35 
+  CP009991.1 Yersinia pestis strain Nicholisk 41, complete genome     44.9    0.35 
+  CP009935.1 Yersinia pestis Angola, complete genome                  44.9    0.35 
+  CP009844.1 Yersinia pestis strain Dodson, complete genome           44.9    0.35 
+  CP009785.1 Yersinia pestis strain El Dorado, complete genome        44.9    0.35 
+  CP009723.1 Yersinia pestis strain Shasta, complete genome           44.9    0.35 
+  CP009492.1 Yersinia pestis strain PBM19, complete genome            44.9    0.35 
+  CP002956.1 Yersinia pestis A1122, complete genome                   44.9    0.35 
+  CP001593.1 Yersinia pestis Z176003, complete genome                 44.9    0.35 
+  CP000901.1 Yersinia pestis Angola, complete genome                  44.9    0.35 
+  CP000668.1 Yersinia pestis Pestoides F, complete genome             44.9    0.35 
+  CP016273.1 Yersinia pestis strain Cadman, complete genome           44.9    0.35 
+  CP006762.1 Yersinia pestis 1413, complete genome                    44.9    0.35 
+  CP006792.1 Yersinia pestis 2944, complete genome                    44.9    0.35 
+  CP006754.1 Yersinia pestis 3067, complete genome                    44.9    0.35 
+  CP006751.1 Yersinia pestis 3770, complete genome                    44.9    0.35 
+  CP010247.1 Yersinia pestis Pestoides G, complete genome             44.9    0.35 
+  CP009906.1 Yersinia pestis Antiqua, complete genome                 44.9    0.35 
+  CP009840.1 Yersinia pestis A1122, complete genome                   44.9    0.35 
+  CP009715.1 Yersinia pestis Pestoides F, complete genome             44.9    0.35 
+  CP009704.1 Yersinia pestis strain Harbin35, complete genome         44.9    0.35 
+  CP001608.1 Yersinia pestis biovar Medievalis str. Harbin 35, co...  44.9    0.35 
+  CP001589.1 Yersinia pestis D182038, complete genome                 44.9    0.35 
+  CP001585.1 Yersinia pestis D106004, complete genome                 44.9    0.35 
+  CP000308.1 Yersinia pestis Antiqua, complete genome                 44.9    0.35 
+  CP000305.1 Yersinia pestis Nepal516, complete genome                44.9    0.35 
+  AL590842.1 Yersinia pestis CO92 complete genome                     44.9    0.35 
+  AE017042.1 Yersinia pestis biovar Microtus str. 91001, complete...  44.9    0.35 
+  AE009952.1 Yersinia pestis KIM10+, complete genome                  44.9    0.35 
+
+
+> CP019708.1 Yersinia pestis strain 195/P, complete genome
+Length=4655691
+
+ Score = 44.9 bits (23),  Expect = 0.35
+ Identities = 25/26 (96%), Gaps = 0/26 (0%)
+ Strand=Plus/Plus
+
+Query  21     AATTGCACTGTAGTGAGAAAAAGTAA  46
+              ||||||||||||||||| ||||||||
+Sbjct  72834  AATTGCACTGTAGTGAGGAAAAGTAA  72859
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Effective search space used: 32890294531045
+
+
+Query= NC_4787834_1_2_3_4
+
+Length=429
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Effective search space used: 32890294531045
+
+
+Query= BC_5378646_1_2_3_4
+
+Length=420
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  CP015378.1 Fictibacillus phosphorivorans strain G25-29, complet...  44.9    0.34 
+
+
+> CP015378.1 Fictibacillus phosphorivorans strain G25-29, complete 
+genome
+Length=4230665
+
+ Score = 44.9 bits (23),  Expect = 0.34
+ Identities = 29/32 (91%), Gaps = 0/32 (0%)
+ Strand=Plus/Minus
+
+Query  320      GTGTACTTCGTTTTTCCATCAACAGCACCTGA  351
+                |||||| |||||||| | ||||||||||||||
+Sbjct  3998049  GTGTACATCGTTTTTGCTTCAACAGCACCTGA  3998018
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Effective search space used: 32890294531045
+
+
+Query= ND_6334268_1_2_3_4
+
+Length=501
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Effective search space used: 32890294531045
+
+
+Query= ND_6803372_1_2_3_4
+
+Length=404
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  CP015372.1 Pandoraea pnomenusa strain MCB032 plasmid unnamed 1,...  48.8    0.022
+  AP014685.1 Bradyrhizobium diazoefficiens DNA, complete genome, ...  48.8    0.022
+  CP015217.1 Leptospira alstonii strain GWTS #1 chromosome 1, com...  44.9    0.32 
+  CP012029.1 Leptospira borgpetersenii serovar Ballum strain 5660...  44.9    0.32 
+  CP012603.1 Leptospira interrogans serovar Hardjo str. Norma chr...  44.9    0.32 
+  CP011410.1 Leptospira interrogans serovar Bratislava strain Pig...  44.9    0.32 
+  CP006723.1 Leptospira interrogans serovar Linhai str. 56609 chr...  44.9    0.32 
+  CP005095.1 Azotobacter vinelandii CA6, complete genome              44.9    0.32 
+  CP005094.1 Azotobacter vinelandii CA, complete genome               44.9    0.32 
+  CP006694.1 Leptospira santarosai serovar Shermani str. LT 821 c...  44.9    0.32 
+  CP003155.1 Sphaerochaeta pleomorpha str. Grapes, complete genome    44.9    0.32 
+  CP001221.1 Leptospira interrogans serovar Lai str. IPAV chromos...  44.9    0.32 
+  CP002868.1 Treponema caldarium DSM 7334, complete genome            44.9    0.32 
+  CP002116.1 Spirochaeta smaragdinae DSM 11293, complete genome       44.9    0.32 
+  AE010300.2 Leptospira interrogans serovar Lai str. 56601 chromo...  44.9    0.32 
+  CP001157.1 Azotobacter vinelandii DJ, complete genome               44.9    0.32 
+  CP000350.1 Leptospira borgpetersenii serovar Hardjo-bovis JB197...  44.9    0.32 
+  CP000348.1 Leptospira borgpetersenii serovar Hardjo-bovis L550 ...  44.9    0.32 
+  CP020414.1 Leptospira interrogans serovar Copenhageni strain FD...  44.9    0.32 
+  CP019697.1 Paenalcaligenes hominis strain 15S00501, complete ge...  44.9    0.32 
+  CP011934.1 Leptospira interrogans serovar Manilae strain UP-MMC...  44.9    0.32 
+  CP011931.1 Leptospira interrogans serovar Manilae strain UP-MMC...  44.9    0.32 
+  CP010415.1 Azotobacter chroococcum NCIMB 8003, complete genome      44.9    0.32 
+  CP011454.1 Gemmatimonas phototrophica strain AP64, complete genome  44.9    0.32 
+  CP003786.1 Salmonella enterica subsp. enterica serovar Gallinar...  44.9    0.32 
+  CP006575.1 Salmonella enterica subsp. enterica serovar Pullorum...  44.9    0.32 
+  CP012347.1 Salmonella enterica subsp. enterica serovar Pullorum...  44.9    0.32 
+  CP003047.1 Salmonella enterica subsp. enterica serovar Gallinar...  44.9    0.32 
+  CP002541.1 Sphaerochaeta globosa str. Buddy, complete genome        44.9    0.32 
+  CP001068.1 Ralstonia pickettii 12J chromosome 1, complete sequence  44.9    0.32 
+  AE016823.1 Leptospira interrogans serovar Copenhageni str. Fioc...  44.9    0.32 
+
+
+> CP015372.1 Pandoraea pnomenusa strain MCB032 plasmid unnamed 
+1, complete sequence
+Length=121451
+
+ Score = 48.8 bits (25),  Expect = 0.022
+ Identities = 25/25 (100%), Gaps = 0/25 (0%)
+ Strand=Plus/Plus
+
+Query  376    GTAGCTCAGTCGGTAGAGCGGCGGA  400
+              |||||||||||||||||||||||||
+Sbjct  44909  GTAGCTCAGTCGGTAGAGCGGCGGA  44933
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Effective search space used: 32890294531045
+
+
+Query= NC_4373017_1_2_3_4
+
+Length=399
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Effective search space used: 32890294531045
+
+
+Query= BC_1533796_1_2_3_4
+
+Length=397
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Effective search space used: 32890294531045
+
+
+Query= ND_2194967_1_2_3_4
+
+Length=397
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Effective search space used: 32890294531045
+
+
+Query= ND_1259540_1_2_3_4
+
+Length=396
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  CP003945.1 Halothece sp. PCC 7418, complete genome                  44.9    0.32 
+
+
+> CP003945.1 Halothece sp. PCC 7418, complete genome
+Length=4179170
+
+ Score = 44.9 bits (23),  Expect = 0.32
+ Identities = 35/41 (85%), Gaps = 0/41 (0%)
+ Strand=Plus/Minus
+
+Query  194      TAATCCACTGAAACAAAGGACTTAAAAAGATAAATCCTTAT  234
+                |||| ||||||  ||  | ||||||||||||||||||||||
+Sbjct  1732677  TAATACACTGACTCACGGAACTTAAAAAGATAAATCCTTAT  1732637
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Effective search space used: 32890294531045
 
 
 Query= BC_1154956_1_2_3_4
@@ -366,7 +1747,358 @@ Gapped
 Lambda      K        H
     1.33    0.621     1.12 
 
-Effective search space used: 31591621957287
+Effective search space used: 32890294531045
+
+
+Query= BC_28959_1_2_3_4
+
+Length=392
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Effective search space used: 32890294531045
+
+
+Query= BC_1177023_1_2_3_4
+
+Length=378
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  CP011393.1 Fervidobacterium pennivorans strain DYC, complete ge...  50.7    0.006
+  CP011108.1 Thermotoga maritima strain Tma100, complete genome       50.7    0.006
+  CP011107.1 Thermotoga maritima MSB8, complete genome                50.7    0.006
+  CP010967.1 Thermotoga maritima strain Tma200, complete genome       50.7    0.006
+  CP007633.1 Thermotoga sp. RQ7, complete genome                      50.7    0.006
+  CP003409.1 Thermotoga sp. Cell2, complete genome                    50.7    0.006
+  CP003408.1 Thermotoga sp. 2812B, complete genome                    50.7    0.006
+  CP014334.1 Fervidobacterium islandicum strain AW-1, complete ge...  50.7    0.006
+  CP008796.1 Thermodesulfobacterium commune DSM 2178, complete ge...  50.7    0.006
+  CP004077.1 Thermotoga maritima MSB8, complete genome                50.7    0.006
+  CP003260.1 Fervidobacterium pennivorans DSM 9078, complete genome   50.7    0.006
+  CP007013.1 Thermotoga maritima MSB8, complete genome                50.7    0.006
+  CP001839.1 Thermotoga naphthophila RKU-10, complete genome          50.7    0.006
+  CP000969.1 Thermotoga sp. RQ2, complete genome                      50.7    0.006
+  CP000916.1 Thermotoga neapolitana DSM 4359, complete genome         50.7    0.006
+  CP000771.1 Fervidobacterium nodosum Rt17-B1, complete genome        50.7    0.006
+  CP000702.1 Thermotoga petrophila RKU-1, complete genome             50.7    0.006
+  AE000512.1 Thermotoga maritima MSB8, complete genome                50.7    0.006
+  CP017668.1 Jeongeupia sp. USM3, complete genome                     44.9    0.30 
+  CP011214.1 Microgenomates (Woesebacteria) bacterium GW2011_GWF1...  44.9    0.30 
+  LN824141.1 Defluviitoga tunisiensis genome assembly DTL3, chrom...  44.9    0.30 
+  CP007128.1 Gemmatirosa kalamazoonesis strain KBS708, complete g...  44.9    0.30 
+  CP003969.1 Sorangium cellulosum So0157-2, complete genome           44.9    0.30 
+  CP003349.1 Solitalea canadensis DSM 3403, complete genome           44.9    0.30 
+  CP002829.1 Thermodesulfobacterium geofontis OPF15, complete genome  44.9    0.30 
+  CP002344.1 Thermaerobacter marianensis DSM 12885, complete genome   44.9    0.30 
+  AM746676.1 Sorangium cellulosum 'So ce 56' complete genome          44.9    0.30 
+  AE008691.1 Thermoanaerobacter tengcongensis MB4, complete genome    44.9    0.30 
+
+
+> CP011393.1 Fervidobacterium pennivorans strain DYC, complete 
+genome
+Length=2061852
+
+ Score = 50.7 bits (26),  Expect = 0.006
+ Identities = 30/32 (94%), Gaps = 0/32 (0%)
+ Strand=Plus/Plus
+
+Query  343      GGGTGGGAATTGAACCCACGACCTTGGGGTTA  374
+                |||||||| |||||||||||||||| ||||||
+Sbjct  1964122  GGGTGGGATTTGAACCCACGACCTTTGGGTTA  1964153
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Effective search space used: 32890294531045
+
+
+Query= BC_3015834_1_2_3_4
+
+Length=373
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Effective search space used: 32890294531045
+
+
+Query= BC_4804998_1_2_3_4
+
+Length=370
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  CP020776.1 Campylobacter jejuni strain YH002, complete genome       44.9    0.29 
+  CP020045.1 Campylobacter jejuni subsp. jejuni strain ATCC 35925...  44.9    0.29 
+  CP019965.1 Campylobacter jejuni strain NCTC12662, complete genome   44.9    0.29 
+  CP007193.1 Campylobacter jejuni strain NS4-9-1, complete genome     44.9    0.29 
+  CP007192.1 Campylobacter jejuni strain NS4-5-1, complete genome     44.9    0.29 
+  CP007191.1 Campylobacter jejuni strain NS4-1-1, complete genome     44.9    0.29 
+  CP007190.1 Campylobacter jejuni strain HF5-7-1, complete genome     44.9    0.29 
+  CP007189.1 Campylobacter jejuni strain HF5-5-1, complete genome     44.9    0.29 
+  CP007188.1 Campylobacter jejuni strain HF5-4A-4, complete genome    44.9    0.29 
+  CP017856.1 Campylobacter jejuni strain ZP3204, complete genome      44.9    0.29 
+  CP017859.1 Campylobacter jejuni strain YQ2210, complete genome      44.9    0.29 
+  CP007751.1 Campylobacter jejuni subsp. jejuni D42a, complete ge...  44.9    0.29 
+  CP007749.1 Campylobacter jejuni subsp. jejuni M129, complete ge...  44.9    0.29 
+  CP017863.1 Campylobacter jejuni strain IF1100, complete genome      44.9    0.29 
+  CP017860.1 Campylobacter jejuni strain TS1218, complete genome      44.9    0.29 
+  CP017862.1 Campylobacter jejuni strain FJ3124, complete genome      44.9    0.29 
+  CP017456.1 Campylobacter jejuni subsp. jejuni str. RM3420, comp...  44.9    0.29 
+  CP017033.1 Campylobacter jejuni subsp. jejuni strain MTVDSCj16,...  44.9    0.29 
+  CP017032.1 Campylobacter jejuni subsp. jejuni strain MTVDSCj13,...  44.9    0.29 
+  CP017031.1 Campylobacter jejuni subsp. jejuni strain MTVDSCj07,...  44.9    0.29 
+  CP017029.1 Campylobacter jejuni subsp. jejuni strain 14980A, co...  44.9    0.29 
+  CP015209.1 Campylobacter jejuni subsp. jejuni strain RM1285, co...  44.9    0.29 
+  CP014742.1 Campylobacter jejuni strain WP2202, complete genome      44.9    0.29 
+  CP014744.1 Campylobacter jejuni strain OD267, complete genome       44.9    0.29 
+  CP014344.1 Campylobacter jejuni strain RM3194, complete genome      44.9    0.29 
+  CP010487.1 Campylobacter jejuni strain CJ677CC012, complete genome  44.9    0.29 
+  CP010486.1 Campylobacter jejuni strain CJ677CC095, complete genome  44.9    0.29 
+  CP010485.1 Campylobacter jejuni strain CJ677CC086, complete genome  44.9    0.29 
+  CP010484.1 Campylobacter jejuni strain CJ677CC034, complete genome  44.9    0.29 
+  CP010470.1 Campylobacter jejuni strain CJ677CC026, complete genome  44.9    0.29 
+  CP010469.1 Campylobacter jejuni strain CJ677CC525, complete genome  44.9    0.29 
+  CP010468.1 Campylobacter jejuni strain CJ677CC064, complete genome  44.9    0.29 
+  CP010467.1 Campylobacter jejuni strain CJ677CC024, complete genome  44.9    0.29 
+  CP010466.1 Campylobacter jejuni strain CJ677CC541, complete genome  44.9    0.29 
+  CP010465.1 Campylobacter jejuni strain CJ677CC008, complete genome  44.9    0.29 
+  CP010464.1 Campylobacter jejuni strain CJ677CC094, complete genome  44.9    0.29 
+  CP010463.1 Campylobacter jejuni strain CJ677CC522, complete genome  44.9    0.29 
+  CP010462.1 Campylobacter jejuni strain CJ677CC100, complete genome  44.9    0.29 
+  CP010461.1 Campylobacter jejuni strain CJ677CC013, complete genome  44.9    0.29 
+  CP010460.1 Campylobacter jejuni strain CJ677CC058, complete genome  44.9    0.29 
+  CP010459.1 Campylobacter jejuni strain CJ677CC047, complete genome  44.9    0.29 
+  CP010458.1 Campylobacter jejuni strain CJ677CC533, complete genome  44.9    0.29 
+  CP010457.1 Campylobacter jejuni strain CJ677CC539, complete genome  44.9    0.29 
+  CP010511.1 Campylobacter jejuni strain CJ677CC061, complete genome  44.9    0.29 
+  CP010510.1 Campylobacter jejuni strain CJ677CC040, complete genome  44.9    0.29 
+  CP010509.1 Campylobacter jejuni strain CJ677CC540, complete genome  44.9    0.29 
+  CP010508.1 Campylobacter jejuni strain CJ677CC523, complete genome  44.9    0.29 
+  CP010507.1 Campylobacter jejuni strain CJ677CC078, complete genome  44.9    0.29 
+  CP010506.1 Campylobacter jejuni strain CJ677CC527, complete genome  44.9    0.29 
+  CP010505.1 Campylobacter jejuni strain CJ677CC052, complete genome  44.9    0.29 
+  CP010504.1 Campylobacter jejuni strain CJ677CC085, complete genome  44.9    0.29 
+  CP010503.1 Campylobacter jejuni strain CJ677CC039, complete genome  44.9    0.29 
+  CP010502.1 Campylobacter jejuni strain CJ677CC014, complete genome  44.9    0.29 
+  CP010501.1 Campylobacter jejuni strain CJ677CC520, complete genome  44.9    0.29 
+  CP010495.1 Campylobacter jejuni strain CJ677CC538, complete genome  44.9    0.29 
+  CP010500.1 Campylobacter jejuni strain CJ677CC528, complete genome  44.9    0.29 
+  CP010498.1 Campylobacter jejuni strain CJ677CC537, complete genome  44.9    0.29 
+  CP010496.1 Campylobacter jejuni strain CJ677CC032, complete genome  44.9    0.29 
+  CP010494.1 Campylobacter jejuni strain CJ677CC059, complete genome  44.9    0.29 
+  CP010493.1 Campylobacter jejuni strain CJ677CC062, complete genome  44.9    0.29 
+  CP010492.1 Campylobacter jejuni strain CJ677CC531, complete genome  44.9    0.29 
+  CP010491.1 Campylobacter jejuni strain CJ677CC529, complete genome  44.9    0.29 
+  CP010490.1 Campylobacter jejuni strain CJ677CC532, complete genome  44.9    0.29 
+  CP010489.1 Campylobacter jejuni strain CJ677CC530, complete genome  44.9    0.29 
+  CP010488.1 Campylobacter jejuni strain CJ677CC092, complete genome  44.9    0.29 
+  CP010483.1 Campylobacter jejuni strain CJ677CC535, complete genome  44.9    0.29 
+  CP010482.1 Campylobacter jejuni strain CJ677CC041, complete genome  44.9    0.29 
+  CP010481.1 Campylobacter jejuni strain CJ677CC016, complete genome  44.9    0.29 
+  CP010480.1 Campylobacter jejuni strain CJ677CC524, complete genome  44.9    0.29 
+  CP010479.1 Campylobacter jejuni strain CJ677CC036, complete genome  44.9    0.29 
+  CP010478.1 Campylobacter jejuni strain CJ677CC010, complete genome  44.9    0.29 
+  CP010477.1 Campylobacter jejuni strain CJ677CC526, complete genome  44.9    0.29 
+  CP010476.1 Campylobacter jejuni strain CJ677CC521, complete genome  44.9    0.29 
+  CP010475.1 Campylobacter jejuni strain CJ677CC073, complete genome  44.9    0.29 
+  CP010474.1 Campylobacter jejuni strain CJ677CC536, complete genome  44.9    0.29 
+  CP010473.1 Campylobacter jejuni strain CJ677CC534, complete genome  44.9    0.29 
+  CP010472.1 Campylobacter jejuni strain CJ677CC002, complete genome  44.9    0.29 
+  CP010471.1 Campylobacter jejuni strain CJ677CC519, complete genome  44.9    0.29 
+  LN831025.1 Campylobacter jejuni genome assembly NCTC11351, chro...  44.9    0.29 
+  CP012149.1 Campylobacter jejuni strain CJM1cam, complete genome     44.9    0.29 
+  CP012696.1 Campylobacter jejuni strain RM1285, complete genome      44.9    0.29 
+  CP012690.1 Campylobacter jejuni subsp. jejuni strain RM3196, co...  44.9    0.29 
+  CP012689.1 Campylobacter jejuni subsp. jejuni strain RM3197, co...  44.9    0.29 
+  CP010906.1 Campylobacter jejuni subsp. jejuni strain 35925, com...  44.9    0.29 
+  CP010301.1 Campylobacter jejuni subsp. jejuni strain 00-0949, c...  44.9    0.29 
+  CP010072.1 Campylobacter jejuni subsp. jejuni strain 01-1512, c...  44.9    0.29 
+  CP010307.1 Campylobacter jejuni subsp. jejuni strain 00-6200, c...  44.9    0.29 
+  CP010306.1 Campylobacter jejuni subsp. jejuni strain 00-1597, c...  44.9    0.29 
+  CP006689.1 Campylobacter jejuni subsp. jejuni NCTC 11168-GSv, c...  44.9    0.29 
+  CP006688.1 Campylobacter jejuni subsp. jejuni NCTC 11168-mfK12E...  44.9    0.29 
+  CP006687.1 Campylobacter jejuni subsp. jejuni NCTC 11168-mcK12E...  44.9    0.29 
+  CP006686.1 Campylobacter jejuni subsp. jejuni NCTC 11168-Kf1, c...  44.9    0.29 
+  CP006685.1 Campylobacter jejuni subsp. jejuni NCTC 11168-K12E5,...  44.9    0.29 
+  CP010058.1 Campylobacter jejuni subsp. jejuni strain YH001, com...  44.9    0.29 
+  CP006851.1 Campylobacter jejuni subsp. jejuni F38011, complete ...  44.9    0.29 
+  CP008787.1 Campylobacter jejuni subsp. jejuni strain MTVDSCj20,...  44.9    0.29 
+  CP005081.1 Campylobacter jejuni subsp. jejuni R14, complete genome  44.9    0.29 
+  HG428754.1 Campylobacter jejuni 4031 genome sequence                44.9    0.29 
+  CP006729.2 Campylobacter jejuni subsp. jejuni 00-2425, complete...  44.9    0.29 
+  CP006708.2 Campylobacter jejuni subsp. jejuni 00-2426, complete...  44.9    0.29 
+  CP006709.2 Campylobacter jejuni subsp. jejuni 00-2544, complete...  44.9    0.29 
+  CP006707.2 Campylobacter jejuni subsp. jejuni 00-2538, complete...  44.9    0.29 
+  CP006006.1 Campylobacter jejuni 32488, complete sequence            44.9    0.29 
+  HE978252.1 Campylobacter jejuni subsp. jejuni NCTC 11168-BN148 ...  44.9    0.29 
+  CP003871.4 Campylobacter jejuni subsp. jejuni PT14, complete ge...  44.9    0.29 
+  CP001960.1 Campylobacter jejuni subsp. jejuni S3, complete genome   44.9    0.29 
+  CP002029.1 Campylobacter jejuni subsp. jejuni ICDCCJ07001, comp...  44.9    0.29 
+  CP005388.1 Campylobacter jejuni subsp. jejuni CG8421, complete ...  44.9    0.29 
+  CP001900.1 Campylobacter jejuni subsp. jejuni M1, complete genome   44.9    0.29 
+  CP001876.1 Campylobacter jejuni subsp. jejuni IA3902, complete ...  44.9    0.29 
+  CP000814.1 Campylobacter jejuni subsp. jejuni 81116, complete g...  44.9    0.29 
+  CP000025.1 Campylobacter jejuni RM1221, complete genome             44.9    0.29 
+  AL111168.1 Campylobacter jejuni subsp. jejuni NCTC 11168 comple...  44.9    0.29 
+  CP017871.1 Campylobacter coli strain BP3183, complete genome        44.9    0.29 
+  CP010499.1 Campylobacter jejuni strain CJ677CC542, complete genome  44.9    0.29 
+  CP010497.1 Campylobacter jejuni strain CJ677CC033, complete genome  44.9    0.29 
+
+
+> CP020776.1 Campylobacter jejuni strain YH002, complete genome
+Length=1774584
+
+ Score = 44.9 bits (23),  Expect = 0.29
+ Identities = 33/38 (87%), Gaps = 0/38 (0%)
+ Strand=Plus/Minus
+
+Query  234     AAATAAGATTTAAACCAAATAATATCAGAATTTGAAAT  271
+               |||||| |||||||  |||||||||||  |||||||||
+Sbjct  567361  AAATAAAATTTAAAAAAAATAATATCACTATTTGAAAT  567324
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Effective search space used: 32890294531045
+
+
+Query= BC_2821171_1_2_3_4
+
+Length=369
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Effective search space used: 32890294531045
+
+
+Query= NC_5005003_1_2_3_4
+
+Length=367
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Effective search space used: 32890294531045
+
+
+Query= BC_1364029_1_2_3_4
+
+Length=362
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  AP010935.1 Streptococcus dysgalactiae subsp. equisimilis GGS_12...  44.9    0.29 
+  CP012111.1 Acetobacter pasteurianus strain Ab3, complete genome     44.9    0.29 
+
+
+> AP010935.1 Streptococcus dysgalactiae subsp. equisimilis GGS_124 
+DNA, complete genome
+Length=2106340
+
+ Score = 44.9 bits (23),  Expect = 0.29
+ Identities = 29/32 (91%), Gaps = 0/32 (0%)
+ Strand=Plus/Minus
+
+Query  207      AATAAGTTTATCTTTTTTGTCTTTAGCTTTTA  238
+                |||||||||||||||| ||| ||| |||||||
+Sbjct  1291925  AATAAGTTTATCTTTTATGTTTTTGGCTTTTA  1291894
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Effective search space used: 32890294531045
+
+
+Query= NC_4568161_1_2_3_4
+
+Length=362
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  CP015780.1 Borrelia mayonii strain MN14-1420, complete genome       46.8    0.076
+  CP015796.1 Borrelia mayonii strain MN14-1539, complete genome       46.8    0.076
+  CP000382.1 Clostridium novyi NT, complete genome                    44.9    0.29 
+
+
+> CP015780.1 Borrelia mayonii strain MN14-1420, complete genome
+Length=904387
+
+ Score = 46.8 bits (24),  Expect = 0.076
+ Identities = 30/33 (91%), Gaps = 0/33 (0%)
+ Strand=Plus/Minus
+
+Query  98      TTAGAACTTCTTCTCTTTTCTTTTTAAATTCTA  130
+               |||||| |||||||||| | |||||||||||||
+Sbjct  366841  TTAGAAATTCTTCTCTTGTTTTTTTAAATTCTA  366809
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Effective search space used: 32890294531045
 
 
 Query= ND_5552730_1_2_3_4
@@ -401,7 +2133,7 @@ Gapped
 Lambda      K        H
     1.33    0.621     1.12 
 
-Effective search space used: 31591621957287
+Effective search space used: 32890294531045
 
 
 Query= BC_1666634_1_2_3_4
@@ -437,7 +2169,26 @@ Gapped
 Lambda      K        H
     1.33    0.621     1.12 
 
-Effective search space used: 31591621957287
+Effective search space used: 32890294531045
+
+
+Query= BC_2988902_1_2_3_4
+
+Length=347
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Effective search space used: 32890294531045
 
 
 Query= ND_2079243_1_2_3_4
@@ -456,7 +2207,7 @@ Gapped
 Lambda      K        H
     1.33    0.621     1.12 
 
-Effective search space used: 31591621957287
+Effective search space used: 32890294531045
 
 
 Query= ND_4661417_1_2_3_4
@@ -493,7 +2244,41 @@ Gapped
 Lambda      K        H
     1.33    0.621     1.12 
 
-Effective search space used: 31591621957287
+Effective search space used: 32890294531045
+
+
+Query= BC_2054354_1_2_3_4
+
+Length=314
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  CP015010.1 Rickettsia bellii isolate An04, complete genome          43.0    0.93 
+  CP000849.1 Rickettsia bellii OSU 85-389, complete genome            43.0    0.93 
+  CP000087.1 Rickettsia bellii RML369-C, complete genome              43.0    0.93 
+
+
+> CP015010.1 Rickettsia bellii isolate An04, complete genome
+Length=1543886
+
+ Score = 43.0 bits (22),  Expect = 0.93
+ Identities = 32/37 (86%), Gaps = 0/37 (0%)
+ Strand=Plus/Minus
+
+Query  26       CGTTTTCTCTGACGTTAAAGATTGTGGTAAAAAAAAA  62
+                |||||| ||| |||||||||||| | ||||| |||||
+Sbjct  1167174  CGTTTTATCTAACGTTAAAGATTCTAGTAAAGAAAAA  1167138
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Effective search space used: 32890294531045
 
 
 Query= BC_1531619_1_2_3_4
@@ -531,7 +2316,7 @@ Gapped
 Lambda      K        H
     1.33    0.621     1.12 
 
-Effective search space used: 31591621957287
+Effective search space used: 32890294531045
 
 
 Query= BC_1123747_1_2_3_4
@@ -584,7 +2369,92 @@ Gapped
 Lambda      K        H
     1.33    0.621     1.12 
 
-Effective search space used: 31591621957287
+Effective search space used: 32890294531045
+
+
+Query= BC_2259317_1_2_3_4
+
+Length=305
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Effective search space used: 32890294531045
+
+
+Query= NC_2008698_1_2_3_4
+
+Length=328
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  CP002955.1 Cyclobacterium marinum DSM 745, complete genome          44.9    0.26 
+  CP020414.1 Leptospira interrogans serovar Copenhageni strain FD...  43.0    0.98 
+  CP012603.1 Leptospira interrogans serovar Hardjo str. Norma chr...  43.0    0.98 
+  CP011410.1 Leptospira interrogans serovar Bratislava strain Pig...  43.0    0.98 
+  CP006723.1 Leptospira interrogans serovar Linhai str. 56609 chr...  43.0    0.98 
+  CP009692.1 Bacillus mycoides strain ATCC 6462, complete genome      43.0    0.98 
+  CP009746.1 Bacillus weihenstephanensis strain WSBC 10204, compl...  43.0    0.98 
+  CP003261.1 Clostridium pasteurianum BC1, complete genome            43.0    0.98 
+  AE016823.1 Leptospira interrogans serovar Copenhageni str. Fioc...  43.0    0.98 
+  CP020743.1 Bacillus mycoides strain Gnyt1, complete genome          43.0    0.98 
+  CP011934.1 Leptospira interrogans serovar Manilae strain UP-MMC...  43.0    0.98 
+  CP011931.1 Leptospira interrogans serovar Manilae strain UP-MMC...  43.0    0.98 
+  CP001221.1 Leptospira interrogans serovar Lai str. IPAV chromos...  43.0    0.98 
+  CP000469.1 Shewanella sp. ANA-3 chromosome 1, complete sequence     43.0    0.98 
+  AE010300.2 Leptospira interrogans serovar Lai str. 56601 chromo...  43.0    0.98 
+  CP000903.1 Bacillus weihenstephanensis KBAB4, complete genome       43.0    0.98 
+
+
+> CP002955.1 Cyclobacterium marinum DSM 745, complete genome
+Length=6221273
+
+ Score = 44.9 bits (23),  Expect = 0.26
+ Identities = 23/23 (100%), Gaps = 0/23 (0%)
+ Strand=Plus/Plus
+
+Query  212      AACTGCTTATCAAAATGCCGTTT  234
+                |||||||||||||||||||||||
+Sbjct  5113911  AACTGCTTATCAAAATGCCGTTT  5113933
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Effective search space used: 32890294531045
+
+
+Query= BC_1101559_1_2_3_4
+
+Length=286
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Effective search space used: 32890294531045
 
 
   Database: all_complete_Gb_bac.fasta

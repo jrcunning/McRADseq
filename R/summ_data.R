@@ -1,11 +1,11 @@
 require(Biostrings)
 
 # Load filtered SNP data
-load("output/BC_NC_snpstats.RData")
+load("output/BC_NC_snpstats_real.RData")
 ## Get total number of SNPs in each contig
-snpstats$nsnp <- sapply(snpstats$pos, length)
+realsnps$nsnp <- sapply(realsnps$pos, length)
 ## Get the mean minimum coverage of all SNPs in each contig
-snpstats$meancov <- sapply(snpstats$cov, mean)
+realsnps$meancov <- sapply(realsnps$cov, mean)
 
 
 # Set column names for tabular blast outputs
@@ -20,7 +20,7 @@ if (nt.blastout$size!=0) {
   nt.annot <- read.table("output/BC_NC_contigs2nt_blastout_tabular.txt")
   colnames(nt.annot) <- blastcolnames("contig", "nt")
   nt.annot.f <- nt.annot[!duplicated(nt.annot$contig), ]
-  annot <- plyr::join(snpstats, nt.annot.f)
+  annot <- plyr::join(realsnps, nt.annot.f)
 }
 
 

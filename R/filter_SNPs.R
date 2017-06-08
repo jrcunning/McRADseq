@@ -46,8 +46,6 @@ cov <- aggregate(data.frame(cov=BCNC.f$cov), by=list(contig=BCNC.f$contig), FUN=
 snpstats <- merge(pos, cov)
 snpstats <- snpstats[order(snpstats$contig), ]
 
-# Write SNP stats to table and RData file
-x <- as.matrix(format(snpstats))
-write.table(x, file="output/BC_NC_snpstats.txt", sep="\t", row.names=F, quote=F)
+# Write SNP stats to RData file
 save(snpstats, file="output/BC_NC_snpstats.RData")
 
