@@ -71,6 +71,21 @@ output/BC_NC_contigs2vir_blastout_tabular.txt: output/BC_NC_contigs.fasta
 	blast_formatter -archive output/BC_NC_contigs2vir_blastout_archive.txt \
 	-outfmt 0 -num_alignments 1 -out output/BC_NC_contigs2vir_blastout_pairwise.txt
 
-output/BC_NC_contigs.fasta: R/filter_SNPs.R
+# Get contigs with real SNPs in fasta format
+output/BC_NC_contigs.fasta: output/BC_NC_real_snpstats.tsv
+	filter_fasta.py -f data/contigs/ALL.final.contigs.txt \
+	-s output/BC_NC_real_snpstats.tsv -o output/BC_NC_contigs.fasta
+
+# Filter filtered SNPs by visual assessment of SNP sites
+output/BC_NC_real_snpstats.tsv: output/BC_NC_snpstats.txt
+	R --vanilla < R/vis_filter.R
+
+# Filter SNPs for fixed diffs with min. coverage 5 in BC and NC and 92% column conservation
+output/BC_NC_snpstats.txt: R/filter_SNPs.R
 	R --vanilla < R/filter_SNPS.R
+
+# Get names of contigs that have 92% column conservation
+data/contigs/contigs92.txt: data/contigs/stats.tsv
+	awk '$$3 > 0.92' data/contigs/stats.tsv | cut -f1 | \
+	sed 's/\(samFiles\/\)\(.*\)\(.sam$$\)/\2/' > data/contigs/contigs92.txt
 
