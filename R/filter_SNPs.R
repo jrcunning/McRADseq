@@ -27,13 +27,13 @@ getFixedSNPs <- function(groups, mincov) {
 BCNC <- getFixedSNPs(groups=c("NC", "BC"), mincov=5)
 
 # Filter to only include SNPs from contigs with > 92% column conservation
-## was the column conservation metric assessed for all of these unfiltered SNPs?
-CSR92 <- readDNAStringSet("data/contigs/filtered_CSR_.92.fasta")
-BCNC.f <- BCNC[BCNC$contig %in% names(CSR92), ]
+## contigs92.txt is a list of the names of all contigs with > 92% conservation (see Makefile)
+contigs92 <- read.table("data/contigs/contigs92.txt", header=F)
+BCNC.f <- BCNC[BCNC$contig %in% contigs92$V1, ]
 
-# Filter based on visual assessment -- real SNPs vs. possible alignment errors...
-real <- read.csv("data/BC_NC_SNPS_visual_assessment.csv")
-BCNC.f <- BCNC.f[BCNC.f$contig %in% real[real$visual_assess=="real", "contig"], ]
+### Extract .sam files for visual assessment
+write(paste0("samFiles/", unique(BCNC.f$contig), ".sam"), file = "data/contigs/contigs_cov5_csr92.txt")
+system('cd data/contigs && gunzip < samFiles.tar.gz | tar -x -v --files-from contigs_cov5_csr92.txt -f -')
 
 # Summarize SNP information and write to file
 ## Get position of each SNP in each contig
@@ -51,6 +51,3 @@ x <- as.matrix(format(snpstats))
 write.table(x, file="output/BC_NC_snpstats.txt", sep="\t", row.names=F, quote=F)
 save(snpstats, file="output/BC_NC_snpstats.RData")
 
-# Write sequences of contigs containing filtered SNPs to file
-contigs.f <- subset(CSR92, names(CSR92) %in% BCNC.f$contig)
-writeXStringSet(contigs.f, "output/BC_NC_contigs.fasta")
